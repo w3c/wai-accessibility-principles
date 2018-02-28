@@ -32,6 +32,8 @@ exhaustive listing of all accessibility requirements.
 {:/}
 
 
+{% include excol.html type="all" %}
+
 Web accessibility standards {#standards}
 -----------------------------------------
 
@@ -50,8 +52,12 @@ of these include:
     conversion tools, content management systems, blogs, database
     scripts, and other tools.
 
+{% include excol.html type="start" %}
+
 ### More about web accessibility standards
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 These components inter-relate and support each other. For instance,
 **web content** needs to include text alternatives for images. This
@@ -87,6 +93,7 @@ Applications (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, which
 include dynamic content and advanced user interface controls developed
 with Ajax, JavaScript, and related web technologies.
 
+{% include excol.html type="end" %}
 
 Perceivable information and user interface {#perceivable}
 ----------------------------------------------------------
@@ -119,8 +126,12 @@ voice recognition (speech input). They also act as labels to identify
 audio, video, and files in other formats, as well as applications that
 are embedded as part of a website.
 
+{% include excol.html type="start" %}
+
 #### Accessibility requirements related to text alternatives (links to technical specification)
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -149,21 +160,23 @@ are embedded as part of a website.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
-#### Stories related to text alternatives {#stories-related-to-text-alternatives}
-{:.no_toc}
+{% include excol.html type="end" %}
 
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Ms. Martinez, Online student who is hard of
-    hearing](stories#onlinestudent)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+{% include excol.html type="start" %}
 
+#### Stories related to text alternatives
+{:#stories-related-to-text-alternatives.no_toc}
 
+{% include excol.html type="middle" %}
+
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#onlinestudent)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
+
+{% include excol.html type="end" %}
 
 ### Captions and other alternatives for multimedia {#captions}
 
@@ -181,8 +194,12 @@ Well-written text transcripts containing the correct sequence of any
 auditory or visual information provide a basic level of accessibility
 and facilitate the production of captions and audio descriptions.
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to multimedia (links to technical specification)
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -208,17 +225,19 @@ and facilitate the production of captions and audio descriptions.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
-
+{% include excol.html type="end" %}
+{% include excol.html type="start" id="" %}
 
 #### Stories related to multimedia {#stories-related-to-multimedia}
 {:.no_toc}
 
--   [Ms. Martinez, Online student who is hard of
-    hearing](stories#onlinestudent)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+{% include excol.html type="middle" %}
 
+-   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#onlinestudent)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
 
+{% include excol.html type="end" %}
 
 ### Content can be presented in different ways {#adaptable}
 
@@ -240,9 +259,12 @@ requirement also facilitates other forms of adaptation, including
 automatic generation of page outlines and summaries to help people get
 an overview and to focus on particular parts more easily.
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to adaptability (links to technical specification)
 {:.no_toc}
 
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -278,24 +300,22 @@ an overview and to focus on particular parts more easily.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
-
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 #### Stories related to adaptability
 {:.no_toc}
 
--   [Mr. Lee, Online shopper with color blindness](stories#shopper)
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+{% include excol.html type="middle" %}
 
+-   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#shopper)
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
 
+{% include excol.html type="end" %}
 
 ### Content is easier to see and hear {#distinguishable}
 
@@ -327,8 +347,12 @@ played could interfere with text-to-speech or with [assistive listening
 devices
 (ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition").
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to distinguishability (links to technical specification)
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -365,19 +389,20 @@ devices
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
-
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 #### Stories related to distinguishability
 {:.no_toc}
 
--   [Mr. Lee, Online shopper with color blindness](stories#shopper)
--   [Ms. Martinez, Online student who is hard of
-    hearing](stories#onlinestudent)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+{% include excol.html type="middle" %}
 
+-   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#shopper)
+-   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#onlinestudent)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
+
+{% include excol.html type="end" %}
 
 Operable user interface and navigation {#operable}
 ---------------------------------------------------
@@ -402,8 +427,12 @@ on-screen keyboards, or switch devices. It also helps people using voice
 recognition (speech input) to operate websites and to dictate text
 through the keyboard interface.
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to keyboard accessibility (links to technical specification)
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -432,16 +461,17 @@ through the keyboard interface.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
-
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 #### Stories related to keyboard accessibility
 {:.no_toc}
 
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
+{% include excol.html type="middle" %}
 
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
 
+{% include excol.html type="end" %}
 
 ### Users have enough time to read and use the content {#time}
 
@@ -457,10 +487,12 @@ Examples of providing enough time include providing mechanisms to:
 -   Postpone or suppress interruptions, except where necessary;
 -   Re-authenticate when a session expires without losing data.
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to sufficient time (links to technical specification)
 {:.no_toc}
 
-
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -484,22 +516,20 @@ Examples of providing enough time include providing mechanisms to:
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
-
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 #### Stories related to sufficient time
 {:.no_toc}
 
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+{% include excol.html type="middle" %}
 
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
 
+{% include excol.html type="end" %}
 
 ### Content does not cause seizures {#safe}
 
@@ -508,8 +538,12 @@ photosensitive reactions, including seizures. Flashing content is
 ideally avoided entirely or only used in a way that does not cause known
 risks.
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to seizures (links to technical specification)
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -532,7 +566,7 @@ risks.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
-
+{% include excol.html type="end" %}
 
 ### Users can easily navigate, find content, and determine where they are {#navigable}
 
@@ -561,8 +595,12 @@ while others may be hearing it or seeing and hearing it at the same
 time. Some people may be using the content with only a mouse or a
 keyboard, while others may be using both.
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to navigation (links to technical specification)
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -598,22 +636,21 @@ keyboard, while others may be using both.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
-
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 #### Stories related to navigation
 {:.no_toc}
 
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+{% include excol.html type="middle" %}
 
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
+
+{% include excol.html type="end" %}
 
 Understandable information and user interface {#understandable}
 ----------------------------------------------------------------
@@ -641,8 +678,12 @@ helps people who have difficulty understanding more complex sentences,
 phrases, and vocabulary. In particular, it helps people with different
 types of cognitive disabilities.
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to readability (links to technical specification)
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -660,20 +701,20 @@ types of cognitive disabilities.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+
 #### Stories related to readability
 {:.no_toc}
 
--   [Ms. Martinez, Online student who is hard of
-    hearing](stories#onlinestudent)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
+{% include excol.html type="middle" %}
 
+-   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#onlinestudent)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
 
+{% include excol.html type="end" %}
 
 ### Content appears and operates in predictable ways {#predictable}
 
@@ -696,8 +737,12 @@ use to enhance keyboard navigation. Others memorize the steps to reach
 certain pages or to complete processes on a website. Both rely on
 predictable and consistent functionality.
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to predictability (links to technical specification)
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -723,22 +768,21 @@ predictable and consistent functionality.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+
 #### Stories related to predictability
 {:.no_toc}
 
+{% include excol.html type="middle" %}
 
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
 
-
+{% include excol.html type="end" %}
 
 ### Users are helped to avoid and correct mistakes {#tolerant}
 
@@ -758,8 +802,12 @@ other cues. It also helps people who do not understand the
 functionality, are disoriented or confused, forget, or make mistakes
 using forms and interaction for any other reason.
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to input assistance (links to technical specification)
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -785,21 +833,20 @@ using forms and interaction for any other reason.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
-
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 #### Stories related to input assistance
 {:.no_toc}
 
--   [Mr. Lee, Online shopper with color blindness](stories#shopper)
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
+{% include excol.html type="middle" %}
 
+-   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#shopper)
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
+
+{% include excol.html type="end" %}
 
 Robust content and reliable interpretation {#robust}
 -----------------------------------------------------
@@ -821,8 +868,12 @@ enables assistive technologies to process the content reliably, and to
 present or to operate it in different ways. This includes non-standard
 (scripted) buttons, input fields, and other controls.
 
+{% include excol.html type="start" id="" %}
+
 #### Accessibility requirements related to compatibility (links to technical specification)
 {:.no_toc}
+
+{% include excol.html type="middle" %}
 
 **WCAG 2.0**
 
@@ -846,17 +897,20 @@ present or to operate it in different ways. This includes non-standard
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
-
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 #### Stories related to compatibility
 {:.no_toc}
 
--   [Mr. Lee, Online shopper with color blindness](stories#shopper)
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+{% include excol.html type="middle" %}
+
+-   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#shopper)
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
