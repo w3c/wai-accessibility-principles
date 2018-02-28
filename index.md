@@ -1,8 +1,9 @@
 ---
 title: Accessibility Principles
 permalink: /fundamentals/accessibility-principles/
-redirect_from: /
 layout: default
+footer: >
+  <p><strong>Status:</strong> Updated 15 May 2017. <br><strong>Editor:</strong> Shadi Abou-Zahra. Previous editor: Judy Brewer. <a href="acknowledgments">Acknowledgments</a>. Previously developed with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>, with contribution from the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a> of the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 ## Introduction
