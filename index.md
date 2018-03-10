@@ -74,7 +74,7 @@ the Web helps implement them more effectively and efficiently. Some
 aspects of accessibility require more technical skills or advanced
 knowledge of how people use the Web. In all cases, [involving users
 early and throughout your web
-projects](https://www.w3.org/WAI/eval/users) will make your work
+projects]({{ "/test-evaluate/involving-users/" | relative_url }}) will make your work
 better and easier.
 
 The W3C Web Accessibility Initiative (WAI) provides a set of guidelines
