@@ -65,7 +65,7 @@ information needs to be processed by **web browsers** and then conveyed
 to **assistive technologies**, such as screen readers. To create such
 text alternatives, authors need **authoring tools** that support them to
 do so. More background is provided in [Essential Components of Web
-Accessibility](http://www.w3.org/WAI/intro/components.php).
+Accessibility]({{ "/fundamentals/components/" | relative_url }}).
 
 Standards play a vital role in defining accessibility requirements for
 each of these components. Some accessibility requirements are easy to
@@ -82,11 +82,11 @@ that are internationally recognized as the standard for web
 accessibility. These include:
 
 -   **[Web Content Accessibility Guidelines
-    (WCAG)](https://www.w3.org/WAI/intro/wcag)**
+    (WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }})**
 -   **[User Agent Accessibility Guidelines
-    (UAAG)](https://www.w3.org/WAI/intro/uaag)**
+    (UAAG)]({{ "/standards-guidelines/uaag/" | relative_url }})**
 -   **[Authoring Tool Accessibility Guidelines
-    (ATAG)](https://www.w3.org/WAI/intro/atag)**
+    (ATAG)]({{ "/standards-guidelines/atag/" | relative_url }})**
 
 There is also a WAI specification for **[Accessible Rich Internet
 Applications (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, which
