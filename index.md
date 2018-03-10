@@ -13,7 +13,7 @@ This page introduces some of the web accessibility requirements for
 websites, web applications, browsers, and other tools. It provides
 references to the international standards from W3C Web Accessibility
 Initiative (WAI), which include considerations for the broad [diversity
-of web users](https://www.w3.org/WAI/intro/people-use-web/diversity) and [ways people use the Web](https://www.w3.org/WAI/intro/people-use-web/browsing).
+of web users]({{ "/people-use-web/abilities-barriers/" | relative_url }}) and [ways people use the Web]({{ "/people-use-web/tools-techniques/" | relative_url }}).
 
 **Note:** This page is illustrative and is not intended to be an
 exhaustive listing of all accessibility requirements.
@@ -46,7 +46,7 @@ of these include:
 -   **User agents**{:#useragents} - software that people use to access
     web content, including desktop graphical browsers, voice browsers,
     mobile phone browsers, multimedia players, plug-ins, and some
-    [assistive technologies](https://www.w3.org/WAI/intro/people-use-web/browsing#at "definition").
+    [assistive technologies]({{ "/people-use-web/tools-techniques/" | relative_url }}#at "definition").
 -   **Authoring tools**{:#authoringtools} - software or services that
     people use to produce web content, including code editors, document
     conversion tools, content management systems, blogs, database
