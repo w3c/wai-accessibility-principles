@@ -8,17 +8,19 @@ footer: >
   <p><strong>Status:</strong> Updated 15 May 2017. <br><strong>Editor:</strong> Shadi Abou-Zahra. Previous editor: Judy Brewer. <a href="acknowledgments">Acknowledgments</a>. Previously developed with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>, with contribution from the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a> of the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
-## Introduction
-{:.no-display.no_toc}
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
-This page introduces some of the web accessibility requirements for
-websites, web applications, browsers, and other tools. It provides
-references to the international standards from W3C Web Accessibility
-Initiative (WAI), which include considerations for the broad [diversity
-of web users]({{ "/people-use-web/abilities-barriers/" | relative_url }}) and [ways people use the Web]({{ "/people-use-web/tools-techniques/" | relative_url }}).
+This page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides
+references to the international standards from W3C Web Accessibility Initiative (WAI) and to [stories of web users]({{ "/people-use-web/user-stories/" | relative_url }}).
 
-**Note:** This page is illustrative and is not intended to be an
-exhaustive listing of all accessibility requirements.
+**Note:** This is not a complete list of all accessibility requirements.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 {::options toc_levels="2,3" /}
 
