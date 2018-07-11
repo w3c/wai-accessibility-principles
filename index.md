@@ -140,10 +140,10 @@ are embedded as part of a website.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 1.1 - Text
-    Alternatives](http://www.w3.org/WAI/WCAG20/quickref/#text-equiv)
+    Alternatives](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
 
 **UAAG 2.0**
 
@@ -208,10 +208,10 @@ and facilitate the production of captions and audio descriptions.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 1.2 - Time-based
-    Media](http://www.w3.org/WAI/WCAG20/quickref/#media-equiv)
+    Media](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
 
 **UAAG 2.0**
 
@@ -251,7 +251,7 @@ and facilitate the production of captions and audio descriptions.
 For users to be able to change the presentation of content, it is
 necessary that:
 
--   Headings, lists, tables and other structures in the content are
+-   Headings, lists, tables, input fields, and content structures are
     marked-up properly;
 -   Sequences of information or instructions are independent of any
     presentation;
@@ -273,10 +273,10 @@ an overview and to focus on particular parts more easily.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 1.3 -
-    Adaptable](http://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation)
+    Adaptable](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
 
 **UAAG 2.0**
 
@@ -335,6 +335,7 @@ includes:
     sufficient contrast;
 -   Text is resizable up to 200% without losing information, using a
     standard browser;
+-   Text spacing can be adjusted without losing information, and reflows on small screens;
 -   Images of text are resizable, replaced with actual text, or avoided
     where possible;
 -   Users can pause, stop, or adjust the volume of audio that is played
@@ -361,10 +362,10 @@ devices
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 1.4 -
-    Distinguishable](http://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast)
+    Distinguishable](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
 
 **UAAG 2.0**
 
@@ -441,10 +442,10 @@ through the keyboard interface.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 2.1 - Keyboard
-    accessible](http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation)
+    accessible](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
 
 **UAAG 2.0**
 
@@ -501,10 +502,10 @@ Examples of providing enough time include providing mechanisms to:
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 2.2 - Enough
-    time](http://www.w3.org/WAI/WCAG20/quickref/#time-limits)
+    time](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
 
 **UAAG 2.0**
 
@@ -538,12 +539,18 @@ Examples of providing enough time include providing mechanisms to:
 
 {% include excol.html type="end" %}
 
-### Content does not cause seizures {#safe}
+### Content does not cause seizures and physical reactions {#safe}
 
 Content that flashes at certain rates or patterns can cause
 photosensitive reactions, including seizures. Flashing content is
 ideally avoided entirely or only used in a way that does not cause known
-risks.
+risks. Also animations and moving content can cause discomfort and physical reactions.
+
+Examples of avoiding causing seizures and physical reactions:
+
+-   Do not include content that flashes at particular rates and patterns;
+-   Warn users before flashing content is presented, and provide alternatives;
+-   Provide mechanisms to switch off animations, unless they are essential.
 
 {% include excol.html type="start" id="" %}
 
@@ -552,10 +559,10 @@ risks.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 2.3 -
-    Seizures](http://www.w3.org/WAI/WCAG20/quickref/#seizure)
+    Seizures](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
 
 **UAAG 2.0**
 
@@ -609,10 +616,10 @@ keyboard, while others may be using both.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 2.4 -
-    Navigable](http://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms)
+    Navigable](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
 
 **UAAG 2.0**
 
@@ -659,6 +666,42 @@ keyboard, while others may be using both.
 
 {% include excol.html type="end" %}
 
+### Users can use different input modalities beyond keyboard {#modalities}
+
+Input modalities beyond keyboard, such as touch activation, voice recognition (speech input), and gestures make content easier to use for many people. Yet not everyone can use each of these input modalities, and to the same degree. Particular design considerations maximize the benefit of these input modalities. This includes:
+
+-   Gestures that require dexterity or fine movement have alternatives that do not require high dexterity;
+-   Components are designed to avoid accidental activation, for example by providing undo functionality;
+-   Lables presented to users match corresponding object names in the code, to support activation by voice;
+-   Functionality that is activated by movement can also be activated through user interface components;
+-   Buttons, links, and other active components are large enough to make them easier to activate by touch.
+
+Meeting this requirement makes the content easier to use for many people with a wide range of abilities using a wide range of devices. This includes content used on mobile phones, tablet computers, and self-service terminals such as ticketing machines.
+
+{% include excol.html type="start" id="" %}
+
+#### Accessibility requirements related to input modalities (links to technical specification)
+{:.no_toc}
+
+{% include excol.html type="middle" %}
+
+**WCAG 2.1**
+
+-   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+
+#### Stories related to input modalities
+{:.no_toc}
+
+{% include excol.html type="middle" %}
+
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+
+{% include excol.html type="end" %}
+
 Understandable information and user interface {#understandable}
 ----------------------------------------------------------------
 
@@ -692,10 +735,10 @@ types of cognitive disabilities.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 3.1 -
-    Readable](http://www.w3.org/WAI/WCAG20/quickref/#meaning)
+    Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable)
 
 **ATAG 2.0**
 
@@ -751,10 +794,10 @@ predictable and consistent functionality.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 3.2 -
-    Predictable](http://www.w3.org/WAI/WCAG20/quickref/#consistent-behavior)
+    Predictable](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
 
 **UAAG 2.0**
 
@@ -816,10 +859,10 @@ using forms and interaction for any other reason.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 3.3 - Input
-    assistance](http://www.w3.org/WAI/WCAG20/quickref/#minimize-error)
+    assistance](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
 
 **UAAG 2.0**
 
@@ -882,10 +925,10 @@ present or to operate it in different ways. This includes non-standard
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG 2.0/2.1**
 
 -   [Guideline 4.1 -
-    Compatible](http://www.w3.org/WAI/WCAG20/quickref/#ensure-compat)
+    Compatible](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
 
 **UAAG 2.0**
 
