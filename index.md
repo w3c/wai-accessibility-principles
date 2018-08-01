@@ -4,6 +4,8 @@ permalink: /fundamentals/accessibility-principles/
 github:
   repository: w3c/wai-accessibility-principles
 layout: default
+description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.
+image: /content-images/wai-accessibility-principles/social.png
 footer: >
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
