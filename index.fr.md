@@ -415,26 +415,25 @@ L’accessibilité au clavier comprend :
 
 {% include excol.html type="end" %}
 
-### Users have enough time to read and use the content {#time}
+### Donner assez de temps aux utilisateurs pour lire et utiliser le contenu {#time}
 
-Some people need more time than others to read and use the content. For
-instance, some people require more time to type text, understand
-instructions, operate controls, or to otherwise complete tasks on a
-website.
+Certaines personnes ont besoin de plus de temps que d’autres pour lire et utiliser le contenu. Par exemple certaines personnes ont besoin de plus de temps pour saisir du texte, pour comprendre des instructions, pour manipuler des contrôles, ou d’une façon générale pour mener à bien des tâches complexes sur un site web.
 
-Examples of providing enough time include providing mechanisms to:
+Là où il faut fournir assez de temps, cela implique de fournir des mécanismes pour :
 
--   Stop, extend, or adjust time limits, except where necessary;
--   Pause, stop, or hide moving, blinking, or scrolling content;
--   Postpone or suppress interruptions, except where necessary;
--   Re-authenticate when a session expires without losing data.
+- Arrêter, étendre ou ajuster des limites de temps, sauf quand elles sont nécessaire ;
+- Pauser, arrêter ou cacher des contenus mouvants, clignotants ou déroulants ;
+- Repousser ou supprimer les interruptions, sauf quand elles sont nécessaires ;
+- Se ré-authentifier quand une session expire sans perdre de données.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to sufficient time (links to technical specification)
+#### Exigences d’accessibilité liées au temps (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -458,18 +457,20 @@ Examples of providing enough time include providing mechanisms to:
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+</div>
+
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to sufficient time
+#### Histoires d’utilisateurs liées aux questions de temps
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   [Alex, journaliste avec un trouble musculosquelettique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#reporter)
+-   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#classroomstudent)
+-   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme]({{ "/people-use-web/user-stories.fr/" | relative_url }}#retiree)
+-   [Luis, assistant en supermarché, atteint du syndrome de Down]({{ "/people-use-web/user-stories.fr/" | relative_url }}#supermarketassistant)
+-   [Kaseem, adolescente qui est sourde et aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#teenager)
 
 {% include excol.html type="end" %}
 
