@@ -363,11 +363,7 @@ L’accessibilité au clavier comprend :
 - Le focus clavier ne doit pas être piégé dans une partie du contenu ;
 - Les navigateurs, les outils de production de contenu et autres outils doivent être utilisables au clavier.
 
-Meeting this requirement helps keyboard users, including people using
-alternative keyboards such as keyboards with ergonomic layouts,
-on-screen keyboards, or switch devices. It also helps people using voice
-recognition (speech input) to operate websites and to dictate text
-through the keyboard interface.
+Être conforme à cette exigence aide les personnes qui n’utilisent que le clavier, y compris celles utilisant un clavier alternatif, un clavier ergonomique, un clavier virtuel à l’écran, ou un contacteur. Cela aide aussi les personnes utilisant des logiciels de reconnaissance vocale pour interagir avec les sites web et pour dicter du texte à travers l’interface du clavier.
 
 {% include excol.html type="start" %}
 
