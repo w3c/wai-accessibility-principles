@@ -145,28 +145,24 @@ Les alternatives textuelles peuvent être présentées sous des formes variées.
 
 {% include excol.html type="end" %}
 
-### Captions and other alternatives for multimedia {#captions}
+### Sous-titres et autres alternatives pour le multimédia {#captions}
 
-People who cannot hear audio or see video need alternatives. Examples
-include:
+Une personne qui ne peut pas entendre le son ou voir la vidéo a besoin d’alternatives, par exemple :
 
--   Text transcripts and captions for audio content, such as recordings
-    of a radio interview;
--   Audio descriptions, which are narrations to describe important
-    visual details in a video;
--   Sign language interpretation of audio content, including relevant
-    auditory experiences.
+- Des retranscriptions sous forme textuelle, des sous-titres pour les contenus audio, tels que les enregistrements ou une interview radio ;
+- Des audio-descriptions, qui sont une narration qui décrit les détails visuels importants d’une vidéo ;
+- Des traductions en langue des signes du contenu audio, y compris l’expérience audio pertinente.
 
-Well-written text transcripts containing the correct sequence of any
-auditory or visual information provide a basic level of accessibility
-and facilitate the production of captions and audio descriptions.
+Des retranscriptions texte bien écrites contenant la séquence correct de toutes les informations auditives et visuelles fournissent un niveau d’accessibilité de base et facilitent la production de sous-titres et d’audio-descriptions.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to multimedia (links to technical specification)
+#### Exigences d’accessibilité liées au multimédia (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -192,17 +188,19 @@ and facilitate the production of captions and audio descriptions.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+
+</div>
 {% include excol.html type="end" %}
 {% include excol.html type="start" %}
 
-#### Stories related to multimedia {#stories-related-to-multimedia}
+#### Histoires d’utilisateurs liées au multimédia {#stories-related-to-multimedia}
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   [Martine, étudiante en ligne, malentendante]({{ "/people-use-web/user-stories.fr/" | relative_url }}#onlinestudent)
+-   [Ilya, cadre supérieure, aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#accountant)
+-   [Kaseem, adolescente qui est sourde et aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#teenager)
 
 {% include excol.html type="end" %}
 
