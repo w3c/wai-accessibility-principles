@@ -204,32 +204,24 @@ Des retranscriptions texte bien écrites contenant la séquence correct de toute
 
 {% include excol.html type="end" %}
 
-### Content can be presented in different ways {#adaptable}
+### Du contenu qui peut être présenté de différentes façons {#adaptable}
 
-For users to be able to change the presentation of content, it is
-necessary that:
+Pour que les utilisateurs puissent changer la présentatino des contenus, il est nécessaire que :
 
--   Headings, lists, tables and other structures in the content are
-    marked-up properly;
--   Sequences of information or instructions are independent of any
-    presentation;
--   Browsers and assistive technologies provide settings to customize
-    the presentation.
+- Les titres, les listes, les tableaux, et autres structures de contenu soient convenablement balisés ;
+- Les séquences d’informations ou d’instructions soient indépendantes de toute présentation ;
+- Les navigateurs et les technologies d’assistance fournissent des réglages permettant de personnaliser la présentation.
 
-Meeting this requirement allows content to be correctly read aloud,
-enlarged, or adapted to meet the needs and preferences of different
-people. For instance, it can be presented using custom color
-combinations, text size, or other styling to facilitate reading. This
-requirement also facilitates other forms of adaptation, including
-automatic generation of page outlines and summaries to help people get
-an overview and to focus on particular parts more easily.
+Être conforme à cette exigence permet que le contenu soit correctement lu par une synthèse vocale, agrandi, ou adapté pour satisfaire aux besoins et aux préférences de différentes personnes. Par exemple, il peut être présenté dans une combinaison de couleurs personnalisée, dans une taille de police différente, ou selon des règles de style permettant d’en faciliter la lecture. Cette exigence facilite aussi d’autres formes d’adaptation, comme la génération automatique de plans de page ou de résumés pour permettre d’avoir une vue d’ensemble de la page et de se concentrer sur un endroit en particulier plus facilement.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to adaptability (links to technical specification)
+#### Exigences d’accessibilité liées à l’adaptabilité (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -265,20 +257,22 @@ an overview and to focus on particular parts more easily.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+</div>
+
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to adaptability
+#### Histoires d’utilisateurs liées à l’adaptabilité
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   [Lee, client de site Web marchand, daltonien]({{ "/people-use-web/user-stories.fr/" | relative_url }}#shopper)
+-   [Alex, journaliste avec un trouble musculosquelettique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#reporter)
+-   [Ilya, cadre supérieure, aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#accountant)
+-   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#classroomstudent)
+-   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme]({{ "/people-use-web/user-stories.fr/" | relative_url }}#retiree)
+-   [Luis, assistant en supermarché, atteint du syndrome de Down]({{ "/people-use-web/user-stories.fr/" | relative_url }}#supermarketassistant)
+-   [Kaseem, adolescente qui est sourde et aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#teenager)
 
 {% include excol.html type="end" %}
 
