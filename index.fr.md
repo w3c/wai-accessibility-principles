@@ -350,22 +350,18 @@ Un contenu perceptible est plus facile à lire et à voir. Par exemple :
 
 {% include excol.html type="end" %}
 
-Operable user interface and navigation {#operable}
+Interface utilisateur et navigation opérables {#operable}
 ---------------------------------------------------
 
-### Functionality is available from a keyboard {#keyboard}
+### Des fonctionnalités disponibles au clavier {#keyboard}
 
-Many people do not use the mouse and rely on the keyboard to interact
-with the Web. This requires keyboard access to all functionality,
-including form controls, input, and other user interface components.
+De nombreuses personnes n’utilisent pas de souris et s’appuient sur le clavier pour interagir avec le Web. Cela demande que toutes les fonctionnalités soient utilisables au clavier, y compris les éléments de formulaires, de saisie et autres composants de l’interface utilisateur.
 
-Keyboard accessibility includes:
+L’accessibilité au clavier comprend :
 
--   All functionality that is available by mouse is also available by
-    keyboard;
--   Keyboard focus does not get trapped in any part of the content;
--   Web browsers, authoring tools, and other tools provide keyboard
-    support.
+- Toute fonctionnalité disponible à la souris doit aussi être disponible au clavier ;
+- Le focus clavier ne doit pas être piégé dans une partie du contenu ;
+- Les navigateurs, les outils de production de contenu et autres outils doivent être utilisables au clavier.
 
 Meeting this requirement helps keyboard users, including people using
 alternative keyboards such as keyboards with ergonomic layouts,
@@ -375,10 +371,12 @@ through the keyboard interface.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to keyboard accessibility (links to technical specification)
+#### Exigences d’accessibilité liées à l’accessibilité au clavier (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -407,15 +405,17 @@ through the keyboard interface.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+</div>
+
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to keyboard accessibility
+#### Histoires d’utilisateurs liées à l’accessibilité au clavier
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
+-   [Alex, journaliste avec un trouble musculosquelettique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#reporter)
+-   [Ilya, cadre supérieure, aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#accountant)
 
 {% include excol.html type="end" %}
 
