@@ -276,42 +276,27 @@ Pour que les utilisateurs puissent changer la présentatino des contenus, il est
 
 {% include excol.html type="end" %}
 
-### Content is easier to see and hear {#distinguishable}
+### Du contenu plus facile à voir et à entendre {#distinguishable}
 
-Distinguishable content is easier to see and hear. Such content
-includes:
+Un contenu perceptible est plus facile à lire et à voir. Par exemple :
 
--   Color is not used as the only way of conveying information or
-    identifying content;
--   Default foreground and background color combinations provide
-    sufficient contrast;
--   Text is resizable up to 200% without losing information, using a
-    standard browser;
--   Images of text are resizable, replaced with actual text, or avoided
-    where possible;
--   Users can pause, stop, or adjust the volume of audio that is played
-    on a website;
--   Background audio is low or can be turned off, to avoid interference
-    or distraction.
+- La couleur n’est pas le seul moyen de véhiculer de l’information ou d’identifier du contenu ;
+- Les couleurs de premier plan et de fond par défaut fournissent un contraste suffisant ;
+- Le texte peut être redimensionné jusqu’à 200 % sans perte d’information, dans un navigateur standard ;
+- Les images contenant du texte sont redimensionnables, remplacées par du véritable texte, ou évitées quand c’est possible ;
+- Les utilisateurs peuvent pauser, arrêter, ou ajuster le volume du son joué sur un site web ;
+- Les sons d’arrière-plan sont bas ou peuvent être coupés, pour éviter toute interférence ou distraction.
 
-Meeting this requirement helps separate foreground from background, to
-make important information more distinguishable. This includes
-considerations for people who do not use assistive technologies and for
-people using assistive technologies who may observe interference from
-prominent audio or visual content in the background. For instance, many
-people with color blindness do not use any particular tools and rely on
-a proper design that provides sufficient color contrast between text and
-its surrounding background. For others, audio that is automatically
-played could interfere with text-to-speech or with [assistive listening
-devices
-(ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition").
+Être conforme à cette exigence permet de séparer le premier et l’arrière-plan, de rendre les informations importantes plus faciles à distinguer. Cela intègre aussi bien les besoins de personnes qui n’utilisent pas de technologies d’assistance que de celles utilisant des technologies d’assistance, qui peuvent subir des interférences dues à des éléments audio ou visuels à l’arrière-plan. Par exemple, de nombreuses personnes daltoniennes n’utilisent pas d’outil particulier et s’appuient sur un design correct qui fournit des contrastes suffisants entre le texte et son arrière-plan. Pour d’autres, une piste audio jouée automatiquement peut interférer avec une synthèse vocale ou un outil de [lecture assistée (ALD)](http://www.w3.org/WAI/training/accessible#ald "définition"){: hreflang="en"}.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to distinguishability (links to technical specification)
+#### Exigences d’accessibilité liées à la perception (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -348,18 +333,20 @@ devices
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+</div>
+
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to distinguishability
+#### Histoires d’utilisateurs liées à la perception
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   [Lee, client de site Web marchand, daltonien]({{ "/people-use-web/user-stories.fr/" | relative_url }}#shopper)
+-   [Martine, étudiante en ligne, malentendante]({{ "/people-use-web/user-stories.fr/" | relative_url }}#onlinestudent)
+-   [Ilya, cadre supérieure, aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#accountant)
+-   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme]({{ "/people-use-web/user-stories.fr/" | relative_url }}#retiree)
+-   [Kaseem, adolescente qui est sourde et aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#teenager)
 
 {% include excol.html type="end" %}
 
