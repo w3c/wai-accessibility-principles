@@ -512,39 +512,27 @@ Le contenu qui clignote à certaines fréquences ou selon certains schémas peut
 
 {% include excol.html type="end" %}
 
-### Users can easily navigate, find content, and determine where they are {#navigable}
+### Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont {#navigable}
 
-Well organized content helps users to orient themselves and to navigate
-effectively. Such content includes:
+Un contenu bien organisé permet aux utilisateurs de s’orienter et de naviguer efficacement. Par exemple :
 
--   Pages have clear titles and are organized using descriptive section
-    headings;
--   There is more than one way to find relevant pages within a set of
-    web pages;
--   Users are informed about their current location within a set of
-    related pages;
--   There are ways to bypass blocks of content that are repeated on
-    multiple pages;
--   The keyboard focus is visible, and the focus order follows a
-    meaningful sequence;
--   The purpose of a link is evident, ideally even when the link is
-    viewed on its own.
+- Les pages comportent des titres clairs et chaque page est organisée grâce à des titres de sections explicites ;
+- Il y a plus d’une façon de trouver les pages cherchées dans un ensemble de pages web ;
+- Les utilisateurs sont informés de leur position actuelle dans un ensemble de pages web ;
+- Il existe des moyens de contourner des blocs de contenu répétés sur des pages multiples ;
+- Le focus clavier est toujours visible, et le focus suit une séquence pertinente ;
+- Le but de chaque lien est évident, dans l’idéal même si le lien est extrait de son contexte.
 
-Meeting this requirement helps people to navigate through web pages in
-different ways, depending on their particular needs and preferences. For
-instance, while some people rely on hierarchical navigation structures
-such as menu bars to find specific web pages, others rely on search
-functions on websites instead. Some people may be seeing the content
-while others may be hearing it or seeing and hearing it at the same
-time. Some people may be using the content with only a mouse or a
-keyboard, while others may be using both.
+Être conforme à cette exigence permet de naviguer dans les pages web par des moyens variés, selon  les besoins et les préférences particuliers à chaque personne. Par exemple, tandis que certaines personnes s’appuient sur les structures hiérarchiques de navigation telles les barres de menus pour trouver une page web en particulier, d’autres s’appuient plutôt sur les fonctions de recherche des sites. Certaines personnes peuvent voir le contenu tandis que d’autres peuvent l’écouter, ou le voir et l’écouter en même temps. Certaines personnes peuvent accéder au contenu uniquement avec une souris ou un clavier, tandis que d’autres utilisent les deux.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to navigation (links to technical specification)
+#### Exigences d’accessibilité liées à la navigation (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -580,19 +568,21 @@ keyboard, while others may be using both.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+</div>
+
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to navigation
+#### Histoires d’utilisateurs liées aux questions de navigation
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   [Alex, journaliste avec un trouble musculosquelettique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#reporter)
+-   [Ilya, cadre supérieure, aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#accountant)
+-   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#classroomstudent)
+-   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme]({{ "/people-use-web/user-stories.fr/" | relative_url }}#retiree)
+-   [Luis, assistant en supermarché, atteint du syndrome de Down]({{ "/people-use-web/user-stories.fr/" | relative_url }}#supermarketassistant)
+-   [Kaseem, adolescente qui est sourde et aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#teenager)
 
 {% include excol.html type="end" %}
 
