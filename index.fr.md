@@ -474,19 +474,18 @@ Là où il faut fournir assez de temps, cela implique de fournir des mécanismes
 
 {% include excol.html type="end" %}
 
-### Content does not cause seizures {#safe}
+### Le contenu ne provoque pas de crises d’épilepsie {#safe}
 
-Content that flashes at certain rates or patterns can cause
-photosensitive reactions, including seizures. Flashing content is
-ideally avoided entirely or only used in a way that does not cause known
-risks.
+Le contenu qui clignote à certaines fréquences ou selon certains schémas peut provoquer des réactions photosensibles, dont des crises d’épilepsie. Idéalement il fait éviter complètement de faire des contenus clignotants, ou ne les fournir que d’une façon qui n’induit aucun risque connu.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to seizures (links to technical specification)
+#### Exigences d’accessibilité liées à l’épilepsie (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -508,6 +507,8 @@ risks.
     seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
+
+</div>
 
 {% include excol.html type="end" %}
 
