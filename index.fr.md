@@ -703,30 +703,24 @@ Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est d
 
 {% include excol.html type="end" %}
 
-### Users are helped to avoid and correct mistakes {#tolerant}
+### Les utilisateurs sont accompagnés pour éviter et corriger les erreurs {#tolerant}
 
-Forms and other interaction can be confusing or difficult to use for
-many people, and, as a result, they may be more likely to make mistakes.
-Examples of helping users to avoid and correct mistakes include:
+Les formulaires et d’autres systèmes interactifs peuvent induire de la confusion et de la difficulté d’usage pour de nombreuses personnes, et entraîner un risque de saisie accru. Parmi les moyens d’aider les utilisateurs à éviter et à corriger des erreurs, citons notamment :
 
--   Descriptive instructions, error messages, and suggestions for
-    correction;
--   Context-sensitive help for more complex functionality and
-    interaction;
--   Opportunity to review, correct, or reverse submissions if necessary.
+- Des instructions, des messages d’erreur et des suggestions de correction explicites ;
+- De l’aide contextuelle pour les fonctionnalités et les interactions complexes ;
+- Une chance de réviser, corriger ou annuler les informations fournies si nécessaire.
 
-Meeting this requirement helps people who do not see or hear the
-content, and may not recognize implicit relationships, sequences, and
-other cues. It also helps people who do not understand the
-functionality, are disoriented or confused, forget, or make mistakes
-using forms and interaction for any other reason.
+Être conforme à cette exigence aide les personnes qui ne voient pas ou n’entendent pas le contenu, et qui peuvent ne pas reconnaître des relations ou des séquences implicites, ou d’autres invitations à interagir. Elle aide aussi les personnes qui ne comprennent pas la fonctionnalité, sont désorientées ou confuses, oublient, ou font des erreurs dans la saisie de formulaires ou trouvent l’interaction difficile pour toute autre raison.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to input assistance (links to technical specification)
+#### Exigences d’accessibilité liées à l’assistance à la saisie (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -752,18 +746,20 @@ using forms and interaction for any other reason.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+</div>
+
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to input assistance
+#### Histoires d’utilisateurs liées aux questions d’assistance à la saisie
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+-   [Lee, client de site Web marchand, daltonien]({{ "/people-use-web/user-stories.fr/" | relative_url }}#shopper)
+-   [Alex, journaliste avec un trouble musculosquelettique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#reporter)
+-   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#classroomstudent)
+-   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme]({{ "/people-use-web/user-stories.fr/" | relative_url }}#retiree)
+-   [Luis, assistant en supermarché, atteint du syndrome de Down]({{ "/people-use-web/user-stories.fr/" | relative_url }}#supermarketassistant)
 
 {% include excol.html type="end" %}
 
