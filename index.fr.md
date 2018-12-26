@@ -642,33 +642,24 @@ Les auteurs de contenus doivent s’assurer que le contenu textuel est lisible e
 
 {% include excol.html type="end" %}
 
-### Content appears and operates in predictable ways {#predictable}
+### Le contenu apparaît et fonctionne de façon prévisible {#predictable}
 
-Many people rely on predictable user interfaces and are disoriented or
-distracted by inconsistent appearance or behavior. Examples of making
-content more predictable include:
+Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est désorienté ou distrait par une apparence ou un comportement incohérent. Rendre le contenu plus prévisible implique notamment que :
 
--   Navigation mechanisms that are repeated on multiple pages appear in
-    the same place each time;
--   User interface components that are repeated on web pages have the
-    same labels each time;
--   Significant changes on a web page do not happen without the consent
-    of the user.
+- Les mécanismes de navigation qui sont répétés sur plusieurs pages apparaissent toujours à la même place ;
+- Les éléments d’interface répétés sur plusieurs pages ont toujours le même intitulé ;
+- Les changements significatifs dans la page web n’arrivent pas sans le consentement de l’utilisateur.
 
-Meeting this requirement helps people to quickly learn the functionality
-and navigation mechanisms provided on a website, and to operate them
-according to their specific needs and preferences. For instance, some
-people assign personalized shortcut keys to functions they frequently
-use to enhance keyboard navigation. Others memorize the steps to reach
-certain pages or to complete processes on a website. Both rely on
-predictable and consistent functionality.
+Être conforme à cette exigence aide les utilisateurs à apprendre facilement les mécanismes de navigation et les fonctionnalités fournis par un site, et pour interagir avec eux selon leurs besoins et leurs préférences spécifiques. Par exemple, certaines personnes assignent des raccourcis clavier personnalisés à des fonctions qu’ils utilisent souvent pour améliorer la navigation au clavier. D’autres mémorisent les étapes à accomplir pour atteindre une page en particulier ou pour aller au bout d’un processus sur un site web.	Tous ces exemples s’appuient sur des fonctionnalités prévisibles et cohérentes.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to predictability (links to technical specification)
+#### Exigences d’accessibilité liées à la prédictabilité (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -694,19 +685,21 @@ predictable and consistent functionality.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+</div>
+
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to predictability
+#### Histoires d’utilisateurs liées aux questions de prédictabilité
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   [Alex, journaliste avec un trouble musculosquelettique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#reporter)
+-   [Ilya, cadre supérieure, aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#accountant)
+-   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#classroomstudent)
+-   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme]({{ "/people-use-web/user-stories.fr/" | relative_url }}#retiree)
+-   [Luis, assistant en supermarché, atteint du syndrome de Down]({{ "/people-use-web/user-stories.fr/" | relative_url }}#supermarketassistant)
+-   [Kaseem, adolescente qui est sourde et aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#teenager)
 
 {% include excol.html type="end" %}
 
