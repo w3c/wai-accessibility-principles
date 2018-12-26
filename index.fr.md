@@ -586,38 +586,28 @@ Un contenu bien organisé permet aux utilisateurs de s’orienter et de naviguer
 
 {% include excol.html type="end" %}
 
-Understandable information and user interface {#understandable}
+Des informations et une interface utilisateur compréhensibles {#understandable}
 ----------------------------------------------------------------
 
-### Text is readable and understandable {#readable}
+### Le texte est lisible et compréhensible {#readable}
 
-Content authors need to ensure that text content is readable and
-understandable to the broadest audience possible, including when it is
-read aloud by text-to-speech. Such content includes:
+Les auteurs de contenus doivent s’assurer que le contenu textuel est lisible et compréhensible par le plus grand nombre, y compris quand ce contenu est vocalisé par une synthèse vocale. Un tel contenu :
 
--   Identifying the primary language of a web page, such as Arabic,
-    Dutch, or Korean;
--   Identifying the language of text passages, phrases, or other parts
-    of a web page;
--   Providing definitions for any unusual words, phrases, idioms, and
-    abbreviations;
--   Using the clearest and simplest language possible, or providing
-    simplified versions.
+- Identifie la langue principale de la page web, par exemple arabe, hollandais ou coréen ;
+- identifie la langue de passages de texte, d’expressions étrangères, ou d’autres partie de la page web ;
+- Fournit des définitions pour les mots, les expressions, les idiomes et les abréviations inhabituels ;
+- Utilise un langage le plus clair et le plus simple, ou fournit une version simplifiée.
 
-Meeting this requirement helps software, including assistive technology,
-to process text content correctly. For instance, this requirement helps
-software to read the content aloud, to generate page summaries, and to
-provide definitions for unusual words such as technical jargon. It also
-helps people who have difficulty understanding more complex sentences,
-phrases, and vocabulary. In particular, it helps people with different
-types of cognitive disabilities.
+Être conforme à cette exigence permet aux logiciels, y compris aux technologies d’assistance, d’interpréter le texte correctement. Par exemple, cette exigence aide le logiciel à lire le contenu à voix haute, à générer des résumés de pages, et à fournir des définitions pour les mots inhabituels, tel le jargon technique. Elle aide aussi les personnes qui ont des difficultés à comprendre des phrases, des expressions ou du vocabulaire complexes. En particulier, elle est utile à plusieurs types de déficiences cognitives.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to readability (links to technical specification)
+#### Exigences d’accessibilité liées à la lisibilité (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -635,18 +625,20 @@ types of cognitive disabilities.
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+</div>
+
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to readability
+#### Histoires d’utilisateurs liées aux questions de lisibilité
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+-   [Martine, étudiante en ligne, malentendante]({{ "/people-use-web/user-stories.fr/" | relative_url }}#onlinestudent)
+-   [Ilya, cadre supérieure, aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#accountant)
+-   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#classroomstudent)
+-   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme]({{ "/people-use-web/user-stories.fr/" | relative_url }}#retiree)
+-   [Luis, assistant en supermarché, atteint du syndrome de Down]({{ "/people-use-web/user-stories.fr/" | relative_url }}#supermarketassistant)
 
 {% include excol.html type="end" %}
 
