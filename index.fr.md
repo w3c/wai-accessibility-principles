@@ -763,32 +763,26 @@ Les formulaires et d’autres systèmes interactifs peuvent induire de la confus
 
 {% include excol.html type="end" %}
 
-Robust content and reliable interpretation {#robust}
+Du contenu robuste et une interprétation fiable {#robust}
 -----------------------------------------------------
 
-### Content is compatible with current and future user tools {#compatible}
+### Le contenu est compatible avec les logiciels utilisateurs actuels et futurs {#compatible}
 
-Robust content is compatible with different browsers, assistive
-technologies, and other user agents. Examples of how this can be
-achieved include:
+Un contenu robuste est compatible avec de multiples navigateurs, outils d’assistance et autres agents utilisateurs. Pour y parvenir il faut notamment :
 
--   Ensuring markup can be reliably interpreted, for instance by
-    ensuring it is valid;
--   Providing a name, role, and value for non-standard user interface
-    components.
+- S’assurer que le code peut être interprété de façon fiable, par exemple en s’assurant qu’il est valide ;
+- Fournir un nom, un rôle et une valeur pour chacun des éléments non standard de l’interface utilisateur.
 
-Meeting this requirement helps maximize compatibility with current and
-future user agents, including assistive technologies. In particular, it
-enables assistive technologies to process the content reliably, and to
-present or to operate it in different ways. This includes non-standard
-(scripted) buttons, input fields, and other controls.
+Être conforme à cette exigence aide à maximiser la compatibilité avec les agents utilisateurs actuels, y compris les technologies d’assistance. En particulier, elle permet aux technologies d’assistance d’interpréter le contenu de façon fiable, et de le présenter et de le faire fonctionner de différentes manières. Cela inclut les boutons, les champs de saisie et les autres contrôles non-standard (scriptés).
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to compatibility (links to technical specification)
+#### Exigences d’accessibilité liées à la compatibilité (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+<div lang="en">
 
 **WCAG 2.0**
 
@@ -812,19 +806,21 @@ present or to operate it in different ways. This includes non-standard
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
+</div>
+
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to compatibility
+#### Histoires d’utilisateurs liées aux questions de compatibilité
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   [Lee, client de site Web marchand, daltonien]({{ "/people-use-web/user-stories.fr/" | relative_url }}#shopper)
+-   [Alex, journaliste avec un trouble musculosquelettique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#reporter)
+-   [Ilya, cadre supérieure, aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#accountant)
+-   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique]({{ "/people-use-web/user-stories.fr/" | relative_url }}#classroomstudent)
+-   [Luis, assistant en supermarché, atteint du syndrome de Down]({{ "/people-use-web/user-stories.fr/" | relative_url }}#supermarketassistant)
+-   [Kaseem, adolescente qui est sourde et aveugle]({{ "/people-use-web/user-stories.fr/" | relative_url }}#teenager)
 
 {% include excol.html type="end" %}
 
