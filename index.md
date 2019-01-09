@@ -7,7 +7,7 @@ layout: default
 description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.
 image: /content-images/wai-accessibility-principles/social.png
 footer: >
-  <p><strong>Date:</strong> Updated 15 May 2017.</p>
+  <p><strong>Date:</strong> Updated 9 January 2019.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 
@@ -142,17 +142,17 @@ are embedded as part of a website.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 1.1 - Text
     Alternatives](http://www.w3.org/WAI/WCAG20/quickref/#text-equiv)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 1.1 - Alternative
     content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -210,17 +210,17 @@ and facilitate the production of captions and audio descriptions.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 1.2 - Time-based
     Media](http://www.w3.org/WAI/WCAG20/quickref/#media-equiv)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 1.1 - Alternative
     content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -275,12 +275,12 @@ an overview and to focus on particular parts more easily.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 1.3 -
     Adaptable](http://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 1.4 - Text
     configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
@@ -295,7 +295,7 @@ an overview and to focus on particular parts more easily.
 -   [Guideline 1.10 - Element
     Information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -363,12 +363,12 @@ devices
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 1.4 -
     Distinguishable](http://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 1.3 -
     Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
@@ -387,7 +387,7 @@ devices
 -   [Guideline 1.10 - Element
     Information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -443,12 +443,12 @@ through the keyboard interface.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 2.1 - Keyboard
     accessible](http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 2.1 - Keyboard
     access](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
@@ -459,7 +459,7 @@ through the keyboard interface.
 -   [Guideline 2.11 - Other Input
     Devices](https://www.w3.org/TR/UAAG20/#gl-other-devices)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -503,19 +503,19 @@ Examples of providing enough time include providing mechanisms to:
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 2.2 - Enough
     time](http://www.w3.org/WAI/WCAG20/quickref/#time-limits)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 2.8 - Time-independent
     interaction](https://www.w3.org/TR/UAAG20/#gl-time-independent)
 -   [Guideline 2.10 - Time-based
     media](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -554,17 +554,17 @@ risks.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 2.3 -
     Seizures](http://www.w3.org/WAI/WCAG20/quickref/#seizure)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 2.9 -
     Flashing](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -611,12 +611,12 @@ keyboard, while others may be using both.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 2.4 -
     Navigable](http://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 2.2 - Sequential
     navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
@@ -629,7 +629,7 @@ keyboard, while others may be using both.
 -   [Guideline 2.7 - Graphical
     controls](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -694,12 +694,12 @@ types of cognitive disabilities.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 3.1 -
     Readable](http://www.w3.org/WAI/WCAG20/quickref/#meaning)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -753,17 +753,17 @@ predictable and consistent functionality.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 3.2 -
     Predictable](http://www.w3.org/WAI/WCAG20/quickref/#consistent-behavior)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 3.3 -
     Predictable](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -818,17 +818,17 @@ using forms and interaction for any other reason.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 3.3 - Input
     assistance](http://www.w3.org/WAI/WCAG20/quickref/#minimize-error)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 3.1 -
     Mistakes](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -884,12 +884,12 @@ present or to operate it in different ways. This includes non-standard
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 4.1 -
     Compatible](http://www.w3.org/WAI/WCAG20/quickref/#ensure-compat)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 2.6 - Preference
     settings](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
@@ -898,7 +898,7 @@ present or to operate it in different ways. This includes non-standard
 -   [Guideline 5.1 - Follow
     specifications](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
@@ -922,4 +922,4 @@ present or to operate it in different ways. This includes non-standard
 
 {% include excol.html type="end" %}
 
-{% include excol.html type="all" %}
+{% include excol.html type="all" %}v
