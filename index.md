@@ -140,7 +140,7 @@ are embedded as part of a website.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 1.1 - Text
     Alternatives](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
@@ -208,7 +208,7 @@ and facilitate the production of captions and audio descriptions.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 1.2 - Time-based
     Media](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
@@ -273,7 +273,7 @@ an overview and to focus on particular parts more easily.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 1.3 -
     Adaptable](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
@@ -362,7 +362,7 @@ devices
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 1.4 -
     Distinguishable](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
@@ -442,7 +442,7 @@ through the keyboard interface.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 2.1 - Keyboard
     accessible](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
@@ -502,7 +502,7 @@ Examples of providing enough time include providing mechanisms to:
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 2.2 - Enough
     time](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
@@ -559,7 +559,7 @@ Examples of avoiding causing seizures and physical reactions:
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 2.3 -
     Seizures](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
@@ -616,7 +616,7 @@ keyboard, while others may be using both.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 2.4 -
     Navigable](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
@@ -735,7 +735,7 @@ types of cognitive disabilities.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 3.1 -
     Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable)
@@ -794,7 +794,7 @@ predictable and consistent functionality.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 3.2 -
     Predictable](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
@@ -859,7 +859,7 @@ using forms and interaction for any other reason.
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 3.3 - Input
     assistance](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
@@ -925,7 +925,7 @@ present or to operate it in different ways. This includes non-standard
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0/2.1**
+**WCAG 2.0**
 
 -   [Guideline 4.1 -
     Compatible](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
