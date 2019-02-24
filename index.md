@@ -685,7 +685,7 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.1**
+**WCAG**
 
 -   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
 
