@@ -19,7 +19,7 @@ footer: >
 {:/}
 
 This page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides
-references to the international standards from W3C Web Accessibility Initiative (WAI) and to [stories of web users]({{ "/people-use-web/user-stories/" | relative_url }}).
+references to the international standards from W3C Web Accessibility Initiative (WAI) and to {% include link.html to="/people-use-web/user-stories/" text="stories of web users" %}.
 
 **Note:** This is not a complete list of all accessibility requirements.
 
@@ -56,7 +56,7 @@ of these include:
 -   **User agents**{:#useragents} - software that people use to access
     web content, including desktop graphical browsers, voice browsers,
     mobile phone browsers, multimedia players, plug-ins, and some
-    [assistive technologies]({{ "/people-use-web/tools-techniques/" | relative_url }}#at "definition").
+    [assistive technologies]({{ "/people-use-web/tools-techniques/" | relative_url }}#at).
 -   **Authoring tools**{:#authoringtools} - software or services that
     people use to produce web content, including code editors, document
     conversion tools, content management systems, blogs, database
@@ -179,12 +179,12 @@ are embedded as part of a website.
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="onlinestudent" text="Martine, online student who is hard of hearing" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -243,9 +243,9 @@ and facilitate the production of captions and audio descriptions.
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="onlinestudent" text="Martine, online student who is hard of hearing" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -317,13 +317,13 @@ an overview and to focus on particular parts more easily.
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, online shopper with color blindness" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -355,7 +355,7 @@ a proper design that provides sufficient color contrast between text and
 its surrounding background. For others, audio that is automatically
 played could interfere with text-to-speech or with [assistive listening
 devices
-(ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition").
+(ALDs)](http://www.w3.org/WAI/training/accessible#ald).
 
 {% include excol.html type="start" %}
 
@@ -406,11 +406,11 @@ devices
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, online shopper with color blindness" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="onlinestudent" text="Martine, online student who is hard of hearing" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -478,8 +478,8 @@ through the keyboard interface.
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
 
 {% include excol.html type="end" %}
 
@@ -533,11 +533,11 @@ Examples of providing enough time include providing mechanisms to:
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -653,12 +653,12 @@ keyboard, while others may be using both.
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -718,11 +718,11 @@ types of cognitive disabilities.
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+-   {% include link.html to="/people-use-web/user-stories/" id="onlinestudent" text="Martine, online student who is hard of hearing" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
 
 {% include excol.html type="end" %}
 
@@ -785,12 +785,12 @@ predictable and consistent functionality.
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -850,11 +850,11 @@ using forms and interaction for any other reason.
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+-   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, online shopper with color blindness" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
 
 {% include excol.html type="end" %}
 
@@ -914,12 +914,12 @@ present or to operate it in different ways. This includes non-standard
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, online shopper with color blindness" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
