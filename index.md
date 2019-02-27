@@ -3,6 +3,7 @@ title: Accessibility Principles
 permalink: /fundamentals/accessibility-principles/
 ref: /fundamentals/accessibility-principles/
 lang: en
+last_updated: 2019-01-09
 github:
   repository: w3c/wai-accessibility-principles
 layout: default
@@ -56,7 +57,7 @@ of these include:
 -   **User agents**{:#useragents} - software that people use to access
     web content, including desktop graphical browsers, voice browsers,
     mobile phone browsers, multimedia players, plug-ins, and some
-    [assistive technologies]({{ "/people-use-web/tools-techniques/" | relative_url }}#at "definition").
+    [assistive technologies]({{ "/people-use-web/tools-techniques/" | relative_url }}#at).
 -   **Authoring tools**{:#authoringtools} - software or services that
     people use to produce web content, including code editors, document
     conversion tools, content management systems, blogs, database
@@ -99,7 +100,7 @@ accessibility. These include:
     (ATAG)]({{ "/standards-guidelines/atag/" | relative_url }})**
 
 There is also a WAI specification for **[Accessible Rich Internet
-Applications (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, which
+Applications (WAI-ARIA)]({{ "/standards-guidelines/aria/" | relative_url }})**, which
 include dynamic content and advanced user interface controls developed
 with Ajax, JavaScript, and related web technologies.
 
@@ -355,7 +356,7 @@ a proper design that provides sufficient color contrast between text and
 its surrounding background. For others, audio that is automatically
 played could interfere with text-to-speech or with [assistive listening
 devices
-(ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition").
+(ALDs)](http://www.w3.org/WAI/training/accessible#ald).
 
 {% include excol.html type="start" %}
 
