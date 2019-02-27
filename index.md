@@ -1,6 +1,8 @@
 ---
 title: Accessibility Principles
 permalink: /fundamentals/accessibility-principles/
+ref: /fundamentals/accessibility-principles/
+lang: en
 github:
   repository: w3c/wai-accessibility-principles
 layout: default
