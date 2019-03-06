@@ -923,4 +923,4 @@ present or to operate it in different ways. This includes non-standard
 
 {% include excol.html type="end" %}
 
-{% include excol.html type="all" %}v
+{% include excol.html type="all" %}
