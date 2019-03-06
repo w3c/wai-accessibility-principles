@@ -3,6 +3,7 @@ title: Accessibility Principles
 permalink: /fundamentals/accessibility-principles/
 ref: /fundamentals/accessibility-principles/
 lang: en
+last_updated: 2019-01-09
 github:
   repository: w3c/wai-accessibility-principles
 layout: default
@@ -99,7 +100,7 @@ accessibility. These include:
     (ATAG)]({{ "/standards-guidelines/atag/" | relative_url }})**
 
 There is also a WAI specification for **[Accessible Rich Internet
-Applications (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, which
+Applications (WAI-ARIA)]({{ "/standards-guidelines/aria/" | relative_url }})**, which
 include dynamic content and advanced user interface controls developed
 with Ajax, JavaScript, and related web technologies.
 
