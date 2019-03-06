@@ -1,11 +1,12 @@
 ---
 title: Principes d’accessibilité
-permalink: /fundamentals/accessibility-principles/fr/
+permalink: /fundamentals/accessibility-principles/fr
 ref: /fundamentals/accessibility-principles/
 lang: fr
 last_updated: 2018-12-26
 github:
   repository: w3c/wai-accessibility-principles
+  path: index.fr.md
 layout: default
 description: Un aperçu des exigences d’accessibilité web fondamentales pour les sites et les applications web, les navigateurs et autres outils.
 image: /content-images/wai-accessibility-principles/social.png
