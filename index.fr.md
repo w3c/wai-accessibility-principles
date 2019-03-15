@@ -3,6 +3,8 @@ title: Principes d’accessibilité
 permalink: /fundamentals/accessibility-principles/fr
 ref: /fundamentals/accessibility-principles/
 lang: fr
+translator: "Stéphane Deschamps"   # Replace @@ with name or names separated with a comma
+# contributors: "@@"   # Replace @@ with name(s) or delete this line
 last_updated: 2018-12-26
 github:
   repository: w3c/wai-accessibility-principles
