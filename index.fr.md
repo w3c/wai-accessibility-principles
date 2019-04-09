@@ -53,7 +53,7 @@ Standards d’accessibilité Web {#standards}
 L’accessibilité web s’appuie sur plusieurs composants qui travaillent ensemble. Certains d’entre eux sont :
 
 - **Les contenus web**{:#webcontent} : ce terme s’applique à toute partie d’un site web, y compris le texte, les images, les formulaires et le multimédia, aussi bien que tout code, script, application, et ainsi de suite.
-- **Les agents utilisateurs**{:#useragents} : des logiciels que l’on utilise pour accéder aux contenus web, incluant les navigateurs graphiques de bureau, les navigateurs vocaux, les navigateurs mobiles, les lecteurs multimédia, les <i lang="en">plug-ins</i>, et certaines {% include link.html to="/people-use-web/tools-techniques/" text="technologies d’assistance" %}.
+- **Les agents utilisateurs**{:#useragents} : des logiciels que l’on utilise pour accéder aux contenus web, incluant les navigateurs graphiques de bureau, les navigateurs vocaux, les navigateurs mobiles, les lecteurs multimédia, les modules d’extension (<i lang="en">plug-ins</i>), et certaines {% include link.html to="/people-use-web/tools-techniques/" text="technologies d’assistance" %}.
 - **Outils de production de contenu**{:#authoringtools} : des logiciels ou des services que l’on utilise pour produit des contenus web, incluant les éditeurs de code, les outils de conversion de documents, les systèmes de gestion de contenus, les blogs, les scripts de bases de données, et d’autres outils.
 
 {% include excol.html type="start" %}
@@ -73,7 +73,7 @@ L’Initiative d’Accessibilité Web (WAI) fournit une liste de recommandations
 -   **{% include link.html to="/standards-guidelines/uaag/" text="Recommandations d’accessibilité des agents utilisateurs (UAAG)" %}**
 -   **{% include link.html to="/standards-guidelines/atag/" text="Recommandations d’accessibilité des outils de production de contenu (ATAG)" %}**
 
-Il existe aussi une spécification WAI pour les **{% include link.html to="/standards-guidelines/aria/" text="Applications internet riches accessibles  (WAI-ARIA)" %}**, qui inclut les contenus dynamiques et les contrôles d’interface utilisateur avancés développés avec Ajax, Javascript et d’autres technologies web liées.
+Il existe aussi une spécification WAI pour les **{% include link.html to="/standards-guidelines/aria/" text="Applications internet riches accessibles  (WAI-ARIA)" %}**, qui inclut les contenus dynamiques et les contrôles d’interface utilisateur avancés développés avec Ajax, JavaScript et d’autres technologies web liées.
 
 {% include excol.html type="end" %}
 
@@ -218,7 +218,7 @@ Des retranscriptions texte bien écrites contenant la séquence correct de toute
 
 ### Du contenu qui peut être présenté de différentes façons {#adaptable}
 
-Pour que les utilisateurs puissent changer la présentatino des contenus, il est nécessaire que :
+Pour que les utilisateurs puissent changer la présentation des contenus, il est nécessaire que :
 
 - Les titres, les listes, les tableaux, et autres structures de contenu soient convenablement balisés ;
 - Les séquences d’informations ou d’instructions soient indépendantes de toute présentation ;
@@ -694,7 +694,7 @@ Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est d
 
 {% include excol.html type="start" %}
 
-#### Exigences d’accessibilité liées à la prédictabilité (liens vers les spécifications techniques, en anglais)
+#### Exigences d’accessibilité liées à la prédictibilité (liens vers les spécifications techniques, en anglais)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -733,7 +733,7 @@ Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est d
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Histoires d’utilisateurs liées aux questions de prédictabilité
+#### Histoires d’utilisateurs liées aux questions de prédictibilité
 {:.no_toc}
 
 {% include excol.html type="middle" %}
