@@ -110,13 +110,13 @@ Text alternatives are equivalents for non-text content. Examples
 include:
 
 -   Short equivalents for images, including icons, buttons, and
-    graphics;
+    graphics
 -   Description of data represented on charts, diagrams, and
-    illustrations;
+    illustrations
 -   Brief descriptions of non-text content such as audio and video
-    files;
+    files
 -   Labels for form controls, input, and other user interface
-    components.
+    components
 
 Text alternatives convey the purpose of an image or function to provide
 an equivalent user experience. For instance, an appropriate text
@@ -190,11 +190,11 @@ People who cannot hear audio or see video need alternatives. Examples
 include:
 
 -   Text transcripts and captions for audio content, such as recordings
-    of a radio interview;
+    of a radio interview
 -   Audio descriptions, which are narrations to describe important
-    visual details in a video;
+    visual details in a video
 -   Sign language interpretation of audio content, including relevant
-    auditory experiences.
+    auditory experiences
 
 Well-written text transcripts containing the correct sequence of any
 auditory or visual information provide a basic level of accessibility
@@ -251,11 +251,11 @@ For users to be able to change the presentation of content, it is
 necessary that:
 
 -   Headings, lists, tables, input fields, and content structures are
-    marked-up properly;
+    marked-up properly
 -   Sequences of information or instructions are independent of any
-    presentation;
+    presentation
 -   Browsers and assistive technologies provide settings to customize
-    the presentation.
+    the presentation
 
 Meeting this requirement allows content to be correctly read aloud,
 enlarged, or adapted to meet the needs and preferences of different
@@ -329,18 +329,18 @@ Distinguishable content is easier to see and hear. Such content
 includes:
 
 -   Color is not used as the only way of conveying information or
-    identifying content;
+    identifying content
 -   Default foreground and background color combinations provide
-    sufficient contrast;
+    sufficient contrast
 -   Text is resizable up to 200% without losing information, using a
-    standard browser;
--   Text spacing can be adjusted without losing information, and reflows on small screens;
+    standard browser
+-   Text spacing can be adjusted without losing information, and reflows on small screens
 -   Images of text are resizable, replaced with actual text, or avoided
-    where possible;
+    where possible
 -   Users can pause, stop, or adjust the volume of audio that is played
-    on a website;
+    on a website
 -   Background audio is low or can be turned off, to avoid interference
-    or distraction.
+    or distraction
 
 Meeting this requirement helps separate foreground from background, to
 make important information more distinguishable. This includes
@@ -423,10 +423,10 @@ including form controls, input, and other user interface components.
 Keyboard accessibility includes:
 
 -   All functionality that is available by mouse is also available by
-    keyboard;
--   Keyboard focus does not get trapped in any part of the content;
+    keyboard
+-   Keyboard focus does not get trapped in any part of the content
 -   Web browsers, authoring tools, and other tools provide keyboard
-    support.
+    support
 
 Meeting this requirement helps keyboard users, including people using
 alternative keyboards such as keyboards with ergonomic layouts,
@@ -489,10 +489,10 @@ website.
 
 Examples of providing enough time include providing mechanisms to:
 
--   Stop, extend, or adjust time limits, except where necessary;
--   Pause, stop, or hide moving, blinking, or scrolling content;
--   Postpone or suppress interruptions, except where necessary;
--   Re-authenticate when a session expires without losing data.
+-   Stop, extend, or adjust time limits, except where necessary
+-   Pause, stop, or hide moving, blinking, or scrolling content
+-   Postpone or suppress interruptions, except where necessary
+-   Re-authenticate when a session expires without losing data
 
 {% include excol.html type="start" id="" %}
 
@@ -547,9 +547,9 @@ risks. Also animations and moving content can cause discomfort and physical reac
 
 Examples of avoiding causing seizures and physical reactions:
 
--   Do not include content that flashes at particular rates and patterns;
--   Warn users before flashing content is presented, and provide alternatives;
--   Provide mechanisms to switch off animations, unless they are essential.
+-   Do not include content that flashes at particular rates and patterns
+-   Warn users before flashing content is presented, and provide alternatives
+-   Provide mechanisms to switch off animations, unless they are essential
 
 {% include excol.html type="start" id="" %}
 
@@ -587,17 +587,17 @@ Well organized content helps users to orient themselves and to navigate
 effectively. Such content includes:
 
 -   Pages have clear titles and are organized using descriptive section
-    headings;
+    headings
 -   There is more than one way to find relevant pages within a set of
-    web pages;
+    web pages
 -   Users are informed about their current location within a set of
-    related pages;
+    related pages
 -   There are ways to bypass blocks of content that are repeated on
-    multiple pages;
+    multiple pages
 -   The keyboard focus is visible, and the focus order follows a
-    meaningful sequence;
+    meaningful sequence
 -   The purpose of a link is evident, ideally even when the link is
-    viewed on its own.
+    viewed on its own
 
 Meeting this requirement helps people to navigate through web pages in
 different ways, depending on their particular needs and preferences. For
@@ -669,11 +669,11 @@ keyboard, while others may be using both.
 
 Input modalities beyond keyboard, such as touch activation, voice recognition (speech input), and gestures make content easier to use for many people. Yet not everyone can use each of these input modalities, and to the same degree. Particular design considerations maximize the benefit of these input modalities. This includes:
 
--   Gestures that require dexterity or fine movement have alternatives that do not require high dexterity;
--   Components are designed to avoid accidental activation, for example by providing undo functionality;
--   Lables presented to users match corresponding object names in the code, to support activation by voice;
--   Functionality that is activated by movement can also be activated through user interface components;
--   Buttons, links, and other active components are large enough to make them easier to activate by touch.
+-   Gestures that require dexterity or fine movement have alternatives that do not require high dexterity
+-   Components are designed to avoid accidental activation, for example by providing undo functionality
+-   Lables presented to users match corresponding object names in the code, to support activation by voice
+-   Functionality that is activated by movement can also be activated through user interface components
+-   Buttons, links, and other active components are large enough to make them easier to activate by touch
 
 Meeting this requirement makes the content easier to use for many people with a wide range of abilities using a wide range of devices. This includes content used on mobile phones, tablet computers, and self-service terminals such as ticketing machines.
 
@@ -711,13 +711,13 @@ understandable to the broadest audience possible, including when it is
 read aloud by text-to-speech. Such content includes:
 
 -   Identifying the primary language of a web page, such as Arabic,
-    Dutch, or Korean;
+    Dutch, or Korean
 -   Identifying the language of text passages, phrases, or other parts
-    of a web page;
+    of a web page
 -   Providing definitions for any unusual words, phrases, idioms, and
-    abbreviations;
+    abbreviations
 -   Using the clearest and simplest language possible, or providing
-    simplified versions.
+    simplified versions
 
 Meeting this requirement helps software, including assistive technology,
 to process text content correctly. For instance, this requirement helps
@@ -772,11 +772,11 @@ distracted by inconsistent appearance or behavior. Examples of making
 content more predictable include:
 
 -   Navigation mechanisms that are repeated on multiple pages appear in
-    the same place each time;
+    the same place each time
 -   User interface components that are repeated on web pages have the
-    same labels each time;
+    same labels each time
 -   Significant changes on a web page do not happen without the consent
-    of the user.
+    of the user
 
 Meeting this requirement helps people to quickly learn the functionality
 and navigation mechanisms provided on a website, and to operate them
@@ -840,10 +840,10 @@ many people, and, as a result, they may be more likely to make mistakes.
 Examples of helping users to avoid and correct mistakes include:
 
 -   Descriptive instructions, error messages, and suggestions for
-    correction;
+    correction
 -   Context-sensitive help for more complex functionality and
-    interaction;
--   Opportunity to review, correct, or reverse submissions if necessary.
+    interaction
+-   Opportunity to review, correct, or reverse submissions if necessary
 
 Meeting this requirement helps people who do not see or hear the
 content, and may not recognize implicit relationships, sequences, and
@@ -907,9 +907,9 @@ technologies, and other user agents. Examples of how this can be
 achieved include:
 
 -   Ensuring markup can be reliably interpreted, for instance by
-    ensuring it is valid;
+    ensuring it is valid
 -   Providing a name, role, and value for non-standard user interface
-    components.
+    components
 
 Meeting this requirement helps maximize compatibility with current and
 future user agents, including assistive technologies. In particular, it
