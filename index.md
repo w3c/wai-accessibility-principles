@@ -233,7 +233,7 @@ Distinguishable content is easier to see and hear. Such content includes:
 -   Color is not used as the only way of conveying information or identifying content
 -   Default foreground and background color combinations provide sufficient contrast
 -   When users resize text up to 400% or change text spacing, no information is lost
--   Text reflows (no scrolling needed) in small windows or when users make text larger
+-   Text reflows in small windows or when users zoom to make the text larger
 -   Images of text are resizable, replaced with actual text, or avoided where possible
 -   Users can pause, stop, or adjust the volume of audio that is played on a website
 -   Background audio is low or can be turned off, to avoid interference or distraction
