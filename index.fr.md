@@ -147,7 +147,7 @@ Les alternatives textuelles peuvent être présentées sous des formes variées.
 -   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, journaliste avec un trouble musculosquelettique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="onlinestudent" text="Martine, étudiante en ligne, malentendante" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, cadre supérieure, aveugle" %}
--   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l’attention avec hyperactivité et dyslexique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, adolescente qui est sourde et aveugle" %}
 
@@ -161,7 +161,7 @@ Une personne qui ne peut pas entendre le son ou voir la vidéo a besoin d’alte
 - Des audio-descriptions, qui sont une narration qui décrit les détails visuels importants d’une vidéo ;
 - Des traductions en langue des signes du contenu audio, y compris l’expérience audio pertinente.
 
-Des retranscriptions texte bien écrites contenant la séquence correct de toutes les informations auditives et visuelles fournissent un niveau d’accessibilité de base et facilitent la production de sous-titres et d’audio-descriptions.
+Des retranscriptions texte bien écrites contenant la séquence correcte de toutes les informations auditives et visuelles fournissent un niveau d’accessibilité de base et facilitent la production de sous-titres et d’audio-descriptions.
 
 {% include excol.html type="start" %}
 
@@ -285,7 +285,7 @@ Pour que les utilisateurs puissent changer la présentation des contenus, il est
 -   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, client de site Web marchand, daltonien" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, journaliste avec un trouble musculosquelettique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, cadre supérieure, aveugle" %}
--   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l’attention avec hyperactivité et dyslexique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, assistant en supermarché, atteint du syndrome de Down" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, adolescente qui est sourde et aveugle" %}
@@ -445,7 +445,7 @@ Certaines personnes ont besoin de plus de temps que d’autres pour lire et util
 
 Là où il faut fournir assez de temps, cela implique de fournir des mécanismes pour :
 
-- Arrêter, étendre ou ajuster des limites de temps, sauf quand elles sont nécessaire ;
+- Arrêter, étendre ou ajuster des limites de temps, sauf quand elles sont nécessaires ;
 - Pauser, arrêter ou cacher des contenus mouvants, clignotants ou déroulants ;
 - Repousser ou supprimer les interruptions, sauf quand elles sont nécessaires ;
 - Se ré-authentifier quand une session expire sans perdre de données.
@@ -495,7 +495,7 @@ Là où il faut fournir assez de temps, cela implique de fournir des mécanismes
 {% include excol.html type="middle" %}
 
 -   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, journaliste avec un trouble musculosquelettique" %}
--   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l’attention avec hyperactivité et dyslexique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, assistant en supermarché, atteint du syndrome de Down" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, adolescente qui est sourde et aveugle" %}
@@ -615,7 +615,7 @@ Un contenu bien organisé permet aux utilisateurs de s’orienter et de naviguer
 
 -   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, journaliste avec un trouble musculosquelettique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, cadre supérieure, aveugle" %}
--   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l’attention avec hyperactivité et dyslexique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, assistant en supermarché, atteint du syndrome de Down" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, adolescente qui est sourde et aveugle" %}
@@ -630,7 +630,7 @@ Des informations et une interface utilisateur compréhensibles {#understandable}
 Les auteurs de contenus doivent s’assurer que le contenu textuel est lisible et compréhensible par le plus grand nombre, y compris quand ce contenu est vocalisé par une synthèse vocale. Un tel contenu :
 
 - Identifie la langue principale de la page web, par exemple arabe, hollandais ou coréen ;
-- identifie la langue de passages de texte, d’expressions étrangères, ou d’autres partie de la page web ;
+- Identifie la langue de passages de texte, d’expressions étrangères, ou d’autres partie de la page web ;
 - Fournit des définitions pour les mots, les expressions, les idiomes et les abréviations inhabituels ;
 - Utilise un langage le plus clair et le plus simple, ou fournit une version simplifiée.
 
@@ -676,7 +676,7 @@ Les auteurs de contenus doivent s’assurer que le contenu textuel est lisible e
 
 -   {% include link.html to="/people-use-web/user-stories/" id="onlinestudent" text="Martine, étudiante en ligne, malentendante" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, cadre supérieure, aveugle" %}
--   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l’attention avec hyperactivité et dyslexique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, assistant en supermarché, atteint du syndrome de Down" %}
 
@@ -740,7 +740,7 @@ Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est d
 
 -   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, journaliste avec un trouble musculosquelettique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, cadre supérieure, aveugle" %}
--   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l’attention avec hyperactivité et dyslexique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, assistant en supermarché, atteint du syndrome de Down" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, adolescente qui est sourde et aveugle" %}
@@ -805,7 +805,7 @@ Les formulaires et d’autres systèmes interactifs peuvent induire de la confus
 
 -   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, client de site Web marchand, daltonien" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, journaliste avec un trouble musculosquelettique" %}
--   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l’attention avec hyperactivité et dyslexique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, assistant en supermarché, atteint du syndrome de Down" %}
 
@@ -870,7 +870,7 @@ Un contenu robuste est compatible avec de multiples navigateurs, outils d’assi
 -   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, client de site Web marchand, daltonien" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, journaliste avec un trouble musculosquelettique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, cadre supérieure, aveugle" %}
--   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, élève de collège avec un trouble du déficit de l’attention avec hyperactivité et dyslexique" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, assistant en supermarché, atteint du syndrome de Down" %}
 -   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, adolescente qui est sourde et aveugle" %}
 
