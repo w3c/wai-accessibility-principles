@@ -1,9 +1,14 @@
 ---
 title: Accessibility Principles
 permalink: /fundamentals/accessibility-principles/
+ref: /fundamentals/accessibility-principles/
+lang: en
+last_updated: 2019-01-09
 github:
   repository: w3c/wai-accessibility-principles
 layout: default
+description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.
+image: /content-images/wai-accessibility-principles/social.png
 footer: >
   <p><strong>Date:</strong> Updated 10 May 2019.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
@@ -14,7 +19,8 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to [stories of web users]({{ "/people-use-web/user-stories/" | relative_url }}).
+This page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides
+references to the international standards from W3C Web Accessibility Initiative (WAI) and to {% include link.html to="/people-use-web/user-stories/" text="stories of web users" %}.
 
 **Note:** This is not a complete list of all accessibility requirements.
 
@@ -92,15 +98,15 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 1.1 - Text Alternatives](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 1.1 - Alternative content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
@@ -117,12 +123,12 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="onlinestudent" text="Martine, online student who is hard of hearing" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -136,22 +142,22 @@ People who cannot hear audio or see video need alternatives. Examples include:
 
 Well-written text transcripts containing the correct sequence of any auditory or visual information provide a basic level of accessibility and facilitate the production of captions and audio descriptions.
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to multimedia (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 1.2 - Time-based Media](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 1.1 - Alternative content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
@@ -159,16 +165,16 @@ Well-written text transcripts containing the correct sequence of any auditory or
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Stories related to multimedia {#stories-related-to-multimedia}
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="onlinestudent" text="Martine, online student who is hard of hearing" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -182,18 +188,18 @@ For users to be able to change the presentation of content, it is necessary that
 
 Meeting this requirement allows content to be correctly read aloud, enlarged, or adapted to meet the needs and preferences of different people. For instance, it can be presented using custom color combinations, text size, or other styling to facilitate reading. This requirement also facilitates other forms of adaptation, including automatic generation of page outlines and summaries to help people get an overview and to focus on particular parts more easily.
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to adaptability (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 1.3 - Adaptable](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
 -   [Guideline 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
@@ -202,27 +208,27 @@ Meeting this requirement allows content to be correctly read aloud, enlarged, or
 -   [Guideline 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
 -   [Guideline 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_b37)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+{% include excol.html type="end" %}{% include excol.html type="start" %}
 
 #### Stories related to adaptability
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, online shopper with color blindness" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -240,18 +246,18 @@ Distinguishable content is easier to see and hear. Such content includes:
 
 Meeting this requirement helps separate foreground from background, to make important information more distinguishable. This includes considerations for people who do not use assistive technologies and for people using assistive technologies who may observe interference from prominent audio or visual content in the background. For instance, many people with color blindness do not use any particular tools and rely on a proper design that provides sufficient color contrast between text and its surrounding background. For others, audio that is automatically played could interfere with text-to-speech or with [assistive listening devices (ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition").
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to distinguishability (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 1.3 - Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
 -   [Guideline 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
@@ -262,24 +268,24 @@ Meeting this requirement helps separate foreground from background, to make impo
 -   [Guideline 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
 -   [Guideline 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_b37)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+{% include excol.html type="end" %}{% include excol.html type="start" %}
 
 #### Stories related to distinguishability
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, online shopper with color blindness" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="onlinestudent" text="Martine, online student who is hard of hearing" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -298,39 +304,39 @@ Keyboard accessibility includes:
 
 Meeting this requirement helps keyboard users, including people using alternative keyboards such as keyboards with ergonomic layouts, on-screen keyboards, or switch devices. It also helps people using voice recognition (speech input) to operate websites and to dictate text through the keyboard interface.
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to keyboard accessibility (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 2.1 - Keyboard accessible](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 2.1 - Keyboard access](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
 -   [Guideline 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
 -   [Guideline 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
 -   [Guideline 2.11 - Other Input Devices](https://www.w3.org/TR/UAAG20/#gl-other-devices)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.3.1: (For the authoring tool user interface) Provide keyboard access to authoring features](https://www.w3.org/TR/ATAG20/#gl_a31)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+{% include excol.html type="end" %}{% include excol.html type="start" %}
 
 #### Stories related to keyboard accessibility
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
 
 {% include excol.html type="end" %}
 
@@ -345,40 +351,40 @@ Examples of providing enough time include providing mechanisms to:
 -   Postpone or suppress interruptions, except where necessary
 -   Re-authenticate when a session expires without losing data
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to sufficient time (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 2.2 - Enough time](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 2.8 - Time-independent interaction](https://www.w3.org/TR/UAAG20/#gl-time-independent)
 -   [Guideline 2.10 - Time-based media](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.3.2: (For the authoring tool user interface) Provide authors with enough time](https://www.w3.org/TR/ATAG20/#gl_a32)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+{% include excol.html type="end" %}{% include excol.html type="start" %}
 
 #### Stories related to sufficient time
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -399,15 +405,15 @@ Examples of avoiding causing seizures and physical reactions:
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 2.3 - Seizures](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 2.9 - Flashing](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.3.3: (For the authoring tool user interface) Help authors avoid flashing that could cause seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
@@ -428,18 +434,18 @@ Well organized content helps users to orient themselves and to navigate effectiv
 
 Meeting this requirement helps people to navigate through web pages in different ways, depending on their particular needs and preferences. For instance, while some people rely on hierarchical navigation structures such as menu bars to find specific web pages, others rely on search functions on websites instead. Some people may be seeing the content while others may be hearing it or seeing and hearing it at the same time. Some people may be using the content with only a mouse or a keyboard, while others may be using both.
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to navigation (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 2.4 - Navigable](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
 -   [Guideline 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
@@ -447,7 +453,7 @@ Meeting this requirement helps people to navigate through web pages in different
 -   [Guideline 2.5 - Structural navigation](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
 -   [Guideline 2.7 - Graphical controls](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
@@ -455,19 +461,19 @@ Meeting this requirement helps people to navigate through web pages in different
 -   [Guideline A.3.5: (For the authoring tool user interface) Provide text search of the content](https://www.w3.org/TR/ATAG20/#gl_a35)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+{% include excol.html type="end" %}{% include excol.html type="start" %}
 
 #### Stories related to navigation
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -521,35 +527,35 @@ Content authors need to ensure that text content is readable and understandable 
 
 Meeting this requirement helps software, including assistive technology, to process text content correctly. For instance, this requirement helps software to read the content aloud, to generate page summaries, and to provide definitions for unusual words such as technical jargon. It also helps people who have difficulty understanding more complex sentences, phrases, and vocabulary. In particular, it helps people with different types of cognitive disabilities.
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to readability (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 3.1 - Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+{% include excol.html type="end" %}{% include excol.html type="start" %}
 
 #### Stories related to readability
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+-   {% include link.html to="/people-use-web/user-stories/" id="onlinestudent" text="Martine, online student who is hard of hearing" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
 
 {% include excol.html type="end" %}
 
@@ -563,41 +569,41 @@ Many people rely on predictable user interfaces and are disoriented or distracte
 
 Meeting this requirement helps people to quickly learn the functionality and navigation mechanisms provided on a website, and to operate them according to their specific needs and preferences. For instance, some people assign personalized shortcut keys to functions they frequently use to enhance keyboard navigation. Others memorize the steps to reach certain pages or to complete processes on a website. Both rely on predictable and consistent functionality.
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to predictability (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 3.2 - Predictable](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 3.3 - Predictable](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Guideline A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+{% include excol.html type="end" %}{% include excol.html type="start" %}
 
 #### Stories related to predictability
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
@@ -611,40 +617,40 @@ Forms and other interaction can be confusing or difficult to use for many people
 
 Meeting this requirement helps people who do not see or hear the content, and may not recognize implicit relationships, sequences, and other cues. It also helps people who do not understand the functionality, are disoriented or confused, forget, or make mistakes using forms and interaction for any other reason.
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to input assistance (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 3.3 - Input assistance](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 3.1 - Mistakes](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Guideline A.4.1: (For the authoring tool user interface) Help authors avoid and correct mistakes](https://www.w3.org/TR/ATAG20/#gl_b41)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+{% include excol.html type="end" %}{% include excol.html type="start" %}
 
 #### Stories related to input assistance
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+-   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, online shopper with color blindness" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="retiree" text="Yun, retiree with low vision, hand tremor, and mild short-term memory loss" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
 
 {% include excol.html type="end" %}
 
@@ -660,41 +666,41 @@ Robust content is compatible with different browsers, assistive technologies, an
 
 Meeting this requirement helps maximize compatibility with current and future user agents, including assistive technologies. In particular, it enables assistive technologies to process the content reliably, and to present or to operate it in different ways. This includes non-standard (scripted) buttons, input fields, and other controls.
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to compatibility (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-**WCAG 2.0**
+**WCAG**
 
 -   [Guideline 4.1 - Compatible](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
 
-**UAAG 2.0**
+**UAAG**
 
 -   [Guideline 2.6 - Preference settings](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
 -   [Guideline 4.1 - Assistive technology](https://www.w3.org/TR/UAAG20/#gl-AT-access)
 -   [Guideline 5.1 - Follow specifications](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
 
-**ATAG 2.0**
+**ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+{% include excol.html type="end" %}{% include excol.html type="start" %}
 
 #### Stories related to compatibility
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+-   {% include link.html to="/people-use-web/user-stories/" id="shopper" text="Lee, online shopper with color blindness" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="reporter" text="Alex, reporter with repetitive stress injury" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="accountant" text="Ilya, senior staff member who is blind" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="classroomstudent" text="Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="supermarketassistant" text="Luis, supermarket assistant with Down syndrome" %}
+-   {% include link.html to="/people-use-web/user-stories/" id="teenager" text="Kaseem, teenager who is deaf and blind" %}
 
 {% include excol.html type="end" %}
 
