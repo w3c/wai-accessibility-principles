@@ -19,8 +19,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides
-references to the international standards from W3C Web Accessibility Initiative (WAI) and to {% include link.html to="/people-use-web/user-stories/" text="stories of web users" %}.
+This page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to {% include link.html to="/people-use-web/user-stories/" text="stories of web users" %}.
 
 **Note:** This is not a complete list of all accessibility requirements.
 
@@ -398,7 +397,7 @@ Examples of avoiding causing seizures and physical reactions:
 -   Warn users before flashing content is presented, and provide alternatives
 -   Provide mechanisms to switch off animations, unless they are essential
 
-{% include excol.html type="start" id="" %}
+{% include excol.html type="start" %}
 
 #### Accessibility requirements related to seizures (links to technical specification)
 {:.no_toc}
