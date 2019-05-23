@@ -4,3 +4,7 @@
 
 Preview: https://wai-accessibility-principles.netlify.com
 
+# Translation Notes
+
+(None.)
+
