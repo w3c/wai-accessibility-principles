@@ -1,19 +1,39 @@
 ---
-title: Accessibility Principles
-permalink: /fundamentals/accessibility-principles/
-ref: /fundamentals/accessibility-principles/
-lang: en
-last_updated: 2019-01-09
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+
+title: Accessibility Principles   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Accessibility Principles"   # A short title that is used in the navigation
+
+lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+
+last_updated: 2019-05-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+# translators: 
+# - name: "@@"   # Replace @@ with translator name
+# - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
+# contributors:
+# - name: "@@"   # Replace @@ with contributor name, or delete this line if none
+# - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
+
+ref: /fundamentals/accessibility-principles/   # Do not change this
+layout: default
 github:
   repository: w3c/wai-accessibility-principles
-layout: default
-description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.
+  path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+permalink: /fundamentals/accessibility-principles/   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
+
+description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.   # translate this sentence
 image: /content-images/wai-accessibility-principles/social.png
-footer: >
+
+footer: >   # Translate the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Date:</strong> Updated 10 May 2019.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
+
+# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
+# Read Translations Notes for this resource at https://github.com/w3c/wai-accessibility-principles/blob/master/README.md
+# end of translation instructions
 ---
+
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
