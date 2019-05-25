@@ -24,7 +24,7 @@ permalink: /fundamentals/accessibility-principles/   # Add the language shortcod
 description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.   # translate this sentence
 image: /content-images/wai-accessibility-principles/social.png
 
-footer: >   # Translate the words below, including "Date:" and "Editor:". Do not change these dates.
+footer: >   # Do not change these dates.
   <p><strong>Date:</strong> Updated 10 May 2019.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
@@ -69,7 +69,7 @@ This page introduces some of the web accessibility requirements for websites, we
 Web accessibility relies on several components that work together. Some of these include:
 
 -   **Web content**{:#webcontent} - refers to any part of a website, including text, images, forms, and multimedia, as well as any markup code, scripts, applications, and such.
--   **User agents**{:#useragents} - software that people use to access web content, including desktop graphical browsers, voice browsers, mobile phone browsers, multimedia players, plug-ins, and some [assistive technologies]({{ "/people-use-web/tools-techniques/" | relative_url }}#at "definition").
+-   **User agents**{:#useragents} - software that people use to access web content, including desktop graphical browsers, voice browsers, mobile phone browsers, multimedia players, plug-ins, and some [assistive technologies](/people-use-web/tools-techniques/#at "definition").
 -   **Authoring tools**{:#authoringtools} - software or services that people use to produce web content, including code editors, document conversion tools, content management systems, blogs, database scripts, and other tools.
 
 {% include excol.html type="start" %}
@@ -79,15 +79,15 @@ Web accessibility relies on several components that work together. Some of these
 
 {% include excol.html type="middle" %}
 
-These components inter-relate and support each other. For instance, **web content** needs to include text alternatives for images. This information needs to be processed by **web browsers** and then conveyed to **assistive technologies**, such as screen readers. To create such text alternatives, authors need **authoring tools** that support them to do so. More background is provided in [Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }}).
+These components inter-relate and support each other. For instance, **web content** needs to include text alternatives for images. This information needs to be processed by **web browsers** and then conveyed to **assistive technologies**, such as screen readers. To create such text alternatives, authors need **authoring tools** that support them to do so. More background is provided in [[Essential Components of Web Accessibility]](/fundamentals/components/).
 
-Standards play a vital role in defining accessibility requirements for each of these components. Some accessibility requirements are easy to meet, yet understanding the basics of how people with disabilities use the Web helps implement them more effectively and efficiently. Some aspects of accessibility require more technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects]({{ "/test-evaluate/involving-users/" | relative_url }}) will make your work better and easier.
+Standards play a vital role in defining accessibility requirements for each of these components. Some accessibility requirements are easy to meet, yet understanding the basics of how people with disabilities use the Web helps implement them more effectively and efficiently. Some aspects of accessibility require more technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects](/test-evaluate/involving-users/) will make your work better and easier.
 
 The W3C Web Accessibility Initiative (WAI) provides a set of guidelines that are internationally recognized as the standard for web accessibility. These include:
 
--   **[Web Content Accessibility Guidelines (WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }})**
--   **[User Agent Accessibility Guidelines (UAAG)]({{ "/standards-guidelines/uaag/" | relative_url }})**
--   **[Authoring Tool Accessibility Guidelines (ATAG)]({{ "/standards-guidelines/atag/" | relative_url }})**
+-   **[Web Content Accessibility Guidelines (WCAG)](/standards-guidelines/wcag/)**
+-   **[User Agent Accessibility Guidelines (UAAG)](/standards-guidelines/uaag/)**
+-   **[Authoring Tool Accessibility Guidelines (ATAG)](/standards-guidelines/atag/)**
 
 There is also a WAI specification for **[Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, which include dynamic content and advanced user interface controls developed with Ajax, JavaScript, and related web technologies.
 
@@ -523,9 +523,9 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+-   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
+-   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -719,3 +719,4 @@ Meeting this requirement helps maximize compatibility with current and future us
 {% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
+
