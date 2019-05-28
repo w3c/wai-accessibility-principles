@@ -117,19 +117,19 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 **WCAG**
 
--   [Guideline 1.1 - Text Alternatives {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
+-   [Guideline 1.1 - Text Alternatives](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
 
 **UAAG**
 
--   [Guideline 1.1 - Alternative content {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
+-   [Guideline 1.1 - Alternative content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.1: (For the authoring tool user interface) Make alternative content available to authors {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b37)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
+-   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 
@@ -168,18 +168,18 @@ Well-written text transcripts containing the correct sequence of any auditory or
 
 **WCAG**
 
--   [Guideline 1.2 - Time-based Media {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
+-   [Guideline 1.2 - Time-based Media](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
 
 **UAAG**
 
--   [Guideline 1.1 - Alternative content {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
+-   [Guideline 1.1 - Alternative content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.1: (For the authoring tool user interface) Make alternative content available to authors {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b37)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
+-   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 {% include excol.html type="start" %}
@@ -214,23 +214,23 @@ Meeting this requirement allows content to be correctly read aloud, enlarged, or
 
 **WCAG**
 
--   [Guideline 1.3 - Adaptable {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
+-   [Guideline 1.3 - Adaptable](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
 
 **UAAG**
 
--   [Guideline 1.4 - Text configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-text-config)
--   [Guideline 1.5 - Volume configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-volume-config)
--   [Guideline 1.6 - Synthesized speech configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-speech-config)
--   [Guideline 1.7 - User style sheet configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [Guideline 1.9 - Alternative views {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
--   [Guideline 1.10 - Element information {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-info-link)
+-   [Guideline 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
+-   [Guideline 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
+-   [Guideline 1.6 - Synthesized speech configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
+-   [Guideline 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+-   [Guideline 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+-   [Guideline 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b37)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -272,24 +272,24 @@ Meeting this requirement helps separate foreground from background, to make impo
 
 **WCAG**
 
--   [Guideline 1.4 - Distinguishable {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+-   [Guideline 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
 
 **UAAG**
 
--   [Guideline 1.3 - Highlighting {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
--   [Guideline 1.4 - Text configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-text-config)
--   [Guideline 1.5 - Volume configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-volume-config)
--   [Guideline 1.6 - Synthesized speech configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-speech-config)
--   [Guideline 1.7 - User style sheet configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [Guideline 1.8 - Orientation in viewports {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
--   [Guideline 1.9 - Alternative views {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
--   [Guideline 1.10 - Element information {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-info-link)
+-   [Guideline 1.3 - Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
+-   [Guideline 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
+-   [Guideline 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
+-   [Guideline 1.6 - Synthesized speech configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
+-   [Guideline 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+-   [Guideline 1.8 - Orientation in viewports](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
+-   [Guideline 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+-   [Guideline 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b37)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -329,20 +329,20 @@ Meeting this requirement helps keyboard users, including people using alternativ
 
 **WCAG**
 
--   [Guideline 2.1 - Keyboard accessible {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
+-   [Guideline 2.1 - Keyboard accessible](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
 
 **UAAG**
 
--   [Guideline 2.1 - Keyboard access {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
--   [Guideline 2.2 - Sequential navigation {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
--   [Guideline 2.3 - Direct navigation and activation {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
--   [Guideline 2.11 - Other Input Devices {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-other-devices)
+-   [Guideline 2.1 - Keyboard access](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
+-   [Guideline 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+-   [Guideline 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+-   [Guideline 2.11 - Other Input Devices](https://www.w3.org/TR/UAAG20/#gl-other-devices)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.3.1: (For the authoring tool user interface) Provide keyboard access to authoring features {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a31)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.3.1: (For the authoring tool user interface) Provide keyboard access to authoring features](https://www.w3.org/TR/ATAG20/#gl_a31)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -376,18 +376,18 @@ Examples of providing enough time include providing mechanisms to:
 
 **WCAG**
 
--   [Guideline 2.2 - Enough time {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
+-   [Guideline 2.2 - Enough time](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
 
 **UAAG**
 
--   [Guideline 2.8 - Time-independent interaction {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-time-independent)
--   [Guideline 2.10 - Time-based media {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
+-   [Guideline 2.8 - Time-independent interaction](https://www.w3.org/TR/UAAG20/#gl-time-independent)
+-   [Guideline 2.10 - Time-based media](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.3.2: (For the authoring tool user interface) Provide authors with enough time {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a32)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.3.2: (For the authoring tool user interface) Provide authors with enough time](https://www.w3.org/TR/ATAG20/#gl_a32)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -423,17 +423,17 @@ Examples of avoiding causing seizures and physical reactions:
 
 **WCAG**
 
--   [Guideline 2.3 - Seizures {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [Guideline 2.3 - Seizures](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
--   [Guideline 2.9 - Flashing {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
+-   [Guideline 2.9 - Flashing](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.3.3: (For the authoring tool user interface) Help authors avoid flashing that could cause seizures {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a33)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.3.3: (For the authoring tool user interface) Help authors avoid flashing that could cause seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 
@@ -459,23 +459,23 @@ Meeting this requirement helps people to navigate through web pages in different
 
 **WCAG**
 
--   [Guideline 2.4 - Navigable {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+-   [Guideline 2.4 - Navigable](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
 
 **UAAG**
 
--   [Guideline 2.2 - Sequential navigation {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
--   [Guideline 2.3 - Direct navigation and activation {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
--   [Guideline 2.4 - Text search {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-search-text)
--   [Guideline 2.5 - Structural navigation {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
--   [Guideline 2.7 - Graphical controls {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
+-   [Guideline 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+-   [Guideline 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+-   [Guideline 2.4 - Text search](https://www.w3.org/TR/UAAG20/#gl-search-text)
+-   [Guideline 2.5 - Structural navigation](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
+-   [Guideline 2.7 - Graphical controls](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.3.4: (For the authoring tool user interface) Enhance navigation and editing via content structure {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a34)
--   [Guideline A.3.5: (For the authoring tool user interface) Provide text search of the content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a35)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Guideline A.3.4: (For the authoring tool user interface) Enhance navigation and editing via content structure](https://www.w3.org/TR/ATAG20/#gl_a34)
+-   [Guideline A.3.5: (For the authoring tool user interface) Provide text search of the content](https://www.w3.org/TR/ATAG20/#gl_a35)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -514,7 +514,7 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 **WCAG**
 
--   [Guideline 2.5 - Input Modalities {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -551,13 +551,13 @@ Meeting this requirement helps software, including assistive technology, to proc
 
 **WCAG**
 
--   [Guideline 3.1 - Readable {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [Guideline 3.1 - Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b42)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -593,18 +593,18 @@ Meeting this requirement helps people to quickly learn the functionality and nav
 
 **WCAG**
 
--   [Guideline 3.2 - Predictable {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [Guideline 3.2 - Predictable](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
 
 **UAAG**
 
--   [Guideline 3.3 - Predictable {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
+-   [Guideline 3.3 - Predictable](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b42)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Guideline A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -641,18 +641,18 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 **WCAG**
 
--   [Guideline 3.3 - Input assistance {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+-   [Guideline 3.3 - Input assistance](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
 
 **UAAG**
 
--   [Guideline 3.1 - Mistakes {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
+-   [Guideline 3.1 - Mistakes](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.4.1: (For the authoring tool user interface) Help authors avoid and correct mistakes {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b41)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Guideline A.4.1: (For the authoring tool user interface) Help authors avoid and correct mistakes](https://www.w3.org/TR/ATAG20/#gl_b41)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -689,18 +689,18 @@ Meeting this requirement helps maximize compatibility with current and future us
 
 **WCAG**
 
--   [Guideline 4.1 - Compatible {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [Guideline 4.1 - Compatible](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
 
 **UAAG**
 
--   [Guideline 2.6 - Preference settings {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
--   [Guideline 4.1 - Assistive technology {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-AT-access)
--   [Guideline 5.1 - Follow specifications {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
+-   [Guideline 2.6 - Preference settings](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
+-   [Guideline 4.1 - Assistive technology](https://www.w3.org/TR/UAAG20/#gl-AT-access)
+-   [Guideline 5.1 - Follow specifications](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Part B. Support the production of accessible content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
