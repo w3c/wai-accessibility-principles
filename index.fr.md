@@ -106,29 +106,29 @@ Les alternatives textuelles peuvent être présentées sous des formes variées.
 **WCAG**
 
 -  [Guideline 1.1 - Text
-    Alternatives {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#text-equiv){: hreflang="en"}
+    Alternatives](http://www.w3.org/WAI/WCAG20/quickref/#text-equiv){: hreflang="en"}
 
 **UAAG**
 
 -   [Guideline 1.1 - Alternative
-    content {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content){: hreflang="en"}
+    content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content){: hreflang="en"}
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1){: hreflang="en"}
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1){: hreflang="en"}
 -   [Guideline A.2.1: (For the authoring tool user interface) Make
     alternative content available to
-    authors {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a21){: hreflang="en"}
+    authors](https://www.w3.org/TR/ATAG20/#gl_a21){: hreflang="en"}
 -   [Guideline A.2.2: (For the authoring tool user interface) Ensure
     that editing-view presentation can be programmatically
-    determined {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a22){: hreflang="en"}
+    determined](https://www.w3.org/TR/ATAG20/#gl_a22){: hreflang="en"}
 -   [Guideline A.3.7: (For the authoring tool user interface) Ensure
     that previews are at least as accessible as in-market user
-    agents {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b37){: hreflang="en"}
+    agents](https://www.w3.org/TR/ATAG20/#gl_b37){: hreflang="en"}
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b){: hreflang="en"}
+    content](https://www.w3.org/TR/ATAG20/#part_b){: hreflang="en"}
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -176,26 +176,26 @@ Des retranscriptions texte bien écrites contenant la séquence correcte de tout
 **WCAG**
 
 -   [Guideline 1.2 - Time-based
-    Media {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#media-equiv)
+    Media](http://www.w3.org/WAI/WCAG20/quickref/#media-equiv)
 
 **UAAG**
 
 -   [Guideline 1.1 - Alternative
-    content {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
+    content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.1: (For the authoring tool user interface) Make
     alternative content available to
-    authors {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a21)
+    authors](https://www.w3.org/TR/ATAG20/#gl_a21)
 -   [Guideline A.3.7: (For the authoring tool user interface) Ensure
     that previews are at least as accessible as in-market user
-    agents {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b37)
+    agents](https://www.w3.org/TR/ATAG20/#gl_b37)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 
 {::nomarkdown}
@@ -239,36 +239,36 @@ Pour que les utilisateurs puissent changer la présentation des contenus, il est
 **WCAG**
 
 -   [Guideline 1.3 -
-    Adaptable {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation)
+    Adaptable](http://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation)
 
 **UAAG**
 
 -   [Guideline 1.4 - Text
-    configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-text-config)
+    configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
 -   [Guideline 1.5 - Volume
-    configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-volume-config)
+    configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
 -   [Guideline 1.6 - Synthesized speech
-    configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-speech-config)
+    configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
 -   [Guideline 1.7 - User style sheet
-    configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+    configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
 -   [Guideline 1.9 - Alternative
-    views {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+    views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
 -   [Guideline 1.10 - Element
-    Information {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-info-link)
+    Information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.2: (For the authoring tool user interface) Ensure
     that editing-view presentation can be programmatically
-    determined {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a22)
+    determined](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Guideline A.3.7: (For the authoring tool user interface) Ensure
     that previews are at least as accessible as in-market user
-    agents {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b37)
+    agents](https://www.w3.org/TR/ATAG20/#gl_b37)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -318,37 +318,37 @@ Un contenu perceptible est plus facile à lire et à voir. Par exemple :
 **WCAG**
 
 -   [Guideline 1.4 -
-    Distinguishable {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast)
+    Distinguishable](http://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast)
 
 **UAAG**
 
 -   [Guideline 1.3 -
-    Highlighting {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
+    Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
 -   [Guideline 1.4 - Text
-    configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-text-config)
+    configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
 -   [Guideline 1.5 - Volume
-    configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-volume-config)
+    configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
 -   [Guideline 1.6 - Synthesized speech
-    configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-speech-config)
+    configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
 -   [Guideline 1.7 - User style sheet
-    configuration {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+    configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
 -   [Guideline 1.8 - Orientation in
-    viewports {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
+    viewports](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
 -   [Guideline 1.9 - Alternative
-    views {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+    views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
 -   [Guideline 1.10 - Element
-    Information {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-info-link)
+    Information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.3.7: (For the authoring tool user interface) Ensure
     that previews are at least as accessible as in-market user
-    agents {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b37)
+    agents](https://www.w3.org/TR/ATAG20/#gl_b37)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -397,29 +397,29 @@ L’accessibilité au clavier comprend :
 **WCAG**
 
 -   [Guideline 2.1 - Keyboard
-    accessible {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation)
+    accessible](http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation)
 
 **UAAG**
 
 -   [Guideline 2.1 - Keyboard
-    access {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
+    access](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
 -   [Guideline 2.2 - Sequential
-    navigation {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+    navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
 -   [Guideline 2.3 - Direct navigation and
-    activation {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+    activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
 -   [Guideline 2.11 - Other Input
-    Devices {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-other-devices)
+    Devices](https://www.w3.org/TR/UAAG20/#gl-other-devices)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.3.1: (For the authoring tool user interface) Provide
     keyboard access to authoring
-    features {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a31)
+    features](https://www.w3.org/TR/ATAG20/#gl_a31)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -462,24 +462,24 @@ Là où il faut fournir assez de temps, cela implique de fournir des mécanismes
 **WCAG**
 
 -   [Guideline 2.2 - Enough
-    time {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#time-limits)
+    time](http://www.w3.org/WAI/WCAG20/quickref/#time-limits)
 
 **UAAG**
 
 -   [Guideline 2.8 - Time-independent
-    interaction {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-time-independent)
+    interaction](https://www.w3.org/TR/UAAG20/#gl-time-independent)
 -   [Guideline 2.10 - Time-based
-    media {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
+    media](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.3.2: (For the authoring tool user interface) Provide
-    authors with enough time {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a32)
+    authors with enough time](https://www.w3.org/TR/ATAG20/#gl_a32)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -518,23 +518,23 @@ Le contenu qui clignote à certaines fréquences ou selon certains schémas peut
 **WCAG**
 
 -   [Guideline 2.3 -
-    Seizures {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#seizure)
+    Seizures](http://www.w3.org/WAI/WCAG20/quickref/#seizure)
 
 **UAAG**
 
 -   [Guideline 2.9 -
-    Flashing {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
+    Flashing](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.3.3: (For the authoring tool user interface) Help
     authors avoid flashing that could cause
-    seizures {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a33)
+    seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -569,36 +569,36 @@ Un contenu bien organisé permet aux utilisateurs de s’orienter et de naviguer
 **WCAG**
 
 -   [Guideline 2.4 -
-    Navigable {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms)
+    Navigable](http://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms)
 
 **UAAG**
 
 -   [Guideline 2.2 - Sequential
-    navigation {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+    navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
 -   [Guideline 2.3 - Direct navigation and
-    activation {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+    activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
 -   [Guideline 2.4 - Text
-    search {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-search-text)
+    search](https://www.w3.org/TR/UAAG20/#gl-search-text)
 -   [Guideline 2.5 - Structural
-    navigation {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
+    navigation](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
 -   [Guideline 2.7 - Graphical
-    controls {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
+    controls](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.2: (For the authoring tool user interface) Ensure
     that editing-view presentation can be programmatically
-    determined {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a22)
+    determined](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Guideline A.3.4: (For the authoring tool user interface) Enhance
     navigation and editing via content
-    structure {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a34)
+    structure](https://www.w3.org/TR/ATAG20/#gl_a34)
 -   [Guideline A.3.5: (For the authoring tool user interface) Provide
-    text search of the content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a35)
+    text search of the content](https://www.w3.org/TR/ATAG20/#gl_a35)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -647,18 +647,18 @@ Les auteurs de contenus doivent s’assurer que le contenu textuel est lisible e
 **WCAG**
 
 -   [Guideline 3.1 -
-    Readable {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#meaning)
+    Readable](http://www.w3.org/WAI/WCAG20/quickref/#meaning)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.4.2: (For the authoring tool user interface) Document
     the user interface, including all accessibility
-    features {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b42)
+    features](https://www.w3.org/TR/ATAG20/#gl_b42)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -703,26 +703,26 @@ Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est d
 **WCAG**
 
 -   [Guideline 3.2 -
-    Predictable {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#consistent-behavior)
+    Predictable](http://www.w3.org/WAI/WCAG20/quickref/#consistent-behavior)
 
 **UAAG**
 
 -   [Guideline 3.3 -
-    Predictable {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
+    Predictable](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.2: (For the authoring tool user interface) Ensure
     that editing-view presentation can be programmatically
-    determined {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a22)
+    determined](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Guideline A.4.2: (For the authoring tool user interface) Document
     the user interface, including all accessibility
-    features {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b42)
+    features](https://www.w3.org/TR/ATAG20/#gl_b42)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -768,26 +768,26 @@ Les formulaires et d’autres systèmes interactifs peuvent induire de la confus
 **WCAG**
 
 -   [Guideline 3.3 - Input
-    assistance {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#minimize-error)
+    assistance](http://www.w3.org/WAI/WCAG20/quickref/#minimize-error)
 
 **UAAG**
 
 -   [Guideline 3.1 -
-    Mistakes {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
+    Mistakes](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.2.2: (For the authoring tool user interface) Ensure
     that editing-view presentation can be programmatically
-    determined {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_a22)
+    determined](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Guideline A.4.1: (For the authoring tool user interface) Help
     authors avoid and correct
-    mistakes {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#gl_b41)
+    mistakes](https://www.w3.org/TR/ATAG20/#gl_b41)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -833,24 +833,24 @@ Un contenu robuste est compatible avec de multiples navigateurs, outils d’assi
 **WCAG**
 
 -   [Guideline 4.1 -
-    Compatible {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/#ensure-compat)
+    Compatible](http://www.w3.org/WAI/WCAG20/quickref/#ensure-compat)
 
 **UAAG**
 
 -   [Guideline 2.6 - Preference
-    settings {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
+    settings](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
 -   [Guideline 4.1 - Assistive
-    technology {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-AT-access)
+    technology](https://www.w3.org/TR/UAAG20/#gl-AT-access)
 -   [Guideline 5.1 - Follow
-    specifications {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
+    specifications](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
 
 **ATAG**
 
 -   [Principle A.1: Authoring tool user interfaces follow applicable
     accessibility
-    guidelines {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#principle_a1)
+    guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Part B. Support the production of accessible
-    content {% include_cached different.html %}](https://www.w3.org/TR/ATAG20/#part_b)
+    content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
