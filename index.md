@@ -24,6 +24,8 @@ permalink: /fundamentals/accessibility-principles/   # Add the language shortcod
 description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.   # translate this sentence
 image: /content-images/wai-accessibility-principles/social.png
 
+teaser_text: The Accessibility Principles page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to stories of web users.
+
 footer: >   # Do not change these dates.
   <p><strong>Date:</strong> Updated 10 May 2019.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
