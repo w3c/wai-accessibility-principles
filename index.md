@@ -501,7 +501,7 @@ Input modalities beyond keyboard, such as touch activation, voice recognition (s
 
 -   Gestures that require dexterity or fine movement have alternatives that do not require high dexterity
 -   Components are designed to avoid accidental activation, for example by providing undo functionality
--   Lables presented to users match corresponding object names in the code, to support activation by voice
+-   Labels presented to users match corresponding object names in the code, to support activation by voice
 -   Functionality that is activated by movement can also be activated through user interface components
 -   Buttons, links, and other active components are large enough to make them easier to activate by touch
 
