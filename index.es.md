@@ -6,7 +6,7 @@ nav_title: "Principios de accesibilidad"   # A short title that is used in the n
 
 lang: es   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2019-05-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-06-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
 - name: "Jorge Rumoroso"   # Replace @@ with translator name
 # contributors:
@@ -21,7 +21,7 @@ permalink: /fundamentals/accessibility-principles/es   # Add the language shortc
 description: Una visión general de los requisitos fundamentales de accesibilidad para sitios web, aplicaciones web, navegadores y otras herramientas.   # translate this sentence
 image: /content-images/wai-accessibility-principles/social.png
 
-teaser_text: La página de Principios de Accesibilidad introduce algunos de los requisitos de accesibilidad web para sitios web, aplicaciones web, navegadores y otras herramientas. Facilita referencias a estándares internacionales de la Iniciativa de Accesibilidad Web del W3C (WAI) y a hisotrias de usuarios web.
+teaser_text: La página de Principios de Accesibilidad introduce algunos de los requisitos de accesibilidad web para sitios y aplicaciones web, navegadores y otras herramientas, facilitando referencias a estándares internacionales de la Iniciativa de Accesibilidad Web del W3C (WAI) y a hisotrias de usuarios web.
 
 footer: >   # Do not change the dates below.
   <p><strong>Fecha:</strong> Updated 10 May 2019.</p>
@@ -37,9 +37,9 @@ footer: >   # Do not change the dates below.
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Esta página introduce algunos de los requerimientos de accesibilidad para sitios web, applicaciones, navegadores y otras herramientas. Proporciona referencias a estándares internacionales de la Iniciativa de Accesibilidad Web del W3C (WAI) y a  [historias de usuarios web](/people-use-web/user-stories/).
+Esta página introduce algunos de los requisitos de accesibilidad para sitios web, applicaciones, navegadores y otras herramientas. Proporciona referencias a estándares internacionales de la Iniciativa de Accesibilidad Web del W3C (WAI) y a  [historias de usuarios web](/people-use-web/user-stories/).
 
-**Nota:**Esto no es una lista completa de todos los requisitos de accesibilidad.
+**Nota:** Esto no es una lista completa de todos los requisitos de accesibilidad.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -62,12 +62,12 @@ Esta página introduce algunos de los requerimientos de accesibilidad para sitio
 
 {% include excol.html type="all" %}
 
-## Estándares de accesibilidad Web {#standards}
+## Estándares de accesibilidad web {#standards}
 
-La accesibilidad web se basa en varios componentes que trabajan juntos. Algunos de estos incluyen:
+La accesibilidad web se basa en varios componentes que trabajan juntos. Entre ellos se incluyen:
 
 -   **Contenido Web**{:#webcontent} – hace referencia a cualquier parte de un sitio web, incluyendo texto, imágenes, formularios y multimedia, así como a cualquier  código de marcado, scripts, aplicaciones y demás.
--   **Agentes de usuario**{:#useragents} – software que las personas utilizan para acceder al contenido web, incluyendo navegadores gráficos de escritorio, navegadores de voz, navegadores de teléfono móvil, reproductores multimedia, plug-ins y algunas  [tecnologías de asistencia](/people-use-web/tools-techniques/#at "definition").
+-   **Agentes de usuario**{:#useragents} – software que las personas utilizan para acceder al contenido web, incluyendo navegadores gráficos de escritorio, navegadores de voz, navegadores de teléfono móvil, reproductores multimedia, plug-ins y algunas  [tecnologías de apoyo](/people-use-web/tools-techniques/#at "definition").
 -   **Herramientas de autor**{:#authoringtools} – software o servicios que las personas utilizan para producir contenido web, incluyendo editores de código, herramientas de conversión de documentos, sistemas de gestión de contenido, blogs, scripts de base de datos y otras herramientas.
 
 {% include excol.html type="start" %}
@@ -77,9 +77,9 @@ La accesibilidad web se basa en varios componentes que trabajan juntos. Algunos 
 
 {% include excol.html type="middle" %}
 
-Estos componentes se interrelacionan y dan soporte mutuamente. Por ejemplo, el **contenido web** necesita incluir alternativas textuales para las imágenes. Esta información necesita ser procesada por los **navegadores web** y luego ser transmitida a las **tecnologías de asistencia**, como los lectores de pantalla. Para crear dichas alternativas textuales, los autores necesitan **herramientas de autor** con soporte para dicha función. Más información sobre el tema en [[Componentes Esenciales de la Accesibilidad Web]](/fundamentals/components/).
+Estos componentes se interrelacionan y dan soporte mutuamente. Por ejemplo, el **contenido web** necesita incluir alternativas textuales para las imágenes. Esta información necesita ser procesada por los **navegadores web** y luego ser transmitida a las **tecnologías de apoyo**, como los lectores de pantalla. Para crear dichas alternativas textuales, los autores necesitan **herramientas de autor** con soporte para dicha función. Más información sobre el tema en [[Componentes Esenciales de la Accesibilidad Web]](/fundamentals/components/).
 
-Los estándares juegan un papel vital en la definición de los requerimientos de accesibilidad de estos componentes. Algunos requerimientos de accesibilidad son fáciles de cumplir, y simplemente entendiendo los conceptos básicos de cómo las personas con discapacidad utilizan la Web ayuda a implementarlos de forma más eficaz y eficiente. Algunos aspectos de la accesibilidad requieren más habilidades técnicos o conocimientos avanzados sobre el uso que hacen las personas de la Web. En todos los casos, [involucrar a los usuarios desde el principio y a lo largo de sus proyectos web](/test-evaluate/involving-users/) hará tu trabajo mejor y más fácil.
+Los estándares juegan un papel vital en la definición de los requisitos de accesibilidad de estos componentes. Algunos requisitos de accesibilidad son fáciles de cumplir y, simplemente entendiendo los conceptos básicos de cómo las personas con discapacidad utilizan la Web, ayuda a implementarlos de forma más eficaz y eficiente. Algunos aspectos de la accesibilidad requieren más habilidades técnicas o conocimientos avanzados sobre el uso que hacen las personas de la Web. En todos los casos, [involucrar a los usuarios desde el principio y a lo largo de sus proyectos web](/test-evaluate/involving-users/) hará su trabajo mejor y más fácil.
 
 La Iniciativa de Accesibilidad Web del W3C (WAI) facilita un conjunto de pautas que son reconocidas internationalmente como estándares para la accesibilidad web. Estas incluyen:
 
@@ -87,7 +87,7 @@ La Iniciativa de Accesibilidad Web del W3C (WAI) facilita un conjunto de pautas 
 -   **[Pautas de Accesibilidad de Agente de Usuario (UAAG)](/standards-guidelines/uaag/)**
 -   **[Pautas de Accesibilidad de Herramientas de Autor (ATAG)](/standards-guidelines/atag/)**
 
-También hay una especificación WAI para **[Aplicaciones Avanzadas de Internet Accesibles (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, que incluyen contenido dinámico y controles avanzados de usuario desarrollados con Ajax, javasScript, y otras tecnologías web relacionadas.
+También hay una especificación WAI para **[Aplicaciones de internet enriquecidas y accesibles (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, que incluyen contenido dinámico y controles avanzados de usuario desarrollados con Ajax, JavasScript, y otras tecnologías web relacionadas.
 
 {% include excol.html type="end" %}
 
@@ -95,16 +95,16 @@ También hay una especificación WAI para **[Aplicaciones Avanzadas de Internet 
 
 ### Alternativas de texto para contenido no textual {#alternatives}
 
-Las alternativas de texto son equivalentes para el contenido no textual. Los ejemplos incluyen:
+Las alternativas de texto son equivalentes para el contenido no textual. Entre los ejemplos se incluyen:
 
 -   Equivalentes cortos para imágenes, incluyendo iconos, botones y gráficos
 -   Descripción de los datos representados en gráficos, diagramas e ilustraciones
 -   Breves descripciones de contenido no textual como archivos de audio y vídeo
 -   Etiquetas para controles de formulario, entrada de datos y otros componentes de la interfaz de usuario
 
-Las alternativas textuales transmiten el propósito de una imagen o función para proporcionar una experiencia de uso equivalente. Por ejemplo, una alternativa textual apropiada para un botón de búsqueda sería "*buscar*" en lugar de "*lupa*".
+Las alternativas textuales transmiten el propósito o función de una imagen para proporcionar una experiencia de usuario equivalente. Por ejemplo, una alternativa textual apropiada para un botón de búsqueda sería "*buscar*" en lugar de "*lupa*".
 
-Las alternativas textuales pueden presentarse de varias maneras. Por ejemplo, pueden ser leidas en voz alta para personas que no pueden ver la pantalla y para personas con dificultades de lectura, ampliadas a tamaño de texto personalizados, o mostrarse en dispositivos braille. Las alternativas textuales sirven como etiquetas para controles y funcionalidad que ayudan a la navegación con teclado o por reconocimiento de voz (entrada de voz). También actuan como etiquetas para identificar audios, videos, y archivos en otros formatos, así como aplicaciones que están integradas como parte de un sitio web.
+Las alternativas textuales pueden ser presentadas de varias maneras. Por ejemplo, pueden ser leidas en voz alta para personas que no pueden ver la pantalla y para aquellas con dificultades de lectura, ampliadas a tamaño de texto personalizados, o mostrarse en dispositivos braille. Las alternativas textuales sirven como etiquetas para controles y funcionalidad que ayudan a la navegación con teclado o por reconocimiento de voz (entrada de voz). También actuan como etiquetas para identificar audios, videos y archivos en otros formatos, así como aplicaciones que están integradas como parte de un sitio web.
 
 {% include excol.html type="start" %}
 
@@ -133,29 +133,29 @@ Las alternativas textuales pueden presentarse de varias maneras. Por ejemplo, pu
 
 {% include excol.html type="start" %}
 
-#### Historias relacionadas con alternativas de texto
+#### Historias de usuario relacionadas con alternativas de texto
 {:#stories-related-to-text-alternatives.no_toc}
 
 {% include excol.html type="middle" %}
 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Martine, estudiante online con problemas de audición](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, profesional senior que es ciega](/people-use-web/user-stories/#accountant)
+-   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
 ### Subtítulos y otras alternativas para multimedia {#captions}
 
-Las personas que no pueden oir audio o ver video necesitan alternativas. Los ejemplos incluyen:
+Las personas que no pueden oir audio o ver video necesitan alternativas. Entre los ejemplos se incluyen:
 
 -   Transcripciones textuales  y subtítulos para contenido de audio, como grabaciones de una entrevista de radio
 -   Audio descripciones, que son narraciones que describen importantes detalles  en un vídeo
 -   Interpretación en lenguaje de signos de contenido de audio, incluyendo experiencias auditivas relevantes
 
-Las transcripciones de texto bien escritas que contienen la secuencia correcta de cualquier información auditiva o visual proporcionan un nivel básico de accesibilidad y facilitan la producción de subtítulos y descripciones de audio.
+Las transcripciones de texto bien escritas que contienen una correcta secuencia de cualquier información auditiva o visual proporcionan un nivel básico de accesibilidad y facilitan la producción de subtítulos y descripciones de audio.
 
 {% include excol.html type="start" %}
 
@@ -182,26 +182,26 @@ Las transcripciones de texto bien escritas que contienen la secuencia correcta d
 {% include excol.html type="end" %}
 {% include excol.html type="start" %}
 
-#### Historias relacionadas con multimedia {#stories-related-to-multimedia}
+#### Historias de usuario relacionadas con multimedia {#stories-related-to-multimedia}
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 -   [Martine, estudiante online con problemas de audición](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, profesional senior que es ciega](/people-use-web/user-stories/#accountant)
+-   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
 -   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
 ### Contenido que puede ser presentado de diferentes maneras {#adaptable}
 
-Para que los usuarios sean capaces de cambiar como se presenta el contenido, es necesario que:
+Para que los usuarios sean capaces de cambiar la presentación del contenido, es necesario que:
 
--   Encabezados, listas, tablas, campos de formulario, y estructuras de contenido utilizan el marcado apropiado
--   El orden de la información o la secuendia de intrucciones sean independientes de la presentacion
--   Los navegadores y tecnologías de asistencia faciliten configuraciones para personalizar la presentación
+-   Encabezados, listas, tablas, campos de formulario y estructuras de contenido utilicen el marcado apropiado
+-   El orden de la información o la secuendia de instrucciones sean independientes de la presentación
+-   Los navegadores y tecnologías de apoyo faciliten configuraciones para personalizar la presentación
 
-El cumplimiento de este requisito permite que el contenido se lea correctamente en voz alta, se amplíe o se adapte para satisfacer las necesidades y preferencias de diferentes personas. Por ejemplo, se puede presentar usando combinaciones de color personalizadas, tamaño de texto u otro estilo para facilitar la lectura. Este requisito también facilita otras formas de adaptación, incluyendo la generación automática de esquemas de página y resúmenes para ayudar a la gente a obtener una visión general y a centrarse en partes particulares más fácilmente.
+El cumplimiento de este requisito permite que el contenido se lea correctamente en voz alta, se amplíe o se adapte para satisfacer las necesidades y preferencias de diferentes personas. Por ejemplo, se puede presentar usando combinaciones de color personalizadas, tamaño de texto u otro estilo para facilitar la lectura. Este requisito también facilita otras formas de adaptación, incluyendo la generación automática de esquemas de página y resúmenes para ayudar a obtener una visión general y a centrarse en partes concretas con más facilidad.
 
 {% include excol.html type="start" %}
 
@@ -232,16 +232,16 @@ El cumplimiento de este requisito permite que el contenido se lea correctamente 
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Historias relacionadas con adaptabilidad
+#### Historias de usuario relacionadas con adaptabilidad
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 -   [Lee, comprador online con ceguera para el color](/people-use-web/user-stories/#shopper)
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
--   [Ilya, profesional senior que es ciega](/people-use-web/user-stories/#accountant)
+-   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 -   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
@@ -249,17 +249,17 @@ El cumplimiento de este requisito permite que el contenido se lea correctamente 
 
 ### Contenido más fácil de ver y escuchar {#distinguishable}
 
-El contenido distinguible es más fácil de ver y leer. Este contenido incluye:
+El contenido distinguible es más fácil de ver y leer. Algunos ejemplos:
 
 - El color no se utiliza como única forma de transmitir información o identificar el contenido
-- Las combinaciones predeterminadas de colores de primer plano y de fondo proporcionan suficiente contraste
+- Las combinaciones predeterminadas de color de primer plano y fondo proporcionan suficiente contraste
 - Cuando los usuarios redimensionan el texto hasta un 400% o cambian el espaciado del texto, no se pierde información
 - Reflujo de texto en ventanas pequeñas ("viewports") y cuando los usuarios hacen el texto más grande
 - Las imágenes de texto se redimensionan, se sustituyen por texto real o se evitan en la medida de lo posible
 - Los usuarios pueden pausar, detener o ajustar el volumen de audio que se reproduce en un sitio web
 - El audio de fondo es bajo o se puede apagar para evitar interferencias o distracciones
 
-Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer que la información importante sea más distinguible. Esto incluye consideraciones para las personas que no utilizan tecnologías de asistencia y para las personas que las utilizan y que pueden observar interferencia de contenidos de audio o visuales prominentes en segundo plano. Por ejemplo, muchas personas con daltonismo no utilizan ninguna herramienta en particular y confían en un diseño adecuado que proporcione suficiente contraste de color entre el texto y el fondo que lo rodea. Para otras personas, el audio que se reproduce automáticamente podría interferir con el texto a voz o con [dispositivos de ayuda auditiva (ALD)](http://www.w3.org/WAI/training/accessible#ald "definition").
+Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer que la información importante sea más distinguible. Esto incluye consideraciones tanto para las personas que no utilizan tecnologías de apoyo como para las que si las utilizan y que pueden percibir interferencias de contenido de audio o visual del segundo plano. Por ejemplo, muchas personas con daltonismo no utilizan ninguna herramienta en particular y confían en un diseño adecuado que proporcione suficiente contraste de color entre el texto y el fondo que lo rodea. Para otras personas, el audio que se reproduce automáticamente podría interferir con el sistema de "texto a voz" o con [dispositivos de ayuda auditiva (ALD)](http://www.w3.org/WAI/training/accessible#ald "definition").
 
 {% include excol.html type="start" %}
 
@@ -274,7 +274,7 @@ Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer 
 
 **UAAG**
 
--   [Pauta 1.3 - Resaltar](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
+-   [Pauta 1.3 - Resaltado](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
 -   [Pauta 1.4 – Configuración de texto](https://www.w3.org/TR/UAAG20/#gl-text-config)
 -   [Pauta 1.5 – Configuración de volumen](https://www.w3.org/TR/UAAG20/#gl-volume-config)
 -   [Pauta 1.6 – Configuración de voz sintetizada](https://www.w3.org/TR/UAAG20/#gl-speech-config)
@@ -291,24 +291,24 @@ Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer 
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Historias relacionadas con distinguibilidad
+#### Historias de usuario relacionadas con peceptibilidad
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 -   [Lee, comprador online con ceguera para el color](/people-use-web/user-stories/#s#reporter)
 -   [Martine, estudiante online con problemas de audición](/people-use-web/user-stories/#reporter)
--   [Ilya, profesional senior que es ciega](/people-use-web/user-stories/#accountant)
--   [Yun, retirada con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
+-   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
 ## Interfaz de usuario y navegación operables {#operable}
 
-### La funcionalidad está disponible desde el teclado {#keyboard}
+### Funcionalidad está disponible desde el teclado {#keyboard}
 
-Muchas personas no utilizan el ratón y dependen del teclado para interactuar con la Web. Esto requiere acceso mediante teclado a todas las funciones, incluidos los controles de formulario, la entrada y otros componentes de la interfaz de usuario.
+Muchas personas no utilizan el ratón y dependen del teclado para interactuar con la Web. Esto requiere acceso mediante teclado a todas las funciones, incluidos los controles de formulario, entrada de datos y otros componentes de la interfaz de usuario.
 
 La accesibilidad con teclado incluye:
 
@@ -316,7 +316,7 @@ La accesibilidad con teclado incluye:
 -   El foco del teclado no queda atrapado en ninguna parte del contenido
 -   Los navegadores web, herramientas de autor y otras herramientas facilitan soporte para teclado
 
-El cumplimiento de este requisito ayuda a los usuarios de teclado, incluidas las personas que utilizan teclados alternativos, como teclados con diseños ergonómicos, teclados en pantalla o dispositivos de conmutación. También ayuda a las personas que utilizan el reconocimiento de voz (entrada de voz) a operar sitios web y a dictar texto a través de la interfaz del teclado.
+El cumplimiento de este requisito ayuda a los usuarios de teclado, incluidos quienes que utilizan teclados alternativos, como teclados con diseños ergonómicos, teclados en pantalla o dispositivos de conmutación. También ayuda a las personas que utilizan reconocimiento de voz (entrada de voz) para operar sitios web y dictar texto a través de la interfaz del teclado.
 
 {% include excol.html type="start" %}
 
@@ -344,24 +344,24 @@ El cumplimiento de este requisito ayuda a los usuarios de teclado, incluidas las
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Historias relacionadas con la accesibilidad de teclado
+#### Historias de usuario relacionadas con la accesibilidad de teclado
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
--   [Ilya, profesional senior que es ciega](/people-use-web/user-stories/#accountant)
+-   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
 
 {% include excol.html type="end" %}
 
 ### Los usuarios tienen tiempo suficiente para leer y utilizar el contenido {#time}
 
-Algunas personas necesitan más timepo que otrhas para leer y utilizar el contenido. Por ejemplo, algunas personas requieren más tiempo para escribir texto, comprender instrucciones, operar controles, o para completar tareas en un sitio web.
+Algunas personas necesitan más tiempo que otras para leer y utilizar el contenido. Por ejemplo, hay quienes requieren más tiempo para escribir texto, comprender instrucciones, operar controles o incluso para completar tareas en un sitio web.
 
-Ejemplos de proporcionar suficiente tiempo incluyen proporcionar mecanismos para:
+Entre los ejemplos de como proporcionar tiempo suficiente se incluyen los mecanismos para:
 
--   Detener, extender, o ajustar los límites de tiempo, excepto cuando sea necesario
--   Pausar, detener, u ocultar movimiento, parpadeo o scroll de contenido
+-   Detener, extender o ajustar los límites de tiempo, excepto cuando sea necesario
+-   Pausar, detener u ocultar movimiento, parpadeo o scroll de contenido
 -   Posponer o suprimir interrupciones, excepto cuando sean necesarias
 -   Re-autenticar cuando la sesion expire sin perdida de datos
 
@@ -389,14 +389,14 @@ Ejemplos de proporcionar suficiente tiempo incluyen proporcionar mecanismos para
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Historias relacionadas con tiempo suficiente
+#### Historias de usuario relacionadas con tiempo suficiente
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 -   [Kaseem, adolescente con sordera y cegera](/people-use-web/user-stories/#teenager)
 
@@ -404,12 +404,12 @@ Ejemplos de proporcionar suficiente tiempo incluyen proporcionar mecanismos para
 
 ### El contenido no causa convulsiones ni reacciones físicas {#safe}
 
-El contenido que parpadea a ciertas velocidades o patrones puede causar reacciones fotosensibles, incluyendo convulsiones. Lo ideal es evitar totalmente el contenido parpadeante o sólo utilizarlo de forma que no cause riesgos conocidos. También las animaciones y el contenido en movimiento pueden causar incomodidad y reacciones físicas.
+El contenido que parpadea a ciertas velocidades o siguiendo determinados patrones puede causar reacciones fotosensibles, incluyendo convulsiones. Lo ideal es evitar totalmente el contenido parpadeante o sólo utilizarlo de forma que no cause riesgos conocidos. También las animaciones y el contenido en movimiento pueden causar incomodidad y reacciones físicas.
 
-Ejemplos de cómo evitar causar convulsiones y reacciones físicas:
+Estos son algunos ejemplos de cómo evitar causar convulsiones o reacciones físicas:
 
--   No incluir contenido que parpadea a ciertas velocidades y patrones
--   Alertar a los usuarios antes de que presentar el contenido parpadeante y proporcionar alternativas
+-   No incluir contenido que parpadea a ciertas velocidades y siguiendo determinados patrones
+-   Alertar a los usuarios antes de mostrar contenido parpadeante y proporcionar alternativas
 -   Facilitar mecanismos para desconectar las animaciones, excepto cuando sean esenciales
 
 {% include excol.html type="start" %}
@@ -437,17 +437,16 @@ Ejemplos de cómo evitar causar convulsiones y reacciones físicas:
 
 ### Los usuarios pueden navegar facilmente, encontrar contenido, y determinar dónde están {#navigable}
 
-El contenido bien organizado ayuda a los usuarios a orientarse y navegar eficazmente. Este contenido incluye:
+El contenido bien organizado ayuda a los usuarios a orientarse y navegar eficazmente. Por ejemplo:
 
 -   Páginas que tienen títulos claros y estan organizadas utilizando encabezados de sección descriptivos
 -   Existe más de un camino para encontrar las paginas relevantes en un conjunto de páginas web
--   Los usuarios son informados sobre donde se encuentras en un conjunto de páginas relacionadas
+-   Los usuarios son informados sobre donde se encuentran dentro de un conjunto de páginas relacionadas
 -   Hay formas de evitar los bloques de contenido que se repiten en varias páginas
 -   El foco del teclado es visible y el orden del foco sigue una secuencia significativa
 -   El propósito de un enlace es evidente, idealmente incluso cuando el enlace se ve por sí solo
 
-Cumplir este requisito ayuda a las personas a navegar a través de las páginas web de diferentes maneras, dependiendo de sus necesidades particulares y de sus prefenrencias. Por ejemplo, mientras ciertas personas utilizan la 
-Meeting this requirement helps people to navigate through web pages in different ways, depending on their particular needs and preferences. Por ejemplo, mientras que algunas personas confían en estructuras jerárquicas de navegación, como las barras de menú, para encontrar páginas web específicas, otras confían en las funciones de búsqueda de los sitios web. Algunas personas pueden estar viendo el contenido mientras que otras pueden estar escuchándolo o viéndolo y escuchándolo al mismo tiempo. Algunas personas pueden utilizar el contenido sólo con el ratón o el teclado, mientras que otras pueden estar usando ambos.
+Cumplir este requisito ayuda a las personas a navegar a través de las páginas web de diferentes maneras, dependiendo de sus necesidades particulares y de sus preferencias. Por ejemplo, mientras que algunas personas confían en estructuras jerárquicas de navegación, como las barras de menú, para encontrar páginas web específicas, otras confían en las funciones de búsqueda de los sitios web. Algunas personas pueden ver el contenido mientras que otras lo pueden escuchar o incluso ver y escuchar al mismo tiempo. Algunas personas pueden utilizar el contenido sólo con el ratón o solo con el teclado, mientras que otras pueden usar ambos.
 
 {% include excol.html type="start" %}
 
@@ -478,7 +477,7 @@ Meeting this requirement helps people to navigate through web pages in different
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Historias relacionadas con la navegación
+#### Historias de usuario relacionadas con la navegación
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -486,7 +485,7 @@ Meeting this requirement helps people to navigate through web pages in different
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Ilya, profesional senior con cegera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 -   [Kaseem, adolescente con sordera y cegera](/people-use-web/user-stories/#teenager)
 
@@ -494,15 +493,15 @@ Meeting this requirement helps people to navigate through web pages in different
 
 ### Los usuarios pueden utilizar diferentes modalidades de entrada además del teclado {#modalities}
 
-Las modalidades de entrada más allá del teclado, como la activación táctil, el reconocimiento de voz (entrada de voz) y los gestos, hacen que el contenido sea más fácil de usar para muchas personas. Sin embargo, no todos pueden utilizar cada una de estas modalidades de entrada, y en la misma medida. Consideraciones particulares de diseño maximizan el beneficio de estas modalidades de entrada. Esto incluye:
+Las modalidades de entrada más allá del teclado, como la activación táctil, el reconocimiento de voz (entrada de voz) y los gestos, hacen que el contenido sea más fácil de usar para muchas personas. Sin embargo, no todas pueden utilizar cada una de estas modalidades o utilizarlas en la misma medida. Las consideraciones particulares del diseño pueden maximizar el beneficio de cada una de ellas. Por ejemplo:
 
--   Gestos que requieren destreza o movimientos finos tienen alternativas que no requieren avanzada destreza
--   Componentes que están diseñados para evitar la activación accidental, pro ejemplo facilitando la función de deshacer
--   Etiquetas ofrecidas a los usuarios que corresponden con nombres en el código, lo cual da soporte a la activación por voz
--   Funcionalidad que es activada con movimiento que también puede activarse mediante componentes de la interfaz de usuario
--   Botones, enlaces, y otros componentes activos tienen el tamaño suficiente para hacerlos más fácil de activar por tacto
+-   Gestos que requieren destreza o movimientos finos que tienen alternativas que no requieren avanzada destreza
+-   Componentes que están diseñados para evitar la activación accidental, por ejemplo facilitando la función de deshacer
+-   Etiquetas que corresponden con nombres en el código, lo cual da soporte a la activación por voz
+-   Funcionalidad que es activada con movimiento y que también puede activarse mediante componentes de la interfaz de usuario
+-   Botones, enlaces y otros componentes activos que tienen el tamaño suficiente para facilitar la activación por tacto
 
-Cumplir este requisito hace el contenido más fácil de usar por cualquier persona con un ámplio rango de habilidades utilizando un ámplio rango de dispositivos. Esto incluye contenido utilizado en teléfonos móbiles, tablets, y terminales de autoservicio como las máquinas de ticket.
+Cumplir este requisito hace que el contenido más fácil de usar por cualquier persona con un amplios rangos de habilidades y de dispositivos. Ello incluye el contenido utilizado en teléfonos móbiles, tablets y terminales de autoservicio como las máquinas de ticket.
 
 {% include excol.html type="start" id="" %}
 
@@ -517,13 +516,13 @@ Cumplir este requisito hace el contenido más fácil de usar por cualquier perso
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
-#### Historias relacionadas con modalidades de entrada
+#### Historias de usuario relacionadas con modalidades de entrada
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
--   [Yun, retirada con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
@@ -532,14 +531,14 @@ Cumplir este requisito hace el contenido más fácil de usar por cualquier perso
 
 ### El texto es legible y comprensible {#readable}
 
-Los autores de contenido necesitan asegurar que el contenido textual es legible y comprensible para la más ámplia audiencia, incluyendo cuando es leido en voz alta por herramientas texto-a-voz. Esto incluye:
+Los autores de contenido deben asegurar que el contenido textual es legible y comprensible para la más amplia audiencia, incluyendo cuando es leido por herramientas texto-a-voz. Para ello, algunos ejemplos de lo que se puede hacer son:
 
 -   Identificar el idioma primario de la página web, como el árabe, holandés o coreano
 -   Identifiar el idioma de fragmentos de texto, frases, u otras partes de la página web
 -   Proporcionar definiciones para palabras no comunes, fráses, modismos y abreviaturas inusuales
 -   Utilizar el lenguaje más claro y simple posible, o proporcionar versiones simplificadas
 
-El cumplimiento de este requisito ayuda al software, incluida la tecnología de asistencia, a procesar correctamente el contenido del texto. Por ejemplo, este requisito ayuda al software a leer el contenido en voz alta, a generar resúmenes de páginas y a proporcionar definiciones para palabras inusuales como la jerga técnica. También ayuda a las personas que tienen dificultad para entender oraciones más complejas, frases y vocabulario. En particular, ayuda a las personas con diferentes tipos de discapacidades cognitivas.
+El cumplimiento de este requisito ayuda al software, incluiyendo las tecnologías de apoyo, a procesar correctamente el contenido del texto. Por ejemplo, este requisito ayuda al software a leer el contenido en voz alta, a generar resúmenes de páginas y a proporcionar definiciones para palabras inusuales como la jerga técnica. También ayuda a las personas que tienen dificultad para entender oraciones más complejas, frases o vocabulario. En particular, ayuda a las personas con diferentes tipos de discapacidad cognitiva.
 
 {% include excol.html type="start" %}
 
@@ -560,7 +559,7 @@ El cumplimiento de este requisito ayuda al software, incluida la tecnología de 
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Historias relacionadas con legibilidad
+#### Historias de usuario relacionadas con la legibilidad
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -568,24 +567,24 @@ El cumplimiento de este requisito ayuda al software, incluida la tecnología de 
 -   [Martine, estudiante online con problemas de audición](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, profesional senior con cegera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
 ### El contenido aparece y opera de forma predecible {#predictable}
 
-Muchas personas confían en interfaces de usuario predecibles y se desorientan o distraen por apariciones y comportamientos no consistentes. Los ejemplos para hacer el contenido más predecible incluyen::
+Muchas personas confían en interfaces de usuario predecibles y se desorientan o distraen con apariciones y comportamientos no consistentes. Algunos ejemplos para hacer el contenido más predecible serían:
 
--   Mecanismos de navegación que se repiten en multiples páginas que aparecen en el mismo lugar cada vez
--   Componentes de la interfaz de usuaro que se repiten en páginas web que tienen las mismas etiquetas cada vez
--   Los cambios significativos en la página web no ocurren sin el consentimiento del usuario
+-   Mecanismos de navegación que se repiten en multiples páginas que aparecen siempre en el mismo lugar
+-   Componentes de la interfaz de usuaro que se repiten en páginas web y que tienen las mismas etiquetas
+-   Cambios significativos en la página web que no ocurren sin el consentimiento del usuario
 
-El cumplimiento de este requisito ayuda a las personas a aprender rápidamente la funcionalidad y los mecanismos de navegación que se ofrecen en un sitio web, y a manejarlos de acuerdo con sus necesidades y preferencias específicas. Por ejemplo, algunas personas asignan teclas de acceso directo personalizadas a funciones que utilizan con frecuencia para mejorar la navegación con el teclado. Otros memorizan los pasos para llegar a ciertas páginas o para completar procesos en un sitio web. Ambos dependen de una funcionalidad predecible y consistente.
+El cumplimiento de este requisito ayuda a las personas a aprender rápidamente la funcionalidad y los mecanismos de navegación que se ofrecen en un sitio web, y a manejarlos de acuerdo con sus necesidades y preferencias específicas. Por ejemplo, algunas personas asignan teclas de acceso directo personalizadas a funciones que utilizan con frecuencia para mejorar la navegación con el teclado. Otras memorizan los pasos para llegar a determinadas páginas o para completar procesos en un sitio web. Ambos tipos de personas dependen de que la funcionalidad sea predecible y consistente.
 
 {% include excol.html type="start" %}
 
-#### Requisitos de accesibilidad relacionados con predictabilidad (enlaces a la especificación técnica)
+#### Requisitos de accesibilidad relacionados con la predecibilidad (enlaces a la especificación técnica)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -607,7 +606,7 @@ El cumplimiento de este requisito ayuda a las personas a aprender rápidamente l
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Historias relacionadas con predecibilidad
+#### Historias de usuario relacionadas con predecibilidad
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -615,21 +614,21 @@ El cumplimiento de este requisito ayuda a las personas a aprender rápidamente l
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Ilya, profesional senior con cegera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 -   [Kaseem, adolescente con sordera y cegera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
-### Los usuarios son ayudados para prevenir y corregir errores {#tolerant}
+### Asistencia a los usuarios para prevenir y corregir errores {#tolerant}
 
-Los formularios y otras interacciones pueden ser confusos o dificultar el uso para muchas personas y, como resultado, ellas serán más propensas a cometer errores. Los ejemplos de ayuda a los usuarios para prevenir y corregir errores incluyen:
+Los formularios y otros elementos de interacción pueden ser confusos o dificultar su uso para muchas personas y como resultado, ellas serán más propensas a cometer errores. Algunos ejemplos de ayuda para prevenir y corregir errores serían:
 
 -   Intrucciones descriptivas, mensajes de error y sugerencias de corrección
--   Ayuda contextual para funcionalidades e interacción más compleja
--   Oportudad de revisar, corregir o revertir envíos si es necesario
+-   Ayuda contextual para funcionalidades e interacciones más complejas
+-   Opción de revisar, corregir o revertir envíos si es necesario
 
-El cumplimiento de este requisito ayuda a las personas que no ven o no oyen el contenido y es posible que no reconozcan las relaciones implícitas, las secuencias y otros indicios. También ayuda a las personas que no entienden la funcionalidad, están desorientadas o confundidas, olvidan o cometen errores usando formularios e interacción por cualquier otra razón.
+El cumplimiento de este requisito ayuda a las personas que no ven o no oyen el contenido y que es posible que no reconozcan las relaciones implícitas, las secuencias y otros indicios visuales. También ayuda a las personas que no entienden la funcionalidad, están desorientadas o confundidas, olvidan o cometen errores usando formularios y elementos de interacción por cualquier otra razón.
 
 {% include excol.html type="start" %}
 
@@ -655,7 +654,7 @@ El cumplimiento de este requisito ayuda a las personas que no ven o no oyen el c
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Historias relacionadas con la ayuda en la entrada de datos
+#### Historias de usuario relacionadas con la ayuda en la entrada de datos
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -663,21 +662,21 @@ El cumplimiento de este requisito ayuda a las personas que no ven o no oyen el c
 -   [Lee, comprador online con cegera para el color](/people-use-web/user-stories/#shopper)
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
-## Contenido robusto e interpretación fiable {#robust}
+## Contenido robusto e interpretación confiable {#robust}
 
-### El contenido es compatible con herramientas de usuaro actuales y futuras {#compatible}
+### El contenido es compatible con las herramientas de usuaro actuales y futuras {#compatible}
 
-El contenido robusto es compatible con diferentes navegadores, tecnologías de asistencia y otros agentes de usuaro. Los ejemplos de como esto puede se conseguir incluyen:
+El contenido robusto es compatible con diferentes navegadores, tecnologías de apoyo y otros agentes de usuaro. Entre los ejemplos de como esto se puede conseguir se incluyen:
 
--   Asegurarse de que el recargo puede interpretarse de forma fiable, por ejemplo, asegurando que es válido
+-   Asegurarse de que el marcado puede interpretarse de forma confiable, por ejemplo, asegurando que es válido
 -   Proporcionar un nombre, rol y valor para los componentes no estándar de la interfaz de usuario
 
-El cumplimiento de este requisito ayuda a maximizar la compatibilidad con los agentes de usuario actuales y futuros, incluidas las tecnologías de asistencia. En particular, permite a las tecnologías de asistencia procesar el contenido de forma fiable y presentarlo u operarlo de diferentes maneras. Esto incluye botones no estándar (programados), campos de formulario y otros controles.
+El cumplimiento de este requisito ayuda a maximizar la compatibilidad con los agentes de usuario actuales y futuros, incluyendo las tecnologías de apoyo. En particular, permite a las tecnologías de apoyo procesar el contenido de forma confiable y presentarlo u operarlo de diferentes maneras. Se incluyen en este punto los botones no estándar (programados), campos de formulario y otros controles.
 
 {% include excol.html type="start" %}
 
@@ -693,7 +692,7 @@ El cumplimiento de este requisito ayuda a maximizar la compatibilidad con los ag
 **UAAG**
 
 -   [Pauta 2.6 - Configuración de preferencias](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
--   [Pauta 4.1 - Tecnologías de asistencia](https://www.w3.org/TR/UAAG20/#gl-AT-access)
+-   [Pauta 4.1 - Tecnologías de apoyo](https://www.w3.org/TR/UAAG20/#gl-AT-access)
 -   [Pauta 5.1 - Seguir las especificaciones](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
 
 **ATAG**
@@ -703,7 +702,7 @@ El cumplimiento de este requisito ayuda a maximizar la compatibilidad con los ag
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Historias relacionadas con compatibilidad
+#### Historias de usuario relacionadas con compatibilidad
 {:.no_toc}
 
 {% include excol.html type="middle" %}
