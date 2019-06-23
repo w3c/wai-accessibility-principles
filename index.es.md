@@ -21,7 +21,7 @@ permalink: /fundamentals/accessibility-principles/es   # Add the language shortc
 description: Una visión general de los requisitos fundamentales de accesibilidad para sitios web, aplicaciones web, navegadores y otras herramientas.   # translate this sentence
 image: /content-images/wai-accessibility-principles/social.png
 
-teaser_text: La página de Principios de Accesibilidad introduce algunos de los requisitos de accesibilidad web para sitios y aplicaciones web, navegadores y otras herramientas, facilitando referencias a estándares internacionales de la Iniciativa de Accesibilidad Web del W3C (WAI) y a hisotrias de usuarios web.
+teaser_text: La página de Principios de Accesibilidad introduce algunos de los requisitos de accesibilidad web para sitios web, aplicaciones web, navegadores y otras herramientas, facilitando referencias a estándares internacionales de la Iniciativa de Accesibilidad Web del W3C (WAI) y a historias de usuarios web.
 
 footer: >   # Do not change the dates below.
   <p><strong>Fecha:</strong> Updated 10 May 2019.</p>
@@ -37,9 +37,9 @@ footer: >   # Do not change the dates below.
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Esta página introduce algunos de los requisitos de accesibilidad para sitios web, applicaciones, navegadores y otras herramientas. Proporciona referencias a estándares internacionales de la Iniciativa de Accesibilidad Web del W3C (WAI) y a  [historias de usuarios web](/people-use-web/user-stories/).
+Esta página introduce algunos de los requisitos de accesibilidad para sitios web, aplicaciones web, navegadores y otras herramientas, facilitando referencias a estándares internacionales de la Iniciativa de Accesibilidad Web del W3C (WAI) y a [historias de usuarios web](/people-use-web/user-stories/).
 
-**Nota:** Esto no es una lista completa de todos los requisitos de accesibilidad.
+**Nota:** Este documento no es una lista completa de todos los requisitos de accesibilidad.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -152,7 +152,7 @@ Las alternativas textuales pueden ser presentadas de varias maneras. Por ejemplo
 Las personas que no pueden oir audio o ver video necesitan alternativas. Entre los ejemplos se incluyen:
 
 -   Transcripciones textuales  y subtítulos para contenido de audio, como grabaciones de una entrevista de radio
--   Audio descripciones, que son narraciones que describen importantes detalles  en un vídeo
+-   Audiodescripciones, que son narraciones que describen importantes detalles en un vídeo
 -   Interpretación en lenguaje de signos de contenido de audio, incluyendo experiencias auditivas relevantes
 
 Las transcripciones de texto bien escritas que contienen una correcta secuencia de cualquier información auditiva o visual proporcionan un nivel básico de accesibilidad y facilitan la producción de subtítulos y descripciones de audio.
@@ -450,7 +450,7 @@ Cumplir este requisito ayuda a las personas a navegar a través de las páginas 
 
 {% include excol.html type="start" %}
 
-#### Requisitos de accessibilidad relacionados con la navegación (enlaces a la especificación técnica)
+#### Requisitos de accesibilidad relacionados con la navegación (enlaces a la especificación técnica)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -538,7 +538,7 @@ Los autores de contenido deben asegurar que el contenido textual es legible y co
 -   Proporcionar definiciones para palabras no comunes, fráses, modismos y abreviaturas inusuales
 -   Utilizar el lenguaje más claro y simple posible, o proporcionar versiones simplificadas
 
-El cumplimiento de este requisito ayuda al software, incluiyendo las tecnologías de apoyo, a procesar correctamente el contenido del texto. Por ejemplo, este requisito ayuda al software a leer el contenido en voz alta, a generar resúmenes de páginas y a proporcionar definiciones para palabras inusuales como la jerga técnica. También ayuda a las personas que tienen dificultad para entender oraciones más complejas, frases o vocabulario. En particular, ayuda a las personas con diferentes tipos de discapacidad cognitiva.
+El cumplimiento de este requisito ayuda al software, incluyendo las tecnologías de apoyo, a procesar correctamente el contenido del texto. Por ejemplo, este requisito ayuda al software a leer el contenido en voz alta, a generar resúmenes de páginas y a proporcionar definiciones para palabras inusuales como la jerga técnica. También ayuda a las personas que tienen dificultad para entender oraciones más complejas, frases o vocabulario. En particular, ayuda a las personas con diferentes tipos de discapacidad cognitiva.
 
 {% include excol.html type="start" %}
 
@@ -576,7 +576,7 @@ El cumplimiento de este requisito ayuda al software, incluiyendo las tecnología
 
 Muchas personas confían en interfaces de usuario predecibles y se desorientan o distraen con apariciones y comportamientos no consistentes. Algunos ejemplos para hacer el contenido más predecible serían:
 
--   Mecanismos de navegación que se repiten en multiples páginas que aparecen siempre en el mismo lugar
+-   Mecanismos de navegación que se repiten en multiples páginas y que aparecen siempre en el mismo lugar
 -   Componentes de la interfaz de usuaro que se repiten en páginas web y que tienen las mismas etiquetas
 -   Cambios significativos en la página web que no ocurren sin el consentimiento del usuario
 
