@@ -115,7 +115,7 @@ Las alternativas textuales pueden ser presentadas de varias maneras. Por ejemplo
 
 **WCAG**
 
--   [Pauta 1.1 – Alternativas Textuales](hhttp://www.sidar.org/traducciones/wcag20/es/#text-equiv)
+-   [Pauta 1.1 – Alternativas Textuales](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
 
 **UAAG**
 
@@ -166,7 +166,7 @@ Las transcripciones de texto bien escritas que contienen una correcta secuencia 
 
 **WCAG**
 
--   [Pauta 1.2 – Medios tempodependentes](http://www.sidar.org/traducciones/wcag20/es/#media-equiv)
+-   [Pauta 1.2 – Medios tempodependentes](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
 
 **UAAG**
 
@@ -212,7 +212,7 @@ El cumplimiento de este requisito permite que el contenido se lea correctamente 
 
 **WCAG**
 
--   [Pauta 1.3 - Adaptable](http://www.sidar.org/traducciones/wcag20/es/#content-structure-separation)
+-   [Pauta 1.3 - Adaptable](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
 
 **UAAG**
 
@@ -270,7 +270,7 @@ Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer 
 
 **WCAG**
 
--   [Pauta 1.4 - Distinguible](http://www.sidar.org/traducciones/wcag20/es/#visual-audio-contrast)
+-   [Pauta 1.4 - Distinguible](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
 
 **UAAG**
 
@@ -327,7 +327,7 @@ El cumplimiento de este requisito ayuda a los usuarios de teclado, incluidos qui
 
 **WCAG**
 
--   [Pauta 2.1 – Accesible por teclado](http://www.sidar.org/traducciones/wcag20/es/#keyboard-operation)
+-   [Pauta 2.1 – Accesible por teclado](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
 
 **UAAG**
 
@@ -374,7 +374,7 @@ Entre los ejemplos de como proporcionar tiempo suficiente se incluyen los mecani
 
 **WCAG**
 
--   [Pauta 2.2 - Tiempo suficiente](http://www.sidar.org/traducciones/wcag20/es/#time-limits)
+-   [Pauta 2.2 - Tiempo suficiente](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
 
 **UAAG**
 
@@ -421,7 +421,7 @@ Estos son algunos ejemplos de cómo evitar causar convulsiones o reacciones fís
 
 **WCAG**
 
--   [Pauta 2.3 - Convulsiones](http://www.sidar.org/traducciones/wcag20/es/#seizure)
+-   [Pauta 2.3 - Convulsiones](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
@@ -457,7 +457,7 @@ Cumplir este requisito ayuda a las personas a navegar a través de las páginas 
 
 **WCAG**
 
--   [Pauta 2.4 - Navegable](http://www.sidar.org/traducciones/wcag20/es/#navigation-mechanisms)
+-   [Pauta 2.4 - Navegable](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
 
 **UAAG**
 
@@ -549,7 +549,7 @@ El cumplimiento de este requisito ayuda al software, incluyendo las tecnologías
 
 **WCAG**
 
--   [Pauta 3.1 - Legible](http://www.sidar.org/traducciones/wcag20/es/#meaning)
+-   [Pauta 3.1 - Legible](https://www.w3.org/WAI/WCAG21/quickref/#readable)
 
 **ATAG**
 
@@ -591,7 +591,7 @@ El cumplimiento de este requisito ayuda a las personas a aprender rápidamente l
 
 **WCAG**
 
--   [Pauta 3.2 - Predecible](http://www.sidar.org/traducciones/wcag20/es/#consistent-behavior)
+-   [Pauta 3.2 - Predecible](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
 
 **UAAG**
 
@@ -639,7 +639,7 @@ El cumplimiento de este requisito ayuda a las personas que no ven o no oyen el c
 
 **WCAG**
 
--   [Pauta 3.3 - Entrada de datos asistida](http://www.sidar.org/traducciones/wcag20/es/#minimize-error)
+-   [Pauta 3.3 - Entrada de datos asistida](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
 
 **UAAG**
 
@@ -687,7 +687,7 @@ El cumplimiento de este requisito ayuda a maximizar la compatibilidad con los ag
 
 **WCAG**
 
--   [Pauta 4.1 - Compatible](http://www.sidar.org/traducciones/wcag20/es/#ensure-compat)
+-   [Pauta 4.1 - Compatible](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
 
 **UAAG**
 
@@ -717,3 +717,4 @@ El cumplimiento de este requisito ayuda a maximizar la compatibilidad con los ag
 {% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
+
