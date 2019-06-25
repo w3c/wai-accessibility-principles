@@ -140,7 +140,7 @@ Las alternativas textuales pueden ser presentadas de varias maneras. Por ejemplo
 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Martine, estudiante online con problemas de audición](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
+-   [Ilya, ejecutiva senior con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
 -   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
@@ -188,7 +188,7 @@ Las transcripciones de texto bien escritas que contienen una correcta secuencia 
 {% include excol.html type="middle" %}
 
 -   [Martine, estudiante online con problemas de audición](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
+-   [Ilya, ejecutiva senior con ceguera](/people-use-web/user-stories/#accountant)
 -   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
@@ -237,9 +237,9 @@ El cumplimiento de este requisito permite que el contenido se lea correctamente 
 
 {% include excol.html type="middle" %}
 
--   [Lee, comprador online con ceguera para el color](/people-use-web/user-stories/#shopper)
+-   [Lee, comprador online con daltonismo](/people-use-web/user-stories/#shopper)
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
--   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
+-   [Ilya, ejecutiva senior con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
 -   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
@@ -296,9 +296,9 @@ Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer 
 
 {% include excol.html type="middle" %}
 
--   [Lee, comprador online con ceguera para el color](/people-use-web/user-stories/#s#reporter)
+-   [Lee, comprador online con daltonismo](/people-use-web/user-stories/#s#reporter)
 -   [Martine, estudiante online con problemas de audición](/people-use-web/user-stories/#reporter)
--   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
+-   [Ilya, ejecutiva senior con ceguera](/people-use-web/user-stories/#accountant)
 -   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
@@ -306,7 +306,7 @@ Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer 
 
 ## Interfaz de usuario y navegación operables {#operable}
 
-### Funcionalidad está disponible desde el teclado {#keyboard}
+### Funcionalidad disponible desde el teclado {#keyboard}
 
 Muchas personas no utilizan el ratón y dependen del teclado para interactuar con la Web. Esto requiere acceso mediante teclado a todas las funciones, incluidos los controles de formulario, entrada de datos y otros componentes de la interfaz de usuario.
 
@@ -350,7 +350,7 @@ El cumplimiento de este requisito ayuda a los usuarios de teclado, incluidos qui
 {% include excol.html type="middle" %}
 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
--   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
+-   [Ilya, ejecutiva senior con ceguera](/people-use-web/user-stories/#accountant)
 
 {% include excol.html type="end" %}
 
@@ -659,7 +659,7 @@ El cumplimiento de este requisito ayuda a las personas que no ven o no oyen el c
 
 {% include excol.html type="middle" %}
 
--   [Lee, comprador online con ceguera para el color](/people-use-web/user-stories/#shopper)
+-   [Lee, comprador online con daltonismo](/people-use-web/user-stories/#shopper)
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
 -   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
@@ -707,7 +707,7 @@ El cumplimiento de este requisito ayuda a maximizar la compatibilidad con los ag
 
 {% include excol.html type="middle" %}
 
--   [Lee, comprador online con ceguera para el color](/people-use-web/user-stories/#shopper)
+-   [Lee, comprador online con daltonismo](/people-use-web/user-stories/#shopper)
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Ilya, profesional senior con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
