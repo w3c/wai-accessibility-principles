@@ -104,7 +104,7 @@ Las alternativas de texto son equivalentes para el contenido no textual. Entre l
 
 Las alternativas textuales transmiten el propósito o función de una imagen para proporcionar una experiencia de usuario equivalente. Por ejemplo, una alternativa textual apropiada para un botón de búsqueda sería "*buscar*" en lugar de "*lupa*".
 
-Las alternativas textuales pueden ser presentadas de varias maneras. Por ejemplo, pueden ser leidas en voz alta para personas que no pueden ver la pantalla y para aquellas con dificultades de lectura, ampliadas a tamaño de texto personalizados, o mostrarse en dispositivos braille. Las alternativas textuales sirven como etiquetas para controles y funcionalidad que ayudan a la navegación con teclado o por reconocimiento de voz (entrada de voz). También actuan como etiquetas para identificar audios, videos y archivos en otros formatos, así como aplicaciones que están integradas como parte de un sitio web.
+Las alternativas textuales pueden ser presentadas de varias maneras. Por ejemplo, pueden ser leidas en voz alta para personas que no pueden ver la pantalla y para aquellas con dificultades de lectura, ampliadas a tamaño de texto personalizados, o mostrarse en dispositivos braille. Las alternativas textuales sirven como etiquetas para controles y funcionalidad que ayudan a la navegación con teclado o por reconocimiento de voz (entrada por voz). También actuan como etiquetas para identificar audios, videos y archivos en otros formatos, así como aplicaciones que están integradas como parte de un sitio web.
 
 {% include excol.html type="start" %}
 
@@ -142,14 +142,14 @@ Las alternativas textuales pueden ser presentadas de varias maneras. Por ejemplo
 -   [Martine, estudiante online con problemas de audición](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
 ### Subtítulos y otras alternativas para multimedia {#captions}
 
-Las personas que no pueden oir audio o ver video necesitan alternativas. Entre los ejemplos se incluyen:
+Las personas que no pueden oír audio o ver video necesitan alternativas. Entre los ejemplos se incluyen:
 
 -   Transcripciones textuales  y subtítulos para contenido de audio, como grabaciones de una entrevista de radio
 -   Audiodescripciones, que son narraciones que describen importantes detalles en un vídeo
@@ -198,7 +198,7 @@ Las transcripciones de texto bien escritas que contienen una correcta secuencia 
 Para que los usuarios sean capaces de cambiar la presentación del contenido, es necesario que:
 
 -   Encabezados, listas, tablas, campos de formulario y estructuras de contenido utilicen el marcado apropiado
--   El orden de la información o la secuendia de instrucciones sean independientes de la presentación
+-   El orden de la información o la secuencia de instrucciones sean independientes de la presentación
 -   Los navegadores y tecnologías de apoyo faciliten configuraciones para personalizar la presentación
 
 El cumplimiento de este requisito permite que el contenido se lea correctamente en voz alta, se amplíe o se adapte para satisfacer las necesidades y preferencias de diferentes personas. Por ejemplo, se puede presentar usando combinaciones de color personalizadas, tamaño de texto u otro estilo para facilitar la lectura. Este requisito también facilita otras formas de adaptación, incluyendo la generación automática de esquemas de página y resúmenes para ayudar a obtener una visión general y a centrarse en partes concretas con más facilidad.
@@ -241,7 +241,7 @@ El cumplimiento de este requisito permite que el contenido se lea correctamente 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 -   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
@@ -299,7 +299,7 @@ Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer 
 -   [Lee, comprador online con ceguera para el color](/people-use-web/user-stories/#s#reporter)
 -   [Martine, estudiante online con problemas de audición](/people-use-web/user-stories/#reporter)
 -   [Ilya, ejecutiva senior que con ceguera](/people-use-web/user-stories/#accountant)
--   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
@@ -316,7 +316,7 @@ La accesibilidad con teclado incluye:
 -   El foco del teclado no queda atrapado en ninguna parte del contenido
 -   Los navegadores web, herramientas de autor y otras herramientas facilitan soporte para teclado
 
-El cumplimiento de este requisito ayuda a los usuarios de teclado, incluidos quienes que utilizan teclados alternativos, como teclados con diseños ergonómicos, teclados en pantalla o dispositivos de conmutación. También ayuda a las personas que utilizan reconocimiento de voz (entrada de voz) para operar sitios web y dictar texto a través de la interfaz del teclado.
+El cumplimiento de este requisito ayuda a los usuarios de teclado, incluidos quienes que utilizan teclados alternativos, como teclados con diseños ergonómicos, teclados en pantalla o dispositivos de conmutación. También ayuda a las personas que utilizan reconocimiento de voz (entrada por voz) para operar sitios web y dictar texto a través de la interfaz del teclado.
 
 {% include excol.html type="start" %}
 
@@ -358,12 +358,12 @@ El cumplimiento de este requisito ayuda a los usuarios de teclado, incluidos qui
 
 Algunas personas necesitan más tiempo que otras para leer y utilizar el contenido. Por ejemplo, hay quienes requieren más tiempo para escribir texto, comprender instrucciones, operar controles o incluso para completar tareas en un sitio web.
 
-Entre los ejemplos de como proporcionar tiempo suficiente se incluyen los mecanismos para:
+Entre los ejemplos de cómo proporcionar tiempo suficiente se incluyen los mecanismos para:
 
 -   Detener, extender o ajustar los límites de tiempo, excepto cuando sea necesario
--   Pausar, detener u ocultar movimiento, parpadeo o scroll de contenido
+-   Pausar, detener u ocultar movimiento, parpadeo o desplazamiento del contenido
 -   Posponer o suprimir interrupciones, excepto cuando sean necesarias
--   Re-autenticar cuando la sesion expire sin perdida de datos
+-   Re-autenticar cuando la sesión expire sin perdida de datos
 
 {% include excol.html type="start" %}
 
@@ -396,9 +396,9 @@ Entre los ejemplos de como proporcionar tiempo suficiente se incluyen los mecani
 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, adolescente con sordera y cegera](/people-use-web/user-stories/#teenager)
+-   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -483,17 +483,17 @@ Cumplir este requisito ayuda a las personas a navegar a través de las páginas 
 {% include excol.html type="middle" %}
 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
--   [Ilya, profesional senior con cegera](/people-use-web/user-stories/#accountant)
+-   [Ilya, profesional senior con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, adolescente con sordera y cegera](/people-use-web/user-stories/#teenager)
+-   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
 ### Los usuarios pueden utilizar diferentes modalidades de entrada además del teclado {#modalities}
 
-Las modalidades de entrada más allá del teclado, como la activación táctil, el reconocimiento de voz (entrada de voz) y los gestos, hacen que el contenido sea más fácil de usar para muchas personas. Sin embargo, no todas pueden utilizar cada una de estas modalidades o utilizarlas en la misma medida. Las consideraciones particulares del diseño pueden maximizar el beneficio de cada una de ellas. Por ejemplo:
+Las modalidades de entrada más allá del teclado, como la activación táctil, el reconocimiento de voz (entrada por voz) y los gestos, hacen que el contenido sea más fácil de usar para muchas personas. Sin embargo, no todas pueden utilizar cada una de estas modalidades o utilizarlas en la misma medida. Las consideraciones particulares del diseño pueden maximizar el beneficio de cada una de ellas. Por ejemplo:
 
 -   Gestos que requieren destreza o movimientos finos que tienen alternativas que no requieren avanzada destreza
 -   Componentes que están diseñados para evitar la activación accidental, por ejemplo facilitando la función de deshacer
@@ -522,7 +522,7 @@ Cumplir este requisito hace que el contenido más fácil de usar por cualquier p
 {% include excol.html type="middle" %}
 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
--   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
@@ -565,9 +565,9 @@ El cumplimiento de este requisito ayuda al software, incluyendo las tecnologías
 {% include excol.html type="middle" %}
 
 -   [Martine, estudiante online con problemas de audición](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, profesional senior con cegera](/people-use-web/user-stories/#accountant)
+-   [Ilya, profesional senior con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
@@ -612,11 +612,11 @@ El cumplimiento de este requisito ayuda a las personas a aprender rápidamente l
 {% include excol.html type="middle" %}
 
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
--   [Ilya, profesional senior con cegera](/people-use-web/user-stories/#accountant)
+-   [Ilya, profesional senior con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, adolescente con sordera y cegera](/people-use-web/user-stories/#teenager)
+-   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -659,10 +659,10 @@ El cumplimiento de este requisito ayuda a las personas que no ven o no oyen el c
 
 {% include excol.html type="middle" %}
 
--   [Lee, comprador online con cegera para el color](/people-use-web/user-stories/#shopper)
+-   [Lee, comprador online con ceguera para el color](/people-use-web/user-stories/#shopper)
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retirada, con baja visión, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
+-   [Yun, retirada, con visión reducida, temblores en manos y leve perdida de memoria a corto plazo](/people-use-web/user-stories/#retiree)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
@@ -707,12 +707,12 @@ El cumplimiento de este requisito ayuda a maximizar la compatibilidad con los ag
 
 {% include excol.html type="middle" %}
 
--   [Lee, comprador online con cegera para el color](/people-use-web/user-stories/#shopper)
+-   [Lee, comprador online con ceguera para el color](/people-use-web/user-stories/#shopper)
 -   [Alex, reportero con lesión por esfuerzo repetitivo](/people-use-web/user-stories/#reporter)
--   [Ilya, profesional senior con cegera](/people-use-web/user-stories/#accountant)
+-   [Ilya, profesional senior con ceguera](/people-use-web/user-stories/#accountant)
 -   [Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia](/people-use-web/user-stories/#classroomstudent)
 -   [Luis, asistente en un supermercado con síndrome de Down](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, adolescente con sordera y cegera](/people-use-web/user-stories/#teenager)
+-   [Kaseem, adolescente con sordera y ceguera](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
