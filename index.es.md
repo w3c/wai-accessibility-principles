@@ -9,7 +9,9 @@ lang: es   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2019-06-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
 - name: "Jorge Rumoroso"   # Replace @@ with translator name
-# contributors:
+  link: "https://twitter.com/rumoroso"
+contributors:
+- name: "Martín Álvarez-Espinar (CTIC)"
 
 ref: /fundamentals/accessibility-principles/   # Do not change this
 layout: default
