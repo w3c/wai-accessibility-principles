@@ -36,7 +36,7 @@ footer: >   # Do not change the dates below.
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
 Esta página introduce algunos de los requisitos de accesibilidad para sitios web, aplicaciones web, navegadores y otras herramientas, facilitando referencias a estándares internacionales de la Iniciativa de Accesibilidad Web del W3C (WAI) y a [historias de usuarios web](/people-use-web/user-stories/).
