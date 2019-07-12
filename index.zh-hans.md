@@ -7,13 +7,11 @@ nav_title: "无障碍原理"   # A short title that is used in the navigation
 lang: zh-hans   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
 last_updated: 2019-07-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: 
-# - name: "李松峰"   # Replace @@ with translator name
-	link: "https://lisongfeng.cn"
-# - name: "冉若曦"
-	link: "https://www.w3.org/people/roy"
-
-
+translators: 
+- name: "李松峰"   # Replace @@ with translator name
+  link: "https://lisongfeng.cn"
+- name: "冉若曦"
+  link: "https://www.w3.org/people/roy"
 
 ref: /fundamentals/accessibility-principles/   # Do not change this
 layout: default
@@ -35,6 +33,7 @@ footer: >   # Translate all the words below, including "Date:", "Editor:", Updat
 # 请阅读翻译指南 https://www.w3.org/WAI/about/translating/#important
 # 请阅读此资源的翻译说明 https://github.com/w3c/wai-accessibility-principles/blob/master/README.md
 # 翻译说明结束
+
 ---
 
 
