@@ -9,7 +9,7 @@ lang: zh-hans   # Change "en" to the translated language shortcode from https://
 last_updated: 2019-07-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "李松峰"   # Replace @@ with translator name
-  link: "https://lisongfeng.cn"
+  link: "https://lisongfeng.cn/index.php/start-page.html"
 - name: "冉若曦"
   link: "https://www.w3.org/people/roy"
 
