@@ -4,11 +4,11 @@ title_html: 'Changelog for <a href="https://www.w3.org/WAI/fundamentals/accessib
 nav_title: "Changelog"
 lang: en
 last_updated: 2019-07-13
-permalink: /fundamentals/accessibility-principles/
+permalink: /fundamentals/accessibility-principles/changelog/
 ref: /fundamentals/accessibility-principles/changelog/
 layout: default
 github:
-   repository: /wai-accessibility-principles/
+   repository: w3c/wai-accessibility-principles/
    path: 'changelog.md'
 changelog: /fundamentals/accessibility-principles/changelog/
 ---
