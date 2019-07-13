@@ -1,3 +1,18 @@
+---
+title: "Changelog for Accessibility Principles"
+title_html: 'Changelog for <a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a>'
+nav_title: "Changelog"
+lang: en
+last_updated: 2019-07-13
+permalink: /fundamentals/accessibility-principles/
+ref: /fundamentals/accessibility-principles/changelog/
+layout: default
+github:
+   repository: /wai-accessibility-principles/
+   path: 'changelog.md'
+changelog: /fundamentals/accessibility-principles/changelog/
+---
+
 ## May 2019
 
 * Links to QuickRef updated
