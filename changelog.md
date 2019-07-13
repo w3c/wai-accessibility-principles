@@ -9,7 +9,7 @@ ref: /fundamentals/accessibility-principles/changelog/
 parent: /fundamentals/accessibility-principles/
 layout: default
 github:
-   repository: /wai-accessibility-principles/
+   repository: w3c/wai-accessibility-principles/
    path: 'changelog.md'
 ---
 
