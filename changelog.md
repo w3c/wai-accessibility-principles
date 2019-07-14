@@ -51,34 +51,34 @@ List item added and changed from:
 
 * [Heading with seizures](/fundamentals/accessibility-principles/#safe).
 
-   * Heading changed from:
+  * Heading changed from:
 
-  ```
-  Content does not cause seizures
-  ``` 
+    ```
+    Content does not cause seizures
+    ``` 
+ 
+    to:
 
-  to:
-
-  ```
-  Content does not cause seizures and physical reactions
-  ```
+    ```
+    Content does not cause seizures and physical reactions
+    ```
 
   * Sentence and list added. Was:
 
-  ```
-  Content that flashes at certain rates or patterns can cause photosensitive reactions, including seizures. Flashing content is ideally avoided entirely or only used in a way that does not cause known risks.
-  ```
+    ```
+    Content that flashes at certain rates or patterns can cause photosensitive reactions, including seizures. Flashing content is ideally avoided entirely or only used in a way that does not cause known risks.
+    ```
 
-  now:
+    now:
 
-  ```
-  Content that flashes at certain rates or patterns can cause photosensitive reactions, including seizures. Flashing content is ideally avoided entirely or only used in a way that does not cause known risks. Also animations and moving content can cause discomfort and physical reactions.
+    ```
+    Content that flashes at certain rates or patterns can cause photosensitive reactions, including seizures. Flashing content is ideally avoided entirely or only used in a way that does not cause known risks. Also animations and moving content can cause discomfort and physical reactions.
   
-  Examples of avoiding causing seizures and physical reactions:
-  - Do not include content that flashes at particular rates and patterns
-  - Warn users before flashing content is presented, and provide alternatives
-  - Provide mechanisms to switch off animations, unless they are essential
-  ```
+    Examples of avoiding causing seizures and physical reactions:
+    - Do not include content that flashes at particular rates and patterns
+    - Warn users before flashing content is presented, and provide alternatives
+    - Provide mechanisms to switch off animations, unless they are essential
+    ```
 
 * New section added – including heading, paragraphs, list, and 2 subsections:  
   **[Users can use different input modalities beyond keyboard](/fundamentals/accessibility-principles/#modalities)**
