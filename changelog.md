@@ -50,7 +50,8 @@ List item added and changed from:
   ```
 
 * [Heading with seizures](/fundamentals/accessibility-principles/#safe).
-  Heading changed from:
+
+   * Heading changed from:
 
   ```
   Content does not cause seizures
@@ -62,7 +63,7 @@ List item added and changed from:
   Content does not cause seizures and physical reactions
   ```
 
-* Sentence and list added. Was:
+  * Sentence and list added. Was:
 
   ```
   Content that flashes at certain rates or patterns can cause photosensitive reactions, including seizures. Flashing content is ideally avoided entirely or only used in a way that does not cause known risks.
