@@ -91,7 +91,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 -   **[用户代理无障碍指南 (UAAG)](/standards-guidelines/uaag/)**
 -   **[无障碍创作工具指南 (ATAG)](/standards-guidelines/atag/)**
 
-还有一个用于**[无障碍富网络应用(WAI-ARIA)]的WAI规范(https://www.w3.org/WAI/intro/aria.php)** ，其中包括使用Ajax、JavaScript和相关web技术开发的动态内容和高级用户界面控件。
+还有一个用于**[无障碍富网络应用(WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**的WAI规范，其中包括使用Ajax、JavaScript和相关web技术开发的动态内容和高级用户界面控件。
 
 {% include excol.html type="end" %}
 
