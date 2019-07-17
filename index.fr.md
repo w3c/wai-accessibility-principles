@@ -18,6 +18,7 @@ footer: >
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
   <p lang="en"><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/" hreflang="en">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments" hreflang="en">Acknowledgments</a>.</p>
   <p lang="en">Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/" hreflang="en">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf" hreflang="en">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/" hreflang="en">WAI-AGE Project</a>.</p>
+changelog: /fundamentals/accessibility-principles/changelog/
 ---
 
 {::nomarkdown}

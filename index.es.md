@@ -26,9 +26,11 @@ image: /content-images/wai-accessibility-principles/social.png
 teaser_text: La página de Principios de Accesibilidad introduce algunos de los requisitos de accesibilidad web para sitios web, aplicaciones web, navegadores y otras herramientas, facilitando referencias a estándares internacionales de la Iniciativa de Accesibilidad Web del W3C (WAI) y a historias de usuarios web.
 
 footer: >   # Do not change the dates below.
-  <p><strong>Fecha:</strong> Actualizado 10 Mayo 2019.</p>
+  <p><strong>Fecha:</strong> Actualizado 10 Mayo 2019. CHANGELOG</p>
   <p><strong>Editores:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Agradecimientos</a>.</p>
   <p>Desarrollado por el Grupo de Trabajo de Educación y Divulgación (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previamente desarrollado con la <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, con el apoyo del <a href="https://www.w3.org/WAI/WAI-AGE/">Proyecto WAI-AGE </a>.</p>
+
+changelog: /fundamentals/accessibility-principles/changelog/
 
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
 # Read Translations Notes for this resource at https://github.com/w3c/wai-accessibility-principles/blob/master/README.md
