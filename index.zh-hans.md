@@ -1,8 +1,8 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: 无障碍原理   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "无障碍原理"   # A short title that is used in the navigation
+title: 无障碍原则   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "无障碍原则"   # A short title that is used in the navigation
 
 lang: zh-hans   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
@@ -23,12 +23,12 @@ permalink: /fundamentals/accessibility-principles/zh-hans   # Add the language s
 description: 网站、web应用程序、浏览器和其他工具的基本web无障碍需求概述。   # translate this sentence
 image: /content-images/wai-accessibility-principles/social.png
 
-teaser_text: 无障碍原理页面介绍了网站、web应用程序、浏览器和其他工具的一些web无障碍需求。它提供了从W3C web无障碍推荐组(WAI)到Web用户故事的国际标准的参考。
+teaser_text: 无障碍原则页面介绍了网站、web应用程序、浏览器和其他工具的一些web无障碍需求。它提供了从W3C web无障碍推进(WAI)到Web用户故事的国际标准的参考。
 
 footer: >   # Translate all the words below, including "Date:", "Editor:", Updated, and the month. Do not change these dates.
   <p><strong>日期：</strong> 更新于2019年5月10日。</p>
   <p><strong>编者：</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">致谢</a>.</p>
-  <p>由教育及外展工作组(<a href="http://www.w3.org/WAI/EO/">EOWG</a>)开发. 之前该网页受 <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE 任务小组</a>和<a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE项目</a>的支持.</p>
+  <p>由教育及外展工作组(<a href="http://www.w3.org/WAI/EO/">EOWG</a>)开发. 之前该网页受 <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE 特别任务团</a>和<a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE项目</a>的支持.</p>
 
 # 请阅读翻译指南 https://www.w3.org/WAI/about/translating/#important
 # 请阅读此资源的翻译说明 https://github.com/w3c/wai-accessibility-principles/blob/master/README.md
@@ -41,7 +41,7 @@ footer: >   # Translate all the words below, including "Date:", "Editor:", Updat
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-本页面介绍了网站、web应用程序、浏览器和其他工具的一些web无障碍要求。它提供了从W3C web无障碍推荐组(WAI)到[Web用户故事](/people-use-web/user-stories/)的国际标准的参考。
+本页面介绍了网站、web应用程序、浏览器和其他工具的一些web无障碍要求。它提供了从W3C web无障碍推进(WAI)到[Web用户故事](/people-use-web/user-stories/)的国际标准的参考。
 
 **Note:** 这不是所有无障碍需求的完整列表。
 
@@ -89,7 +89,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 -   **[Web内容无障碍指南 (WCAG)](/standards-guidelines/wcag/)**
 -   **[用户代理无障碍指南 (UAAG)](/standards-guidelines/uaag/)**
--   **[无障碍创作工具指南 (ATAG)](/standards-guidelines/atag/)**
+-   **[创作工具无障碍指南 (ATAG)](/standards-guidelines/atag/)**
 
 还有一个用于**[无障碍富网络应用(WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**的WAI规范，其中包括使用Ajax、JavaScript和相关web技术开发的动态内容和高级用户界面控件。
 
