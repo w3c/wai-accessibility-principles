@@ -127,7 +127,7 @@ Les alternatives textuelles peuvent être présentées sous des formes variées.
     determined](https://www.w3.org/TR/ATAG20/#gl_a22){: hreflang="en"}
 -   [Guideline A.3.7: (For the authoring tool user interface) Ensure
     that previews are at least as accessible as in-market user
-    agents](https://www.w3.org/TR/ATAG20/#gl_b37){: hreflang="en"}
+    agents](https://www.w3.org/TR/ATAG20/#gl_a37){: hreflang="en"}
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b){: hreflang="en"}
 
@@ -194,7 +194,7 @@ Des retranscriptions texte bien écrites contenant la séquence correcte de tout
     authors](https://www.w3.org/TR/ATAG20/#gl_a21)
 -   [Guideline A.3.7: (For the authoring tool user interface) Ensure
     that previews are at least as accessible as in-market user
-    agents](https://www.w3.org/TR/ATAG20/#gl_b37)
+    agents](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
@@ -267,7 +267,7 @@ Pour que les utilisateurs puissent changer la présentation des contenus, il est
     determined](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Guideline A.3.7: (For the authoring tool user interface) Ensure
     that previews are at least as accessible as in-market user
-    agents](https://www.w3.org/TR/ATAG20/#gl_b37)
+    agents](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 
@@ -347,7 +347,7 @@ Un contenu perceptible est plus facile à lire et à voir. Par exemple :
     guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.3.7: (For the authoring tool user interface) Ensure
     that previews are at least as accessible as in-market user
-    agents](https://www.w3.org/TR/ATAG20/#gl_b37)
+    agents](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Part B. Support the production of accessible
     content](https://www.w3.org/TR/ATAG20/#part_b)
 

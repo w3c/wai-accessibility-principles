@@ -130,7 +130,7 @@ Las alternativas textuales pueden ser presentadas de varias maneras. Por ejemplo
 -   [Principio A.1: Las interfaces de usuario de las herramientas de autor siguen las pautas de accesibilidad aplicables](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Pauta A.2.1: (Para la interfaz de herramienta de autor) Hacer disponible el contenido alternativo para los autores](https://www.w3.org/TR/ATAG20/#gl_a21)
 -   [Pauta A.2.2: (Para la interfaz de herramienta de autor) Asegurar que la presentación de la vista de edición pueda ser determinada programáticamente](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Pauta A.3.7: (Para la interfaz de herramienta de autor) Asegurar que las previsualizaciones son al menos tan accesibles como los agentes de usuario  del mercado](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Pauta A.3.7: (Para la interfaz de herramienta de autor) Asegurar que las previsualizaciones son al menos tan accesibles como los agentes de usuario  del mercado](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Apartado B. Soporte la producción de contenido accesible](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
@@ -180,7 +180,7 @@ Las transcripciones de texto bien escritas que contienen una correcta secuencia 
 
 -   [Principio A.1: Las interfaces de usuario de las herramientas de autor siguen las pautas de accesibilidad aplicables](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Pauta A.2.1: (Para la interfaz de herramienta de autor) Hacer disponible el contenido alternativo para los autores](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [Pauta A.3.7: (Para la interfaz de herramienta de autor) Asegurar que las previsualizaciones son al menos tan accesibles como los agentes de usuario  del mercado](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Pauta A.3.7: (Para la interfaz de herramienta de autor) Asegurar que las previsualizaciones son al menos tan accesibles como los agentes de usuario  del mercado](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Apartado B. Soporte la producción de contenido accesible](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
@@ -231,7 +231,7 @@ El cumplimiento de este requisito permite que el contenido se lea correctamente 
 
 -   [Principio A.1: Las interfaces de usuario de las herramientas de autor siguen las pautas de accesibilidad aplicables](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Pauta A.2.2: (Para la interfaz de herramienta de autor) Asegurar que la presentación de la vista de edición pueda ser determinada programáticamente](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Pauta A.3.7: (Para la interfaz de herramienta de autor) Asegurar que las previsualizaciones son al menos tan accessibles como los agentes de usuario del mercado](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Pauta A.3.7: (Para la interfaz de herramienta de autor) Asegurar que las previsualizaciones son al menos tan accessibles como los agentes de usuario del mercado](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Apartado B. Soporte la producción de contenido accesible](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -290,7 +290,7 @@ Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer 
 **ATAG**
 
 -   [Principio A.1: Las interfaces de usuario de las herramientas de autor siguen las pautas de accesibilidad aplicables](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Pauta A.3.7: (Para la interfaz de herramienta de autor) Asegurar que las previsualizaciones son al menos tan accessibles como los agentes de usuario del mercado](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Pauta A.3.7: (Para la interfaz de herramienta de autor) Asegurar que las previsualizaciones son al menos tan accessibles como los agentes de usuario del mercado](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Apartado B. Soporte la producción de contenido accesible](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}

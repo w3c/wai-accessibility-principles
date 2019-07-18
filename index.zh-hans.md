@@ -131,7 +131,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 -   [准则 A.1: 开发工具界面（应）遵循可应用的无障碍访问性准则](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [指南 A.2.1: （在开发工具界面中）应使用户可以使用替代内容](https://www.w3.org/TR/ATAG20/#gl_a21)
 -   [指南 A.2.2: （在开发工具界面中）应保证编辑视图之呈现是由程序决定的](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [指南 A.3.7: （在开发工具界面中）应保证预览应至少于市场中的用户代理的无障碍可访问性相同](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [指南 A.3.7: （在开发工具界面中）应保证预览应至少于市场中的用户代理的无障碍可访问性相同](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [B部分. 支持无障碍内容的生成](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
@@ -181,7 +181,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 -   [准则 A.1: 开发工具界面（应）遵循可应用的无障碍访问性准则](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [指南 A.2.1:（在开发工具界面中）应使用户可以使用替代内容](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [指南 A.3.7:（在开发工具界面中）应保证预览应至少于市场中的用户代理的无障碍可访问性相同](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [指南 A.3.7:（在开发工具界面中）应保证预览应至少于市场中的用户代理的无障碍可访问性相同](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [B部分. 支持无障碍内容的生成](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
@@ -232,7 +232,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 -   [准则 A.1: 开发工具界面（应）遵循可应用的无障碍访问性准则](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [指南 A.2.2: （在开发工具界面中）应保证编辑视图之呈现是由程序决定的](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [指南 A.3.7: （在开发工具界面中）应保证预览应至少于市场中的用户代理的无障碍可访问性相同](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [指南 A.3.7: （在开发工具界面中）应保证预览应至少于市场中的用户代理的无障碍可访问性相同](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [B部分. 支持无障碍内容的生成](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -291,7 +291,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 **ATAG**
 
 -   [准则 A.1: 开发工具界面（应）遵循可应用的无障碍访问性准则](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [指南 A.3.7: （在开发工具界面中）应保证预览应至少于市场中的用户代理的无障碍可访问性相同](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [指南 A.3.7: （在开发工具界面中）应保证预览应至少于市场中的用户代理的无障碍可访问性相同](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [B部分. 支持无障碍内容的生成](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
