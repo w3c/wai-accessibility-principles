@@ -142,11 +142,11 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 {% include excol.html type="middle" %}
 
 -   [Alex, 반복성 긴장 장애가 있는 리포터](/people-use-web/user-stories/#reporter)
--   [Martine, 청력 문제가 있는 온라인 수강생](/people-use-web/user-stories/#onlinestudent)
+-   [Martine, 청력이 약한 온라인 수강생](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, 시각장애가 있는 고위 간부](/people-use-web/user-stories/#accountant)
 -   [Preety, 주의력결핍과다활동장애와 난독증이 있는 중학생](/people-use-web/user-stories/#classroomstudent)
 -   [Yun, 저시력, 수전증, 경도 건망증이 있는 퇴직자](/people-use-web/user-stories/#retiree)
--   [Kaseem, 청각장애와 시각장애가 있는 십대](/people-use-web/user-stories/#teenager)
+-   [Kaseem, 시청각장애가 있는 10대](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -169,95 +169,96 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 
 **WCAG**
 
--   [Guideline 1.2 - Time-based Media](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
+-   [지침 1.2 - 시간에 기반한 미디어](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
 
 **UAAG**
 
--   [Guideline 1.1 - Alternative content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
+-   [Guide지침line 1.1 - 대체 콘텐츠](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_b37)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [지침 A.2.1: (저작 도구 사용자 인터페이스를 위한) 저자가 대체 텍스트에 접근할 수 있도록 하라.](https://www.w3.org/TR/ATAG20/#gl_a21)
+-   [지침 A.3.7: (저작 도구 사용자 인터페이스를 위한) 미리보기는 적어도 인마켓 사용자 에이전트가 접근할 수 있도록 하라.](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [파트 B. 접근 가능한 콘텐츠 생산을 지원하라.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 {% include excol.html type="start" %}
 
-#### Stories related to multimedia {#stories-related-to-multimedia}
+#### 멀티미디어와 관련된 이야기 {#stories-related-to-multimedia}
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Martine, 청력이 약한 온라인 수강생](/people-use-web/user-stories/#onlinestudent)
+-   [Ilya, 시각장애가 있는 고위 간부](/people-use-web/user-stories/#accountant)
+-   [Kaseem, 시청각장애가 있는 10대](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
-### Content can be presented in different ways {#adaptable}
+### 콘텐츠는 여러 방법으로 제공될 수 있습니다. {#adaptable}
 
-For users to be able to change the presentation of content, it is necessary that:
+사용자를 위해 콘텐츠 제공방식을 바꾸고자 한다면 다음 내용을 따라야 합니다. :
 
--   Headings, lists, tables, input fields, and content structures are marked-up properly
--   Sequences of information or instructions are independent of any presentation
--   Browsers and assistive technologies provide settings to customize the presentation
+-   헤딩, 목록, 표, 입력 필드와 콘텐츠 구조들은 적절하게 마크업되어야 합니다.
+-   정보나 지시사항의 순서는 보여지는 것에 의존하면 안됩니다.
+-   브라우저와 보조 기술은 제공 방식을 개인화 할 수 있는 설정을 제공해야 합니다.
 
-Meeting this requirement allows content to be correctly read aloud, enlarged, or adapted to meet the needs and preferences of different people. For instance, it can be presented using custom color combinations, text size, or other styling to facilitate reading. This requirement also facilitates other forms of adaptation, including automatic generation of page outlines and summaries to help people get an overview and to focus on particular parts more easily.
+위의 조건들을 충족한다면 콘텐츠를 정확하기 읽고, 확대하고, 각 개인의 선호와 필요를 충족시킬 수 있을 것입니다. 예를 들어, 개인이 설정한 색상 조합, 폰트 사이즈 등과 같은 읽는 것을 돕는 여러 스타일 속성을 사용해 제공할 수 있습니다. 사람들이 개요에 접근할 수 있도록 하고, 특정 부분에 더 쉽게 접근할 수 있도록 하기 위한 페이지 아웃라인과 요약을 자동으로 해주는 것과 같은 다른 방법에서 또한 적용할 수 있습니다.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to adaptability (links to technical specification)
+#### 적용과 관련된 접근성 조건 (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Guideline 1.3 - Adaptable](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
+-   [지침 1.3 - 적용가능한](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
 
 **UAAG**
 
--   [Guideline 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
--   [Guideline 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
--   [Guideline 1.6 - Synthesized speech configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
--   [Guideline 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [Guideline 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
--   [Guideline 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
+-   [지침 1.4 - 텍스트 설정](https://www.w3.org/TR/UAAG20/#gl-text-config)
+-   [지침 1.5 - 볼륨 설정](https://www.w3.org/TR/UAAG20/#gl-volume-config)
+-   [지침 1.6 - 합성된 음성 설정](https://www.w3.org/TR/UAAG20/#gl-speech-config)
+-   [지침 1.7 - 사용자 스타일 시트 설정](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+-   [지침 1.9 - 다른 보기 방법](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+-   [지침 1.10 - 요소 정보](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_b37)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [지침 A.2.2: (저작 도구 사용자 인터페이스를 위한) 편집창 화면을 프로그램적으로 조작할 수 있도록 하라.](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [지침 A.3.7: (저작 도구 사용자 인터페이스를 위한) 미리보기는 적어도 인마켓 사용자 에이전트가 접근할 수 있도록 하라.](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Part B. 접근 가능한 콘텐츠 생산을 지원하라.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to adaptability
+#### 적용과 관련된 이야기
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness](/people-use-web/user-stories/#shopper)
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Lee, 온라인 쇼핑을 하는 색맹인](/people-use-web/user-stories/#shopper)
+-   [Alex, 반복성 긴장 장애가 있는 리포터](/people-use-web/user-stories/#reporter)
+-   [Ilya, 시각장애가 있는 고위 간부](/people-use-web/user-stories/#accountant)
+-   [Preety, 주의력결핍과다활동장애와 난독증이 있는 중학생](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, 저시력, 수전증, 경도 건망증이 있는 퇴직자](/people-use-web/user-stories/#retiree)
+-   [Luis, 다운증후군에 있는 슈퍼마켓 직원](/people-use-web/user-stories/#supermarketassistant)
+-   [Kaseem, 시청각장애가 있는 10대](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
-### Content is easier to see and hear {#distinguishable}
+### 보고 듣기 더 쉬운 콘텐츠 {#distinguishable}
 
 Distinguishable content is easier to see and hear. Such content includes:
+구별가능한 콘텐츠는 보고 듣기 더 쉽습니다. 다음 콘텐츠들이 포함됩니다. : 
 
--   Color is not used as the only way of conveying information or identifying content
--   Default foreground and background color combinations provide sufficient contrast
--   When users resize text up to 400% or change text spacing, no information is lost
--   Text reflows in small windows ("viewports") and when users make the text larger
+-   색상이 정보 전달이나 콘텐츠 구분에 유일한 방법으로 사용되면 안됩니다. 
+-   기본 전경색-배경색의 조합응ㄴ 충분한 대비를 제공해야 합니다.
+-   사용자가 텍스트를 400%로 조절하거나 텍스트 간격을 조정했을 때 정보 유실이 없어야 합니다.
+-   작은 화면(뷰포트)이나 텍스트를 크게 했을 때 텍스트는 위치가 재조정되어야 합니다.
 -   Images of text are resizable, replaced with actual text, or avoided where possible
 -   Users can pause, stop, or adjust the volume of audio that is played on a website
 -   Background audio is low or can be turned off, to avoid interference or distraction
