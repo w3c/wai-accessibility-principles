@@ -252,40 +252,39 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 
 ### 보고 듣기 더 쉬운 콘텐츠 {#distinguishable}
 
-Distinguishable content is easier to see and hear. Such content includes:
-구별가능한 콘텐츠는 보고 듣기 더 쉽습니다. 다음 콘텐츠들이 포함됩니다. : 
+구별 가능한 콘텐츠는 보고 듣기 더 쉽습니다. 다음 콘텐츠들이 포함됩니다. : 
 
 -   색상이 정보 전달이나 콘텐츠 구분에 유일한 방법으로 사용되면 안됩니다. 
--   기본 전경색-배경색의 조합응ㄴ 충분한 대비를 제공해야 합니다.
+-   기본 전경색-배경색의 조합은 충분한 대비를 제공해야 합니다.
 -   사용자가 텍스트를 400%로 조절하거나 텍스트 간격을 조정했을 때 정보 유실이 없어야 합니다.
 -   작은 화면(뷰포트)이나 텍스트를 크게 했을 때 텍스트는 위치가 재조정되어야 합니다.
--   Images of text are resizable, replaced with actual text, or avoided where possible
--   Users can pause, stop, or adjust the volume of audio that is played on a website
--   Background audio is low or can be turned off, to avoid interference or distraction
+-   텍스트 이미지는 조절 가능하거나 실제 텍스트로 교체되거나 가능하면 피해야 합니다. 
+-   사용자가 웹 사이트에서 재생되는 소리의 볼륨을 조절하거나 멈출 수 있어야 합니다. 
+-   배경음악의 볼륨이 낮거나 끌 수 있어야 하고 방해 요인이 되어서는 안됩니다. 
 
-Meeting this requirement helps separate foreground from background, to make important information more distinguishable. This includes considerations for people who do not use assistive technologies and for people using assistive technologies who may observe interference from prominent audio or visual content in the background. For instance, many people with color blindness do not use any particular tools and rely on a proper design that provides sufficient color contrast between text and its surrounding background. For others, audio that is automatically played could interfere with text-to-speech or with [assistive listening devices (ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition").
+위의 내용들을 준수하는 것은 중요한 정보를 더 눈에 띄게 하기 위한 전경과 배경 구분에 도움이 됩니다. 보조 기술을 사용하지 않는 사람이나 소리, 배경에 있는 콘텐츠로 탐색하는 데에 방해를 받는 보조 기술을 사용하는 사람 모두를 고려한 것입니다. 예를 들어, 색맹이 있는 사람들은 특별하나 도구를 사용하지 않고, 텍스트와 주변 배경 사이의 충분한 대비를 제공하는 적절한 디자인에 의존합니다. 또 다른 사람들에게는 자동으로 재생되는 소리가 텍스트 음성변환이나 [assistive listening devices (ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition")의 사용을 방해할 수 있습니다. 
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to distinguishability (links to technical specification)
+#### 구별 가능성(Distinguishability)과 관련된 접근성 필요 조건(기술 명세 링크)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Guideline 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+-   [지침 1.4 - 구별 가능성(Distinguishable)](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
 
 **UAAG**
 
--   [Guideline 1.3 - Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
--   [Guideline 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
--   [Guideline 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
--   [Guideline 1.6 - Synthesized speech configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
--   [Guideline 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [Guideline 1.8 - Orientation in viewports](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
--   [Guideline 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
--   [Guideline 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
+-   [지침 1.3 - Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
+-   [지침 1.4 - 텍스트 설정](https://www.w3.org/TR/UAAG20/#gl-text-config)
+-   [지침 1.5 - 볼륨 설정](https://www.w3.org/TR/UAAG20/#gl-volume-config)
+-   [지침 1.6 - 합성된 음성 설정](https://www.w3.org/TR/UAAG20/#gl-speech-config)
+-   [지침 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+-   [지침 1.8 - Orientation in viewports](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
+-   [지침 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+-   [지침 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
@@ -300,7 +299,7 @@ Meeting this requirement helps separate foreground from background, to make impo
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness](/people-use-web/user-stories/#shopper)
+-   [Lee, 온라인 쇼핑을 하는 색맹인](/people-use-web/user-stories/#shopper)
 -   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
 -   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
@@ -721,4 +720,3 @@ Meeting this requirement helps maximize compatibility with current and future us
 {% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
-
