@@ -245,7 +245,7 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 -   [Ilya, 시각장애가 있는 고위 간부](/people-use-web/user-stories/#accountant)
 -   [Preety, 주의력결핍과다활동장애와 난독증이 있는 중학생](/people-use-web/user-stories/#classroomstudent)
 -   [Yun, 저시력, 수전증, 경도 건망증이 있는 퇴직자](/people-use-web/user-stories/#retiree)
--   [Luis, 다운증후군에 있는 슈퍼마켓 직원](/people-use-web/user-stories/#supermarketassistant)
+-   [Luis, 다운증후군이 있는 슈퍼마켓 직원](/people-use-web/user-stories/#supermarketassistant)
 -   [Kaseem, 시청각장애가 있는 10대](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
@@ -294,16 +294,16 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to distinguishability
+#### 구별 가능성과 관련된 이야기
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 -   [Lee, 온라인 쇼핑을 하는 색맹인](/people-use-web/user-stories/#shopper)
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Martine, 청력이 약한 온라인 수강생](/people-use-web/user-stories/#onlinestudent)
+-   [Ilya, 시각장애가 있는 고위 간부](/people-use-web/user-stories/#accountant)
+-   [Yun, 저시력, 수전증, 경도 건망증이 있는 퇴직자](/people-use-web/user-stories/#retiree)
+-   [Kaseem, 시청각장애가 있는 10대](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -352,8 +352,8 @@ Meeting this requirement helps keyboard users, including people using alternativ
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
+-   [Alex, 반복성 긴장 장애가 있는 리포터](/people-use-web/user-stories/#reporter)
+-   [Ilya, 시각장애가 있는 고위 간부](/people-use-web/user-stories/#accountant)
 
 {% include excol.html type="end" %}
 
@@ -397,11 +397,11 @@ Examples of providing enough time include providing mechanisms to:
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Alex, 반복성 긴장 장애가 있는 리포터](/people-use-web/user-stories/#reporter)
+-   [Preety, 주의력결핍과다활동장애와 난독증이 있는 중학생](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, 저시력, 수전증, 경도 건망증이 있는 퇴직자](/people-use-web/user-stories/#retiree)
+-   [Luis, 다운증후군이 있는 슈퍼마켓 직원](/people-use-web/user-stories/#supermarketassistant)
+-   [Kaseem, 시청각장애가 있는 10대](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -485,12 +485,12 @@ Meeting this requirement helps people to navigate through web pages in different
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Alex, 반복성 긴장 장애가 있는 리포터](/people-use-web/user-stories/#reporter)
+-   [Ilya, 시각장애가 있는 고위 간부](/people-use-web/user-stories/#accountant)
+-   [Preety, 주의력결핍과다활동장애와 난독증이 있는 중학생](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, 저시력, 수전증, 경도 건망증이 있는 퇴직자](/people-use-web/user-stories/#retiree)
+-   [Luis, 다운증후군이 있는 슈퍼마켓 직원](/people-use-web/user-stories/#supermarketassistant)
+-   [Kaseem, 시청각장애가 있는 10대](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -524,9 +524,9 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
+-   [Alex, 반복성 긴장 장애가 있는 리포터](/people-use-web/user-stories/#reporter)
+-   [Yun, 저시력, 수전증, 경도 건망증이 있는 퇴직자](/people-use-web/user-stories/#retiree)
+-   [Luis, 다운증후군이 있는 슈퍼마켓 직원](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -567,11 +567,11 @@ Meeting this requirement helps software, including assistive technology, to proc
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
+-   [Martine, 청력이 약한 온라인 수강생](/people-use-web/user-stories/#onlinestudent)
+-   [Ilya, 시각장애가 있는 고위 간부](/people-use-web/user-stories/#accountant)
+-   [Preety, 주의력결핍과다활동장애와 난독증이 있는 중학생](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, 저시력, 수전증, 경도 건망증이 있는 퇴직자](/people-use-web/user-stories/#retiree)
+-   [Luis, 다운증후군이 있는 슈퍼마켓 직원](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -614,12 +614,12 @@ Meeting this requirement helps people to quickly learn the functionality and nav
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Alex, 반복성 긴장 장애가 있는 리포터](/people-use-web/user-stories/#reporter)
+-   [Ilya, 시각장애가 있는 고위 간부](/people-use-web/user-stories/#accountant)
+-   [Preety, 주의력결핍과다활동장애와 난독증이 있는 중학생](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, 저시력, 수전증, 경도 건망증이 있는 퇴직자](/people-use-web/user-stories/#retiree)
+-   [Luis, 다운증후군이 있는 슈퍼마켓 직원](/people-use-web/user-stories/#supermarketassistant)
+-   [Kaseem, 시청각장애가 있는 10대](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -662,11 +662,11 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness](/people-use-web/user-stories/#shopper)
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
+-   [Lee, 온라인 쇼핑을 하는 색맹인](/people-use-web/user-stories/#shopper)
+-   [Alex, 반복성 긴장 장애가 있는 리포터](/people-use-web/user-stories/#reporter)
+-   [Preety, 주의력결핍과다활동장애와 난독증이 있는 중학생](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, 저시력, 수전증, 경도 건망증이 있는 퇴직자](/people-use-web/user-stories/#retiree)
+-   [Luis, 다운증후군이 있는 슈퍼마켓 직원](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -710,12 +710,12 @@ Meeting this requirement helps maximize compatibility with current and future us
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness](/people-use-web/user-stories/#shopper)
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Lee, 온라인 쇼핑을 하는 색맹인](/people-use-web/user-stories/#shopper)
+-   [Alex, 반복성 긴장 장애가 있는 리포터](/people-use-web/user-stories/#reporter)
+-   [Ilya, 시각장애가 있는 고위 간부](/people-use-web/user-stories/#accountant)
+-   [Preety, 주의력결핍과다활동장애와 난독증이 있는 중학생](/people-use-web/user-stories/#classroomstudent)
+-   [Luis, 다운증후군이 있는 슈퍼마켓 직원](/people-use-web/user-stories/#supermarketassistant)
+-   [Kaseem, 시청각장애가 있는 10대](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
