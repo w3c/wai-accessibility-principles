@@ -229,9 +229,9 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 **ATAG**
 
 -   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [지침 A.2.2: (저작 도구 사용자 인터페이스를 위한) 편집창 화면을 프로그램적으로 조작할 수 있도록 하라.](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [지침 A.3.7: (저작 도구 사용자 인터페이스를 위한) 미리보기는 적어도 인마켓 사용자 에이전트가 접근할 수 있도록 하라.](https://www.w3.org/TR/ATAG20/#gl_b37)
--   [Part B. 접근 가능한 콘텐츠 생산을 지원하라.](https://www.w3.org/TR/ATAG20/#part_b)
+-   [지침 A.2.2: (저작 도구 사용자 인터페이스를 위한) 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [지침 A.3.7: (저작 도구 사용자 인터페이스를 위한) 미리보기는 적어도 인마켓 사용자 에이전트가 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -277,20 +277,20 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 
 **UAAG**
 
--   [지침 1.3 - Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
+-   [지침 1.3 - 강조(Highlighting)](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
 -   [지침 1.4 - 텍스트 설정](https://www.w3.org/TR/UAAG20/#gl-text-config)
 -   [지침 1.5 - 볼륨 설정](https://www.w3.org/TR/UAAG20/#gl-volume-config)
 -   [지침 1.6 - 합성된 음성 설정](https://www.w3.org/TR/UAAG20/#gl-speech-config)
--   [지침 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [지침 1.8 - Orientation in viewports](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
--   [지침 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
--   [지침 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
+-   [지침 1.7 - 사용자 스타일시트 설정](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+-   [지침 1.8 - 뷰포트 안에 맞추기](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
+-   [지침 1.9 - 대체 화면 제공(Alternative views)](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+-   [지침 1.10 - 요소 정보](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_b37)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [원칙 A.1: 저작 도구 사용자 인터페이스는 적용할 수 있는 접근성 지침들을 준수해야 한다.](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [지침 A.3.7: (저작 도구 사용자 인터페이스를 위해) 적어도 인마켓 사용자 에이전트 만큼의 미리보기 접근성을 보장해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
