@@ -127,9 +127,9 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 **ATAG**
 
 -   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [지침 A.2.1: (저작 도구 사용자 인터페이스를 위한) 저자가 대체 텍스트에 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [지침 A.2.2: (저작 도구 사용자 인터페이스를 위한) 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [지침 A.3.7: (저작 도구 사용자 인터페이스를 위한) 미리보기는 적어도 인마켓 사용자 에이전트가 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [지침 A.2.1: 저작 도구 사용자 인터페이스에서 저자가 대체 텍스트에 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a21)
+-   [지침 A.2.2: 저작 도구 사용자 인터페이스에서 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [지침 A.3.7: 저작 도구 사용자 인터페이스에서 미리보기는 적어도 인마켓 사용자 에이전트가 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b37)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
@@ -178,8 +178,8 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 **ATAG**
 
 -   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [지침 A.2.1: (저작 도구 사용자 인터페이스를 위한) 저자가 대체 텍스트에 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [지침 A.3.7: (저작 도구 사용자 인터페이스를 위한) 미리보기는 적어도 인마켓 사용자 에이전트가 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [지침 A.2.1: 저작 도구 사용자 인터페이스에서 저자가 대체 텍스트에 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a21)
+-   [지침 A.3.7: 저작 도구 사용자 인터페이스에서 미리보기는 적어도 인마켓 사용자 에이전트가 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b37)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
@@ -229,8 +229,8 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 **ATAG**
 
 -   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [지침 A.2.2: (저작 도구 사용자 인터페이스를 위한) 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [지침 A.3.7: (저작 도구 사용자 인터페이스를 위한) 미리보기는 적어도 인마켓 사용자 에이전트가 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [지침 A.2.2: 저작 도구 사용자 인터페이스에서 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [지침 A.3.7: 저작 도구 사용자 인터페이스에서 미리보기는 적어도 인마켓 사용자 에이전트가 접근할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b37)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -289,7 +289,7 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 **ATAG**
 
 -   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [지침 A.3.7: (저작 도구 사용자 인터페이스를 위해) 적어도 인마켓 사용자 에이전트 만큼의 미리보기 접근성을 보장해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b37)
+-   [지침 A.3.7: 저작 도구 사용자 인터페이스에서 적어도 인마켓 사용자 에이전트 만큼의 미리보기 접근성을 보장해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b37)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -342,7 +342,7 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 **ATAG**
 
 -   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [지침 A.3.1: (For the authoring tool user interface) Provide keyboard access to authoring features](https://www.w3.org/TR/ATAG20/#gl_a31)
+-   [지침 A.3.1: 저작 도구 사용자 인터페이스에서 저작 기능에 키보드 접근성을 제공해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a31)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -381,13 +381,13 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 
 **UAAG**
 
--   [지침 2.8 - 시간 독립적인 인터랙션](https://www.w3.org/TR/UAAG20/#gl-time-independent)
+-   [지침 2.8 - 시간 독립적 상호작용](https://www.w3.org/TR/UAAG20/#gl-time-independent)
 -   [지침 2.10 - 시간 기반 미디어](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
 
 **ATAG**
 
 -   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [지침 A.3.2: (저작 도구 사용자 인터페이스를 위한) 저자에게 충분한 시간을 제공해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a32)
+-   [지침 A.3.2: 저작 도구 사용자 인터페이스에서 저자에게 충분한 시간을 제공해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a32)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -405,82 +405,82 @@ There is also a WAI specification for **[접근 가능한 리치 인터넷 어�
 
 {% include excol.html type="end" %}
 
-### Content does not cause seizures and physical reactions {#safe}
+### 콘텐츠는 발작이나 신체적 반응을 유발하면 안된다. {#safe}
 
-Content that flashes at certain rates or patterns can cause photosensitive reactions, including seizures. Flashing content is ideally avoided entirely or only used in a way that does not cause known risks. Also animations and moving content can cause discomfort and physical reactions.
+특정 속도로 번쩍이는 콘텐츠나 패턴은 발작을 포함한 감광성 반응을 유발할 수 있습니다. 번쩍이는 콘텐츠는 전반적으로 피해야 하고, 알려진 위험을 일으키지 않는 선에서만 사용해야 합니다.또한 애니메이션이나 움직이는 콘텐츠도 신체적 반응과 불편을 줄 수 있습니다.
 
-Examples of avoiding causing seizures and physical reactions:
+발작과 신체적 반응 유발을 피하는 방법들은 다음과 같습니다. :
 
--   Do not include content that flashes at particular rates and patterns
--   Warn users before flashing content is presented, and provide alternatives
--   Provide mechanisms to switch off animations, unless they are essential
+-   특정 속도로 번쩍이는 콘텐츠나 패턴은 지양해야 합니다.
+-   번쩍이는 콘텐츠가 나타나기 전 사용자에게 경고하고 대안을 제공해야 합니다.
+-   필수적인 것이 아니라면 애니메이션을 끌 수 있는 방법을 제공해야 합니다. 
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to seizures (links to technical specification)
+#### 발작과 관련된 접근성 필요조건 (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Guideline 2.3 - Seizures](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [지침 2.3 - 발작 예방](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
--   [Guideline 2.9 - Flashing](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
+-   [지침 2.9 - 번쩍임 예방](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
 
 **ATAG**
 
--   [Principle A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.3.3: (For the authoring tool user interface) Help authors avoid flashing that could cause seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
+-   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [지침 A.3.3: 저작 도구 사용자 인터페이스에서 저자가 발작을 유발하는 번쩍임을 피할 수 있도록 지원해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a33)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 
-### Users can easily navigate, find content, and determine where they are {#navigable}
+### 사용자는 쉽게 콘텐츠를 찾고 탐색할 수 있어야 하고, 그들의 위치를 결정할 수 있어야 합니다.{#navigable}
 
-Well organized content helps users to orient themselves and to navigate effectively. Such content includes:
+구조화가 잘된 콘텐츠는 사용자가 자신의 위치를 알고 효과적으로 탐색하도록 합니다. 다음 콘텐츠를 포함합니다. :
 
--   Pages have clear titles and are organized using descriptive section headings
--   There is more than one way to find relevant pages within a set of web pages
--   Users are informed about their current location within a set of related pages
--   There are ways to bypass blocks of content that are repeated on multiple pages
--   The keyboard focus is visible, and the focus order follows a meaningful sequence
--   The purpose of a link is evident, ideally even when the link is viewed on its own
+-   페이지는 명확한 제목을 갖고 있어야 하고, 섹션별 제목도 구조화가 잘 되어 있어야 합니다.
+-   웹 페이지 세트 내에서 관련된 페이지를 찾을 수 있는 방법을 한 개 이상 제공해야 합니다.
+-   웹 페이지 세트 내에서 현재 위치 정보를 사용자에게 제공해야 합니다.
+-   여러 페이지에서 반복적으로 있는 콘텐츠 요소를 뛰어 넘는 기능을 제공해야 합니다.
+-   키보드 포커스는 시각적으로 인지가 가능해야 하고, 포커스 순서는 의미적인 순서와 일치해야 합니다.
+-   링크의 목적은 명확하게 눈에 띄는 것이기에 해당 링크가 현재 보여질 때에도 명확해야 합니다.
 
-Meeting this requirement helps people to navigate through web pages in different ways, depending on their particular needs and preferences. For instance, while some people rely on hierarchical navigation structures such as menu bars to find specific web pages, others rely on search functions on websites instead. Some people may be seeing the content while others may be hearing it or seeing and hearing it at the same time. Some people may be using the content with only a mouse or a keyboard, while others may be using both.
+위의 필요조건을 충족한다면 사용자의 필요와 선호에 따라 다양한 방법으로 웹 페이지를 탐색하는 데에 도움이 될 것입니다. 예를 들어, 특정 페이지에 접근하기 위해 메뉴 바와 같은 계층적 내비게이션을 사용하는 사람이 있는 반면, 사이트의 기능 찾기를 사용하는 사람들도 있습니다. 콘텐츠를 보는 사람도 있고, 듣는 사람이 있고, 보면서 듣는 사람도 있을 것입니다. 마우스나 키보드로 탐색하는 사람이 있고, 마우스와 키보드를 동시에 사용하는 사람들도 있습니다. 
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to navigation (links to technical specification)
+#### 내비게이션과 관련된 접근성 필요조건 (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Guideline 2.4 - Navigable](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+-   [지침 2.4 - 탐색 가능](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
 
 **UAAG**
 
--   [Guideline 2.2 - 순차적 내비게이션](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
--   [Guideline 2.3 - 직접(direct) 내비게이션과 활성화](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
--   [Guideline 2.4 - Text search](https://www.w3.org/TR/UAAG20/#gl-search-text)
--   [Guideline 2.5 - Structural navigation](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
--   [Guideline 2.7 - Graphical controls](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
+-   [지침 2.2 - 순차적 내비게이션](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+-   [지침 2.3 - 직접(direct) 내비게이션과 활성화](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+-   [지침 2.4 - 텍스트 검색](https://www.w3.org/TR/UAAG20/#gl-search-text)
+-   [지침 2.5 - 구조적 내비게이이션](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
+-   [지침 2.7 - 그래픽 컨트롤](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
 
 **ATAG**
 
--   [Principle A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (저작 도구 사용자 인터페이스를 위한) 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.3.4: (For the authoring tool user interface) Enhance navigation and editing via content structure](https://www.w3.org/TR/ATAG20/#gl_a34)
--   [Guideline A.3.5: (For the authoring tool user interface) Provide text search of the content](https://www.w3.org/TR/ATAG20/#gl_a35)
+-   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [지침 A.2.2: 저작 도구 사용자 인터페이스에서 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [지침 A.3.4: 저작 도구 사용자 인터페이스에서 콘텐츠 구조 수정과 내비게이션을 쉽게 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a34)
+-   [지침 A.3.5: 저작 도구 사용자 인터페이스에서 텍스트 검색 기능을 제공해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a35)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to navigation
+#### 내비게이션과 관련된 이야기
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -494,32 +494,32 @@ Meeting this requirement helps people to navigate through web pages in different
 
 {% include excol.html type="end" %}
 
-### Users can use different input modalities beyond keyboard {#modalities}
+### 사용자는 키보드 외의 다양한 입력 장치를 사용할 수 있어야 합니다. {#modalities}
 
-Input modalities beyond keyboard, such as touch activation, voice recognition (speech input), and gestures make content easier to use for many people. Yet not everyone can use each of these input modalities, and to the same degree. Particular design considerations maximize the benefit of these input modalities. This includes:
+키보드 외의 터치 활성화(touch activation), 음성 인식, 제스처과 같은 다양한 입력 장치들은 더 많은 사람들이 콘텐츠에 접근하기 쉽게 합니다. 하지만 모든 사람들이 이러한 입력장치 전부를 동등한 수준으로 사용할 수 있는 것은 아닙니다. 특정 디자인적 고려가 이러한 입력 장치들의 이점을 더 극대화시킬 수 있습니다. 다음을 포함합니다. : 
 
--   Gestures that require dexterity or fine movement have alternatives that do not require high dexterity
--   Components are designed to avoid accidental activation, for example by providing undo functionality
--   Labels presented to users match corresponding object names in the code, to support activation by voice
--   Functionality that is activated by movement can also be activated through user interface components
--   Buttons, links, and other active components are large enough to make them easier to activate by touch
+-   능숙함과 미세한 움직임을 요구하는 제스처는 높은 수준의 능숙함을 요하지 않는 대안을 제공해야 합니다.
+-   요소는 취소 기능을 제공하는 것과 같이 의도치 않은 활성화를 피할 수 있도록 디자인되어야 합니다.
+-   음성으로 활성화되도록 하기 위해 라벨은 코드에서 상응하는 객체 이름과 맞게 보여야 합니다.
+-   움직임으로 활성화되는 기능은 사용자 인터페이스 요소를 통해서도 활성화되어야 합니다.
+-   버튼, 링크와 같은 활성화 요소들은 터치로도 쉽게 활성화되도록 커야 합니다.
 
-Meeting this requirement makes the content easier to use for many people with a wide range of abilities using a wide range of devices. This includes content used on mobile phones, tablet computers, and self-service terminals such as ticketing machines.
+위의 필요조건을 충족한다면 다양한 장치를 사용하는 여러 사람들이 콘텐츠를 더 쉽게 사용할 수 있게 될 것입니다. 모바일 폰, 태블릿, 티켓 판매기와 같은 자동서비스단말기에서 사용되는 콘텐츠도 포함됩니다.
 
 {% include excol.html type="start" id="" %}
 
-#### Accessibility requirements related to input modalities (links to technical specification)
+#### 입력 장치와 관련된 접근성 필요조건 (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [지침 2.5 - 입력 양식](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
-#### Stories related to input modalities
+#### 입력 장치와 관련된 이야기
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -530,39 +530,39 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 {% include excol.html type="end" %}
 
-## Understandable information and user interface {#understandable}
+## 이해하기 쉬운 정보와 사용자 인터페이스 {#understandable}
 
-### Text is readable and understandable {#readable}
+### 텍스트는 읽고 이해하기 쉬워야 합니다. {#readable}
 
-Content authors need to ensure that text content is readable and understandable to the broadest audience possible, including when it is read aloud by text-to-speech. Such content includes:
+콘텐츠 저자는 텍스트를 음성을 읽어주는(text-to-speech) 경우를 포함하여 최대한 많은 사람들이 텍스트 콘텐츠를 읽고 이해하기 쉽도록 해야 합니다. 다음 콘텐츠를 포함합니다. :
 
--   Identifying the primary language of a web page, such as Arabic, Dutch, or Korean
--   Identifying the language of text passages, phrases, or other parts of a web page
--   Providing definitions for any unusual words, phrases, idioms, and abbreviations
--   Using the clearest and simplest language possible, or providing simplified versions
+-   아랍어, 독일어, 한국어와 같은 웹 페이지의 주요 언어들을 구분해야 합니다.
+-   텍스트 구문, 관용구나 웹 페이지의 여러 부분들의 언어를 구분해야 합니다.
+-   생소한 단어, 구문, 관용구, 약어들에 대한 설명을 제공해야 합니다.
+-   최대한 명확하고, 단순한 언어를 사용해야 하거나 단순화한 버전을 제공해야 합니다.
 
-Meeting this requirement helps software, including assistive technology, to process text content correctly. For instance, this requirement helps software to read the content aloud, to generate page summaries, and to provide definitions for unusual words such as technical jargon. It also helps people who have difficulty understanding more complex sentences, phrases, and vocabulary. In particular, it helps people with different types of cognitive disabilities.
+위의 필요조건을 충족한다면 보조 기술을 포함한 소프트웨어가 텍스트 콘텐츠에 정확하게 접근할 수 있게 할 것입니다. 예를 들어, 이 필요조건들은 소프트웨어가 콘텐츠를 읽어주고, 페이지 요약본을 만들어주고, 기술 용어와 같은 생소한 단어들의 뜻을 제공하는 것을 쉽게 할 것입니다. 또한 복잡한 문장, 관용구, 단어를 이해하는 데에 어려움을 겪는 사람들에게 도움이 될 것입니다. 특히, 다양한 인지 장애를 가진 사람들에게 도움이 될 것입니다. 
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to readability (links to technical specification)
+#### 가독성과 관련된 접근성 필요조건 (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Guideline 3.1 - Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [지침 3.1 - 가독성](https://www.w3.org/WAI/WCAG21/quickref/#readable)
 
 **ATAG**
 
--   [Principle A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [지침 A.4.2: 저작 도구 사용자 인터페이스에서 모든 접근성 기능을 포함한 사용자 인터페이스를 문서화해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b42)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to readability
+#### 가독성과 관련된 이야기
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -575,41 +575,41 @@ Meeting this requirement helps software, including assistive technology, to proc
 
 {% include excol.html type="end" %}
 
-### Content appears and operates in predictable ways {#predictable}
+### 콘텐츠는 예측 가능한 방식으로 보여지고 조작할 수 있어야 합니다. {#predictable}
 
-Many people rely on predictable user interfaces and are disoriented or distracted by inconsistent appearance or behavior. Examples of making content more predictable include:
+대부분의 사람들은 예측 가능한 사용자 인터페이스에 의존하고, 일관성이 없는 행동이나 외관에 낯설어하고, 주의가 분산됩니다. 더 예측 가능한 콘텐츠를 만드는 예시에는 다음이 포함됩니다. :
 
--   Navigation mechanisms that are repeated on multiple pages appear in the same place each time
--   User interface components that are repeated on web pages have the same labels each time
--   Significant changes on a web page do not happen without the consent of the user
+-   여러 페이지에서 사용되는 내비게이션은 같은 위치에 있어야 합니다.
+-   웹 페이지에서 반복되는 사용자 인터페이스 요소는 항상 같은 라벨을 갖고 있어야 합니다.
+-   웹 페이지에서의 중요한 변화는 사용자의 동의가 있어야 합니다.
 
-Meeting this requirement helps people to quickly learn the functionality and navigation mechanisms provided on a website, and to operate them according to their specific needs and preferences. For instance, some people assign personalized shortcut keys to functions they frequently use to enhance keyboard navigation. Others memorize the steps to reach certain pages or to complete processes on a website. Both rely on predictable and consistent functionality.
+위의 필요조건들을 충족한다면 사이트에서 제공된 내비게이션 방법과 기능을 더 빨리 배우고, 그들의 목적과 선호에 따라 사용할 수 있을 것입니다. 예를 들어, 일부 사람들은 키보드 내비게이션 사용성을 높이기 위해 그들이 자주 사용하는 기능을 각자만의 단축키로 지정할 수 있습니다. 또 다른 사람들은 특정 페이지에 접근하고, 사이트에서의 과정을 완수하기 위해 과정을 기억해 둘 수 있습니다. 둘 다 예측 가능하고 일관된 기능성에 관련 있습니다.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to predictability (links to technical specification)
+#### 예측 가능성과 관련된 접근성 필요 조건 (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Guideline 3.2 - Predictable](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [지침 3.2 - 예측 가능성](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
 
 **UAAG**
 
--   [Guideline 3.3 - Predictable](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
+-   [지침 3.3 - 예측 가능성](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
 
 **ATAG**
 
--   [Principle A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (저작 도구 사용자 인터페이스를 위한) 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [지침 A.2.2: 저작 도구 사용자 인터페이스에서 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [지침 A.4.2: 저작 도구 사용자 인터페이스에서 모든 접근성 기능을 포함한 사용자 인터페이스를 문서화해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b42)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to predictability
+#### 예측 가능성과 관련된 이야기
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -623,41 +623,41 @@ Meeting this requirement helps people to quickly learn the functionality and nav
 
 {% include excol.html type="end" %}
 
-### Users are helped to avoid and correct mistakes {#tolerant}
+### 사용자는 실수를 피하고 수정할 수 있는 기능을 제공받아야 합니다. {#tolerant}
 
-Forms and other interaction can be confusing or difficult to use for many people, and, as a result, they may be more likely to make mistakes. Examples of helping users to avoid and correct mistakes include:
+폼 요소와 다른 상호작용하는 요소들에 많은 사람들이 어려움을 느끼고, 그 결과 실수로 이어지게 됩니다. 사용자가 실수를 피하고, 수정할 수 있도록 하는 예시로 다음이 포함됩니다. :
 
--   Descriptive instructions, error messages, and suggestions for correction
--   Context-sensitive help for more complex functionality and interaction
--   Opportunity to review, correct, or reverse submissions if necessary
+-   지시 사항, 에러 메시지, 수정을 위한 제안을 포함해야 합니다.
+-   맥락 민감성(context-sensitive)은 더 복잡한 기능과 상호작용을 돕습니다.
+-   리뷰하고, 수정할 기회와 필요하다면 제출한 것을 회수할 수 있는 기회를 제공해야 합니다.
 
-Meeting this requirement helps people who do not see or hear the content, and may not recognize implicit relationships, sequences, and other cues. It also helps people who do not understand the functionality, are disoriented or confused, forget, or make mistakes using forms and interaction for any other reason.
+위의 조건들을 충족한다면 콘텐츠를 보거나 들을 수 없는 사용자나 복잡한 관계, 순서나 단서들을 인지하지 못하는 사용자들에게 도움이 될 것입니다. 또한 기능을 이해못하고 혼란스러워하고 잊어버리는 사용자나 어떠한 이유로 폼 요소를 사용하는 데에 실수를 한 사용자에게도 도움이 될 것입니다. 
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to input assistance (links to technical specification)
+#### 입력 도움과 관련된 접근성 필요조건 (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [지침 3.3 - Input assistance](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+-   [지침 3.3 - 입력 도움](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
 
 **UAAG**
 
--   [지침 3.1 - Mistakes](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
+-   [지침 3.1 - 실수 피하기](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
 
 **ATAG**
 
 -   [원칙 A.1: 저작 도구 사용자 인터페이스는 해당되는 접근성 지침을 따른다.](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [지침 A.2.2: (저작 도구 사용자 인터페이스를 위한) 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [지침 A.4.1: (For the authoring tool user interface) Help authors avoid and correct mistakes](https://www.w3.org/TR/ATAG20/#gl_b41)
+-   [지침 A.2.2: 저작 도구 사용자 인터페이스에서 편집창 화면을 프로그램적으로 조작할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [지침 A.4.1: 저작 도구 사용자 인터페이스에서 사용자가 실수를 피하고 수정할 수 있도록 해야 한다.](https://www.w3.org/TR/ATAG20/#gl_b41)
 -   [Part B. 접근 가능한 콘텐츠 생산을 지원해야 한다.](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to input assistance
+#### 입력 도움과 관련된 이야기
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -670,33 +670,33 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 {% include excol.html type="end" %}
 
-## Robust content and reliable interpretation {#robust}
+## 견고한 콘텐츠와 정확한 설명 {#robust}
 
-### Content is compatible with current and future user tools {#compatible}
+### 콘텐츠는 현재와 미래 사용자 도구와 호환 가능해야 합니다. {#compatible}
 
-Robust content is compatible with different browsers, assistive technologies, and other user agents. Examples of how this can be achieved include:
+견고한 콘텐츠는 다른 브라우저, 보조 기술, 다른 사용자 에이전트에서도 사용이 가능합니다. 사용되는 예시는 다음을 포함합니다. :
 
--   Ensuring markup can be reliably interpreted, for instance by ensuring it is valid
--   Providing a name, role, and value for non-standard user interface components
+-   유효성 보장과 같이 마크업이 정확하게 해석될 수 있도록 해야 합니다.
+-   비표준 사용자 인터페이스 요소를 위해 name, role, value를 제공해야 합니다.
 
-Meeting this requirement helps maximize compatibility with current and future user agents, including assistive technologies. In particular, it enables assistive technologies to process the content reliably, and to present or to operate it in different ways. This includes non-standard (scripted) buttons, input fields, and other controls.
+위의 필요조건을 충족한다면 현재와 미래 사용자 에이전트, 보조 기술의 호환성을 극대화시킬 수 있습니다. 특히 보조 기술이 콘텐츠에 정확하게 접근하고, 다양한 방법으로 운용할 수 있도록 할 수 있습니다. 스크립으로 된 비표준 버튼, 입력 필드와 다른 컨트롤 요소들을 포함합니다.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to compatibility (links to technical specification)
+#### 호환성과 관련된 접근성 필요조건 (links to technical specification)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [지침 4.1 - Compatible](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [지침 4.1 - 호환성](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
 
 **UAAG**
 
--   [지침 2.6 - Preference settings](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
--   [지침 4.1 - Assistive technology](https://www.w3.org/TR/UAAG20/#gl-AT-access)
--   [지침 5.1 - Follow specifications](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
+-   [지침 2.6 - 환경설정](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
+-   [지침 4.1 - 보조 기술](https://www.w3.org/TR/UAAG20/#gl-AT-access)
+-   [지침 5.1 - 명세 준수(Follow specifications)](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
 
 **ATAG**
 
@@ -705,7 +705,7 @@ Meeting this requirement helps maximize compatibility with current and future us
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to compatibility
+#### 호환성과 관련된 이야기
 {:.no_toc}
 
 {% include excol.html type="middle" %}
