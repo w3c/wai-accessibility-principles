@@ -6,7 +6,7 @@ nav_title: "접근성 원칙"   # A short title that is used in the navigation
 
 lang: ko   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2019-07-16   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-08-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Yong Ui Lee"   # Replace @@ with translator name
   link: "https://twitter.com/yongui9"
@@ -27,7 +27,7 @@ teaser_text: 접근성 원칙 페이지는 웹 사이트, 웹 어플리케이션
 footer: >   # Translate all the words below, including "Date:", "Editor:", Updated, and the month. Do not change these dates.
   <p><strong>날짜:</strong> 2019년 5월 10일 업데이트됨.</p>
   <p><strong>편집자:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
-  <p>교육과 활동관련 실무 그룹인 (<a href="http://www.w3.org/WAI/EO/">EOWG</a>)의 지원을 받아 제작되었습니다. 이전에 <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE 프로젝트</a>의 지원과 <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE 팀</a>에 의해 제작되었습니다.</p>
+  <p>교육과 활동관련 실무 그룹인 (<a href="http://www.w3.org/WAI/EO/">EOWG</a>)의 지원을 받아 제작되었습니다. <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE 프로젝트</a>의 지원과 <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE 팀</a>에 의해 제작되었습니다.</p>
 
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
 # Read Translations Notes for this resource at https://github.com/w3c/wai-accessibility-principles/blob/master/README.md
