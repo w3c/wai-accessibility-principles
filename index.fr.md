@@ -27,7 +27,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 Cette page introduit certaines exigences d’accessibilité web fondamentales pour les sites et les applications web, les navigateurs et autres outils. Elle fournit des liens vers les standards internationaux de l’Initiative Accessibilité du Web (WAI) du W3C et vers une page parlant des particularités de [quelques utilisateurs du Web](/people-use-web/user-stories/).
 
-**Note :** ce n’est pas une liste exhaustive de toutes les exigences d’accessibilité.
+**Note&#8239;:** ce n’est pas une liste exhaustive de toutes les exigences d’accessibilité.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -51,11 +51,11 @@ Cette page introduit certaines exigences d’accessibilité web fondamentales po
 
 ## Standards d’accessibilité Web {#standards}
 
-L’accessibilité web s’appuie sur plusieurs composants qui travaillent ensemble. Certains d’entre eux sont :
+L’accessibilité web s’appuie sur plusieurs composants qui travaillent ensemble. Certains d’entre eux sont&#8239;:
 
-- **Les contenus web**{:#webcontent} : ce terme s’applique à toute partie d’un site web, y compris le texte, les images, les formulaires et le multimédia, aussi bien que tout code, script, application, et ainsi de suite.
-- **Les agents utilisateurs**{:#useragents} : des logiciels que l’on utilise pour accéder aux contenus web, incluant les navigateurs graphiques de bureau, les navigateurs vocaux, les navigateurs mobiles, les lecteurs multimédia, les modules d’extension (<i lang="en">plug-ins</i>), et certaines [technologies d’assistance](/people-use-web/tools-techniques/).
-- **Outils de production de contenu**{:#authoringtools} : des logiciels ou des services que l’on utilise pour produit des contenus web, incluant les éditeurs de code, les outils de conversion de documents, les systèmes de gestion de contenus, les blogs, les scripts de bases de données, et d’autres outils.
+- **Les contenus web**{:#webcontent}&#8239;: ce terme s’applique à toute partie d’un site web, y compris le texte, les images, les formulaires et le multimédia, aussi bien que tout code, script, application, et ainsi de suite.
+- **Les agents utilisateurs**{:#useragents}&#8239;: des logiciels que l’on utilise pour accéder aux contenus web, incluant les navigateurs graphiques de bureau, les navigateurs vocaux, les navigateurs mobiles, les lecteurs multimédia, les modules d’extension (<i lang="en">plug-ins</i>), et certaines [technologies d’assistance](/people-use-web/tools-techniques/).
+- **Outils de production de contenu**{:#authoringtools}&#8239;: des logiciels ou des services que l’on utilise pour produit des contenus web, incluant les éditeurs de code, les outils de conversion de documents, les systèmes de gestion de contenus, les blogs, les scripts de bases de données, et d’autres outils.
 
 {% include excol.html type="start" %}
 
@@ -68,7 +68,7 @@ Ces composants sont liés les uns aux autres et se complètent mutuellement. Par
 
 Les standards jouent un rôle vital dans la définition des exigences d’accessibilité pour chacun de ces composants. Certaines exigences d’accessibilité sont facilement atteignables, cependant comprendre les bases du l’usage du Web par des personnes ayant un handicap aide à les mettre en place plus efficacement. Certains aspects de l’accessibilité réclament plus de compétences techniques ou de connaissances expertes de la façon dont les gens utilisent le Web. Dans tous les cas, [impliquer les utilisateurs dès le début et tout le long de vos projets web](/test-evaluate/involving-users/) rendra votre travail plus facile et de meilleure qualité.
 
-L’Initiative d’Accessibilité Web (WAI) fournit une liste de recommandations qui sont reconnues internationalement comme le standard pour l’accessibilité web. Elles incluent :
+L’Initiative d’Accessibilité Web (WAI) fournit une liste de recommandations qui sont reconnues internationalement comme le standard pour l’accessibilité web. Elles incluent&#8239;:
 
 -   **[Recommandations d’accessibilité des contenus web (WCAG)](/standards-guidelines/wcag/)**
 -   **[Recommandations d’accessibilité des agents utilisateurs (UAAG)](/standards-guidelines/uaag/)**
@@ -82,14 +82,14 @@ Il existe aussi une spécification WAI pour les **[Applications internet riches 
 
 ### Alternatives textuelles pour les contenus non textuels {#alternatives}
 
-Les alternatives textuelles sont un équivalent des contenus non textuels. Par exemple :
+Les alternatives textuelles sont un équivalent des contenus non textuels. Par exemple&#8239;:
 
-- Des équivalents courts pour les images, y compris les icônes, les boutons et les graphiques ;
-- Une description des données représentées sur des graphes, des diagrammes et des illustrations ;
-- Des descriptions courtes de contenus non textuels comme les fichiers audio et vidéo ;
-- Des étiquettes pour les éléments de formulaires, de saisie, et d’autres composants d’interface utilisateur.
+- Des équivalents courts pour les images, y compris les icônes, les boutons et les graphiques
+- Une description des données représentées sur des graphes, des diagrammes et des illustrations
+- Des descriptions courtes de contenus non textuels comme les fichiers audio et vidéo
+- Des étiquettes pour les éléments de formulaires, de saisie, et d’autres composants d’interface utilisateur
 
-Les alternatives textuelles véhiculent le but d’une image ou sa fonction pour fournir une expérience utilisateur équivalente. Par exemple, le texte alternatif approprié d’un bouton de recherche pourrait être « *recherche* » plutôt que « *loupe* ».
+Les alternatives textuelles véhiculent le but d’une image ou sa fonction pour fournir une expérience utilisateur équivalente. Par exemple, le texte alternatif approprié d’un bouton de recherche pourrait être «&#8239;*recherche*&#8239;» plutôt que «&#8239;*loupe*&#8239;».
 
 Les alternatives textuelles peuvent être présentées sous des formes variées. Par exemple, elles peuvent être lues à voix haute aux personnes qui ne peuvent pas voir l’écran ou à des personnes ayant des difficultés à lire, elles peuvent être agrandies pour ceux qui ont personnalisé la taille d’affichage des textes, ou affichées sur des plages Braille. Les alternatives textuelles servent d’étiquettes pour les contrôles et les fonctionnalités et facilitent la navigation au clavier ou via la reconnaissance vocale (contrôle à la voix). Elles permettent aussi d’identifier les fichiers audio, vidéo et dans d’autres formats, ainsi que les applications intégrées dans un site web.
 
@@ -155,11 +155,11 @@ Les alternatives textuelles peuvent être présentées sous des formes variées.
 
 ### Sous-titres et autres alternatives pour le multimédia {#captions}
 
-Une personne qui ne peut pas entendre le son ou voir la vidéo a besoin d’alternatives, par exemple :
+Une personne qui ne peut pas entendre le son ou voir la vidéo a besoin d’alternatives, par exemple&#8239;:
 
-- Des retranscriptions sous forme textuelle, des sous-titres pour les contenus audio, tels que les enregistrements ou une interview radio ;
-- Des audio-descriptions, qui sont une narration qui décrit les détails visuels importants d’une vidéo ;
-- Des traductions en langue des signes du contenu audio, y compris l’expérience audio pertinente.
+- Des retranscriptions sous forme textuelle, des sous-titres pour les contenus audio, tels que les enregistrements ou une interview radio
+- Des audio-descriptions, qui sont une narration qui décrit les détails visuels importants d’une vidéo
+- Des traductions en langue des signes du contenu audio, y compris l’expérience audio pertinente
 
 Des retranscriptions texte bien écrites contenant la séquence correcte de toutes les informations auditives et visuelles fournissent un niveau d’accessibilité de base et facilitent la production de sous-titres et d’audio-descriptions.
 
@@ -218,11 +218,11 @@ Des retranscriptions texte bien écrites contenant la séquence correcte de tout
 
 ### Du contenu qui peut être présenté de différentes façons {#adaptable}
 
-Pour que les utilisateurs puissent changer la présentation des contenus, il est nécessaire que :
+Pour que les utilisateurs puissent changer la présentation des contenus, il est nécessaire que&#8239;:
 
-- Les titres, les listes, les tableaux, et autres structures de contenu soient convenablement balisés ;
-- Les séquences d’informations ou d’instructions soient indépendantes de toute présentation ;
-- Les navigateurs et les technologies d’assistance fournissent des réglages permettant de personnaliser la présentation.
+- Les titres, les listes, les tableaux, et autres structures de contenu soient convenablement balisés
+- Les séquences d’informations ou d’instructions soient indépendantes de toute présentation
+- Les navigateurs et les technologies d’assistance fournissent des réglages permettant de personnaliser la présentation
 
 Être conforme à cette exigence permet que le contenu soit correctement lu par une synthèse vocale, agrandi, ou adapté pour satisfaire aux besoins et aux préférences de différentes personnes. Par exemple, il peut être présenté dans une combinaison de couleurs personnalisée, dans une taille de police différente, ou selon des règles de style permettant d’en faciliter la lecture. Cette exigence facilite aussi d’autres formes d’adaptation, comme la génération automatique de plans de page ou de résumés pour permettre d’avoir une vue d’ensemble de la page et de se concentrer sur un endroit en particulier plus facilement.
 
@@ -294,14 +294,14 @@ Pour que les utilisateurs puissent changer la présentation des contenus, il est
 
 ### Du contenu plus facile à voir et à entendre {#distinguishable}
 
-Un contenu perceptible est plus facile à lire et à voir. Par exemple :
+Un contenu perceptible est plus facile à lire et à voir. Par exemple&#8239;:
 
-- La couleur n’est pas le seul moyen de véhiculer de l’information ou d’identifier du contenu ;
-- Les couleurs de premier plan et de fond par défaut fournissent un contraste suffisant ;
-- Le texte peut être redimensionné jusqu’à 200 % sans perte d’information, dans un navigateur standard ;
-- Les images contenant du texte sont redimensionnables, remplacées par du véritable texte, ou évitées quand c’est possible ;
-- Les utilisateurs peuvent pauser, arrêter, ou ajuster le volume du son joué sur un site web ;
-- Les sons d’arrière-plan sont bas ou peuvent être coupés, pour éviter toute interférence ou distraction.
+- La couleur n’est pas le seul moyen de véhiculer de l’information ou d’identifier du contenu
+- Les couleurs de premier plan et de fond par défaut fournissent un contraste suffisant
+- Le texte peut être redimensionné jusqu’à 200&#8239;% sans perte d’information, dans un navigateur standard
+- Les images contenant du texte sont redimensionnables, remplacées par du véritable texte, ou évitées quand c’est possible
+- Les utilisateurs peuvent pauser, arrêter, ou ajuster le volume du son joué sur un site web
+- Les sons d’arrière-plan sont bas ou peuvent être coupés, pour éviter toute interférence ou distraction
 
 Être conforme à cette exigence permet de séparer le premier et l’arrière-plan, de rendre les informations importantes plus faciles à distinguer. Cela intègre aussi bien les besoins de personnes qui n’utilisent pas de technologies d’assistance que de celles utilisant des technologies d’assistance, qui peuvent subir des interférences dues à des éléments audio ou visuels à l’arrière-plan. Par exemple, de nombreuses personnes daltoniennes n’utilisent pas d’outil particulier et s’appuient sur un design correct qui fournit des contrastes suffisants entre le texte et son arrière-plan. Pour d’autres, une piste audio jouée automatiquement peut interférer avec une synthèse vocale ou un outil de [lecture assistée (ALD)](http://www.w3.org/WAI/training/accessible#ald){: hreflang="en"}.
 
@@ -376,11 +376,11 @@ Un contenu perceptible est plus facile à lire et à voir. Par exemple :
 
 De nombreuses personnes n’utilisent pas de souris et s’appuient sur le clavier pour interagir avec le Web. Cela demande que toutes les fonctionnalités soient utilisables au clavier, y compris les éléments de formulaires, de saisie et autres composants de l’interface utilisateur.
 
-L’accessibilité au clavier comprend :
+L’accessibilité au clavier comprend&#8239;:
 
-- Toute fonctionnalité disponible à la souris doit aussi être disponible au clavier ;
-- Le focus clavier ne doit pas être piégé dans une partie du contenu ;
-- Les navigateurs, les outils de production de contenu et autres outils doivent être utilisables au clavier.
+- Toute fonctionnalité disponible à la souris doit aussi être disponible au clavier
+- Le focus clavier ne doit pas être piégé dans une partie du contenu
+- Les navigateurs, les outils de production de contenu et autres outils doivent être utilisables au clavier
 
 Être conforme à cette exigence aide les personnes qui n’utilisent que le clavier, y compris celles utilisant un clavier alternatif, un clavier ergonomique, un clavier virtuel à l’écran, ou un contacteur. Cela aide aussi les personnes utilisant des logiciels de reconnaissance vocale pour interagir avec les sites web et pour dicter du texte à travers l’interface du clavier.
 
@@ -442,12 +442,12 @@ L’accessibilité au clavier comprend :
 
 Certaines personnes ont besoin de plus de temps que d’autres pour lire et utiliser le contenu. Par exemple certaines personnes ont besoin de plus de temps pour saisir du texte, pour comprendre des instructions, pour manipuler des contrôles, ou d’une façon générale pour mener à bien des tâches complexes sur un site web.
 
-Là où il faut fournir assez de temps, cela implique de fournir des mécanismes pour :
+Là où il faut fournir assez de temps, cela implique de fournir des mécanismes pour&#8239;:
 
-- Arrêter, étendre ou ajuster des limites de temps, sauf quand elles sont nécessaires ;
-- Pauser, arrêter ou cacher des contenus mouvants, clignotants ou déroulants ;
-- Repousser ou supprimer les interruptions, sauf quand elles sont nécessaires ;
-- Se ré-authentifier quand une session expire sans perdre de données.
+- Arrêter, étendre ou ajuster des limites de temps, sauf quand elles sont nécessaires
+- Pauser, arrêter ou cacher des contenus mouvants, clignotants ou déroulants
+- Repousser ou supprimer les interruptions, sauf quand elles sont nécessaires
+- Se ré-authentifier quand une session expire sans perdre de données
 
 {% include excol.html type="start" %}
 
@@ -503,7 +503,13 @@ Là où il faut fournir assez de temps, cela implique de fournir des mécanismes
 
 ### Le contenu ne provoque pas de crises d’épilepsie {#safe}
 
-Le contenu qui clignote à certaines fréquences ou selon certains schémas peut provoquer des réactions photosensibles, dont des crises d’épilepsie. Idéalement il fait éviter complètement de faire des contenus clignotants, ou ne les fournir que d’une façon qui n’induit aucun risque connu.
+Le contenu qui clignote à certaines fréquences ou selon certains schémas peut provoquer des réactions photosensibles, dont des crises d’épilepsie. Idéalement il fait éviter complètement de faire des contenus clignotants, ou ne les fournir que d’une façon qui n’induit aucun risque connu. De plus les animations et les contenus mobiles peuvent induire un inconfort et des réactions physiques.
+
+Comment éviter de provoquer des crises ou des réactions physiques&#8239;:
+
+- Ne pas inclure de contenu qui clignote selon un rythme ou un schéma particulier
+- Prévenir les utilisateurs avant le leur présenter un contenu qui clignote, et fournir une alternative
+- Fournir un mécanisme pour couper les animations, à moins qu’elles ne soient essentielles
 
 {% include excol.html type="start" %}
 
@@ -545,14 +551,14 @@ Le contenu qui clignote à certaines fréquences ou selon certains schémas peut
 
 ### Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont {#navigable}
 
-Un contenu bien organisé permet aux utilisateurs de s’orienter et de naviguer efficacement. Par exemple :
+Un contenu bien organisé permet aux utilisateurs de s’orienter et de naviguer efficacement. Par exemple&#8239;:
 
-- Les pages comportent des titres clairs et chaque page est organisée grâce à des titres de sections explicites ;
-- Il y a plus d’une façon de trouver les pages cherchées dans un ensemble de pages web ;
-- Les utilisateurs sont informés de leur position actuelle dans un ensemble de pages web ;
-- Il existe des moyens de contourner des blocs de contenu répétés sur des pages multiples ;
-- Le focus clavier est toujours visible, et le focus suit une séquence pertinente ;
-- Le but de chaque lien est évident, dans l’idéal même si le lien est extrait de son contexte.
+- Les pages comportent des titres clairs et chaque page est organisée grâce à des titres de sections explicites
+- Il y a plus d’une façon de trouver les pages cherchées dans un ensemble de pages web
+- Les utilisateurs sont informés de leur position actuelle dans un ensemble de pages web
+- Il existe des moyens de contourner des blocs de contenu répétés sur des pages multiples
+- Le focus clavier est toujours visible, et le focus suit une séquence pertinente
+- Le but de chaque lien est évident, dans l’idéal même si le lien est extrait de son contexte
 
 Être conforme à cette exigence permet de naviguer dans les pages web par des moyens variés, selon  les besoins et les préférences particuliers à chaque personne. Par exemple, tandis que certaines personnes s’appuient sur les structures hiérarchiques de navigation telles les barres de menus pour trouver une page web en particulier, d’autres s’appuient plutôt sur les fonctions de recherche des sites. Certaines personnes peuvent voir le contenu tandis que d’autres peuvent l’écouter, ou le voir et l’écouter en même temps. Certaines personnes peuvent accéder au contenu uniquement avec une souris ou un clavier, tandis que d’autres utilisent les deux.
 
@@ -625,12 +631,12 @@ Un contenu bien organisé permet aux utilisateurs de s’orienter et de naviguer
 
 ### Le texte est lisible et compréhensible {#readable}
 
-Les auteurs de contenus doivent s’assurer que le contenu textuel est lisible et compréhensible par le plus grand nombre, y compris quand ce contenu est vocalisé par une synthèse vocale. Un tel contenu :
+Les auteurs de contenus doivent s’assurer que le contenu textuel est lisible et compréhensible par le plus grand nombre, y compris quand ce contenu est vocalisé par une synthèse vocale. Un tel contenu&#8239;:
 
-- Identifie la langue principale de la page web, par exemple arabe, hollandais ou coréen ;
-- Identifie la langue de passages de texte, d’expressions étrangères, ou d’autres partie de la page web ;
-- Fournit des définitions pour les mots, les expressions, les idiomes et les abréviations inhabituels ;
-- Utilise un langage le plus clair et le plus simple, ou fournit une version simplifiée.
+- Identifie la langue principale de la page web, par exemple arabe, hollandais ou coréen
+- Identifie la langue de passages de texte, d’expressions étrangères, ou d’autres partie de la page web
+- Fournit des définitions pour les mots, les expressions, les idiomes et les abréviations inhabituels
+- Utilise un langage le plus clair et le plus simple, ou fournit une version simplifiée
 
 Être conforme à cette exigence permet aux logiciels, y compris aux technologies d’assistance, d’interpréter le texte correctement. Par exemple, cette exigence aide le logiciel à lire le contenu à voix haute, à générer des résumés de pages, et à fournir des définitions pour les mots inhabituels, tel le jargon technique. Elle aide aussi les personnes qui ont des difficultés à comprendre des phrases, des expressions ou du vocabulaire complexes. En particulier, elle est utile à plusieurs types de déficiences cognitives.
 
@@ -682,11 +688,11 @@ Les auteurs de contenus doivent s’assurer que le contenu textuel est lisible e
 
 ### Le contenu apparaît et fonctionne de façon prévisible {#predictable}
 
-Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est désorienté ou distrait par une apparence ou un comportement incohérent. Rendre le contenu plus prévisible implique notamment que :
+Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est désorienté ou distrait par une apparence ou un comportement incohérent. Rendre le contenu plus prévisible implique notamment que&#8239;:
 
-- Les mécanismes de navigation qui sont répétés sur plusieurs pages apparaissent toujours à la même place ;
-- Les éléments d’interface répétés sur plusieurs pages ont toujours le même intitulé ;
-- Les changements significatifs dans la page web n’arrivent pas sans le consentement de l’utilisateur.
+- Les mécanismes de navigation qui sont répétés sur plusieurs pages apparaissent toujours à la même place
+- Les éléments d’interface répétés sur plusieurs pages ont toujours le même intitulé
+- Les changements significatifs dans la page web n’arrivent pas sans le consentement de l’utilisateur
 
 Être conforme à cette exigence aide les utilisateurs à apprendre facilement les mécanismes de navigation et les fonctionnalités fournis par un site, et pour interagir avec eux selon leurs besoins et leurs préférences spécifiques. Par exemple, certaines personnes assignent des raccourcis clavier personnalisés à des fonctions qu’ils utilisent souvent pour améliorer la navigation au clavier. D’autres mémorisent les étapes à accomplir pour atteindre une page en particulier ou pour aller au bout d’un processus sur un site web.	Tous ces exemples s’appuient sur des fonctionnalités prévisibles et cohérentes.
 
@@ -747,11 +753,11 @@ Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est d
 
 ### Les utilisateurs sont accompagnés pour éviter et corriger les erreurs {#tolerant}
 
-Les formulaires et d’autres systèmes interactifs peuvent induire de la confusion et de la difficulté d’usage pour de nombreuses personnes, et entraîner un risque de saisie accru. Parmi les moyens d’aider les utilisateurs à éviter et à corriger des erreurs, citons notamment :
+Les formulaires et d’autres systèmes interactifs peuvent induire de la confusion et de la difficulté d’usage pour de nombreuses personnes, et entraîner un risque de saisie accru. Parmi les moyens d’aider les utilisateurs à éviter et à corriger des erreurs, citons notamment&#8239;:
 
-- Des instructions, des messages d’erreur et des suggestions de correction explicites ;
-- De l’aide contextuelle pour les fonctionnalités et les interactions complexes ;
-- Une chance de réviser, corriger ou annuler les informations fournies si nécessaire.
+- Des instructions, des messages d’erreur et des suggestions de correction explicites
+- De l’aide contextuelle pour les fonctionnalités et les interactions complexes
+- Une chance de réviser, corriger ou annuler les informations fournies si nécessaire
 
 Être conforme à cette exigence aide les personnes qui ne voient pas ou n’entendent pas le contenu, et qui peuvent ne pas reconnaître des relations ou des séquences implicites, ou d’autres invitations à interagir. Elle aide aussi les personnes qui ne comprennent pas la fonctionnalité, sont désorientées ou confuses, oublient, ou font des erreurs dans la saisie de formulaires ou trouvent l’interaction difficile pour toute autre raison.
 
@@ -813,10 +819,10 @@ Les formulaires et d’autres systèmes interactifs peuvent induire de la confus
 
 ### Le contenu est compatible avec les logiciels utilisateurs actuels et futurs {#compatible}
 
-Un contenu robuste est compatible avec de multiples navigateurs, outils d’assistance et autres agents utilisateurs. Pour y parvenir il faut notamment :
+Un contenu robuste est compatible avec de multiples navigateurs, outils d’assistance et autres agents utilisateurs. Pour y parvenir il faut notamment&#8239;:
 
-- S’assurer que le code peut être interprété de façon fiable, par exemple en s’assurant qu’il est valide ;
-- Fournir un nom, un rôle et une valeur pour chacun des éléments non standard de l’interface utilisateur.
+- S’assurer que le code peut être interprété de façon fiable, par exemple en s’assurant qu’il est valide
+- Fournir un nom, un rôle et une valeur pour chacun des éléments non standard de l’interface utilisateur
 
 Être conforme à cette exigence aide à maximiser la compatibilité avec les agents utilisateurs actuels, y compris les technologies d’assistance. En particulier, elle permet aux technologies d’assistance d’interpréter le contenu de façon fiable, et de le présenter et de le faire fonctionner de différentes manières. Cela inclut les boutons, les champs de saisie et les autres contrôles non-standard (scriptés).
 
