@@ -17,7 +17,7 @@ ref: /fundamentals/accessibility-principles/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-accessibility-principles
-  path: index.es.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: content/index.es.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 permalink: /fundamentals/accessibility-principles/es   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
 
 description: Una visión general de los requisitos fundamentales de accesibilidad para sitios web, aplicaciones web, navegadores y otras herramientas.   # translate this sentence
