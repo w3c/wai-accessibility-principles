@@ -9,8 +9,8 @@ ref: /fundamentals/accessibility-principles/changelog/
 parent: /fundamentals/accessibility-principles/
 layout: default
 github:
-   repository: w3c/wai-accessibility-principles/
-   path: 'changelog.md'
+  repository: w3c/wai-accessibility-principles/
+  path: 'content/changelog.md'
 ---
 
 ## May 2019
