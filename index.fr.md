@@ -15,8 +15,8 @@ layout: default
 description: Un aperçu des exigences d’accessibilité web fondamentales pour les sites et les applications web, les navigateurs et autres outils.
 image: /content-images/wai-accessibility-principles/social.png
 footer: >
-  <p><strong>Date:</strong> Updated 15 May 2017.</p>
-  <p lang="en"><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/" hreflang="en">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments" hreflang="en">Acknowledgments</a>.</p>
+  <p><strong>Date:</strong> Updated 10 May 2019.</p>
+  <p lang="en"><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/" hreflang="en">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments" hreflang="en">Acknowledgments</a>.</p>
   <p lang="en">Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/" hreflang="en">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf" hreflang="en">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/" hreflang="en">WAI-AGE Project</a>.</p>
 changelog: /fundamentals/accessibility-principles/changelog/
 ---
@@ -220,7 +220,7 @@ Des retranscriptions texte bien écrites contenant la séquence correcte de tout
 
 Pour que les utilisateurs puissent changer la présentation des contenus, il est nécessaire que&#8239;:
 
-- Les titres, les listes, les tableaux, et autres structures de contenu soient convenablement balisés
+- Les titres, les listes, les tableaux, les champs de saisie et structures de contenu soient convenablement balisés
 - Les séquences d’informations ou d’instructions soient indépendantes de toute présentation
 - Les navigateurs et les technologies d’assistance fournissent des réglages permettant de personnaliser la présentation
 
@@ -298,7 +298,8 @@ Un contenu perceptible est plus facile à lire et à voir. Par exemple&#8239;:
 
 - La couleur n’est pas le seul moyen de véhiculer de l’information ou d’identifier du contenu
 - Les couleurs de premier plan et de fond par défaut fournissent un contraste suffisant
-- Le texte peut être redimensionné jusqu’à 200&#8239;% sans perte d’information, dans un navigateur standard
+- Quand les utilisateurs redimensionnent le texte jusqu’à 400% ou changent l’espacement du texte, aucune information n’est perdue
+- Le texte est bien refusionné dans des petites fenêtres («&#8239;viewports&#8239;») et quand les utilisateurs agrandissent le texte
 - Les images contenant du texte sont redimensionnables, remplacées par du véritable texte, ou évitées quand c’est possible
 - Les utilisateurs peuvent pauser, arrêter, ou ajuster le volume du son joué sur un site web
 - Les sons d’arrière-plan sont bas ou peuvent être coupés, pour éviter toute interférence ou distraction
@@ -501,9 +502,9 @@ Là où il faut fournir assez de temps, cela implique de fournir des mécanismes
 
 {% include excol.html type="end" %}
 
-### Le contenu ne provoque pas de crises d’épilepsie {#safe}
+### Le contenu ne provoque pas de crises d’épilepsie ou de réactions physiques {#safe}
 
-Le contenu qui clignote à certaines fréquences ou selon certains schémas peut provoquer des réactions photosensibles, dont des crises d’épilepsie. Idéalement il fait éviter complètement de faire des contenus clignotants, ou ne les fournir que d’une façon qui n’induit aucun risque connu. De plus les animations et les contenus mobiles peuvent induire un inconfort et des réactions physiques.
+Le contenu qui clignote à certaines fréquences ou selon certains schémas peut provoquer des réactions photosensibles, dont des crises d’épilepsie. Idéalement il faut éviter complètement de faire des contenus clignotants, ou ne les fournir que d’une façon qui n’induit aucun risque connu. De plus les animations et les contenus mobiles peuvent induire un inconfort et des réactions physiques.
 
 Comment éviter de provoquer des crises ou des réactions physiques&#8239;:
 
@@ -624,6 +625,50 @@ Un contenu bien organisé permet aux utilisateurs de s’orienter et de naviguer
 -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
 -   [Luis, assistant en supermarché, atteint du syndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 -   [Kaseem, adolescente qui est sourde et aveugle](/people-use-web/user-stories/#teenager)
+
+{% include excol.html type="end" %}
+
+### Les utilisateurs peuvent utiliser différentes modalités d’entrée au-delà du clavier {#modalities}
+
+Les modalités d’entrée, au-delà du clavier, telles que l’activation au toucher, la reconnaissance vocale (saisie à la voix), et les gestes, rendent le contenu plus facile d’usage pour de nombreuses personnes. Cependant tout le monde ne peut pas utiliser chacune de ces modalités d’entrée, ni avec la même facilité. Une considération particulière dans le design maximise le bénéfice qu’on peut tirer de ces modalités d’entrée. Par exemple&#8239;:
+
+-   Les gestes qui requièrent une dextérité ou des mouvements fins comportent une alternative qui ne demande pas une grande dextérité
+-   Les composants sont conçus pour éviter une activation accidentelle, par exemple en fournissant une fonctionnalité d’annulation
+-   Les intitulés présentés aux utilisateurs correspondent à des noms d’objets dans le code, pour permettre l’activation à la voix
+-   Une fonctionnalité activée par le mouvement peut aussi être activée à travers des composants de l’interface utilisateur
+-   Les boutons, les liens, et autres composants actifs, sont assez gros pour être facilement activés au toucher
+
+En satisfaisant à cette exigence, on rend le contenu plus facile d’usage pour de nombreuses personnes avec une large gamme de compétences utilisant une large gamme de périphériques. Cela inclut le contenu présenté sur les téléphones mobiles, sur les tablettes, et sur les périphériques en self-service comme les terminaux de billetterie.
+
+{% include excol.html type="start" id="" %}
+
+#### Exigences d’accessibilité liées aux modalités d’entrée (liens vers les spécifications techniques, en anglais)
+{:.no_toc}
+
+{% include excol.html type="middle" %}
+
+{::nomarkdown}
+{% include lang.html type="start" lang="en" %}
+{:/}
+
+**WCAG**
+
+-   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+
+{::nomarkdown}
+{% include lang.html type="end" %}
+{:/}
+
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
+
+#### Histoires d’utilisateurs liées aux questions de modalités d’entrée
+{:.no_toc}
+
+{% include excol.html type="middle" %}
+
+-   [Alex, journaliste avec un trouble musculosquelettique](/people-use-web/user-stories/#reporter)
+-   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
+-   [Luis, assistant en supermarché, atteint du syndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
