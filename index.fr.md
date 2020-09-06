@@ -7,7 +7,7 @@ translators: #Add one -name: line for every translator
 - name: "Stéphane Deschamps"
 contributors: #Add one -name: line for every contributor
 - name: "@code-elegant"
-last_updated: 2018-12-26
+last_updated: 2020-09-06
 github:
   repository: w3c/wai-accessibility-principles
   path: index.fr.md
