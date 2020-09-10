@@ -13,6 +13,7 @@ github:
   path: index.fr.md
 layout: default
 description: Un aperçu des exigences d’accessibilité web fondamentales pour les sites et les applications web, les navigateurs et autres outils.
+teaser_text: The Accessibility Principles page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to stories of web users.
 image: /content-images/wai-accessibility-principles/social.png
 footer: >
   <p><strong>Date:</strong> Updated 10 May 2019.</p>
@@ -107,7 +108,7 @@ Les alternatives textuelles peuvent être présentées sous des formes variées.
 **WCAG**
 
 -  [Guideline 1.1 - Text
-    Alternatives](http://www.w3.org/WAI/WCAG20/quickref/#text-equiv){: hreflang="en"}
+    Alternatives](http://www.w3.org/WAI/WCAG21/quickref/#text-equiv){: hreflang="en"}
 
 **UAAG**
 
@@ -177,7 +178,7 @@ Des retranscriptions texte bien écrites contenant la séquence correcte de tout
 **WCAG**
 
 -   [Guideline 1.2 - Time-based
-    Media](http://www.w3.org/WAI/WCAG20/quickref/#media-equiv)
+    Media](http://www.w3.org/WAI/WCAG21/quickref/#media-equiv)
 
 **UAAG**
 
@@ -240,7 +241,7 @@ Pour que les utilisateurs puissent changer la présentation des contenus, il est
 **WCAG**
 
 -   [Guideline 1.3 -
-    Adaptable](http://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation)
+    Adaptable](http://www.w3.org/WAI/WCAG21/quickref/#content-structure-separation)
 
 **UAAG**
 
@@ -320,7 +321,7 @@ Un contenu perceptible est plus facile à lire et à voir. Par exemple&#8239;:
 **WCAG**
 
 -   [Guideline 1.4 -
-    Distinguishable](http://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast)
+    Distinguishable](http://www.w3.org/WAI/WCAG21/quickref/#visual-audio-contrast)
 
 **UAAG**
 
@@ -399,7 +400,7 @@ L’accessibilité au clavier comprend&#8239;:
 **WCAG**
 
 -   [Guideline 2.1 - Keyboard
-    accessible](http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation)
+    accessible](http://www.w3.org/WAI/WCAG21/quickref/#keyboard-operation)
 
 **UAAG**
 
@@ -464,7 +465,7 @@ Là où il faut fournir assez de temps, cela implique de fournir des mécanismes
 **WCAG**
 
 -   [Guideline 2.2 - Enough
-    time](http://www.w3.org/WAI/WCAG20/quickref/#time-limits)
+    time](http://www.w3.org/WAI/WCAG21/quickref/#time-limits)
 
 **UAAG**
 
@@ -526,7 +527,7 @@ Comment éviter de provoquer des crises ou des réactions physiques&#8239;:
 **WCAG**
 
 -   [Guideline 2.3 -
-    Seizures](http://www.w3.org/WAI/WCAG20/quickref/#seizure)
+    Seizures](http://www.w3.org/WAI/WCAG21/quickref/#seizure)
 
 **UAAG**
 
@@ -577,7 +578,7 @@ Un contenu bien organisé permet aux utilisateurs de s’orienter et de naviguer
 **WCAG**
 
 -   [Guideline 2.4 -
-    Navigable](http://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms)
+    Navigable](http://www.w3.org/WAI/WCAG21/quickref/#navigation-mechanisms)
 
 **UAAG**
 
@@ -699,7 +700,7 @@ Les auteurs de contenus doivent s’assurer que le contenu textuel est lisible e
 **WCAG**
 
 -   [Guideline 3.1 -
-    Readable](http://www.w3.org/WAI/WCAG20/quickref/#meaning)
+    Readable](http://www.w3.org/WAI/WCAG21/quickref/#meaning)
 
 **ATAG**
 
@@ -755,7 +756,7 @@ Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est d
 **WCAG**
 
 -   [Guideline 3.2 -
-    Predictable](http://www.w3.org/WAI/WCAG20/quickref/#consistent-behavior)
+    Predictable](http://www.w3.org/WAI/WCAG21/quickref/#consistent-behavior)
 
 **UAAG**
 
@@ -820,7 +821,7 @@ Les formulaires et d’autres systèmes interactifs peuvent induire de la confus
 **WCAG**
 
 -   [Guideline 3.3 - Input
-    assistance](http://www.w3.org/WAI/WCAG20/quickref/#minimize-error)
+    assistance](http://www.w3.org/WAI/WCAG21/quickref/#minimize-error)
 
 **UAAG**
 
@@ -885,7 +886,7 @@ Un contenu robuste est compatible avec de multiples navigateurs, outils d’assi
 **WCAG**
 
 -   [Guideline 4.1 -
-    Compatible](http://www.w3.org/WAI/WCAG20/quickref/#ensure-compat)
+    Compatible](http://www.w3.org/WAI/WCAG21/quickref/#ensure-compat)
 
 **UAAG**
 
