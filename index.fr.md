@@ -13,7 +13,7 @@ github:
   path: index.fr.md
 layout: default
 description: Un aperçu des exigences d’accessibilité web fondamentales pour les sites et les applications web, les navigateurs et autres outils.
-teaser_text: The Accessibility Principles page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to stories of web users.
+teaser_text: La page «&#8239;Principes d’accessibilité&#8239;» présente certaines exigences d’accessibilité pour les sites et les applications web, les navigateurs et autres outils. Elle fournit des liens vers les standards internationaux de l’Initiative Accessibilité du Web (WAI) du W3C et vers une page parlant des particularités de quelques utilisateurs du Web.
 image: /content-images/wai-accessibility-principles/social.png
 footer: >
   <p><strong>Date:</strong> Updated 10 May 2019.</p>
