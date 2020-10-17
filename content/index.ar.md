@@ -4,7 +4,7 @@
 title: Accessibility Principles   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Accessibility Principles"   # A short title that is used in the navigation
  
-lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
  
 last_updated: 2019-05-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
@@ -18,8 +18,8 @@ ref: /fundamentals/accessibility-principles/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-accessibility-principles
-  path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-permalink: /fundamentals/accessibility-principles/   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
+  path: index.ar.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+permalink: /fundamentals/accessibility-principles/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
  
 description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.   # translate this sentence
 image: /content-images/wai-accessibility-principles/social.png
