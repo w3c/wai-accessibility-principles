@@ -21,7 +21,7 @@ github:
   path: content/index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 permalink: /fundamentals/accessibility-principles/   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
 
-description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.   # translate this sentence
+description: An overview of fundamental web accessibility requirements for websites, web applications, browsers, and other tools.   # translate this sentence
 image: /content-images/wai-accessibility-principles/social.png
 
 teaser_text: The Accessibility Principles page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to stories of web users.
