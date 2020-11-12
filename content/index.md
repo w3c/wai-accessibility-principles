@@ -19,7 +19,7 @@ layout: default
 github:
   repository: w3c/wai-accessibility-principles
   path: content/index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-permalink: /fundamentals/accessibility-principles/   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
+permalink: /fundamentals/accessibility-principles/   # Add the language shortcode to the end and trailing slash (/); for example /fundamentals/accessibility-intro/fr/
 
 description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.   # translate this sentence
 image: /content-images/wai-accessibility-principles/social.png
