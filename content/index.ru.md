@@ -7,12 +7,10 @@ nav_title: "Принципы доступности"   # A short title that is u
 lang: ru   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
 last_updated: 2020-09-03   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: 
-# - name: "Daniel Novichkov"   # Replace @@ with translator name
+translators: 
+- name: "Daniel Novichkov"   # Replace @@ with translator name
 
 # contributors:
-
-
 
 ref: /fundamentals/accessibility-principles/   # Do not change this
 layout: default
