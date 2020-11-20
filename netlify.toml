@@ -4,7 +4,7 @@ ID = "wai-accessibility-principles"
 
 [build]
 
-command = "bundle exec jekyll build --config '_config.yml,_config_staging.yml'"
+command = "CI='' bundle exec jekyll build --trace --verbose --config '_config.yml,_config_staging.yml'"
 publish = "_site"
 
 [[redirects]]
