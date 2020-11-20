@@ -4,8 +4,8 @@ require 'json'
 require 'open-uri'
 versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
-gem 'github-pages', versions['github-pages']
-gem 'jekyll-github-metadata'
+# gem 'github-pages', versions['github-pages']
+# gem 'jekyll-github-metadata'
 gem 'jekyll-relative-links'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
