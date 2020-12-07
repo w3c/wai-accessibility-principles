@@ -269,18 +269,18 @@ Splnění tohoto požadavku pomáhá oddělit popředí od pozadí, takže jsou 
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to distinguishability (odkazy na technické specifikace)
+#### Požadavky na přístupnost související s rozlišitelností (odkazy na technické specifikace)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pokyn 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+-   [Pokyn 1.4 - Rozlišitelnost](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
 
 **UAAG**
 
--   [Pokyn 1.3 - Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
+-   [Pokyn 1.3 - Zvýraznění](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
 -   [Pokyn 1.4 - Konfigurace textu](https://www.w3.org/TR/UAAG20/#gl-text-config)
 -   [Pokyn 1.5 - Konfigurace hlasitosti](https://www.w3.org/TR/UAAG20/#gl-volume-config)
 -   [Pokyn 1.6 - Konfigurace syntetizované řeči](https://www.w3.org/TR/UAAG20/#gl-speech-config)
@@ -297,7 +297,7 @@ Splnění tohoto požadavku pomáhá oddělit popředí od pozadí, takže jsou 
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to distinguishability
+#### Příběhy související s rozlišitelností
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -310,47 +310,47 @@ Splnění tohoto požadavku pomáhá oddělit popředí od pozadí, takže jsou 
 
 {% include excol.html type="end" %}
 
-## Operable user interface and navigation {#operable}
+## Ovladatelné uživatelské rozhraní a navigace  {#operable}
 
-### Functionality is available from a keyboard {#keyboard}
+### Funkce jsou dostupné klávesnicí {#keyboard}
 
-Many people do not use the mouse and rely on the keyboard to interact with the Web. This requires keyboard access to all functionality, including form controls, input, and other user interface components.
+Mnoho lidí pro interakci s webem nepoužívá myš, ale spoléhá na klávesnici. To vyžaduje přístup ke všem funkcím z klávesnice, včetně ovládacích prvků formulářů, vstupů a dalších komponent uživatelského rozhraní.
 
-Keyboard accessibility includes:
+Přístupnost klávesnice zahrnuje:
 
--   All functionality that is available by mouse is also available by keyboard
--   Keyboard focus does not get trapped in any part of the content
--   Web browsers, authoring tools, and other tools provide keyboard support
+-   Všechny funkce, které jsou dostupné myší jsou také dostupné klávesnicí
+-   Focus klávesnice neuvízne v žádné části obsahu
+-   Webové prohlížeče, nástroje pro tvorbu a další nástroje podporují ovládání klávesnicí
 
-Meeting this requirement helps keyboard users, including people using alternative keyboards such as keyboards with ergonomic layouts, on-screen keyboards, or switch devices. It also helps people using voice recognition (speech input) to operate websites and to dictate text through the keyboard interface.
+Splnění tohoto požadavku pomáhá uživatelům klávesnice včetně osob, které používají alternativní klávesnice jako třeba klávesnice s ergonomických rozložením, klávesnice na obrazovce nebo tlačítková zářízení. Také pomáhá osobám, které používají rozpoznávání hlasu (hlasový vstup) k ovládání webových stránek a k diktování textu použitím klávesnice.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to keyboard accessibility (odkazy na technické specifikace)
+#### Požadavky na přístupnost související s přístupností z klávesnice (odkazy na technické specifikace)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pokyn 2.1 - Keyboard accessible](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
+-   [Pokyn 2.1 - Přístupnost z klávesnice](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
 
 **UAAG**
 
--   [Pokyn 2.1 - Keyboard access](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
--   [Pokyn 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
--   [Pokyn 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
--   [Pokyn 2.11 - Other Input Devices](https://www.w3.org/TR/UAAG20/#gl-other-devices)
+-   [Pokyn 2.1 - Přístup z klávesnice](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
+-   [Pokyn 2.2 - Sekvenční navigace](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+-   [Pokyn 2.3 - Přímá navigace a aktivace](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+-   [Pokyn 2.11 - Další vstupní zařízení](https://www.w3.org/TR/UAAG20/#gl-other-devices)
 
 **ATAG**
 
 -   [Princip A.1: Uživatelská rozhraní nástrojů pro tvorbu se řídí příslušnými pokyny pro přístupnost](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Pokyn A.3.1: (Pro uživatelské rozhraní nástrojů pro tvorbu) Provide keyboard access to authoring features](https://www.w3.org/TR/ATAG20/#gl_a31)
+-   [Pokyn A.3.1: (Pro uživatelské rozhraní nástrojů pro tvorbu) Podporujte přístup z klávesnice k autorským funkcím](https://www.w3.org/TR/ATAG20/#gl_a31)
 -   [Část B. Podporujte tvorbu přístupného obsahu](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to keyboard accessibility
+#### Příběhy související s přístupností z klávesnice
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -360,42 +360,42 @@ Meeting this requirement helps keyboard users, including people using alternativ
 
 {% include excol.html type="end" %}
 
-### Users have enough time to read and use the content {#time}
+### Uživatelé mají dostatek času na přečtení a použití obsahu {#time}
 
-Some people need more time than others to read and use the content. For instance, some people require more time to type text, understand instructions, operate controls, or to otherwise complete tasks on a website.
+Někteří lidé potřebují více času než jiní pro čtení a použití obsahu. Například někteří lidé vyžadují více času pro napsání textu, porozumnění instrukcím, ovládání ovládacích prvků nebo jiný způsob provedení úkonů na webové stránce.
 
-Examples of providing enough time include providing mechanisms to:
+Mezi příklady poskytnutí dostatku času patří poskytnutí možnosti:
 
--   Stop, extend, or adjust time limits, except where necessary
--   Pause, stop, or hide moving, blinking, or scrolling content
--   Postpone or suppress interruptions, except where necessary
--   Re-authenticate when a session expires without losing data
+-   Zastavení, zvýšení nebo přizpůsobení časových limitů pokud to je v dané situaci možné
+-   Pozastavit, zastavit nebo skrýt pohyb, blikání nebo posouvání obsahu
+-   Odložit nebo potlačit vyrušení pokud to je v dané situaci možné
+-   Opětovného přihlášení po vypršení relace bez ztráty dat
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to sufficient time (odkazy na technické specifikace)
+#### Požadavky na přístupnost související s dostatkem času (odkazy na technické specifikace)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pokyn 2.2 - Enough time](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
+-   [Pokyn 2.2 - Dostatek času](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
 
 **UAAG**
 
--   [Pokyn 2.8 - Time-independent interaction](https://www.w3.org/TR/UAAG20/#gl-time-independent)
--   [Pokyn 2.10 - Time-based media](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
+-   [Pokyn 2.8 - Časově nezávislé interakce](https://www.w3.org/TR/UAAG20/#gl-time-independent)
+-   [Pokyn 2.10 - Časově závislá média](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
 
 **ATAG**
 
 -   [Princip A.1: Uživatelská rozhraní nástrojů pro tvorbu se řídí příslušnými pokyny pro přístupnost](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Pokyn A.3.2: (Pro uživatelské rozhraní nástrojů pro tvorbu) Provide authors with enough time](https://www.w3.org/TR/ATAG20/#gl_a32)
+-   [Pokyn A.3.2: (Pro uživatelské rozhraní nástrojů pro tvorbu) Poskytněte autorům dostatek času](https://www.w3.org/TR/ATAG20/#gl_a32)
 -   [Část B. Podporujte tvorbu přístupného obsahu](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to sufficient time
+#### Příběhy související s dostatkem času
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -408,82 +408,82 @@ Examples of providing enough time include providing mechanisms to:
 
 {% include excol.html type="end" %}
 
-### Content does not cause seizures and physical reactions {#safe}
+### Obsah nezpůsobuje záchvaty a fyzické reakce {#safe}
 
-Content that flashes at certain rates or patterns can cause photosensitive reactions, including seizures. Flashing content is ideally avoided entirely or only used in a way that does not cause known risks. Also animations and moving content can cause discomfort and physical reactions.
+Obsah, který bliká určitou rychlostí nebo vzorem může způsobit fotocitlivé reakce včetně záchvatů. Blikající obsah by ideálně neměl být zobrazen vůbec nebo tak, aby nezpůsoboval známá rizika. Animace a pohybující se obsah může také způsobovat zdravotní potíže a fyzické reakce.
 
-Examples of avoiding causing seizures and physical reactions:
+Příklady, jak se nezpůsobovat záchvaty a fyzické reakce:
 
--   Do not include content that flashes at particular rates and patterns
--   Warn users before flashing content is presented, and provide alternatives
--   Provide mechanisms to switch off animations, unless they are essential
+-   Nepoužívejte obsah, který bliká určitou rychlostí nebo vzorem
+-   Varujte uživatele před zobrazením blikajícího obsahu a poskytněte alternativy
+-   Poskytněte možnost vypnout animace, pokud nejsou nezbytné
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to seizures (odkazy na technické specifikace)
+#### Požadavky na přístupnost související se záchvaty (odkazy na technické specifikace)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pokyn 2.3 - Seizures](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [Pokyn 2.3 - Záchvaty](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
--   [Pokyn 2.9 - Flashing](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
+-   [Pokyn 2.9 - Blikání](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
 
 **ATAG**
 
 -   [Princip A.1: Uživatelská rozhraní nástrojů pro tvorbu se řídí příslušnými pokyny pro přístupnost](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Pokyn A.3.3: (Pro uživatelské rozhraní nástrojů pro tvorbu) Help authors avoid flashing that could cause seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
+-   [Pokyn A.3.3: (Pro uživatelské rozhraní nástrojů pro tvorbu) Pomozte autorům vyhnout se blikání, které by mohlo způsobit záchvat](https://www.w3.org/TR/ATAG20/#gl_a33)
 -   [Část B. Podporujte tvorbu přístupného obsahu](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 
-### Users can easily navigate, find content, and determine where they are {#navigable}
+### Uživatelé mohou snadno procházet a vyhledávat obsah, snadno určí, kde se nacházejí {#navigable}
 
-Well organized content helps users to orient themselves and to navigate effectively. Such content includes:
+Dobře zorganizovaný obsah pomáhá uživatelům orientovat se a efektivně procházet obsah. Mezi příklady patří:
 
--   Pages have clear titles and are organized using descriptive section headings
--   There is more than one way to find relevant pages within a set of web pages
--   Users are informed about their current location within a set of related pages
--   There are ways to bypass blocks of content that are repeated on multiple pages
--   The keyboard focus is visible, and the focus order follows a meaningful sequence
--   The purpose of a link is evident, ideally even when the link is viewed on its own
+-   Stránky mají jasný titul a popisné nadpisy jednotlivých sekcí
+-   Najít relevantní stránky v rámci řady webových stránek lze více než jedním způsobem
+-   Uživatelé jsou informování o současné lokaci v rámci několika souvisejících stránek
+-   Je možné přeskočit části obsahu, které se opakují na více stránkách
+-   Focus klávesnice je vidět a pořadí focusu dává smysl
+-   Účel odkazu je jasný, nejlépe i v případě, kdy je odkaz zobrazen samostatně
 
-Meeting this requirement helps people to navigate through web pages in different ways, depending on their particular needs and preferences. For instance, while some people rely on hierarchical navigation structures such as menu bars to find specific web pages, others rely on search functions on websites instead. Some people may be seeing the content while others may be hearing it or seeing and hearing it at the same time. Some people may be using the content with only a mouse or a keyboard, while others may be using both.
+Splnění tohoto požadavku pomáhá lidem navigovat webovou stránkou různými způsoby podle jejich konkrétních potřeb a preferencí. Například někteří lidé při hledání určité webové stránky spoléhají na hierarchické navigační struktury, jako jsou panely nabídek. Jiní ale ve stejné situaci spoléhají spíše na funkci vyhledávání na webových stránkách. Někteří obsah vidí, jiný slyší nebo slyší a vidí zároveň. Někteří uživatelé používají pouze myš nebo klávesnici, zatímco jiní mohou používat obojí.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to navigation (odkazy na technické specifikace)
+#### Požadavky na přístupnost související s navigací (odkazy na technické specifikace)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pokyn 2.4 - Navigable](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+-   [Pokyn 2.4 - Navigace](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
 
 **UAAG**
 
--   [Pokyn 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
--   [Pokyn 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
--   [Pokyn 2.4 - Text search](https://www.w3.org/TR/UAAG20/#gl-search-text)
--   [Pokyn 2.5 - Structural navigation](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
--   [Pokyn 2.7 - Graphical controls](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
+-   [Pokyn 2.2 - Sekvenční navigace](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+-   [Pokyn 2.3 - Přímá navigace a aktivace](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+-   [Pokyn 2.4 - Textové vyhledávání](https://www.w3.org/TR/UAAG20/#gl-search-text)
+-   [Pokyn 2.5 - Strukturální navigace](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
+-   [Pokyn 2.7 - Grafické ovládací prvky](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
 
 **ATAG**
 
 -   [Princip A.1: Uživatelská rozhraní nástrojů pro tvorbu se řídí příslušnými pokyny pro přístupnost](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Pokyn A.2.2: (Pro uživatelské rozhraní nástrojů pro tvorbu) Zajistěte, aby bylo možné programově určit zobrazení pro úpravy](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Pokyn A.3.4: (Pro uživatelské rozhraní nástrojů pro tvorbu) Enhance navigation and editing via content structure](https://www.w3.org/TR/ATAG20/#gl_a34)
--   [Pokyn A.3.5: (Pro uživatelské rozhraní nástrojů pro tvorbu) Provide text search of the content](https://www.w3.org/TR/ATAG20/#gl_a35)
+-   [Pokyn A.3.4: (Pro uživatelské rozhraní nástrojů pro tvorbu) Vylepšete navigaci a úpravy prostřednictvím struktury obsahu](https://www.w3.org/TR/ATAG20/#gl_a34)
+-   [Pokyn A.3.5: (Pro uživatelské rozhraní nástrojů pro tvorbu) Poskytněte textové vyhledávání obsahu](https://www.w3.org/TR/ATAG20/#gl_a35)
 -   [Část B. Podporujte tvorbu přístupného obsahu](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to navigation
+#### Příběhy související s navigací
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -497,32 +497,32 @@ Meeting this requirement helps people to navigate through web pages in different
 
 {% include excol.html type="end" %}
 
-### Users can use different input modalities beyond keyboard {#modalities}
+### Uživatelé mohou použít různé způsoby vstupu mimo klávesnici {#modalities}
 
-Input modalities beyond keyboard, such as touch activation, voice recognition (speech input), and gestures make content easier to use for many people. Yet not everyone can use each of these input modalities, and to the same degree. Particular design considerations maximize the benefit of these input modalities. This includes:
+Způsoby vstupu kromě klávesnice, jako třeba aktivace dotykem, hlasové rozpoznávání (hlasový vstup) a gesta, umožňují pro mnoho lidí snadnější použití obsahu. Přesto ne všichni mohou použít kterýkoliv z těchto způsobů nebo ve stejné míře. Specifický design maximalizuje výhody těchto způsobů. To zahrnuje:
 
--   Gestures that require dexterity or fine movement have alternatives that do not require high dexterity
--   Components are designed to avoid accidental activation, for example by providing undo functionality
--   Labels presented to users match corresponding object names in the code, to support activation by voice
--   Functionality that is activated by movement can also be activated through user interface components
--   Buttons, links, and other active components are large enough to make them easier to activate by touch
+-   Gesta vyžadující obratnost nebo jemný pohyb mají alternativy, které nevyžadují velkou obratnost
+-   Komponenty jsou navrženy tak, aby se zabránilo nechtěné aktivaci, například poskytnutím funkce Zpět
+-   Popisky prezentované uživatelům se shodují s odpovídajícími názvy objektů v kódu, což podporuje aktivaci hlasem
+-   Funkčnost aktivovanou pohybem lze aktivovat také prostřednictvím komponent uživatelského rozhraní
+-   Tlačítka, odkazy a další aktivní komponenty jsou dostatečně velké, aby se snadněji aktivovaly dotykem
 
-Meeting this requirement makes the content easier to use for many people with a wide range of abilities using a wide range of devices. This includes content used on mobile phones, tablet computers, and self-service terminals such as ticketing machines.
+Splnění tohoto požadavku usnadňuje používání obsahu pro mnoho lidí se širokou škálou schopností využívajících širokou škálu zařízení. To zahrnuje obsah používaný v mobilních telefonech, tabletech a samoobslužných terminálech, jako jsou automaty na jízdenky.
 
 {% include excol.html type="start" id="" %}
 
-#### Accessibility requirements related to input modalities (odkazy na technické specifikace)
+#### Požadavky na přístupnost související se způsoby vstupu (odkazy na technické specifikace)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pokyn 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [Pokyn 2.5 - Způsoby vstupu](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
-#### Stories related to input modalities
+#### Příběhy související se způsoby vstupu
 {:.no_toc}
 
 {% include excol.html type="middle" %}
