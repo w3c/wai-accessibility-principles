@@ -533,39 +533,39 @@ Splnění tohoto požadavku usnadňuje používání obsahu pro mnoho lidí se �
 
 {% include excol.html type="end" %}
 
-## Understandable information and user interface {#understandable}
+## Srozumitelné informace a uživatelské rozhraní {#understandable}
 
-### Text is readable and understandable {#readable}
+### Text je čitelný a srozumitelný {#readable}
 
-Content authors need to ensure that text content is readable and understandable to the broadest audience possible, including when it is read aloud by text-to-speech. Such content includes:
+Autoři obsahu musí zajistit, aby byl text čitelný pro co nejširší publikum, včetně toho, kdy je čten nahlas pomocí převodu textu na řeč. Toto zahrnuje:
 
--   Identifying the primary language of a web page, such as Arabic, Dutch, or Korean
--   Identifying the language of text passages, phrases, or other parts of a web page
--   Providing definitions for any unusual words, phrases, idioms, and abbreviations
--   Using the clearest and simplest language possible, or providing simplified versions
+-   Určení primárního jazyka webové stránky, jako třeba arabština, holandština nebo korejština
+-   Určení jazyka textu, frází nebo jiných částí webové stránky
+-   Poskytnutí definic pro nezvyklá slova, fráze, idiomy a zkratky
+-   Použití nejjasnějšího a nejjednoduššího možného vyjadřování nebo poskytnutí zjednodušených verzí
 
-Meeting this requirement helps software, including assistive technology, to process text content correctly. For instance, this requirement helps software to read the content aloud, to generate page summaries, and to provide definitions for unusual words such as technical jargon. It also helps people who have difficulty understanding more complex sentences, phrases, and vocabulary. In particular, it helps people with different types of cognitive disabilities.
+Splnění tohoto požadavku pomáhá softwaru včetně asistenčních technologií správně zpracovat textový obsah. Například pomáhá tento požadavek softwaru nahlas přečíst obsah, generovat shrnutí stránky a poskytnout definice pro nezvyklá slova jako třeba technický slang. Také pomáhá lidem, kteří mají potíže s porozumněním složitějších vět, frází a slovníku. Zejména pomáhá osobám s různými typy kognitivních poruch.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to readability (odkazy na technické specifikace)
+#### Požadavky na přístupnost související s čitelností (odkazy na technické specifikace)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pokyn 3.1 - Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [Pokyn 3.1 - Čitelnost](https://www.w3.org/WAI/WCAG21/quickref/#readable)
 
 **ATAG**
 
 -   [Princip A.1: Uživatelská rozhraní nástrojů pro tvorbu se řídí příslušnými pokyny pro přístupnost](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Pokyn A.4.2: (Pro uživatelské rozhraní nástrojů pro tvorbu) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [Pokyn A.4.2: (Pro uživatelské rozhraní nástrojů pro tvorbu) Zdokumentujte uživatelské rozhraní včetně všech funkcí přístupnosti](https://www.w3.org/TR/ATAG20/#gl_b42)
 -   [Část B. Podporujte tvorbu přístupného obsahu](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to readability
+#### Příběhy související s čitelností
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -578,41 +578,41 @@ Meeting this requirement helps software, including assistive technology, to proc
 
 {% include excol.html type="end" %}
 
-### Content appears and operates in predictable ways {#predictable}
+### Obsah vypadá a funguje předvídatelně {#predictable}
 
-Many people rely on predictable user interfaces and are disoriented or distracted by inconsistent appearance or behavior. Examples of making content more predictable include:
+Mnoho lidí spoléhá na předvídatelné uživatelské rozhraní a jsou dezorientovaní nebo rozptýlení nekonzistentním vzhledem nebo chováním. Mezi příklady předvídatelného obsahu patří:
 
--   Navigation mechanisms that are repeated on multiple pages appear in the same place each time
--   User interface components that are repeated on web pages have the same labels each time
--   Significant changes on a web page do not happen without the consent of the user
+-   Navigační mechanismy, které se opakují na více stránkách, se objevují pokaždé na stejném místě
+-   Komponenty uživatelského rozhraní, které se na webové stránce opakují, mají pokaždé stejné popisky
+-   K významným změnám na webové stránce nedojde bez souhlasu uživatele
 
-Meeting this requirement helps people to quickly learn the functionality and navigation mechanisms provided on a website, and to operate them according to their specific needs and preferences. For instance, some people assign personalized shortcut keys to functions they frequently use to enhance keyboard navigation. Others memorize the steps to reach certain pages or to complete processes on a website. Both rely on predictable and consistent functionality.
+Splnění tohoto požadavku pomáhá lidem rychle se naučit funkčnost a navigační mechanismy dostupné na webové stránce a ovládat je podle svých konkrétních potřeb a preferencí. Někteří lidé například přiřazují vlastní klávesové zkratky funkcím, které často používají, aby vylepšili navigaci klávesnicí. Jiní si zapamatují kroky k dosažení určitých stránek nebo k dokončení operací na webové stránce. Oba příklady spoléhají na předvídatelnou a konzistentní funkčnost.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to predictability (odkazy na technické specifikace)
+#### Požadavky na přístupnost související s předvídatelností (odkazy na technické specifikace)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pokyn 3.2 - Predictable](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [Pokyn 3.2 - Předvídatelnost](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
 
 **UAAG**
 
--   [Pokyn 3.3 - Predictable](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
+-   [Pokyn 3.3 - Předvídatelnost](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
 
 **ATAG**
 
 -   [Princip A.1: Uživatelská rozhraní nástrojů pro tvorbu se řídí příslušnými pokyny pro přístupnost](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Pokyn A.2.2: (Pro uživatelské rozhraní nástrojů pro tvorbu) Zajistěte, aby bylo možné programově určit zobrazení pro úpravy](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Pokyn A.4.2: (Pro uživatelské rozhraní nástrojů pro tvorbu) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [Pokyn A.4.2: (Pro uživatelské rozhraní nástrojů pro tvorbu) Zdokumentujte uživatelské rozhraní včetně všech funkcí přístupnosti](https://www.w3.org/TR/ATAG20/#gl_b42)
 -   [Část B. Podporujte tvorbu přístupného obsahu](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to predictability
+#### Příběhy související s předvídatelností
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -626,41 +626,41 @@ Meeting this requirement helps people to quickly learn the functionality and nav
 
 {% include excol.html type="end" %}
 
-### Users are helped to avoid and correct mistakes {#tolerant}
+### Uživatelům se pomáhá vyhnout se chybám a opravit je {#tolerant}
 
-Forms and other interaction can be confusing or difficult to use for many people, and, as a result, they may be more likely to make mistakes. Examples of helping users to avoid and correct mistakes include:
+Formuláře a další interakce mohou být pro některé uživatele matoucí nebo obtížně použitelné. V důsledku toho je pravděpodobnější, že udělají chybu. Mezi příklady pomoci uživatelům vyvarovat se chybám a opravit je patří:
 
--   Descriptive instructions, error messages, and suggestions for correction
--   Context-sensitive help for more complex functionality and interaction
--   Opportunity to review, correct, or reverse submissions if necessary
+-   Jasné instrukce, chybové zprávy a návrhy na opravu
+-   Kontextová nápověda pro složitější funkce a interakci
+-   V případě potřeby příležitost zkontrolovat, opravit nebo zrušit odeslání
 
-Meeting this requirement helps people who do not see or hear the content, and may not recognize implicit relationships, sequences, and other cues. It also helps people who do not understand the functionality, are disoriented or confused, forget, or make mistakes using forms and interaction for any other reason.
+Splnění tohoto požadavku pomáhá lidem, kteří nevidí nebo neslyší obsah a nemusí rozpoznat implicitní vztahy, sekvence a další podněty. Pomáhá také lidem, kteří nerozumí funkčnosti, jsou dezorientovaní nebo zmatení, zapomínají nebo dělají chyby při vyplňování formulářů a interakcích z jakéhokoli jiného důvodu.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to input assistance (odkazy na technické specifikace)
+#### Požadavky na přístupnost související s asistencí pro vstup (odkazy na technické specifikace)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pokyn 3.3 - Input assistance](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+-   [Pokyn 3.3 - Asistence pro vstup](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
 
 **UAAG**
 
--   [Pokyn 3.1 - Mistakes](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
+-   [Pokyn 3.1 - Chyby](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
 
 **ATAG**
 
 -   [Princip A.1: Uživatelská rozhraní nástrojů pro tvorbu se řídí příslušnými pokyny pro přístupnost](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Pokyn A.2.2: (Pro uživatelské rozhraní nástrojů pro tvorbu) Zajistěte, aby bylo možné programově určit zobrazení pro úpravy](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Pokyn A.4.1: (Pro uživatelské rozhraní nástrojů pro tvorbu) Help authors avoid and correct mistakes](https://www.w3.org/TR/ATAG20/#gl_b41)
+-   [Pokyn A.4.1: (Pro uživatelské rozhraní nástrojů pro tvorbu) Pomozte autorům vyhnout se chybám a opravit je](https://www.w3.org/TR/ATAG20/#gl_b41)
 -   [Část B. Podporujte tvorbu přístupného obsahu](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to input assistance
+#### Příběhy související s asistencí vstupu
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -673,33 +673,33 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 {% include excol.html type="end" %}
 
-## Robust content and reliable interpretation {#robust}
+## Robustní obsah a spolehlivá interpretace {#robust}
 
-### Content is compatible with current and future user tools {#compatible}
+### Obsah je kompatibilní se současnými i budoucími uživatelskými nástroji {#compatible}
 
-Robust content is compatible with different browsers, assistive technologies, and other user agents. Examples of how this can be achieved include:
+Robustní obsah je kompatibilní s různými prohlížeči, asistenčními technologiemi a dalšími uživatelskými agenty. Mezi příklady toho, jak toho lze dosáhnout, patří:
 
--   Ensuring markup can be reliably interpreted, for instance by ensuring it is valid
--   Providing a name, role, and value for non-standard user interface components
+-   Zajistit, že program je spolehlivě interpretován, například zajištěním, že je správně
+-   Poskytnutí názvu, role a hodnoty pro nestandardní součásti uživatelského rozhraní
 
-Meeting this requirement helps maximize compatibility with current and future user agents, including assistive technologies. In particular, it enables assistive technologies to process the content reliably, and to present or to operate it in different ways. This includes non-standard (scripted) buttons, input fields, and other controls.
+Splnění tohoto požadavku pomáhá maximalizovat kompatibilitu se současnými i budoucími uživatelskými agenty, včetně asistenčních technologií. Zejména umožňuje asistenčním technologiím spolehlivé zpracování obsahu a jeho prezentaci nebo ovládání různými způsoby. To zahrnuje nestandardní (skriptovaná) tlačítka, vstupní pole a další ovládací prvky.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to compatibility (odkazy na technické specifikace)
+#### Požadavky na přístupnost související s kompatibilitou (odkazy na technické specifikace)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pokyn 4.1 - Compatible](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [Pokyn 4.1 - Kompatibilita](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
 
 **UAAG**
 
--   [Pokyn 2.6 - Preference settings](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
--   [Pokyn 4.1 - Assistive technology](https://www.w3.org/TR/UAAG20/#gl-AT-access)
--   [Pokyn 5.1 - Follow specifications](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
+-   [Pokyn 2.6 - Nastavení předvoleb](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
+-   [Pokyn 4.1 - Asistenční technologie](https://www.w3.org/TR/UAAG20/#gl-AT-access)
+-   [Pokyn 5.1 - Dodržujte specifikace](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
 
 **ATAG**
 
@@ -708,7 +708,7 @@ Meeting this requirement helps maximize compatibility with current and future us
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to compatibility
+#### Příběhy související s kompatibilitou
 {:.no_toc}
 
 {% include excol.html type="middle" %}
