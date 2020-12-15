@@ -70,7 +70,7 @@ Tato stránka představuje některé požadavky na přístupnost webu pro webov�
 
 ## Standardy webové přístupnosti {#standards}
 
-Webová přístupnost spoléhá na několik komponent, které spolupracují. Některé z nich zahrnují:
+Webová přístupnost spoléhá na několik komponent, které spolupracují. Některé z nich jsou:
 
 -   **Obsah webu**{:#webcontent} - jakákoliv část webové stránky, která obsahuje text, obrázky, formuláře a multimédia, stejně tak markup kód, skripty, aplikace a další.
 -   **Uživatelské agenty**{:#useragents} - software, který lidé používají pro přístup k webovému obsahu. Jedná se o grafické prohlížeče pro PC, hlasové prohlížeče, mobilní prohlížeče, přehrávače multimédií, pluginy a některé [kompenzační pomůcky](/people-use-web/tools-techniques/#at "definition").
@@ -83,11 +83,11 @@ Webová přístupnost spoléhá na několik komponent, které spolupracují. Ně
 
 {% include excol.html type="middle" %}
 
-Výše zmíněné komponenty jsou vzájemně propojeny a vzájemně se podporují. Například **webový obsah** musí zahrnovat textové alternativy pro obrázky. Tato informace musí být zpracována **webovými prohlížeči** a předána **asistenčním technologiím**, například čtečkám obrazovky. Autoři potřebují **vývojové nástroje**, které jim umožní tvorbu těchto textových alternativ. Více informací je v [[Základních komponentech webové přístupnosti]](/fundamentals/components/).
+Výše zmíněné komponenty jsou propojeny a vzájemně se podporují. Například **webový obsah** musí zahrnovat textové alternativy pro obrázky. Tato informace musí být zpracována **webovými prohlížeči** a předána **asistenčním technologiím**, například čtečkám obrazovky. Autoři potřebují **vývojové nástroje**, které jim umožní tvorbu těchto textových alternativ. Více informací je v [[Základních komponentech webové přístupnosti]](/fundamentals/components/).
 
-Standardy hrají zásadní roli v definování požadavků na přístupnost pro každý z těchto komponentů. Splnění některých požadavků na přístupnost je jednoduché, přesto porozumnění základů, jak osoby se zdravotním postižením používají Web, pomáhá tyto požadavky splnit efektivněji. Některé aspekty přístupnosti vyžadují více technických dovedností nebo pokročilé znalosti toho, jak lidé používají Web. V každém případě [zapojení uživatelů ze začátku a během projektů](/test-evaluate/involving-users/) zlepší a usnadní vaši práci.
+Standardy hrají zásadní roli v definování požadavků na přístupnost pro každý z těchto komponentů. Splnění některých požadavků na přístupnost je jednoduché, přesto porozumnění základům, jak osoby se zdravotním postižením používají Web, pomáhá tyto požadavky splnit efektivněji. Některé aspekty přístupnosti vyžadují více technických dovedností nebo pokročilé znalosti toho, jak lidé používají Web. V každém případě [zapojení uživatelů ze začátku a během projektů](/test-evaluate/involving-users/) zlepší a usnadní vaši práci.
 
-Iniciativa pro webovou přístupnost W3C (WAI) poskytuje soubor pokynů, které jsou mezinárodně uznávány jako standard pro webovou přístupnost. Tyto zahrnují:
+Iniciativa pro webovou přístupnost W3C (WAI) poskytuje soubor pokynů, které jsou mezinárodně uznávány jako standard pro webovou přístupnost. Jedná se o:
 
 -   **[Pokyny pro zpřístupnění obsahu webu (WCAG)](/standards-guidelines/wcag/)**
 -   **[Pokyny k uživatelským agentům (UAAG)](/standards-guidelines/uaag/)**
@@ -108,7 +108,7 @@ Textové alternativy jsou ekvivalenty pro netextový obsah. Mezi příklady pat�
 -   Krátký popis netextového obsahu jako audio a video souborů
 -   Popisky pro ovládací prvky formulářů, vstupů a dalších komponent uživatelského rozhraní
 
-Textové alternativy vyjadřují význam obrázku nebo pomáhají poskytnout srovnatelný uživatelský prožitek. Například vhodná textová alternativa pro tlačítko vyhladávání je "*vyhledat*", ne "*lupa*".
+Textové alternativy vyjadřují význam obrázku nebo pomáhají poskytnout srovnatelný uživatelský prožitek. Například vhodná textová alternativa pro tlačítko vyhledávání je "*vyhledat*", ne "*lupa*".
 
 Textové alternativy lze prezentovat různými způsoby. Například mohou být nahlas přečteny pro uživatele, kteří nevidí obrazovku a pro lidi s obtížemi při čtení. Mohou být zvětšeny na vlastní velikost textu nebo zobrazeny na braillských zařízeních. Textové alternativy slouží jako popisky pro ovládácí prvky a funkce pro usnadnění navigace pomocí klávesnice a navigace pomocí rozpoznávání hlasu (hlasový vstup). Také slouží jako popisky pro audio, video a další formáty. Mohou také popisovat aplikace, které jsou vloženy jako součást webové stránky.
 
@@ -201,13 +201,13 @@ Dobře napsané textové přepisy, které obsahují správnou posloupnost všech
 
 ### Obsah lze prezentovat různými způsoby {#adaptable}
 
-Aby uživatelé mohli změnit prezentaci obsahu, je nutné aby:
+Aby uživatelé mohli změnit prezentaci obsahu, je nutné, aby:
 
--   nadpisy, seznamy, tabulky, vstupní políčka a struktury obsahu byly správně označeny
+-   nadpisy, seznamy, tabulky, vstupní políčka formulářů a struktury obsahu byly správně označeny
 -   pořadí informací a instrukcí nezáleželo na prezentaci
 -   prohlížeče a asistenční technologie poskytovaly nastavení pro přizpůsobení prezentace
 
-Splnění tohoto požadavku umožňuje správné čtení obsahu nahlas, zvětšení nebo přizpůsobení tak, aby vyhovovalo potřebám a preferencím různých lidí. Obsah může být například prezentován pomocí vlastních barevných kombinací, velikosti textu nebo jiných úplrav vzhledu, které usnadní čtení. Tento požadavek také usnadňuje další formy přizpůsobení, včetně automatického generování obrysů a souhrnů stránek, které lidem pomohou získat přehled a snadněji se zaměřit na konkrétní části.
+Splnění tohoto požadavku umožňuje správné čtení obsahu nahlas, zvětšení nebo přizpůsobení tak, aby vyhovovalo potřebám a preferencím různých lidí. Obsah může být například prezentován pomocí vlastních barevných kombinací, velikosti textu nebo jiných úprav vzhledu, které usnadní čtení. Tento požadavek také usnadňuje další formy přizpůsobení, včetně automatického generování obrysů a souhrnů stránek, které lidem pomohou získat přehled a snadněji se zaměřit na konkrétní části.
 
 {% include excol.html type="start" %}
 
@@ -261,7 +261,7 @@ Rozlišitelný obsah je lépe vidět a slyšet. Příklady takového obsahu jsou
 -   Výchozí kombinace barvy popředí a pozadí má dostatečný barevný kontrast
 -   Pokud uživatel zvětší text na 400% nebo změní velikost řádkování, žádné informace nejsou ztraceny
 -   Přeformátování textu v malých oknech („výřezech“) a při zvětšení textu uživatelem
--   U obrázků textu lze změnit velikost, nahradit je textem nebo se jim pokud možno vyhnout
+-   U obrázků textu lze změnit velikost. Lepší je ale nahradit je textem nebo se jim pokud možno vyhnout
 -   Uživatel může pozastavit, zastavit nebo změnit hlasitost zvuku, který hraje na webové stránce
 -   Audio na pozadí je potichu a je možné ho vypnout, aby nerušilo nebo nerozptylovalo uživatele
 
@@ -285,7 +285,7 @@ Splnění tohoto požadavku pomáhá oddělit popředí od pozadí, takže jsou 
 -   [Pokyn 1.5 - Konfigurace hlasitosti](https://www.w3.org/TR/UAAG20/#gl-volume-config)
 -   [Pokyn 1.6 - Konfigurace syntetizované řeči](https://www.w3.org/TR/UAAG20/#gl-speech-config)
 -   [Pokyn 1.7 - Konfigurace šablony stylů uživatele](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [Pokyn 1.8 - Orientation in viewports](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
+-   [Pokyn 1.8 - Orientace ve výřezech](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
 -   [Pokyn 1.9 - Alternativní zobrazení](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
 -   [Pokyn 1.10 - Informace o elementech](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
@@ -312,17 +312,17 @@ Splnění tohoto požadavku pomáhá oddělit popředí od pozadí, takže jsou 
 
 ## Ovladatelné uživatelské rozhraní a navigace  {#operable}
 
-### Funkce jsou dostupné klávesnicí {#keyboard}
+### Funkce jsou dostupné pomocí klávesnice {#keyboard}
 
 Mnoho lidí pro interakci s webem nepoužívá myš, ale spoléhá na klávesnici. To vyžaduje přístup ke všem funkcím z klávesnice, včetně ovládacích prvků formulářů, vstupů a dalších komponent uživatelského rozhraní.
 
-Přístupnost klávesnice zahrnuje:
+Přístupnost klávesnice znamená, že:
 
 -   Všechny funkce, které jsou dostupné myší jsou také dostupné klávesnicí
 -   Focus klávesnice neuvízne v žádné části obsahu
 -   Webové prohlížeče, nástroje pro tvorbu a další nástroje podporují ovládání klávesnicí
 
-Splnění tohoto požadavku pomáhá uživatelům klávesnice včetně osob, které používají alternativní klávesnice jako třeba klávesnice s ergonomických rozložením, klávesnice na obrazovce nebo tlačítková zářízení. Také pomáhá osobám, které používají rozpoznávání hlasu (hlasový vstup) k ovládání webových stránek a k diktování textu použitím klávesnice.
+Splnění tohoto požadavku pomáhá uživatelům klávesnice včetně osob, které používají alternativní klávesnice jako třeba klávesnice s ergonomickým rozložením, klávesnice na obrazovce nebo tlačítková zářízení. Také pomáhá osobám, které používají rozpoznávání hlasu (hlasový vstup) k ovládání webových stránek a k diktování textu použitím klávesnice.
 
 {% include excol.html type="start" %}
 
@@ -366,9 +366,9 @@ Někteří lidé potřebují více času než jiní pro čtení a použití obsa
 
 Mezi příklady poskytnutí dostatku času patří poskytnutí možnosti:
 
--   Zastavení, zvýšení nebo přizpůsobení časových limitů pokud to je v dané situaci možné
+-   Zastavení, zvýšení nebo přizpůsobení časových limitů, pokud to je v dané situaci možné
 -   Pozastavit, zastavit nebo skrýt pohyb, blikání nebo posouvání obsahu
--   Odložit nebo potlačit vyrušení pokud to je v dané situaci možné
+-   Odložit nebo potlačit vyrušení, pokud to je v dané situaci možné
 -   Opětovného přihlášení po vypršení relace bez ztráty dat
 
 {% include excol.html type="start" %}
@@ -447,7 +447,7 @@ Dobře zorganizovaný obsah pomáhá uživatelům orientovat se a efektivně pro
 
 -   Stránky mají jasný titul a popisné nadpisy jednotlivých sekcí
 -   Najít relevantní stránky v rámci řady webových stránek lze více než jedním způsobem
--   Uživatelé jsou informování o současné lokaci v rámci několika souvisejících stránek
+-   Uživatelé jsou informovaní o současné lokaci v rámci několika souvisejících stránek
 -   Je možné přeskočit části obsahu, které se opakují na více stránkách
 -   Focus klávesnice je vidět a pořadí focusu dává smysl
 -   Účel odkazu je jasný, nejlépe i v případě, kdy je odkaz zobrazen samostatně
@@ -544,7 +544,7 @@ Autoři obsahu musí zajistit, aby byl text čitelný pro co nejširší publiku
 -   Poskytnutí definic pro nezvyklá slova, fráze, idiomy a zkratky
 -   Použití nejjasnějšího a nejjednoduššího možného vyjadřování nebo poskytnutí zjednodušených verzí
 
-Splnění tohoto požadavku pomáhá softwaru včetně asistenčních technologií správně zpracovat textový obsah. Například pomáhá tento požadavek softwaru nahlas přečíst obsah, generovat shrnutí stránky a poskytnout definice pro nezvyklá slova jako třeba technický slang. Také pomáhá lidem, kteří mají potíže s porozumněním složitějších vět, frází a slovníku. Zejména pomáhá osobám s různými typy kognitivních poruch.
+Splnění tohoto požadavku pomáhá softwaru včetně asistenčních technologií správně zpracovat textový obsah. Například pomáhá tento požadavek softwaru nahlas přečíst obsah, generovat shrnutí stránky a poskytnout definice pro nezvyklá slova jako třeba technický slang. Také pomáhá lidem, kteří mají potíže s porozumněním složitějších vět, frází a slov. Zejména pomáhá osobám s různými typy kognitivních poruch.
 
 {% include excol.html type="start" %}
 
@@ -679,7 +679,7 @@ Splnění tohoto požadavku pomáhá lidem, kteří nevidí nebo neslyší obsah
 
 Robustní obsah je kompatibilní s různými prohlížeči, asistenčními technologiemi a dalšími uživatelskými agenty. Mezi příklady toho, jak toho lze dosáhnout, patří:
 
--   Zajistit, že program je spolehlivě interpretován, například zajištěním, že je správně
+-   Zajistit, že program je spolehlivě interpretován, například zajištěním jeho platnosti
 -   Poskytnutí názvu, role a hodnoty pro nestandardní součásti uživatelského rozhraní
 
 Splnění tohoto požadavku pomáhá maximalizovat kompatibilitu se současnými i budoucími uživatelskými agenty, včetně asistenčních technologií. Zejména umožňuje asistenčním technologiím spolehlivé zpracování obsahu a jeho prezentaci nebo ovládání různými způsoby. To zahrnuje nestandardní (skriptovaná) tlačítka, vstupní pole a další ovládací prvky.
