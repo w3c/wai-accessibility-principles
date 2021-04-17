@@ -187,7 +187,7 @@ footer: >   # Do not change the dates below.
 #### قصص متعلقة بالوسائط المتعددة  {#stories-related-to-multimedia}
 {:.no_toc}
  
-{% include excol.html type=”middle” %}
+{% include excol.html type="middle" %}
 
 -   [مارتين، الب عبر الإنترنت يعاني من ضعف السمع](/people-use-web/user-stories/#onlinestudent)
 -   [ليا، موظف أول كفيف](/people-use-web/user-stories/#accountant)
