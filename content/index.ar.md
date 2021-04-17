@@ -1,8 +1,8 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
  
-title: Accessibility Principles   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Accessibility Principles"   # A short title that is used in the navigation
+title: مبادئ الوصول   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "مبادئ الوصول"   # A short title that is used in the navigation
  
 lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
  
@@ -34,7 +34,7 @@ footer: >   # Do not change the dates below.
 ---
  
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="ملخص" class="full" %}
 {:/}
  
 يقدم هذا التقرير بعض متطلبات إمكانية الوصول للويب؛ للمواقع، والتطبيقات، ومتصفحات الويب وغيرها من الأدوات. و يوفر أيضاً مراجع للمعايير الدولية من مبادرة W3C لإمكانية الوصول للويب (WAI) و [قصص مستخدمي الويب]( /people-use-web/user-stories/)
@@ -45,11 +45,10 @@ footer: >   # Do not change the dates below.
 {% include box.html type="end" %}
 {:/}
  
- 
 {::options toc_levels="2,3" /}
  
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{% include_cached toc.html type="start" title="محتويات الصفحة" class="full" %}
 {:/}
  
 -   TOC is created automatically.
@@ -354,7 +353,7 @@ footer: >   # Do not change the dates below.
 
 {% include excol.html type="end" %}
  
- ###  وقت المستخدمين الكافي لقراءة المحتوى واستخدامه  {#time} 
+###  وقت المستخدمين الكافي لقراءة المحتوى واستخدامه  {#time} 
  
 يحتاج بعض الأشخاص إلى وقت أطول من غيرهم لقراءة المحتوى واستخدامه. على سبيل المثال ، يحتاج بعض الأشخاص إلى مزيد من الوقت لكتابة نص، فهم الإرشادات، تشغيل عناصر التحكم ،أو لإكمال المهام على موقع ويب.
 
