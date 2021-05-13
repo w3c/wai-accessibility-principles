@@ -10,7 +10,7 @@ contributors: #Add one -name: line for every contributor
 last_updated: 2020-09-06
 github:
   repository: w3c/wai-accessibility-principles
-  path: index.fr.md
+  path: content/index.fr.md
 layout: default
 description: Un aperçu des exigences d’accessibilité web fondamentales pour les sites et les applications web, les navigateurs et autres outils.
 teaser_text: La page «&#8239;Principes d’accessibilité&#8239;» présente certaines exigences d’accessibilité pour les sites et les applications web, les navigateurs et autres outils. Elle fournit des liens vers les standards internationaux de l’Initiative Accessibilité du Web (WAI) du W3C et vers une page parlant des particularités de quelques utilisateurs du Web.
