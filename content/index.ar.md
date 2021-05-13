@@ -16,8 +16,7 @@ contributors:
 ref: /fundamentals/accessibility-principles/   # Do not change this
 layout: default
 github:
-  repository: w3c/wai-accessibility-principles
-  path: index.ar.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: content/index.ar.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 permalink: /fundamentals/accessibility-principles/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
  
 description: نبذة عن مبادئ متطلبات إمكانية الوصول للويب للمواقع الالكترونية، تطبيقات الويب، المتصفحات وغيرها من الأدوات.
