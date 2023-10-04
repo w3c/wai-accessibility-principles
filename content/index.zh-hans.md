@@ -30,10 +30,6 @@ footer: >   # Translate all the words below, including "Date:", "Editor:", Updat
   <p><strong>编者：</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">致谢</a>.</p>
   <p>由教育及外展工作组(<a href="http://www.w3.org/WAI/EO/">EOWG</a>)开发. 之前该网页受 <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE 特别任务团</a>和<a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE项目</a>的支持.</p>
 
-# 请阅读翻译指南 https://www.w3.org/WAI/about/translating/#important
-# 请阅读此资源的翻译说明 https://github.com/w3c/wai-accessibility-principles/blob/master/README.md
-# 翻译说明结束
-
 changelog: /fundamentals/accessibility-principles/changelog/
 ---
 

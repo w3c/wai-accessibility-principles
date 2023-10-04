@@ -33,9 +33,6 @@ footer: >   # Translate all the words below, including "Date:", "Editor:", Updat
 
 changelog: /fundamentals/accessibility-principles/changelog/
 
-# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
-# Read Translations Notes for this resource at https://github.com/w3c/wai-accessibility-principles/blob/master/README.md
-# end of translation instructions
 ---
 
 

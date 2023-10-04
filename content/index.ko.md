@@ -29,9 +29,6 @@ footer: >   # Translate all the words below, including "Date:", "Editor:", Updat
   <p><strong>편집자:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>교육과 활동관련 실무 그룹인 (<a href="http://www.w3.org/WAI/EO/">EOWG</a>)의 지원을 받아 제작되었습니다. <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE 프로젝트</a>의 지원과 <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE 팀</a>에 의해 제작되었습니다.</p>
 
-# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
-# Read Translations Notes for this resource at https://github.com/w3c/wai-accessibility-principles/blob/master/README.md
-# end of translation instructions
 ---
 
 
