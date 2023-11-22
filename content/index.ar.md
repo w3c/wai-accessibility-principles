@@ -17,7 +17,7 @@ ref: /fundamentals/accessibility-principles/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-accessibility-principles
-  path: index.ar.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: content/index.ar.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 permalink: /fundamentals/accessibility-principles/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
  
 description: نبذة عن مبادئ متطلبات إمكانية الوصول للويب للمواقع الالكترونية، تطبيقات الويب، المتصفحات وغيرها من الأدوات.
@@ -28,9 +28,7 @@ footer: >   # Do not change the dates below.
   <p><strong>التاريخ:</strong> تم التحديث في 1 مايو 2019.</p>
   <p><strong>المحررون:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments"> شكر وتقدير </a>.</p>
   <p> تم تطويره بمساهمة فريق التعليم و التوعية (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). طور سابقا من قبل <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE فريق</a>, بمساعدة<a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE مشروع</a>.</p>
- 
-# Read Important Translations Guidance at https://www.w3.org/wiki/WAI/Translation_Instructions
-# end of translation instructions
+
 ---
  
 {::nomarkdown}
