@@ -70,7 +70,7 @@ Halaman ini memperkenalkan beberapa persyaratan aksesibilitas untuk situs web, a
 
 ## Standar aksesibilitas web {#standards}
 
-Aksesibilitas web bergantung pada kerjasama dari beberapa komponen. Beberapa diantaranya:
+Aksesibilitas web bergantung pada kerja sama dari beberapa komponen. Beberapa diantaranya:
 
 -   **Konten web**{:#webcontent} - merujuk pada bagian mana pun dari sebuah situs web, termasuk teks, gambar, isian, dan multimedia, serta kode markah, skrip, aplikasi, dan sejenisnya.
 -   **Agen pengguna**{:#useragents} - perangkat lunak yang digunakan seseorang untuk mengakses konten web, termasuk browser desktop dengan antarmuka grafis, browser berbasis suara, browser ponsel, pemutar multimedia, plugin, dan beberapa [teknologi pendukung](/people-use-web/tools-techniques/#at "definition").
