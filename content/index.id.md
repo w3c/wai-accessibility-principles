@@ -87,11 +87,11 @@ Komponen-komponen berikut saling berkaitan dan mendukung satu sama lain. Contohn
 
 Standar memainkan peranan penting dalam mendefinisikan persyaratan aksesibilitas untuk setiap komponen. Beberapa persyaratan aksesibilitas dapat dipenuhi dengan mudah, namun memahami dasar tentang bagaimana para penyandang disabilitas menggunakan Web akan membantu penerapannya lebih efektif dan efisien. Beberapa aspek aksesibilitas membutuhkan kemampuan teknis atau pengetahuan yang lebih tinggi mengenai bagaimana seseorang menggunakan Web. Dalam kasus mana pun, [melibatkan pengguna sejak awal dan selama proyek berjalan](/test-evaluate/involving-users/) akan membuat pekerjaan Anda lebih baik dan mudah.
 
-Inisiatif Aksesibilitas Web (WAI) W3C menyediakan satu set panduan yang telah diakui secara internasional sebagai standar untuk aksesibilitas web. Termasuk:
+Inisiatif Aksesibilitas Web (WAI) W3C menyediakan satu set pedoman yang telah diakui secara internasional sebagai standar untuk aksesibilitas web. Termasuk:
 
--   **[Panduan Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/)**
--   **[Panduan Aksesibilitas Agen Pengguna (UAAG)](/standards-guidelines/uaag/)**
--   **[Panduan Aksesbilitas Sarana Penulisan (ATAG)](/standards-guidelines/atag/)**
+-   **[Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/)**
+-   **[Pedoman Aksesibilitas Agen Pengguna (UAAG)](/standards-guidelines/uaag/)**
+-   **[Pedoman Aksesbilitas Sarana Penulisan (ATAG)](/standards-guidelines/atag/)**
 
 Terdapat pula spesifikasi WAI untuk **[Aplikasi Internet yang Kaya dan Aksesibel (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, yang mencakup konten dinamis dan kontrol antarmuka pengguna tingkat lanjut yang dikembangkan dengan Ajax, JavaScript, dan teknologi web terkait.
 
