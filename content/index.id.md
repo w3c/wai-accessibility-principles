@@ -541,10 +541,10 @@ Penulis konten perlu memastikan konten teks dapat dibaca dan dimengerti oleh seb
 
 -   Mengidentifikasi bahasa utama sebuah halaman web, seperti Bahasa Arab, Bahasa Belanda, atau Bahasa Korea
 -   Mengidentifikasi bahasa dari penggalan teks, frasa, atau bagian lainnya dalam sebuah halaman web
--   Menyediakan definisi untuk kata, frase, idiom, dan singkatan yang tidak biasa
+-   Menyediakan definisi untuk kata, frasa, idiom, dan singkatan yang tidak biasa
 -   Menggunakan bahasa yang sejelas dan sesederhana mungkin, atau menyediakan versi yang disederhanakan
 
-Memenuhi persyaratan ini membantu perangkat lunak, termasuk teknologi pendukung, untuk memproses konten teks dengan benar. Sebagai contoh, persyaratan ini membantu perangkat lunak untuk mengucapkan konten, atau membuat ringkasan halaman, dan untuk menyediakan definisi pada kata yang tidak umum digunakan seperti jargon teknis. Hal ini juga membantu mereka yang memiliki kesulitan memahami kalimat, frase, dan kosa kata yang kompleks. Lebih spesifik, hal ini membantu orang-orang dengan berbagai tipe disabilitas kognitif.
+Memenuhi persyaratan ini membantu perangkat lunak, termasuk teknologi pendukung, untuk memproses konten teks dengan benar. Sebagai contoh, persyaratan ini membantu perangkat lunak untuk mengucapkan konten, atau membuat ringkasan halaman, dan untuk menyediakan definisi pada kata yang tidak umum digunakan seperti jargon teknis. Hal ini juga membantu mereka yang memiliki kesulitan memahami kalimat, frasa, dan kosa kata yang kompleks. Lebih spesifik, hal ini membantu orang-orang dengan berbagai tipe disabilitas kognitif.
 
 {% include excol.html type="start" %}
 
