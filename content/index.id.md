@@ -99,13 +99,13 @@ Terdapat pula spesifikasi WAI untuk **[Aplikasi Internet yang Kaya dan Aksesibel
 
 ## Informasi dan antarmuka yang dapat diterima indra {#perceivable}
 
-### Alternatif teks untuk konten non-teks {#alternatives}
+### Alternatif teks untuk konten nonteks {#alternatives}
 
-Alternatif teks sepadan dengan konten non-teksnya. Contohnya termasuk:
+Alternatif teks sepadan dengan konten nonteksnya. Contohnya termasuk:
 
 -   Padanan singkat untuk gambar, termasuk ikon, tombol, dan elemen grafis
 -   Deskripsi data yang direpresentasikan pada bagan, diagram, dan ilustrasi
--   Penjelasan singkat tentang konten non-teks seperti file audio dan video
+-   Penjelasan singkat tentang konten nonteks seperti file audio dan video
 -   Label untuk kontrol isian, input, dan komponen antarmuka lainnya
 
 Alternatif teks menyampaikan tujuan dari gambar atau berfungsi memberikan pengalaman pengguna yang sepadan. Misalnya, alternatif teks yang sesuai untuk tombol penelusuran adalah "*penelusuran*" dan bukan "*lensa pembesar*".
