@@ -260,7 +260,7 @@ Konten yang dapat dibedakan lebih mudah untuk dilihat dan didengar. Konten terse
 -   Warna tidak digunakan sebagai satu-satunya cara untuk menyediakan informasi atau mengenali sebuah konten
 -   Kombinasi warna latar depan dan belakangnya memiliki kontras yang cukup
 -   Ketika pengguna memperbesar teks hingga 400% atau mengubah jarak antar teks, tidak ada informasi yang hilang
--   Teks menyesuaikan dengan jendela ("area-pandang") yang kecil termasuk ketika pengguna membuat teks menjadi lebih besar
+-   Teks menyesuaikan dengan jendela ("porta pandang") yang kecil termasuk ketika pengguna membuat teks menjadi lebih besar
 -   Ukuran gambar berupa teks dapat diubah, diganti dengan teks padanannya, atau dihindari jika memungkinkan
 -   Pengguna bisa menjedakan, menghentikan, atau menyesuaikan volume audio yang diputar pada situs web
 -   Suara latar bervolume rendah atau bisa dimatikan, untuk menghindari gangguan atau menjadi distraksi
@@ -285,7 +285,7 @@ Memenuhi persyaratan ini membantu memisahkan latar depan dan belakangnya, sehing
 -   [Pedoman 1.5 - Pengaturan volume](https://www.w3.org/TR/UAAG20/#gl-volume-config)
 -   [Pedoman 1.6 - Pengaturan pengucapan sintesis](https://www.w3.org/TR/UAAG20/#gl-speech-config)
 -   [Pedoman 1.7 - Pengaturan lembar gaya tampilan (*stylesheet*) pengguna](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [Pedoman 1.8 - Orientasi pada area-pandang](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
+-   [Pedoman 1.8 - Orientasi pada porta pandang](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
 -   [Pedoman 1.9 - Tampilan alternatif](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
 -   [Pedoman 1.10 - Informasi elemen](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
@@ -369,7 +369,7 @@ Contoh dalam memberikan waktu yang cukup termasuk juga menyediakan mekanisme unt
 -   Menghentikan, memperpanjang, atau menyesuaikan batasan waktu, kecuali jika diperlukan
 -   Menjedakan, menghentikan, atau menyembunyikan konten yang bergerak, berkedip, atau pun bergulir
 -   Menunda atau menghambat interupsi, kecuali jika dibutuhkan
--   Mengotentikasi ulang tanpa kehilangan data ketika sesi berakhir
+-   Mengautentikasi ulang tanpa kehilangan data ketika sesi berakhir
 
 {% include excol.html type="start" %}
 
@@ -680,9 +680,9 @@ Memenuhi persyaratan ini membantu orang-orang yang tidak melihat atau mendengar 
 Konten yang kukuh adalah konten yang kompatibel dengan berbagai browser, teknologi pendukung, dan agen pengguna lainnya. Contoh bagaimana hal ini dapat diraih meliputi:
 
 -   Memastikan markah dapat diinterpretasikan dengan andal, contohnya dengan memastikan validitasnya
--   Menyediakan nama (*name*), peran (*role*), dan nilai (*value*) untuk komponen antarmuka yang tidak standar
+-   Menyediakan nama (*name*), peran (*role*), dan nilai (*value*) untuk komponen antarmuka yang nonstandar
 
-Memenuhi persyaratan ini membantu memaksimalkan kompatibilitas dengan agen pengguna, termasuk teknologi pendukung, yang ada sekarang dan akan ada di masa depan. Secara spesifik, hal ini memungkinkan teknologi pendukung untuk memproses konten dengan andal, dan untuk menyediakan atau mengoperasikannya dengan berbagai cara. Termasuk juga untuk tombol non-standar (melalui skrip), bidang input, dan kontrol lainnya.
+Memenuhi persyaratan ini membantu memaksimalkan kompatibilitas dengan agen pengguna, termasuk teknologi pendukung, yang ada sekarang dan akan ada di masa depan. Secara spesifik, hal ini memungkinkan teknologi pendukung untuk memproses konten dengan andal, dan untuk menyediakan atau mengoperasikannya dengan berbagai cara. Termasuk juga untuk tombol nonstandar (melalui skrip), bidang input, dan kontrol lainnya.
 
 {% include excol.html type="start" %}
 
