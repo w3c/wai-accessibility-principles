@@ -7,7 +7,7 @@ translators: #Add one -name: line for every translator
 - name: "Stéphane Deschamps"
 contributors: #Add one -name: line for every contributor
 - name: "@code-elegant"
-last_updated: 2020-09-06
+last_updated: 2023-12-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 github:
   repository: w3c/wai-accessibility-principles
   path: content/index.fr.md

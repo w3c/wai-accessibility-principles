@@ -5,7 +5,7 @@
 title: Accessibility Principles
 nav_title: "Accessibility Principles"
 lang: en   # Change "en" to the translated language shortcode
-last_updated: 2019-05-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-12-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.
 teaser_text: The Accessibility Principles page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to stories of web users.
 
@@ -33,7 +33,7 @@ changelog: /fundamentals/accessibility-principles/changelog/ # Do not change thi
 # Translate the other words, including "Date:" and "Editors:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date:</strong> Updated 10 May 2019. CHANGELOG</p>
+  <p><strong>Date:</strong> Updated 6 December 2023. CHANGELOG</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 

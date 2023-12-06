@@ -6,7 +6,7 @@ nav_title: "无障碍原则"   # A short title that is used in the navigation
 
 lang: zh-hans   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2019-07-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-12-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "李松峰"   # Replace @@ with translator name
   link: "https://lisongfeng.cn/index.php/start-page.html"

@@ -6,7 +6,7 @@ nav_title: "Zásady přístupnosti"   # A short title that is used in the naviga
 
 lang: cs   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2020-11-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-12-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Kristýna Švecová"   # Replace @@ with translator name
 # - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
