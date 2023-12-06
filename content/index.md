@@ -1,37 +1,41 @@
 ---
-# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: Accessibility Principles   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Accessibility Principles"   # A short title that is used in the navigation
-
-lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-
+title: Accessibility Principles
+nav_title: "Accessibility Principles"
+lang: en   # Change "en" to the translated language shortcode
 last_updated: 2019-05-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: 
-# - name: "@@"   # Replace @@ with translator name
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
-# contributors:
-# - name: "@@"   # Replace @@ with contributor name, or delete this line if none
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
-
-ref: /fundamentals/accessibility-principles/   # Do not change this
-layout: default
-github:
-  repository: w3c/wai-accessibility-principles
-  path: content/index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-permalink: /fundamentals/accessibility-principles/   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
-
-description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.   # translate this sentence
-image: /content-images/wai-accessibility-principles/social.png
-
+description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.
 teaser_text: The Accessibility Principles page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to stories of web users.
 
-footer: >   # Translate all the words below, including "Date:", "Editor:", Updated, and the month. Do not change these dates.
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
+github:
+  repository: w3c/wai-accessibility-principles
+  path: content/index.md   # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+
+permalink: /fundamentals/accessibility-principles/  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /fundamentals/accessibility-principles/  # Do not change this
+
+layout: default
+image: /content-images/wai-accessibility-principles/social.png
+changelog: /fundamentals/accessibility-principles/changelog/ # Do not change this
+
+# In the footer below:
+# Do not change the dates
+# Do not translate CHANGELOG
+# Translate the other words, including "Date:" and "Editors:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+footer: >
   <p><strong>Date:</strong> Updated 10 May 2019. CHANGELOG</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
-
-changelog: /fundamentals/accessibility-principles/changelog/
 
 ---
 
