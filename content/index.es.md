@@ -88,7 +88,7 @@ La Iniciativa de Accesibilidad Web del W3C (WAI) facilita un conjunto de pautas 
 -   **[Pautas de Accesibilidad de Agente de Usuario (UAAG)](/standards-guidelines/uaag/)**
 -   **[Pautas de Accesibilidad de Herramientas de Autor (ATAG)](/standards-guidelines/atag/)**
 
-También hay una especificación WAI para **[Aplicaciones de internet enriquecidas y accesibles (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, que incluyen contenido dinámico y controles avanzados de usuario desarrollados con Ajax, JavasScript, y otras tecnologías web relacionadas.
+También hay una especificación WAI para **[Aplicaciones de internet enriquecidas y accesibles (WAI-ARIA)](/standards-guidelines/aria/)**, que incluyen contenido dinámico y controles avanzados de usuario desarrollados con Ajax, JavasScript, y otras tecnologías web relacionadas.
 
 {% include excol.html type="end" %}
 
@@ -116,7 +116,7 @@ Las alternativas textuales pueden ser presentadas de varias maneras. Por ejemplo
 
 **WCAG**
 
--   [Pauta 1.1 – Alternativas Textuales](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
+-   [Pauta 1.1 – Alternativas Textuales](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
 
 **UAAG**
 
@@ -167,7 +167,7 @@ Las transcripciones de texto bien escritas que contienen una correcta secuencia 
 
 **WCAG**
 
--   [Pauta 1.2 – Medios tempodependentes](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
+-   [Pauta 1.2 – Medios tempodependentes](https://www.w3.org/WAI/WCAG22/quickref/#time-based-media)
 
 **UAAG**
 
@@ -213,7 +213,7 @@ El cumplimiento de este requisito permite que el contenido se lea correctamente 
 
 **WCAG**
 
--   [Pauta 1.3 - Adaptable](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
+-   [Pauta 1.3 - Adaptable](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
 
 **UAAG**
 
@@ -260,7 +260,7 @@ El contenido distinguible es más fácil de ver y leer. Algunos ejemplos:
 - Los usuarios pueden pausar, detener o ajustar el volumen de audio que se reproduce en un sitio web
 - El audio de fondo es bajo o se puede apagar para evitar interferencias o distracciones
 
-Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer que la información importante sea más distinguible. Esto incluye consideraciones tanto para las personas que no utilizan tecnologías de apoyo como para las que si las utilizan y que pueden percibir interferencias de contenido de audio o visual del segundo plano. Por ejemplo, muchas personas con daltonismo no utilizan ninguna herramienta en particular y confían en un diseño adecuado que proporcione suficiente contraste de color entre el texto y el fondo que lo rodea. Para otras personas, el audio que se reproduce automáticamente podría interferir con el sistema de "texto a voz" o con [dispositivos de ayuda auditiva (ALD)](http://www.w3.org/WAI/training/accessible#ald "definition").
+Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer que la información importante sea más distinguible. Esto incluye consideraciones tanto para las personas que no utilizan tecnologías de apoyo como para las que si las utilizan y que pueden percibir interferencias de contenido de audio o visual del segundo plano. Por ejemplo, muchas personas con daltonismo no utilizan ninguna herramienta en particular y confían en un diseño adecuado que proporcione suficiente contraste de color entre el texto y el fondo que lo rodea. Para otras personas, el audio que se reproduce automáticamente podría interferir con el sistema de "texto a voz" o con [dispositivos de ayuda auditiva (ALD)](/teach-advocate/accessible-presentations/#ald "definition").
 
 {% include excol.html type="start" %}
 
@@ -271,7 +271,7 @@ Cumplir con este requisito ayuda a separar el primer plano del fondo para hacer 
 
 **WCAG**
 
--   [Pauta 1.4 - Distinguible](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+-   [Pauta 1.4 - Distinguible](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
 
@@ -328,7 +328,7 @@ El cumplimiento de este requisito ayuda a los usuarios de teclado, incluidos qui
 
 **WCAG**
 
--   [Pauta 2.1 – Accesible por teclado](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
+-   [Pauta 2.1 – Accesible por teclado](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
 
 **UAAG**
 
@@ -375,7 +375,7 @@ Entre los ejemplos de cómo proporcionar tiempo suficiente se incluyen los mecan
 
 **WCAG**
 
--   [Pauta 2.2 - Tiempo suficiente](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
+-   [Pauta 2.2 - Tiempo suficiente](https://www.w3.org/WAI/WCAG22/quickref/#enough-time)
 
 **UAAG**
 
@@ -422,7 +422,7 @@ Estos son algunos ejemplos de cómo evitar causar convulsiones o reacciones fís
 
 **WCAG**
 
--   [Pauta 2.3 - Convulsiones](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [Pauta 2.3 - Convulsiones](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
@@ -458,7 +458,7 @@ Cumplir este requisito ayuda a las personas a navegar a través de las páginas 
 
 **WCAG**
 
--   [Pauta 2.4 - Navegable](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+-   [Pauta 2.4 - Navegable](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
 
 **UAAG**
 
@@ -513,7 +513,7 @@ Cumplir este requisito hace que el contenido más fácil de usar por cualquier p
 
 **WCAG**
 
--   [Pauta 2.5 - Modalidades de entrada](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [Pauta 2.5 - Modalidades de entrada](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -550,7 +550,7 @@ El cumplimiento de este requisito ayuda al software, incluyendo las tecnologías
 
 **WCAG**
 
--   [Pauta 3.1 - Legible](https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [Pauta 3.1 - Legible](https://www.w3.org/WAI/WCAG22/quickref/#readable)
 
 **ATAG**
 
@@ -592,7 +592,7 @@ El cumplimiento de este requisito ayuda a las personas a aprender rápidamente l
 
 **WCAG**
 
--   [Pauta 3.2 - Predecible](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [Pauta 3.2 - Predecible](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
 
 **UAAG**
 
@@ -640,7 +640,7 @@ El cumplimiento de este requisito ayuda a las personas que no ven o no oyen el c
 
 **WCAG**
 
--   [Pauta 3.3 - Entrada de datos asistida](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+-   [Pauta 3.3 - Entrada de datos asistida](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
 
 **UAAG**
 
@@ -688,7 +688,7 @@ El cumplimiento de este requisito ayuda a maximizar la compatibilidad con los ag
 
 **WCAG**
 
--   [Pauta 4.1 - Compatible](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [Pauta 4.1 - Compatible](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
 
 **UAAG**
 

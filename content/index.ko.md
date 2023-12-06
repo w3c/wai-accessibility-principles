@@ -86,7 +86,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 -   **[사용자 에이전트 접근성 지침 (UAAG)](/standards-guidelines/uaag/)**
 -   **[웹 저작 도구 접근성 지침 (ATAG)](/standards-guidelines/atag/)**
 
-**[접근 가능한 리치 인터넷 어플리케이션 (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**에 대한 WAI 명세도 있습니다. 이는  Ajax, JavaScript와 관련된 웹 기술로 만들어진 고차원 사용자 인터페이스 컨트롤과 다양한 콘텐츠를 포함합니다.
+**[접근 가능한 리치 인터넷 어플리케이션 (WAI-ARIA)](/standards-guidelines/aria/)**에 대한 WAI 명세도 있습니다. 이는  Ajax, JavaScript와 관련된 웹 기술로 만들어진 고차원 사용자 인터페이스 컨트롤과 다양한 콘텐츠를 포함합니다.
 
 {% include excol.html type="end" %}
 
@@ -114,7 +114,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 1.1 - 대체 텍스트](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
+-   [지침 1.1 - 대체 텍스트](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
 
 **UAAG**
 
@@ -165,7 +165,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 1.2 - 시간 기반 미디어(Time-based Media)](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
+-   [지침 1.2 - 시간 기반 미디어(Time-based Media)](https://www.w3.org/WAI/WCAG22/quickref/#time-based-media)
 
 **UAAG**
 
@@ -211,7 +211,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 1.3 - 적응성](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
+-   [지침 1.3 - 적응성](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
 
 **UAAG**
 
@@ -258,7 +258,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 -   사용자가 웹 사이트에서 재생되는 소리의 볼륨을 조절하거나 멈출 수 있어야 합니다. 
 -   배경음악은 낮은 볼륨이거나 끌 수 있어야 하고 방해 요인이 되어서는 안됩니다. 
 
-위의 내용을 준수한다면 중요한 정보를 더 눈에 띄게 하기 위한 전경과 배경 구분에 도움이 됩니다. 소리, 배경에 있는 콘텐츠로 탐색하는 데에 방해를 받는 보조 기술을 사용하는 사람과 사용하지 않는 사람 모두를 고려한 것입니다. 예를 들어, 색맹이 있는 사람들은 특별한 도구를 사용하지 않고 텍스트와 주변 배경 사이의 충분한 대비를 제공하는 적절한 디자인에 의존합니다. 또 어떤 사람에게는 자동으로 재생되는 소리가 텍스트 음성변환이나 [assistive listening devices (ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition")의 사용을 방해할 수 있습니다. 
+위의 내용을 준수한다면 중요한 정보를 더 눈에 띄게 하기 위한 전경과 배경 구분에 도움이 됩니다. 소리, 배경에 있는 콘텐츠로 탐색하는 데에 방해를 받는 보조 기술을 사용하는 사람과 사용하지 않는 사람 모두를 고려한 것입니다. 예를 들어, 색맹이 있는 사람들은 특별한 도구를 사용하지 않고 텍스트와 주변 배경 사이의 충분한 대비를 제공하는 적절한 디자인에 의존합니다. 또 어떤 사람에게는 자동으로 재생되는 소리가 텍스트 음성변환이나 [assistive listening devices (ALDs)](/teach-advocate/accessible-presentations/#ald "definition")의 사용을 방해할 수 있습니다. 
 
 {% include excol.html type="start" %}
 
@@ -269,7 +269,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 1.4 - 명료성](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+-   [지침 1.4 - 명료성](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
 
@@ -326,7 +326,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 2.1 - 키보드 접근성](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
+-   [지침 2.1 - 키보드 접근성](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
 
 **UAAG**
 
@@ -373,7 +373,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 2.2 - 충분한 시간 제공](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
+-   [지침 2.2 - 충분한 시간 제공](https://www.w3.org/WAI/WCAG22/quickref/#enough-time)
 
 **UAAG**
 
@@ -420,7 +420,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 2.3 - 발작 예방](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [지침 2.3 - 발작 예방](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
@@ -456,7 +456,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 2.4 - 탐색 가능](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+-   [지침 2.4 - 탐색 가능](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
 
 **UAAG**
 
@@ -511,7 +511,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 2.5 - 입력 양식](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [지침 2.5 - 입력 양식](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -548,7 +548,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 3.1 - 가독성](https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [지침 3.1 - 가독성](https://www.w3.org/WAI/WCAG22/quickref/#readable)
 
 **ATAG**
 
@@ -590,7 +590,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 3.2 - 예측 가능성](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [지침 3.2 - 예측 가능성](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
 
 **UAAG**
 
@@ -638,7 +638,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 3.3 - 입력 도움](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+-   [지침 3.3 - 입력 도움](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
 
 **UAAG**
 
@@ -686,7 +686,7 @@ W3C 웹 접근성 이니셔티브(WAI)는 웹 접근성 관련 국제 표준으�
 
 **WCAG**
 
--   [지침 4.1 - 호환성](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [지침 4.1 - 호환성](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
 
 **UAAG**
 

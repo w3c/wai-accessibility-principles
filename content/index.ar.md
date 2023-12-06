@@ -84,7 +84,7 @@ footer: >   # Do not change the dates below.
 -   **[إرشادات الوصول إلى وكيل الويب (UAAG)]( /standards-guidelines/uaag/)**
 -   **[إرشادات الوصول إلى أداة التأليف (ATAG)]( /standards-guidelines/atag/)**
 
-هناك أيضًا مواصفات WAI **[للوصول تطبيقات الإنترنت الغنية (WAI-ARIA) ]( https://www.w3.org/WAI/intro/aria.php)** التي يمكن الوصول إليها والتي تتضمن محتوى ديناميكي و عناصر تحكم متقدمة في واجهة المستخدم تم تطويرها باستخدام Ajax و JavaScript وتقنيات الويب الأخرى ذات صلة.
+هناك أيضًا مواصفات WAI **[للوصول تطبيقات الإنترنت الغنية (WAI-ARIA) ]( /standards-guidelines/aria/)** التي يمكن الوصول إليها والتي تتضمن محتوى ديناميكي و عناصر تحكم متقدمة في واجهة المستخدم تم تطويرها باستخدام Ajax و JavaScript وتقنيات الويب الأخرى ذات صلة.
 
 {% include excol.html type="end" %}
  
@@ -111,7 +111,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
 
--   [إرشادات – 1.1 بدائل النص]( https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
+-   [إرشادات – 1.1 بدائل النص]( https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
 
 
 **UAAG**
@@ -165,7 +165,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
  
--   [إرشادات 2.1 – الوسائط المؤقتة](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media) 
+-   [إرشادات 2.1 – الوسائط المؤقتة](https://www.w3.org/WAI/WCAG22/quickref/#time-based-media) 
 
 **UAAG**
  
@@ -210,7 +210,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
  
--   [إرشادات 3.1 - التكييف]( https://www.w3.org/WAI/WCAG21/quickref/#adaptable) 
+-   [إرشادات 3.1 - التكييف]( https://www.w3.org/WAI/WCAG22/quickref/#adaptable) 
 
 **UAAG**
 
@@ -256,7 +256,7 @@ footer: >   # Do not change the dates below.
 -   يمكن للمستخدمين إيقاف أو ضبط مستوى الصوت الذي يتم تشغيله على موقع ويب
 -   صوت الخلفية يكون منخفض أو يمكن إيقاف تشغيله لتجنب التداخل أو التشتيت
 
-تساعد تلبية هذه المتطلبات في فصل المقدمة عن الخلفية وذلك لجعل المعلومات المهمة أكثر تميزًا. يتضمن ذلك الاخذ في عين الاعتبار الأشخاص الذين لا يستخدمون التقنيات المساعدة والأشخاص الذين يستخدمونها في التداخل من المحتوى الصوتي أو المرئي البارز في الخلفية. على سبيل المثال، العديد من الأشخاص المصابين بعمى الألوان لا يستخدمون أي أدوات معينة ويعتمدون على تصميم مناسب يوفر تباينًا كافيًا في اللون بين النص والخلفية المحيطة به. بالنسبة للأشخاص الآخرين، قد يتداخل الصوت الذي يتم تشغيله تلقائيًا مع تحويل النص إلى كلام أو مع [أجهزة الاستماع المساعدة (ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition")
+تساعد تلبية هذه المتطلبات في فصل المقدمة عن الخلفية وذلك لجعل المعلومات المهمة أكثر تميزًا. يتضمن ذلك الاخذ في عين الاعتبار الأشخاص الذين لا يستخدمون التقنيات المساعدة والأشخاص الذين يستخدمونها في التداخل من المحتوى الصوتي أو المرئي البارز في الخلفية. على سبيل المثال، العديد من الأشخاص المصابين بعمى الألوان لا يستخدمون أي أدوات معينة ويعتمدون على تصميم مناسب يوفر تباينًا كافيًا في اللون بين النص والخلفية المحيطة به. بالنسبة للأشخاص الآخرين، قد يتداخل الصوت الذي يتم تشغيله تلقائيًا مع تحويل النص إلى كلام أو مع [أجهزة الاستماع المساعدة (ALDs)](/teach-advocate/accessible-presentations/#ald "definition")
 
 {% include excol.html type="start" %}
  
@@ -267,18 +267,18 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
  
- -   [إرشادات 4.1: التمييز]( https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+ -   [إرشادات 4.1: التمييز]( https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
  
--   [إرشادات 3.1: التمييز]( https://www.w3.org/WAI/WCAG21/quickref/#gl-interaction-highlight)
--   [إرشادات 4.1: تكوين النص]( https://www.w3.org/WAI/WCAG21/quickref/#gl-text-config)
--   [إرشادات 5.1: تكوين الصوت]( https://www.w3.org/WAI/WCAG21/quickref/#gl-volume-config)
--   [إرشادات 6.1: تكوين الكلام المركب]( https://www.w3.org/WAI/WCAG21/quickref/#gl-speech-config)
--   [إرشادات 7.1: تكوين ورقة أنماط المستخدم]( https://www.w3.org/WAI/WCAG21/quickref/#gl-style-sheets-config)
--   [إرشادات 8.1: الاتجاه في منافذ العرض]( https://www.w3.org/WAI/WCAG21/quickref/#gl-viewport-orient)
--   [إرشادات 9.1: الآراء البديلة]( https://www.w3.org/WAI/WCAG21/quickref/#gl-alternative-views)
--   [إرشادات 10.1: معلومات العناصر]( https://www.w3.org/WAI/WCAG21/quickref/#gl-info-link)
+-   [إرشادات 3.1: التمييز]( https://www.w3.org/WAI/WCAG22/quickref/#gl-interaction-highlight)
+-   [إرشادات 4.1: تكوين النص]( https://www.w3.org/WAI/WCAG22/quickref/#gl-text-config)
+-   [إرشادات 5.1: تكوين الصوت]( https://www.w3.org/WAI/WCAG22/quickref/#gl-volume-config)
+-   [إرشادات 6.1: تكوين الكلام المركب]( https://www.w3.org/WAI/WCAG22/quickref/#gl-speech-config)
+-   [إرشادات 7.1: تكوين ورقة أنماط المستخدم]( https://www.w3.org/WAI/WCAG22/quickref/#gl-style-sheets-config)
+-   [إرشادات 8.1: الاتجاه في منافذ العرض]( https://www.w3.org/WAI/WCAG22/quickref/#gl-viewport-orient)
+-   [إرشادات 9.1: الآراء البديلة]( https://www.w3.org/WAI/WCAG22/quickref/#gl-alternative-views)
+-   [إرشادات 10.1: معلومات العناصر]( https://www.w3.org/WAI/WCAG22/quickref/#gl-info-link)
 
 **ATAG**
  
@@ -324,7 +324,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
  
- -   [إرشادات 1.2: لوحة مفاتيح متاحة للوصول]( https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
+ -   [إرشادات 1.2: لوحة مفاتيح متاحة للوصول]( https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
 
 **UAAG**
  
@@ -371,7 +371,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
  
--   [إرشادات 2.2 – وقت كافي]( https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
+-   [إرشادات 2.2 – وقت كافي]( https://www.w3.org/WAI/WCAG22/quickref/#enough-time)
  
 **UAAG**
  
@@ -418,7 +418,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
  
--   [إرشادات 3.2 - النوبات]( https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [إرشادات 3.2 - النوبات]( https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
  
 **UAAG**
  
@@ -454,7 +454,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
 
- -   [إرشادات4.2: قابلية التنقل]( https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+ -   [إرشادات4.2: قابلية التنقل]( https://www.w3.org/WAI/WCAG22/quickref/#navigable)
  
 **UAAG**
  
@@ -509,7 +509,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
  
--   [إرشادات 5.2 – أنماط المدخلات]( https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [إرشادات 5.2 – أنماط المدخلات]( https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
  
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
  
@@ -546,7 +546,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
  
--   [إرشادات 1.3 – قابل للقراءة]( https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [إرشادات 1.3 – قابل للقراءة]( https://www.w3.org/WAI/WCAG22/quickref/#readable)
  
 **ATAG**
  
@@ -588,7 +588,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
  
--   [إرشادات 2.3 – التوقع]( https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [إرشادات 2.3 – التوقع]( https://www.w3.org/WAI/WCAG22/quickref/#predictable)
  
 **UAAG**
  
@@ -635,7 +635,7 @@ footer: >   # Do not change the dates below.
 {% include excol.html type="middle" %}
  
 **WCAG**
- -   [إرشادات 3.3: مساعدة المدخلات]( https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+ -   [إرشادات 3.3: مساعدة المدخلات]( https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
  
 **UAAG**
  
@@ -682,7 +682,7 @@ footer: >   # Do not change the dates below.
  
 **WCAG**
  
--   [إرشادات 1.4: التلائم]( https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [إرشادات 1.4: التلائم]( https://www.w3.org/WAI/WCAG22/quickref/#compatible)
  
 **UAAG**
  

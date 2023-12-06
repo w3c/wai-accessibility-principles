@@ -90,7 +90,7 @@ Iniciativa pro webovou přístupnost W3C (WAI) poskytuje soubor pokynů, které 
 -   **[Pokyny k uživatelským agentům (UAAG)](/standards-guidelines/uaag/)**
 -   **[Pokyny pro zpřístupnění vývojových nástrojů (ATAG)](/standards-guidelines/atag/)**
 
-K dispozici jsou také WAI specifikace pro **[Přístupné internetové aplikace (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, které zahrnují dynamický obsah a pokročilé ovládací prvky uživatelského rozhraní vyvinuté s použitím Ajaxu, JavaScriptu a souvisejících webových technologií.
+K dispozici jsou také WAI specifikace pro **[Přístupné internetové aplikace (WAI-ARIA)](/standards-guidelines/aria/)**, které zahrnují dynamický obsah a pokročilé ovládací prvky uživatelského rozhraní vyvinuté s použitím Ajaxu, JavaScriptu a souvisejících webových technologií.
 
 {% include excol.html type="end" %}
 
@@ -118,7 +118,7 @@ Textové alternativy lze prezentovat různými způsoby. Například mohou být 
 
 **WCAG**
 
--   [Pokyn 1.1 - Textové alternativy](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
+-   [Pokyn 1.1 - Textové alternativy](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
 
 **UAAG**
 
@@ -169,7 +169,7 @@ Dobře napsané textové přepisy, které obsahují správnou posloupnost všech
 
 **WCAG**
 
--   [Pokyn 1.2 - Média závisející na času](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
+-   [Pokyn 1.2 - Média závisející na času](https://www.w3.org/WAI/WCAG22/quickref/#time-based-media)
 
 **UAAG**
 
@@ -215,7 +215,7 @@ Splnění tohoto požadavku umožňuje správné čtení obsahu nahlas, zvětše
 
 **WCAG**
 
--   [Pokyn 1.3 - Přizpůsobivost](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
+-   [Pokyn 1.3 - Přizpůsobivost](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
 
 **UAAG**
 
@@ -262,7 +262,7 @@ Rozlišitelný obsah je lépe vidět a slyšet. Příklady takového obsahu jsou
 -   Uživatel může pozastavit, zastavit nebo změnit hlasitost zvuku, který hraje na webové stránce
 -   Audio na pozadí je potichu a je možné ho vypnout, aby nerušilo nebo nerozptylovalo uživatele
 
-Splnění tohoto požadavku pomáhá oddělit popředí od pozadí, takže jsou důležité informace lépe rozlišitelné. Toto má vliv jak na osoby, co nepoužívají asistenční technologie, tak na ty, kteří je používají. Ti mohou vnímat rušení, pokud je v pozadí výrazný audio nebo vizuální obsah. Například mnoho lidí s barvoslepostí nepoužívá určité nástroje a spoléhají se na vlastní design, který má dostatečný barevný kontrast mezi textem a jeho pozadím. Pro ostatní může zvuk na pozadí rušit převod textu na řeč nebo [asistenční zařízení pro slyšení (ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition").
+Splnění tohoto požadavku pomáhá oddělit popředí od pozadí, takže jsou důležité informace lépe rozlišitelné. Toto má vliv jak na osoby, co nepoužívají asistenční technologie, tak na ty, kteří je používají. Ti mohou vnímat rušení, pokud je v pozadí výrazný audio nebo vizuální obsah. Například mnoho lidí s barvoslepostí nepoužívá určité nástroje a spoléhají se na vlastní design, který má dostatečný barevný kontrast mezi textem a jeho pozadím. Pro ostatní může zvuk na pozadí rušit převod textu na řeč nebo [asistenční zařízení pro slyšení (ALDs)](/teach-advocate/accessible-presentations/#ald "definition").
 
 {% include excol.html type="start" %}
 
@@ -273,7 +273,7 @@ Splnění tohoto požadavku pomáhá oddělit popředí od pozadí, takže jsou 
 
 **WCAG**
 
--   [Pokyn 1.4 - Rozlišitelnost](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+-   [Pokyn 1.4 - Rozlišitelnost](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
 
@@ -330,7 +330,7 @@ Splnění tohoto požadavku pomáhá uživatelům klávesnice včetně osob, kte
 
 **WCAG**
 
--   [Pokyn 2.1 - Přístupnost z klávesnice](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
+-   [Pokyn 2.1 - Přístupnost z klávesnice](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
 
 **UAAG**
 
@@ -377,7 +377,7 @@ Mezi příklady poskytnutí dostatku času patří poskytnutí možnosti:
 
 **WCAG**
 
--   [Pokyn 2.2 - Dostatek času](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
+-   [Pokyn 2.2 - Dostatek času](https://www.w3.org/WAI/WCAG22/quickref/#enough-time)
 
 **UAAG**
 
@@ -424,7 +424,7 @@ Příklady, jak se nezpůsobovat záchvaty a fyzické reakce:
 
 **WCAG**
 
--   [Pokyn 2.3 - Záchvaty](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [Pokyn 2.3 - Záchvaty](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
@@ -460,7 +460,7 @@ Splnění tohoto požadavku pomáhá lidem navigovat webovou stránkou různými
 
 **WCAG**
 
--   [Pokyn 2.4 - Navigace](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+-   [Pokyn 2.4 - Navigace](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
 
 **UAAG**
 
@@ -515,7 +515,7 @@ Splnění tohoto požadavku usnadňuje používání obsahu pro mnoho lidí se �
 
 **WCAG**
 
--   [Pokyn 2.5 - Způsoby vstupu](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [Pokyn 2.5 - Způsoby vstupu](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -552,7 +552,7 @@ Splnění tohoto požadavku pomáhá softwaru včetně asistenčních technologi
 
 **WCAG**
 
--   [Pokyn 3.1 - Čitelnost](https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [Pokyn 3.1 - Čitelnost](https://www.w3.org/WAI/WCAG22/quickref/#readable)
 
 **ATAG**
 
@@ -594,7 +594,7 @@ Splnění tohoto požadavku pomáhá lidem rychle se naučit funkčnost a naviga
 
 **WCAG**
 
--   [Pokyn 3.2 - Předvídatelnost](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [Pokyn 3.2 - Předvídatelnost](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
 
 **UAAG**
 
@@ -642,7 +642,7 @@ Splnění tohoto požadavku pomáhá lidem, kteří nevidí nebo neslyší obsah
 
 **WCAG**
 
--   [Pokyn 3.3 - Asistence pro vstup](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+-   [Pokyn 3.3 - Asistence pro vstup](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
 
 **UAAG**
 
@@ -690,7 +690,7 @@ Splnění tohoto požadavku pomáhá maximalizovat kompatibilitu se současnými
 
 **WCAG**
 
--   [Pokyn 4.1 - Kompatibilita](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [Pokyn 4.1 - Kompatibilita](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
 
 **UAAG**
 

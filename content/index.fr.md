@@ -113,7 +113,7 @@ Les alternatives textuelles peuvent être présentées sous des formes variées.
 **WCAG**
 
 -  [Guideline 1.1 - Text
-   Alternatives](http://www.w3.org/WAI/WCAG21/quickref/#text-equiv){: hreflang="en"}
+   Alternatives](http://www.w3.org/WAI/WCAG22/quickref/#text-equiv){: hreflang="en"}
 
 **UAAG**
 
@@ -185,7 +185,7 @@ Des retranscriptions texte bien écrites contenant la séquence correcte de tout
 **WCAG**
 
 -   [Guideline 1.2 - Time-based
-    Media](http://www.w3.org/WAI/WCAG21/quickref/#media-equiv)
+    Media](http://www.w3.org/WAI/WCAG22/quickref/#media-equiv)
 
 **UAAG**
 
@@ -250,7 +250,7 @@ Pour que les utilisateurs puissent changer la présentation des contenus, il est
 **WCAG**
 
 -   [Guideline 1.3 -
-    Adaptable](http://www.w3.org/WAI/WCAG21/quickref/#content-structure-separation)
+    Adaptable](http://www.w3.org/WAI/WCAG22/quickref/#content-structure-separation)
 
 **UAAG**
 
@@ -315,7 +315,7 @@ Un contenu perceptible est plus facile à lire et à voir. Par exemple&#8239;:
 - Les utilisateurs peuvent pauser, arrêter, ou ajuster le volume du son joué sur un site web
 - Les sons d’arrière-plan sont bas ou peuvent être coupés, pour éviter toute interférence ou distraction
 
-Être conforme à cette exigence permet de séparer le premier et l’arrière-plan, de rendre les informations importantes plus faciles à distinguer. Cela intègre aussi bien les besoins de personnes qui n’utilisent pas de technologies d’assistance que de celles utilisant des technologies d’assistance, qui peuvent subir des interférences dues à des éléments audio ou visuels à l’arrière-plan. Par exemple, de nombreuses personnes daltoniennes n’utilisent pas d’outil particulier et s’appuient sur un design correct qui fournit des contrastes suffisants entre le texte et son arrière-plan. Pour d’autres, une piste audio jouée automatiquement peut interférer avec une synthèse vocale ou un outil de [lecture assistée (ALD)](http://www.w3.org/WAI/training/accessible#ald){: hreflang="en"}.
+Être conforme à cette exigence permet de séparer le premier et l’arrière-plan, de rendre les informations importantes plus faciles à distinguer. Cela intègre aussi bien les besoins de personnes qui n’utilisent pas de technologies d’assistance que de celles utilisant des technologies d’assistance, qui peuvent subir des interférences dues à des éléments audio ou visuels à l’arrière-plan. Par exemple, de nombreuses personnes daltoniennes n’utilisent pas d’outil particulier et s’appuient sur un design correct qui fournit des contrastes suffisants entre le texte et son arrière-plan. Pour d’autres, une piste audio jouée automatiquement peut interférer avec une synthèse vocale ou un outil de [lecture assistée (ALD)](/teach-advocate/accessible-presentations/#ald){: hreflang="en"}.
 
 {% include excol.html type="start" %}
 
@@ -332,7 +332,7 @@ Un contenu perceptible est plus facile à lire et à voir. Par exemple&#8239;:
 **WCAG**
 
 -   [Guideline 1.4 -
-    Distinguishable](http://www.w3.org/WAI/WCAG21/quickref/#visual-audio-contrast)
+    Distinguishable](http://www.w3.org/WAI/WCAG22/quickref/#visual-audio-contrast)
 
 **UAAG**
 
@@ -413,7 +413,7 @@ L’accessibilité au clavier comprend&#8239;:
 **WCAG**
 
 -   [Guideline 2.1 - Keyboard
-    accessible](http://www.w3.org/WAI/WCAG21/quickref/#keyboard-operation)
+    accessible](http://www.w3.org/WAI/WCAG22/quickref/#keyboard-operation)
 
 **UAAG**
 
@@ -480,7 +480,7 @@ Là où il faut fournir assez de temps, cela implique de fournir des mécanismes
 **WCAG**
 
 -   [Guideline 2.2 - Enough
-    time](http://www.w3.org/WAI/WCAG21/quickref/#time-limits)
+    time](http://www.w3.org/WAI/WCAG22/quickref/#time-limits)
 
 **UAAG**
 
@@ -544,7 +544,7 @@ Comment éviter de provoquer des crises ou des réactions physiques&#8239;:
 **WCAG**
 
 -   [Guideline 2.3 -
-    Seizures](http://www.w3.org/WAI/WCAG21/quickref/#seizure)
+    Seizures](http://www.w3.org/WAI/WCAG22/quickref/#seizure)
 
 **UAAG**
 
@@ -596,7 +596,7 @@ Un contenu bien organisé permet aux utilisateurs de s’orienter et de naviguer
 **WCAG**
 
 -   [Guideline 2.4 -
-    Navigable](http://www.w3.org/WAI/WCAG21/quickref/#navigation-mechanisms)
+    Navigable](http://www.w3.org/WAI/WCAG22/quickref/#navigation-mechanisms)
 
 **UAAG**
 
@@ -674,7 +674,7 @@ En satisfaisant à cette exigence, on rend le contenu plus facile d’usage pour
 
 **WCAG**
 
--   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {::nomarkdown}
 {% include lang.html type="end" %}
@@ -722,7 +722,7 @@ Les auteurs de contenus doivent s’assurer que le contenu textuel est lisible e
 **WCAG**
 
 -   [Guideline 3.1 -
-    Readable](http://www.w3.org/WAI/WCAG21/quickref/#meaning)
+    Readable](http://www.w3.org/WAI/WCAG22/quickref/#meaning)
 
 **ATAG**
 
@@ -780,7 +780,7 @@ Un grand nombre de personnes s’appuie sur des interfaces prévisibles et est d
 **WCAG**
 
 -   [Guideline 3.2 -
-    Predictable](http://www.w3.org/WAI/WCAG21/quickref/#consistent-behavior)
+    Predictable](http://www.w3.org/WAI/WCAG22/quickref/#consistent-behavior)
 
 **UAAG**
 
@@ -847,7 +847,7 @@ Les formulaires et d’autres systèmes interactifs peuvent induire de la confus
 **WCAG**
 
 -   [Guideline 3.3 - Input
-    assistance](http://www.w3.org/WAI/WCAG21/quickref/#minimize-error)
+    assistance](http://www.w3.org/WAI/WCAG22/quickref/#minimize-error)
 
 **UAAG**
 
@@ -914,7 +914,7 @@ Un contenu robuste est compatible avec de multiples navigateurs, outils d’assi
 **WCAG**
 
 -   [Guideline 4.1 -
-    Compatible](http://www.w3.org/WAI/WCAG21/quickref/#ensure-compat)
+    Compatible](http://www.w3.org/WAI/WCAG22/quickref/#ensure-compat)
 
 **UAAG**
 

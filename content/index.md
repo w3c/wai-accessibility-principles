@@ -90,7 +90,7 @@ The W3C Web Accessibility Initiative (WAI) provides a set of guidelines that are
 -   **[User Agent Accessibility Guidelines (UAAG)](/standards-guidelines/uaag/)**
 -   **[Authoring Tool Accessibility Guidelines (ATAG)](/standards-guidelines/atag/)**
 
-There is also a WAI specification for **[Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, which include dynamic content and advanced user interface controls developed with Ajax, JavaScript, and related web technologies.
+There is also a WAI specification for **[Accessible Rich Internet Applications (WAI-ARIA)](/standards-guidelines/aria/)**, which include dynamic content and advanced user interface controls developed with Ajax, JavaScript, and related web technologies.
 
 {% include excol.html type="end" %}
 
@@ -118,7 +118,7 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 **WCAG**
 
--   [Guideline 1.1 - Text Alternatives](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
+-   [Guideline 1.1 - Text Alternatives](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
 
 **UAAG**
 
@@ -169,7 +169,7 @@ Well-written text transcripts containing the correct sequence of any auditory or
 
 **WCAG**
 
--   [Guideline 1.2 - Time-based Media](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
+-   [Guideline 1.2 - Time-based Media](https://www.w3.org/WAI/WCAG22/quickref/#time-based-media)
 
 **UAAG**
 
@@ -215,7 +215,7 @@ Meeting this requirement allows content to be correctly read aloud, enlarged, or
 
 **WCAG**
 
--   [Guideline 1.3 - Adaptable](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
+-   [Guideline 1.3 - Adaptable](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
 
 **UAAG**
 
@@ -262,7 +262,7 @@ Distinguishable content is easier to see and hear. Such content includes:
 -   Users can pause, stop, or adjust the volume of audio that is played on a website
 -   Background audio is low or can be turned off, to avoid interference or distraction
 
-Meeting this requirement helps separate foreground from background, to make important information more distinguishable. This includes considerations for people who do not use assistive technologies and for people using assistive technologies who may observe interference from prominent audio or visual content in the background. For instance, many people with color blindness do not use any particular tools and rely on a proper design that provides sufficient color contrast between text and its surrounding background. For others, audio that is automatically played could interfere with text-to-speech or with [assistive listening devices (ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition").
+Meeting this requirement helps separate foreground from background, to make important information more distinguishable. This includes considerations for people who do not use assistive technologies and for people using assistive technologies who may observe interference from prominent audio or visual content in the background. For instance, many people with color blindness do not use any particular tools and rely on a proper design that provides sufficient color contrast between text and its surrounding background. For others, audio that is automatically played could interfere with text-to-speech or with [assistive listening devices (ALDs)](/teach-advocate/accessible-presentations/#ald "definition").
 
 {% include excol.html type="start" %}
 
@@ -273,7 +273,7 @@ Meeting this requirement helps separate foreground from background, to make impo
 
 **WCAG**
 
--   [Guideline 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+-   [Guideline 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
 
@@ -330,7 +330,7 @@ Meeting this requirement helps keyboard users, including people using alternativ
 
 **WCAG**
 
--   [Guideline 2.1 - Keyboard accessible](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
+-   [Guideline 2.1 - Keyboard accessible](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
 
 **UAAG**
 
@@ -377,7 +377,7 @@ Examples of providing enough time include providing mechanisms to:
 
 **WCAG**
 
--   [Guideline 2.2 - Enough time](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
+-   [Guideline 2.2 - Enough time](https://www.w3.org/WAI/WCAG22/quickref/#enough-time)
 
 **UAAG**
 
@@ -424,7 +424,7 @@ Examples of avoiding causing seizures and physical reactions:
 
 **WCAG**
 
--   [Guideline 2.3 - Seizures](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [Guideline 2.3 - Seizures](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
@@ -460,7 +460,7 @@ Meeting this requirement helps people to navigate through web pages in different
 
 **WCAG**
 
--   [Guideline 2.4 - Navigable](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+-   [Guideline 2.4 - Navigable](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
 
 **UAAG**
 
@@ -515,7 +515,7 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 **WCAG**
 
--   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -552,7 +552,7 @@ Meeting this requirement helps software, including assistive technology, to proc
 
 **WCAG**
 
--   [Guideline 3.1 - Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [Guideline 3.1 - Readable](https://www.w3.org/WAI/WCAG22/quickref/#readable)
 
 **ATAG**
 
@@ -594,7 +594,7 @@ Meeting this requirement helps people to quickly learn the functionality and nav
 
 **WCAG**
 
--   [Guideline 3.2 - Predictable](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [Guideline 3.2 - Predictable](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
 
 **UAAG**
 
@@ -642,7 +642,7 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 **WCAG**
 
--   [Guideline 3.3 - Input assistance](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+-   [Guideline 3.3 - Input assistance](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
 
 **UAAG**
 
@@ -690,7 +690,7 @@ Meeting this requirement helps maximize compatibility with current and future us
 
 **WCAG**
 
--   [Guideline 4.1 - Compatible](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [Guideline 4.1 - Compatible](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
 
 **UAAG**
 
