@@ -6,7 +6,7 @@ nav_title: "Принципы доступности"   # A short title that is u
 
 lang: ru   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2020-11-24   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-12-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Daniel Novichkov"   # Replace @@ with translator name
 
@@ -87,7 +87,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 -   **[User Agent Accessibility Guidelines (UAAG)](/standards-guidelines/uaag/)**
 -   **[Authoring Tool Accessibility Guidelines (ATAG)](/standards-guidelines/atag/)**
 
-Также имеется спецификация WAI для **[Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, которые описывают динамический контент и расширенные элементы управления пользовательским интерфейсом, разработанные с помощью Ajax, JavaScript и похожими веб-технологиями. и затем передаваться вспомогательным технологиям, например программам экранного чтения. 
+Также имеется спецификация WAI для **[Accessible Rich Internet Applications (WAI-ARIA)](/standards-guidelines/aria/)**, которые описывают динамический контент и расширенные элементы управления пользовательским интерфейсом, разработанные с помощью Ajax, JavaScript и похожими веб-технологиями. и затем передаваться вспомогательным технологиям, например программам экранного чтения. 
 
 {% include excol.html type="end" %}
 
@@ -118,7 +118,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 1.1 - Text Alternatives](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
+-   [Guideline 1.1 - Text Alternatives](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
 
 **UAAG**
 
@@ -168,7 +168,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 1.2 - Time-based Media](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
+-   [Guideline 1.2 - Time-based Media](https://www.w3.org/WAI/WCAG22/quickref/#time-based-media)
 
 **UAAG**
 
@@ -213,7 +213,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 1.3 - Adaptable](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
+-   [Guideline 1.3 - Adaptable](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
 
 **UAAG**
 
@@ -261,7 +261,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 -   Фоновый звук тихий или его можно отключить, чтобы избежать помех или отвлечения пользователя
 
 Выполнение этого требования помогает отделить передний план от фона, чтобы выделить важную информацию. Это поможет как использующим, так и не использующим вспомогательные технологии пользователям избегать помех аудио или визуального контента, проигрываемого в фоновом режиме. 
-Например, многие пользователи с дальтонизмом не используют какие-либо специальные инструменты, полагаясь на дизайн с достаточным цветовым контрастом между текстом и окружающим его фоном. Автоматически воспроизводимый аудиоконтент может мешать пользователям функции речевого воспроизведения текста или [вспомогательных устройств прослушивания (ALD)](http://www.w3.org/WAI/training/accessible#ald "definition").
+Например, многие пользователи с дальтонизмом не используют какие-либо специальные инструменты, полагаясь на дизайн с достаточным цветовым контрастом между текстом и окружающим его фоном. Автоматически воспроизводимый аудиоконтент может мешать пользователям функции речевого воспроизведения текста или [вспомогательных устройств прослушивания (ALD)](/teach-advocate/accessible-presentations/#ald "definition").
 
 {% include excol.html type="start" %}
 
@@ -272,7 +272,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+-   [Guideline 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
 
@@ -329,7 +329,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 2.1 - Keyboard accessible](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
+-   [Guideline 2.1 - Keyboard accessible](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
 
 **UAAG**
 
@@ -375,7 +375,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 2.2 - Enough time](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
+-   [Guideline 2.2 - Enough time](https://www.w3.org/WAI/WCAG22/quickref/#enough-time)
 
 **UAAG**
 
@@ -423,7 +423,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 2.3 - Seizures](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [Guideline 2.3 - Seizures](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
@@ -462,7 +462,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 2.4 - Navigable](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+-   [Guideline 2.4 - Navigable](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
 
 **UAAG**
 
@@ -515,7 +515,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -554,7 +554,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 3.1 - Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [Guideline 3.1 - Readable](https://www.w3.org/WAI/WCAG22/quickref/#readable)
 
 **ATAG**
 
@@ -597,7 +597,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 3.2 - Predictable](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [Guideline 3.2 - Predictable](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
 
 **UAAG**
 
@@ -645,7 +645,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 3.3 - Input assistance](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+-   [Guideline 3.3 - Input assistance](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
 
 **UAAG**
 
@@ -693,7 +693,7 @@ changelog: /fundamentals/accessibility-principles/changelog/
 
 **WCAG**
 
--   [Guideline 4.1 - Compatible](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [Guideline 4.1 - Compatible](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
 
 **UAAG**
 

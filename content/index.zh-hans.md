@@ -6,7 +6,7 @@ nav_title: "无障碍原则"   # A short title that is used in the navigation
 
 lang: zh-hans   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2019-07-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-12-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "李松峰"   # Replace @@ with translator name
   link: "https://lisongfeng.cn/index.php/start-page.html"
@@ -88,7 +88,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 -   **[用户代理无障碍指南 (UAAG)](/standards-guidelines/uaag/)**
 -   **[创作工具无障碍指南 (ATAG)](/standards-guidelines/atag/)**
 
-还有一个用于**[无障碍富网络应用(WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**的WAI规范，其中包括使用Ajax、JavaScript和相关web技术开发的动态内容和高级用户界面控件。
+还有一个用于**[无障碍富网络应用(WAI-ARIA)](/standards-guidelines/aria/)**的WAI规范，其中包括使用Ajax、JavaScript和相关web技术开发的动态内容和高级用户界面控件。
 
 {% include excol.html type="end" %}
 
@@ -116,7 +116,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 1.1 - 替代文本](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
+-   [指南 1.1 - 替代文本](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
 
 **UAAG**
 
@@ -167,7 +167,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 1.2 - 时基媒体](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
+-   [指南 1.2 - 时基媒体](https://www.w3.org/WAI/WCAG22/quickref/#time-based-media)
 
 **UAAG**
 
@@ -213,7 +213,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 1.3 - 适应性](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
+-   [指南 1.3 - 适应性](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
 
 **UAAG**
 
@@ -260,7 +260,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 -   用户可以暂停、停止或调整音频的音量；
 -   背景音乐音量小且可以关闭，避免干扰和分神。
 
-满足这个要求有助于将前景和背景分离，让重要的信息更突出。这一条也涉及不使用辅助技术的人群，而对使用辅助技术的用户，音量过大或对比度过高也会导致注意力分散。比如，很多色盲用户不会使用特殊工具，直接依赖网页提供足够的色彩对比度。而对其他人来说，自动播放的音频可能干扰语音合成或 [助听设备 (ALDs)](http://www.w3.org/WAI/training/accessible#ald "definition").
+满足这个要求有助于将前景和背景分离，让重要的信息更突出。这一条也涉及不使用辅助技术的人群，而对使用辅助技术的用户，音量过大或对比度过高也会导致注意力分散。比如，很多色盲用户不会使用特殊工具，直接依赖网页提供足够的色彩对比度。而对其他人来说，自动播放的音频可能干扰语音合成或 [助听设备 (ALDs)](/teach-advocate/accessible-presentations/#ald "definition").
 
 {% include excol.html type="start" %}
 
@@ -271,7 +271,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 1.4 - 可辨别性](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+-   [指南 1.4 - 可辨别性](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
 
@@ -328,7 +328,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 2.1 - 键盘可访问性](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
+-   [指南 2.1 - 键盘可访问性](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
 
 **UAAG**
 
@@ -375,7 +375,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 2.2 - 充足时间](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
+-   [指南 2.2 - 充足时间](https://www.w3.org/WAI/WCAG22/quickref/#enough-time)
 
 **UAAG**
 
@@ -422,7 +422,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 2.3 - 癫痫](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [指南 2.3 - 癫痫](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
@@ -458,7 +458,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 2.4 - 可导航性](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+-   [指南 2.4 - 可导航性](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
 
 **UAAG**
 
@@ -513,7 +513,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 2.5 - 输入方式](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [指南 2.5 - 输入方式](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -550,7 +550,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 3.1 - 可读性](https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [指南 3.1 - 可读性](https://www.w3.org/WAI/WCAG22/quickref/#readable)
 
 **ATAG**
 
@@ -592,7 +592,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 3.2 - 可预测性](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [指南 3.2 - 可预测性](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
 
 **UAAG**
 
@@ -640,7 +640,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 3.3 - 辅助输入](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+-   [指南 3.3 - 辅助输入](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
 
 **UAAG**
 
@@ -688,7 +688,7 @@ W3C的Web无障碍推进(WAI)提供了一组被国际公认为Web无障碍标准
 
 **WCAG**
 
--   [指南 4.1 - 兼容](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [指南 4.1 - 兼容](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
 
 **UAAG**
 
