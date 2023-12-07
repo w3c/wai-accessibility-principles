@@ -1,41 +1,42 @@
 ---
-# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: Prinsip Aksesibilitas   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Prinsip Aksesibilitas"   # A short title that is used in the navigation
-
-lang: id   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-
-last_updated: 2021-05-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translators: 
-- name: "Fri Rasyidi"   # Replace @@ with translator name
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
-# contributors:
-# - name: "@@"   # Replace @@ with contributor name, or delete this line if none
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
-
-ref: /fundamentals/accessibility-principles/   # Do not change this
-layout: default
-github:
-  repository: w3c/wai-accessibility-principles
-  path: content/index.id.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-permalink: /fundamentals/accessibility-principles/id   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
-
-description: Gambaran umum persyaratan dasar aksesibilitas untuk situs web, aplikasi web, browser, dan sarana lainnya.   # translate this sentence
-image: /content-images/wai-accessibility-principles/social.png
-
+title: Prinsip Aksesibilitas
+nav_title: "Prinsip Aksesibilitas"
+lang: id   # Change "en" to the translated language shortcode
+last_updated: 2023-12-07  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+description: Gambaran umum persyaratan dasar aksesibilitas untuk situs web, aplikasi web, browser, dan sarana lainnya.
 teaser_text: Halaman Prinsip Aksesibilitas memperkenalkan beberapa persyaratan aksesibilitas untuk situs web, aplikasi web, browser, dan alat lainnya. Halaman ini memberikan referensi ke standar internasional dari Inisiatif Aksesibilitas Web (WAI) W3C dan kisah-kisah para pengguna web.
 
-footer: >   # Translate all the words below, including "Date:", "Editor:", Updated, and the month. Do not change these dates.
-  <p><strong>Tanggal:</strong> Diperbarui 10 May 2019. CHANGELOG</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Ucapan Terima Kasih</a>.</p>
+translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+- name: "Fri Rasyidi"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
+github:
+  repository: w3c/wai-accessibility-principles
+  path: content/index.id.md   # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+
+permalink: /fundamentals/accessibility-principles/id   # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /fundamentals/accessibility-principles/  # Do not change this
+
+layout: default
+image: /content-images/wai-accessibility-principles/social.png
+changelog: /fundamentals/accessibility-principles/changelog/ # Do not change this
+
+# In the footer below:
+# Do not change the dates
+# Do not translate CHANGELOG
+# Translate the other words, including "Date:" and "Editors:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+footer: >
+  <p><strong>Tanggal:</strong> Diperbarui 6 Desember 2023. CHANGELOG</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Pengakuan kontribusi</a>.</p>
   <p>Dikembangkan oleh Kelompok Kerja Edukasi dan Pendampingan (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Sebelumnya dikembangkan bersama <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">Satuan Tugas WAI-AGE</a>, dengan dukungan dari <a href="https://www.w3.org/WAI/WAI-AGE/">Proyek WAI-AGE</a>.</p>
 
-changelog: /fundamentals/accessibility-principles/changelog/
-
-# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
-# Read Translations Notes for this resource at https://github.com/w3c/wai-accessibility-principles/blob/master/README.md
-# end of translation instructions
 ---
 
 
@@ -93,7 +94,7 @@ Inisiatif Aksesibilitas Web (WAI) W3C menyediakan satu set pedoman yang telah di
 -   **[Pedoman Aksesibilitas Agen Pengguna (UAAG)](/standards-guidelines/uaag/)**
 -   **[Pedoman Aksesbilitas Sarana Penulisan (ATAG)](/standards-guidelines/atag/)**
 
-Terdapat pula spesifikasi WAI untuk **[Aplikasi Internet yang Kaya dan Aksesibel (WAI-ARIA)](https://www.w3.org/WAI/intro/aria.php)**, yang mencakup konten dinamis dan kontrol antarmuka pengguna tingkat lanjut yang dikembangkan dengan Ajax, JavaScript, dan teknologi web terkait.
+Terdapat pula spesifikasi WAI untuk **[Aplikasi Internet yang Kaya dan Aksesibel (WAI-ARIA)](/standards-guidelines/aria/)**, yang mencakup konten dinamis dan kontrol antarmuka pengguna tingkat lanjut yang dikembangkan dengan Ajax, JavaScript, dan teknologi web terkait.
 
 {% include excol.html type="end" %}
 
@@ -121,7 +122,7 @@ Alternatif teks dapat disajikan dengan berbagai cara. Misalnya, dibacakan atau d
 
 **WCAG**
 
--   [Pedoman 1.1 - Alternatif Teks](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives)
+-   [Pedoman 1.1 - Alternatif Teks](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
 
 **UAAG**
 
@@ -172,7 +173,7 @@ Teks transkripsi yang ditulis dengan baik dan memiliki urutan informasi yang tep
 
 **WCAG**
 
--   [Pedoman 1.2 - Media berbasis waktu](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
+-   [Pedoman 1.2 - Media berbasis waktu](https://www.w3.org/WAI/WCAG22/quickref/#time-based-media)
 
 **UAAG**
 
@@ -218,7 +219,7 @@ Memenuhi persyaratan ini memungkinkan konten untuk bisa diucapkan dengan benar, 
 
 **WCAG**
 
--   [Pedoman 1.3 - Dapat Disesuaikan](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)
+-   [Pedoman 1.3 - Dapat Disesuaikan](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
 
 **UAAG**
 
@@ -265,7 +266,7 @@ Konten yang dapat dibedakan lebih mudah untuk dilihat dan didengar. Konten terse
 -   Pengguna bisa menjedakan, menghentikan, atau menyesuaikan volume audio yang diputar pada situs web
 -   Suara latar bervolume rendah atau bisa dimatikan, untuk menghindari gangguan atau menjadi distraksi
 
-Memenuhi persyaratan ini membantu memisahkan latar depan dan belakangnya, sehingga informasi yang penting jadi lebih dapat dibedakan. Ini termasuk mempertimbangkan orang yang tidak dan yang menggunakan teknologi pendukung yang mungkin terganggu oleh konten audio mau pun visual yang berada di latar. Sebagai contoh, banyak penyandang buta warna yang tidak menggunakan sarana pendukung khusus dan hanya bergantung pada desain dengan kontras warna yang cukup antara teks dan warna latarnya. Contoh lainnya, audio yang secara otomatis dimainkan dapat mengganggu mereka yang menggunakan teknologi teks-ke-suara atau [alat bantu pendengaran (ALDs)](http://www.w3.org/WAI/training/accessible#ald).
+Memenuhi persyaratan ini membantu memisahkan latar depan dan belakangnya, sehingga informasi yang penting jadi lebih dapat dibedakan. Ini termasuk mempertimbangkan orang yang tidak dan yang menggunakan teknologi pendukung yang mungkin terganggu oleh konten audio mau pun visual yang berada di latar. Sebagai contoh, banyak penyandang buta warna yang tidak menggunakan sarana pendukung khusus dan hanya bergantung pada desain dengan kontras warna yang cukup antara teks dan warna latarnya. Contoh lainnya, audio yang secara otomatis dimainkan dapat mengganggu mereka yang menggunakan teknologi teks-ke-suara atau [alat bantu pendengaran (ALDs)](/teach-advocate/accessible-presentations/#ald "definition").
 
 {% include excol.html type="start" %}
 
@@ -276,7 +277,7 @@ Memenuhi persyaratan ini membantu memisahkan latar depan dan belakangnya, sehing
 
 **WCAG**
 
--   [Pedoman 1.4 - Dapat Dibedakan](https://www.w3.org/WAI/WCAG21/quickref/#distinguishable)
+-   [Pedoman 1.4 - Dapat Dibedakan](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
 
@@ -333,7 +334,7 @@ Memenuhi persyaratan ini membantu pengguna kibor, termasuk mereka yang menggunak
 
 **WCAG**
 
--   [Pedoman 2.1 - Aksesibel melalui kibor](https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible)
+-   [Pedoman 2.1 - Aksesibel melalui kibor](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
 
 **UAAG**
 
@@ -380,7 +381,7 @@ Contoh dalam memberikan waktu yang cukup termasuk juga menyediakan mekanisme unt
 
 **WCAG**
 
--   [Pedoman 2.2 - Waktu yang cukup](https://www.w3.org/WAI/WCAG21/quickref/#enough-time)
+-   [Pedoman 2.2 - Waktu yang cukup](https://www.w3.org/WAI/WCAG22/quickref/#enough-time)
 
 **UAAG**
 
@@ -427,7 +428,7 @@ Contoh dalam menghindari mengakibatkan kejang dan reaksi fisik lainnya:
 
 **WCAG**
 
--   [Pedoman 2.3 - Kejang](https://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)
+-   [Pedoman 2.3 - Kejang](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
@@ -463,7 +464,7 @@ Memenuhi persyaratan ini membantu orang untuk menavigasi halaman web dengan berb
 
 **WCAG**
 
--   [Pedoman 2.4 - Dapat Dinavigasikan](https://www.w3.org/WAI/WCAG21/quickref/#navigable)
+-   [Pedoman 2.4 - Dapat Dinavigasikan](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
 
 **UAAG**
 
@@ -518,7 +519,7 @@ Memenuhi persyaratan ini membuat konten lebih mudah digunakan oleh banyak orang 
 
 **WCAG**
 
--   [Pedoman 2.5 - Berbagai Mode Input](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)
+-   [Pedoman 2.5 - Berbagai Mode Input](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -555,7 +556,7 @@ Memenuhi persyaratan ini membantu perangkat lunak, termasuk teknologi pendukung,
 
 **WCAG**
 
--   [Pedoman 3.1 - Dapat Dibaca](https://www.w3.org/WAI/WCAG21/quickref/#readable)
+-   [Pedoman 3.1 - Dapat Dibaca](https://www.w3.org/WAI/WCAG22/quickref/#readable)
 
 **ATAG**
 
@@ -597,7 +598,7 @@ Memenuhi persyaratan ini membantu orang untuk bisa dengan cepat mempelajari fung
 
 **WCAG**
 
--   [Pedoman 3.2 - Dapat Diprediksi](https://www.w3.org/WAI/WCAG21/quickref/#predictable)
+-   [Pedoman 3.2 - Dapat Diprediksi](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
 
 **UAAG**
 
@@ -645,7 +646,7 @@ Memenuhi persyaratan ini membantu orang-orang yang tidak melihat atau mendengar 
 
 **WCAG**
 
--   [Pedoman 3.3 - Dukungan penginputan](https://www.w3.org/WAI/WCAG21/quickref/#input-assistance)
+-   [Pedoman 3.3 - Dukungan penginputan](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
 
 **UAAG**
 
@@ -693,7 +694,7 @@ Memenuhi persyaratan ini membantu memaksimalkan kompatibilitas dengan agen pengg
 
 **WCAG**
 
--   [Pedoman 4.1 - Kompatibel](https://www.w3.org/WAI/WCAG21/quickref/#compatible)
+-   [Pedoman 4.1 - Kompatibel](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
 
 **UAAG**
 
