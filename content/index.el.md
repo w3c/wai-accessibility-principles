@@ -2,11 +2,12 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: Accessibility Principles
-nav_title: "Accessibility Principles"
-lang: en   # Change "en" to the translated language shortcode
-last_updated: 2023-12-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.
+title: Αρχές Προσβασιμότητας
+nav_title: "Αρχές Προσβασιμότητας"
+lang: el   # Change "en" to the translated language shortcode
+last_updated: 2024-02-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+description: Μια επισκόπηση των θεμελιωδών απαιτήσεων προσβασιμότητας στον παγκόσμιο ιστο για ιστοτόπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης, και άλλα εργαλεία.
+
 teaser_text: The Accessibility Principles page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to stories of web users.
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
