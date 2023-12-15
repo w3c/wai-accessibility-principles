@@ -6,22 +6,19 @@ title: Αρχές Προσβασιμότητας
 nav_title: "Αρχές Προσβασιμότητας"
 lang: el   # Change "en" to the translated language shortcode
 last_updated: 2024-02-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-description: Μια επισκόπηση των θεμελιωδών απαιτήσεων προσβασιμότητας στον παγκόσμιο ιστο για ιστοτόπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης, και άλλα εργαλεία.
+description: Μια επισκόπηση των θεμελιωδών απαιτήσεων προσβασιμότητας στον παγκόσμιο ιστο για ιστοτόπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία.
 
-teaser_text: The Accessibility Principles page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to stories of web users.
+teaser_text: teaser_text: Η σελίδα Αρχές προσβασιμότητας εισάγει ορισμένες από τις απαιτήσεις προσβασιμότητας στον παγκόσμιο ιστό για ιστότοπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία. Παρέχει αναφορές στα διεθνή πρότυπα του W3C Web Accessibility Initiative (WAI) και σε ιστορίες χρηστών του παγκοσμίου ιστού.
 
-# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
-# - name: "Jan Doe"   # Replace Jan Doe with translator name
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
-# contributors:
-# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+- name: "Χρυσάνθη Μηλιτσοπούλου"   # Replace Jan Doe with translator name
+contributors:
 
 github:
   repository: w3c/wai-accessibility-principles
-  path: content/index.md   # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+  path: content/index.el.md   # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 
-permalink: /fundamentals/accessibility-principles/  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+permalink: /fundamentals/accessibility-principles/el  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
 ref: /fundamentals/accessibility-principles/  # Do not change this
 
 layout: default
@@ -34,20 +31,20 @@ changelog: /fundamentals/accessibility-principles/changelog/ # Do not change thi
 # Translate the other words, including "Date:" and "Editors:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date:</strong> Updated 6 December 2023. CHANGELOG</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
+  <p><strong>Ημερομηνια:</strong> Επικαιροποιήθηκε στις 6 Δεκεμβρίου 2023. CHANGELOG</p>
+  <p><strong>Συντάκτες:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Ευχαριστίες</a>.</p>
+  <p>Αναπτύχθηκε από την Ομάδα Εργασίας για την Εκπαίδευση και την Προβολή (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 
 ---
 
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Περίληψη" class="full" %}
 {:/}
 
-This page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to [stories of web users](/people-use-web/user-stories/).
+Αυτή η σελίδα εισάγει ορισμένες από τις απαιτήσεις προσβασιμότητας στον παγκόσμιο ιστό για ιστότοπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία. Παρέχει αναφορές στα διεθνή πρότυπα του W3C Web Accessibility Initiative (WAI) και σε [ιστορίες χρηστών του αγκοσμίου ιστού](/people-use-web/user-stories/).
 
-**Note:** This is not a complete list of all accessibility requirements.
+**Σημείωση:** Αυτή δεν αποτελεί μια πλήρης λίστα όλων των απαιτήσεων προσβασιμότητας.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -57,7 +54,7 @@ This page introduces some of the web accessibility requirements for websites, we
 {::options toc_levels="2,3" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{% include_cached toc.html type="start" title="Περιοεχόμενα ιστοσελίδας" class="full" %}
 {:/}
 
 -   TOC is created automatically.
@@ -70,12 +67,12 @@ This page introduces some of the web accessibility requirements for websites, we
 
 {% include excol.html type="all" %}
 
-## Web accessibility standards {#standards}
+## Πρότυπα προσβασιμότητας στον Ιστό {#standards}
 
-Web accessibility relies on several components that work together. Some of these include:
+Η προσβασιμότητα στον παγκόσμιο ιστό βασίζεται σε πολλά συστατικά που συνεργάζονται μεταξύ τους. Μερικά από αυτά περιλαμβάνουν:
 
--   **Web content**{:#webcontent} - refers to any part of a website, including text, images, forms, and multimedia, as well as any markup code, scripts, applications, and such.
--   **User agents**{:#useragents} - software that people use to access web content, including desktop graphical browsers, voice browsers, mobile phone browsers, multimedia players, plug-ins, and some [assistive technologies](/people-use-web/tools-techniques/#at "definition").
+-   **Περιεχόμενο παγκοσμίου ιστού**{:#webcontent} - αναφέρεται σε κάθε τμήμα εντός ιστοτόπου, συμπεριλαμβανομένων του κειμένου, των εικόνων, των φορμών και των πολυμέσων, όπως επίσης οποιουδήποτε κώδικα σήμανσης,scripts, εφαρμογές και άλλα παρόμοια.
+-   **Πράκτορες χρήστη**{:#useragents} - λογισμικό που οι άνθρωποι χρησιμοποιούν για να έχουν πρόσβαση στο περιεχόμενο του παγκοσμίου ιστού, συμπεριλαμβανομένων desktop graphical browsers, voice browsers, mobile phone browsers, multimedia players, plug-ins, και μερικές [υποστηρικτικές τεχνολογίες](/people-use-web/tools-techniques/#at "definition").
 -   **Authoring tools**{:#authoringtools} - software or services that people use to produce web content, including code editors, document conversion tools, content management systems, blogs, database scripts, and other tools.
 
 {% include excol.html type="start" %}
@@ -245,13 +242,13 @@ Meeting this requirement allows content to be correctly read aloud, enlarged, or
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness](/people-use-web/user-stories/#shopper)
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Lee, αγοραστής μέσω διαδικτύου με online shopper with αχρωματοψία](/people-use-web/user-stories/#shopper)
+-   [Alex, δημοσιογράφος με τραυματισμό επαναλαμβανόμενης καταπόνησης](/people-use-web/user-stories/#reporter)
+-   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλός/ή](/people-use-web/user-stories/#accountant)
+-   [Preety, μαθητής/τρια μέσης εκπαίδευσης με Διαταραχή Ελλειμματικής Προσοχής και Υπερκινητικότητας και Δυσλεξία](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
+-   [Luis, βοηθός σε σούπερμάρκετ με σύνδρομο Down](/people-use-web/user-stories/#supermarketassistant)
+-   [Kaseem, έφηβος κωφός και τυφλός](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -259,13 +256,13 @@ Meeting this requirement allows content to be correctly read aloud, enlarged, or
 
 Distinguishable content is easier to see and hear. Such content includes:
 
--   Color is not used as the only way of conveying information or identifying content
--   Default foreground and background color combinations provide sufficient contrast
--   When users resize text up to 400% or change text spacing, no information is lost
+-   Το χρώμα δεν χρησιμοποιείται ως ο μοναδικός τρόπος μετάδοσης πληροφορίας ή αναγνώρισης περιεχομένου
+-   Οι προεπιλεγμένοι χρωματικοί συνδυασμοί προσκηνίου και φόντου παρέχουν επαρκή αντίθεση
+-   Όταν οι χρήστες τροποποιούν το μέγεθος κειμένου έως και 400% ή αλλάζουν διάστιχο, δεν υπάρχει απώλεια πληροφορίας
 -   Text reflows in small windows ("viewports") and when users make the text larger
 -   Images of text are resizable, replaced with actual text, or avoided where possible
--   Users can pause, stop, or adjust the volume of audio that is played on a website
--   Background audio is low or can be turned off, to avoid interference or distraction
+-   Οι χρήστες μπορούν να  παύση, να σταματήσουν ή να προσαρμόσουν την ένταση του ήχου που αναπαράγεται σε έναν ιστότοπο
+-   Ο ήχος στο παρασκήνιο είναι χαμηλός ή μπορεί να απενεργοποιηθεί, για να αποφευχθούν παρεμβολές ή απόσπαση της προσοχής
 
 Meeting this requirement helps separate foreground from background, to make important information more distinguishable. This includes considerations for people who do not use assistive technologies and for people using assistive technologies who may observe interference from prominent audio or visual content in the background. For instance, many people with color blindness do not use any particular tools and rely on a proper design that provides sufficient color contrast between text and its surrounding background. For others, audio that is automatically played could interfere with text-to-speech or with [assistive listening devices (ALDs)](/teach-advocate/accessible-presentations/#ald "definition").
 
