@@ -96,7 +96,7 @@ There is also a WAI specification for **[Accessible Rich Internet Applications (
 
 {% include excol.html type="end" %}
 
-## Perceivable information and user interface {#perceivable}
+## Αντιληπτή πληροφορία και διεπαφή χρήστη{#perceivable}
 
 ### Text alternatives for non-text content {#alternatives}
 
@@ -154,7 +154,7 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 ### Captions and other alternatives for multimedia {#captions}
 
-People who cannot hear audio or see video need alternatives. Examples include:
+Τα άτομα που δεν μπορούν να ακούσουν ήχο ή να δουν βίντεο, χρειάζονται εναλλακτικές λύσεις. Τα παραδείγματα περιλαμβάνουν:
 
 -   Text transcripts and captions for audio content, such as recordings of a radio interview
 -   Audio descriptions, which are narrations to describe important visual details in a video
@@ -361,13 +361,13 @@ Meeting this requirement helps keyboard users, including people using alternativ
 
 ### Users have enough time to read and use the content {#time}
 
-Some people need more time than others to read and use the content. For instance, some people require more time to type text, understand instructions, operate controls, or to otherwise complete tasks on a website.
+Μερικοί άνθρωποι χρειάζονται περισσότερο χρόνο από άλλους για να διαβάσουν και να χρησιμοποιήσουν το περιεχόμενο. Για παράδειγμα, μερικοί άνθρωποι χρειάζονται περισσότερο χρόνο για να πληκτρολογήσουν κείμενο, να κατανοήσουν οδηγίες, να χειριστούν στοιχεία ελέγχου ή να ολοκληρώσουν με άλλο τρόπο εργασίες σε έναν ιστότοπο.
 
-Examples of providing enough time include providing mechanisms to:
+Παραδείγματα παροχής επαρκούς χρόνου περιλαμβάνουν την παροχή μηχανισμών για:
 
--   Stop, extend, or adjust time limits, except where necessary
--   Pause, stop, or hide moving, blinking, or scrolling content
--   Postpone or suppress interruptions, except where necessary
+-   Διακοπή, επέκταση ή προσαρμογή του χρονικού ορίου, 
+-   Παύση, διακοπή ή απόκρυψη κινούμενου Pause, stop, or hide moving, blinking, or scrolling content
+-   Αναβολή ή κατάργηση των διακοπών, εκτός από όπου είναι απαραίτητο
 -   Re-authenticate when a session expires without losing data
 
 {% include excol.html type="start" %}
