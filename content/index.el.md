@@ -659,7 +659,7 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to input assistance
+#### Ιστορίες σχετικές με Stories related to input assistance
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -707,7 +707,7 @@ Meeting this requirement helps maximize compatibility with current and future us
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to compatibility
+#### Ιστορίες σχετικές με τη συμβατότητα
 {:.no_toc}
 
 {% include excol.html type="middle" %}
