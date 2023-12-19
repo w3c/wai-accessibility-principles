@@ -146,9 +146,9 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 -   [Alex, δημοσιογράφος με τραυματισμό επαναλαμβανόμενης καταπόνησης](/people-use-web/user-stories/#reporter)
 -   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Preety, μαθήτρια μέσης εκπαίδευσης με Διαταραχή Ελλειμματικής Προσοχής και Υπερκινητικότητας και Δυσλεξία](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
+-   [Kaseem, έφηβη κωφή και τυφλή](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -194,7 +194,7 @@ Well-written text transcripts containing the correct sequence of any auditory or
 
 -   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Kaseem, έφηβη κωφή και τυφλή](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -304,8 +304,8 @@ Meeting this requirement helps separate foreground from background, to make impo
 -   [Lee, αγοραστής μέσω διαδικτύου με αχρωματοψία](/people-use-web/user-stories/#shopper)
 -   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
+-   [Kaseem, έφηβη κωφή και τυφλή](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -400,10 +400,10 @@ Meeting this requirement helps keyboard users, including people using alternativ
 {% include excol.html type="middle" %}
 
 -   [Alex, δημοσιογράφος με τραυματισμό επαναλαμβανόμενης καταπόνησης](/people-use-web/user-stories/#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
+-   [Preety, μαθήτρια μέσης εκπαίδευσης με Διαταραχή Ελλειμματικής Προσοχής και Υπερκινητικότητας και Δυσλεξία](/people-use-web/user-stories/#classroomstudent)
 -   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
 -   [Luis, βοηθός σε σούπερμάρκετ με σύνδρομο Down](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Kaseem, έφηβη κωφή και τυφλή](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -489,9 +489,9 @@ Meeting this requirement helps people to navigate through web pages in different
 
 -   [Alex, δημοσιογράφος με τραυματισμό επαναλαμβανόμενης καταπόνησης](/people-use-web/user-stories/#reporter)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
+-   [Preety, μαθήτρια μέσης εκπαίδευσης με Διαταραχή Ελλειμματικής Προσοχής και Υπερκινητικότητας και Δυσλεξία](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
+-   [Luis, βοηθός σε σούπερμάρκετ με σύνδρομο Down](/people-use-web/user-stories/#supermarketassistant)
 -   [Kaseem, έφηβη κωφή και τυφλή](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
@@ -527,8 +527,8 @@ Meeting this requirement makes the content easier to use for many people with a 
 {% include excol.html type="middle" %}
 
 -   [Alex, δημοσιογράφος με τραυματισμό επαναλαμβανόμενης καταπόνησης](/people-use-web/user-stories/#reporter)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
+-   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
+-   [Luis, βοηθός σε σούπερμάρκετ με σύνδρομο Down](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -571,9 +571,9 @@ Meeting this requirement helps software, including assistive technology, to proc
 
 -   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
+-   [Preety, μαθήτρια μέσης εκπαίδευσης με Διαταραχή Ελλειμματικής Προσοχής και Υπερκινητικότητας και Δυσλεξία](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
+-   [Luis, βοηθός σε σούπερμάρκετ με σύνδρομο Down](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -618,10 +618,10 @@ Meeting this requirement helps people to quickly learn the functionality and nav
 
 -   [Alex, δημοσιογράφος με τραυματισμό επαναλαμβανόμενης καταπόνησης](/people-use-web/user-stories/#reporter)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Preety, μαθήτρια μέσης εκπαίδευσης με Διαταραχή Ελλειμματικής Προσοχής και Υπερκινητικότητας και Δυσλεξία](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
+-   [Luis, βοηθός σε σούπερμάρκετ με σύνδρομο Down](/people-use-web/user-stories/#supermarketassistant)
+-   [Kaseem, έφηβη κωφή και τυφλή](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -666,9 +666,9 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 -   [Lee, αγοραστής μέσω διαδικτύου με αχρωματοψία](/people-use-web/user-stories/#shopper)
 -   [Alex, δημοσιογράφος με τραυματισμό επαναλαμβανόμενης καταπόνησης](/people-use-web/user-stories/#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
+-   [Preety, μαθήτρια μέσης εκπαίδευσης με Διαταραχή Ελλειμματικής Προσοχής και Υπερκινητικότητας και Δυσλεξία](/people-use-web/user-stories/#classroomstudent)
+-   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
+-   [Luis, βοηθός σε σούπερμάρκετ με σύνδρομο Down](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -715,9 +715,9 @@ Meeting this requirement helps maximize compatibility with current and future us
 -   [Lee, αγοραστής μέσω διαδικτύου με αχρωματοψία](/people-use-web/user-stories/#shopper)
 -   [Alex, δημοσιογράφος με τραυματισμό επαναλαμβανόμενης καταπόνησης](/people-use-web/user-stories/#reporter)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+-   [Preety, μαθήτρια μέσης εκπαίδευσης με Διαταραχή Ελλειμματικής Προσοχής και Υπερκινητικότητας και Δυσλεξία](/people-use-web/user-stories/#classroomstudent)
+-   [Luis, βοηθός σε σούπερμάρκετ με σύνδρομο Down](/people-use-web/user-stories/#supermarketassistant)
+-   [Kaseem, έφηβη κωφή και τυφλή](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
