@@ -156,11 +156,11 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 Τα άτομα που δεν μπορούν να ακούσουν ήχο ή να δουν βίντεο, χρειάζονται εναλλακτικές λύσεις. Τα παραδείγματα περιλαμβάνουν:
 
--   Text transcripts and captions for audio content, such as recordings of a radio interview
--   Audio descriptions, which are narrations to describe important visual details in a video
--   Sign language interpretation of audio content, including relevant auditory experiences
+-   Μεταγραφές κειμένου και λεζάντες για ηχητικό περιεχόμενο, όπως ηχογραφήσεις μιας ραδιοφωνικής συνέντευξης
+-   Ηχητικές περιγραφές, οι οποίες είναι αφηγήσεις για να περιγράψουν σημαντικές οπτικές λεπτομέρειες σε ένα βίντεο
+-   Διερμηνεία νοηματικής γλώσσας για το ακουστικό περιεχόμένο, συμπεριλαμβανομένων σχετικών ακουστικών εμπειριών
 
-Well-written text transcripts containing the correct sequence of any auditory or visual information provide a basic level of accessibility and facilitate the production of captions and audio descriptions.
+Οι καλογραμμένες μεταγραφές κειμένου που περιέχουν τη σωστή σειρά οποιασδήποτε ακουστικής ή οπτικής πληροφορίας παρέχουν ένα βασικό επίπεδο προσβασιμότητας και διευκολύνουν την παραγωγή λεζάντων και ηχητικών περιγραφών.
 
 {% include excol.html type="start" %}
 
