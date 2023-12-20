@@ -120,18 +120,18 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 **WCAG**
 
--   [Guideline 1.1 - Text Alternatives](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
+-   [Κατευθυντήρια γραμμή 1.1 - Text Alternatives](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
 
 **UAAG**
 
--   [Guideline 1.1 - Alternative content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
+-   [Κατευθυντήρια γραμμή 1.1 - Alternative content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
+-   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
@@ -171,17 +171,17 @@ Well-written text transcripts containing the correct sequence of any auditory or
 
 **WCAG**
 
--   [Guideline 1.2 - Time-based Media](https://www.w3.org/WAI/WCAG22/quickref/#time-based-media)
+-   [Κατευθυντήρια γραμμή 1.2 - Time-based Media](https://www.w3.org/WAI/WCAG22/quickref/#time-based-media)
 
 **UAAG**
 
--   [Guideline 1.1 - Alternative content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
+-   [Κατευθυντήρια γραμμή 1.1 - Alternative content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
+-   [Κατευθυντήρια γραμμή A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
@@ -217,22 +217,22 @@ Meeting this requirement allows content to be correctly read aloud, enlarged, or
 
 **WCAG**
 
--   [Guideline 1.3 - Adaptable](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
+-   [Κατευθυντήρια γραμμή 1.3 - Adaptable](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
 
 **UAAG**
 
--   [Guideline 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
--   [Guideline 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
--   [Guideline 1.6 - Synthesized speech configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
--   [Guideline 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [Guideline 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
--   [Guideline 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
+-   [Κατευθυντήρια γραμμή 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
+-   [Κατευθυντήρια γραμμή 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
+-   [Κατευθυντήρια γραμμή 1.6 - Synthesized speech configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
+-   [Κατευθυντήρια γραμμή 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+-   [Κατευθυντήρια γραμμή 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+-   [Κατευθυντήρια γραμμή 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -275,23 +275,23 @@ Meeting this requirement helps separate foreground from background, to make impo
 
 **WCAG**
 
--   [Guideline 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
+-   [Κατευθυντήρια γραμμή 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
 
--   [Guideline 1.3 - Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
--   [Guideline 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
--   [Guideline 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
--   [Guideline 1.6 - Synthesized speech configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
--   [Guideline 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [Guideline 1.8 - Orientation in viewports](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
--   [Guideline 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
--   [Guideline 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
+-   [Κατευθυντήρια γραμμή 1.3 - Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
+-   [Κατευθυντήρια γραμμή 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
+-   [Κατευθυντήρια γραμμή 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
+-   [Κατευθυντήρια γραμμή 1.6 - Synthesized speech configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
+-   [Κατευθυντήρια γραμμή 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+-   [Κατευθυντήρια γραμμή 1.8 - Orientation in viewports](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
+-   [Κατευθυντήρια γραμμή 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+-   [Κατευθυντήρια γραμμή 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -311,17 +311,17 @@ Meeting this requirement helps separate foreground from background, to make impo
 
 ## Operable user interface and navigation {#operable}
 
-### Functionality is available from a keyboard {#keyboard}
+### Η λειτουργικότητα είναι διαθέσιμη μέσω ενός πληκτρολογίουFunctionality is available from a keyboard {#keyboard}
 
-Many people do not use the mouse and rely on the keyboard to interact with the Web. This requires keyboard access to all functionality, including form controls, input, and other user interface components.
+Πολλοί άνθρωποι δεν χρησιμοποιούν το ποντίκι και βασίζονται στο πληκτρολόγιο για να αλληλεπιδράσουν με τον Παγκόσμιο Ιστό. Αυτό απαιτεί πρόσβαση με πληκτρολόγιο σε όλες τις λειτουργίες, συμπεριλαμβανομένων των στοιχείων ελέγχου φόρμας, της εισαγωγής και άλλων στοιχείων διεπαφής χρήστη.
 
-Keyboard accessibility includes:
+Η προσβασιμότητα μέσω πληκτρολογίου περιλαμβάνει:
 
--   All functionality that is available by mouse is also available by keyboard
--   Keyboard focus does not get trapped in any part of the content
--   Web browsers, authoring tools, and other tools provide keyboard support
+-   Όλη η λειτουργικότητα που είναι διαθέσιμη μέσω του ποντικιού είναι επίσης διαθέσιμη μέσω πληκτρολογίου
+-   Η εστίαση μέσω πληκτρολογίου δεν παγιδεύεται σε κανένα τμήμα του περιεχομένου
+-   Τα προγράμματα περιήγησης παγκοσμίου ιστού, τα εργαλεία συγγραφής και άλλα εργαλεία παρέχουν υποστήριξη μέσω πληκτρολογίου
 
-Meeting this requirement helps keyboard users, including people using alternative keyboards such as keyboards with ergonomic layouts, on-screen keyboards, or switch devices. It also helps people using voice recognition (speech input) to operate websites and to dictate text through the keyboard interface.
+Η ικανοποίηση αυτής της απαίτησης βοηθά τους χρήστες πληκτρολογίου, συμπεριλαμβανομένων των ατόμων που χρησιμοποιούν εναλλακτικά πληκτρολόγια, όπως πληκτρολόγια με εργονομική διάταξη, πληκτρολόγια οθόνης ή συσκευές διακοπτών. Βοηθά επίσης άτομα που χρησιμοποιούν φωνητική αναγνώριση (εισαγωγή ομιλίας) να χειρίζονται ιστότοπους και να υπαγορεύουν κείμενο μέσω της διεπαφής του πληκτρολογίου.
 
 {% include excol.html type="start" %}
 
@@ -332,19 +332,19 @@ Meeting this requirement helps keyboard users, including people using alternativ
 
 **WCAG**
 
--   [Guideline 2.1 - Keyboard accessible](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
+-   [Κατευθυντήρια γραμμή 2.1 - Keyboard accessible](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
 
 **UAAG**
 
--   [Guideline 2.1 - Keyboard access](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
--   [Guideline 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
--   [Guideline 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
--   [Guideline 2.11 - Other Input Devices](https://www.w3.org/TR/UAAG20/#gl-other-devices)
+-   [Κατευθυντήρια γραμμή 2.1 - Keyboard access](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
+-   [Κατευθυντήρια γραμμή 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+-   [Κατευθυντήρια γραμμή 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+-   [Κατευθυντήρια γραμμή 2.11 - Other Input Devices](https://www.w3.org/TR/UAAG20/#gl-other-devices)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.3.1: (For the authoring tool user interface) Provide keyboard access to authoring features](https://www.w3.org/TR/ATAG20/#gl_a31)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.3.1: (For the authoring tool user interface) Provide keyboard access to authoring features](https://www.w3.org/TR/ATAG20/#gl_a31)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -379,17 +379,17 @@ Meeting this requirement helps keyboard users, including people using alternativ
 
 **WCAG**
 
--   [Guideline 2.2 - Enough time](https://www.w3.org/WAI/WCAG22/quickref/#enough-time)
+-   [Κατευθυντήρια γραμμή 2.2 - Enough time](https://www.w3.org/WAI/WCAG22/quickref/#enough-time)
 
 **UAAG**
 
--   [Guideline 2.8 - Time-independent interaction](https://www.w3.org/TR/UAAG20/#gl-time-independent)
--   [Guideline 2.10 - Time-based media](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
+-   [Κατευθυντήρια γραμμή 2.8 - Time-independent interaction](https://www.w3.org/TR/UAAG20/#gl-time-independent)
+-   [Κατευθυντήρια γραμμή 2.10 - Time-based media](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.3.2: (For the authoring tool user interface) Provide authors with enough time](https://www.w3.org/TR/ATAG20/#gl_a32)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.3.2: (For the authoring tool user interface) Provide authors with enough time](https://www.w3.org/TR/ATAG20/#gl_a32)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -426,32 +426,34 @@ Examples of avoiding causing seizures and physical reactions:
 
 **WCAG**
 
--   [Guideline 2.3 - Seizures](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
+-   [Κατευθυντήρια γραμμή 2.3 - Seizures](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
--   [Guideline 2.9 - Flashing](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
+-   [Κατευθυντήρια γραμμή 2.9 - Flashing](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.3.3: (For the authoring tool user interface) Help authors avoid flashing that could cause seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.3.3: (For the authoring tool user interface) Help authors avoid flashing that could cause seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 
-### Users can easily navigate, find content, and determine where they are {#navigable}
+### Οι χρήστες μπορούν εύκολα να πλοηγηθούν, να βρουν περιεχόμενο και να προσδιορίσουν που βρίσκονται {#navigable}
 
-Well organized content helps users to orient themselves and to navigate effectively. Such content includes:
+Το καλά οργανωμένο περιεχόμενο βοηθά τους χρήστες να προσανατολιστούν μόνοι τους και να πλοηγηθούν αποτελεσματικά. Τέτοιο περιεχόμενο περιλαμβάνει:
 
--   Pages have clear titles and are organized using descriptive section headings
--   There is more than one way to find relevant pages within a set of web pages
--   Users are informed about their current location within a set of related pages
--   There are ways to bypass blocks of content that are repeated on multiple pages
--   The keyboard focus is visible, and the focus order follows a meaningful sequence
--   The purpose of a link is evident, ideally even when the link is viewed on its own
+-   Οι σελίδες έχουν σαφείς τίτλους και είναι οργανωμένες με τη χρήση περιγραφικών επικεφαλίδων ενοτήτων
+-   Υπάρχουν περισσότεροι από ένας τρόποι να βρεθούν σχετικές σελίδες στα πλαίσια ενός συνόλου ιστοσελίδων
+-   Οι χρήστες είναι ενήμεροι για την τρέχουσα τοποθεσία τους στα πλαίσια ενός συνόλου σχετικών σελίδων
+-   Υπάρχουν τρόποι να παρακαμφθούν μπλοκ περιεχομένου που επαναλαμβάνονται σε πολλές σελίδες
+-   Η εστίαση του πληκτρολογίου είναι ορατή και η σειρά εστίασης ακολουθεί μια σειρά με νόημα
+-   Ο σκοπός ενός συνδέσμου είναι προφανής, ιδανικά ακόμη και όταν ο σύνδεσμος προβάλλεται μόνος του
 
-Meeting this requirement helps people to navigate through web pages in different ways, depending on their particular needs and preferences. For instance, while some people rely on hierarchical navigation structures such as menu bars to find specific web pages, others rely on search functions on websites instead. Some people may be seeing the content while others may be hearing it or seeing and hearing it at the same time. Some people may be using the content with only a mouse or a keyboard, while others may be using both.
+Η ικανοποίηση αυτής της απαίτησης βοηθά τους ανθρώπους να πλοηγούνται στις ιστοσελίδες με διαφορετικούς τρόπους, ανάλογα με τις ιδιαίτερες ανάγκες και προτιμήσεις τους. Για παράδειγμα, ενώ μερικοί άνθρωποι βασίζονται σε ιεραρχικές δομές πλοήγησης, όπως γραμμές μενού για να βρουν συγκεκριμένες ιστοσελίδες, άλλοι αντ' αυτού βασίζονται σε λειτουργίες αναζήτησης στους ιστότοπους. Μερικοί άνθρωποι μπορεί να βλέπουν το περιεχόμενο ενώ άλλοι μπορεί να το ακούν ή να το βλέπουν και να το ακούν ταυτόχρονα. Μερικοί άνθρωποι μπορεί να χρησιμοποιούν το περιεχόμενο μόνο με ένα ποντίκι ή ένα πληκτρολόγιο, ενώ άλλοι μπορεί να χρησιμοποιούν και τα δύο.
+
+ others rely on search functions on websites instead. Some people may be seeing the content while others may be hearing it or seeing and hearing it at the same time. Some people may be using the content with only a mouse or a keyboard, while others may be using both.
 
 {% include excol.html type="start" %}
 
@@ -462,22 +464,22 @@ Meeting this requirement helps people to navigate through web pages in different
 
 **WCAG**
 
--   [Guideline 2.4 - Navigable](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
+-   [Κατευθυντήρια γραμμή 2.4 - Navigable](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
 
 **UAAG**
 
--   [Guideline 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
--   [Guideline 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
--   [Guideline 2.4 - Text search](https://www.w3.org/TR/UAAG20/#gl-search-text)
--   [Guideline 2.5 - Structural navigation](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
--   [Guideline 2.7 - Graphical controls](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
+-   [Κατευθυντήρια γραμμή 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+-   [Κατευθυντήρια γραμμή 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+-   [Κατευθυντήρια γραμμή 2.4 - Text search](https://www.w3.org/TR/UAAG20/#gl-search-text)
+-   [Κατευθυντήρια γραμμή 2.5 - Structural navigation](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
+-   [Κατευθυντήρια γραμμή 2.7 - Graphical controls](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.3.4: (For the authoring tool user interface) Enhance navigation and editing via content structure](https://www.w3.org/TR/ATAG20/#gl_a34)
--   [Guideline A.3.5: (For the authoring tool user interface) Provide text search of the content](https://www.w3.org/TR/ATAG20/#gl_a35)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή A.3.4: (For the authoring tool user interface) Enhance navigation and editing via content structure](https://www.w3.org/TR/ATAG20/#gl_a34)
+-   [Κατευθυντήρια γραμμή A.3.5: (For the authoring tool user interface) Provide text search of the content](https://www.w3.org/TR/ATAG20/#gl_a35)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -517,7 +519,7 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 **WCAG**
 
--   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
+-   [Κατευθυντήρια γραμμή 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -554,12 +556,12 @@ Meeting this requirement helps software, including assistive technology, to proc
 
 **WCAG**
 
--   [Guideline 3.1 - Readable](https://www.w3.org/WAI/WCAG22/quickref/#readable)
+-   [Κατευθυντήρια γραμμή 3.1 - Readable](https://www.w3.org/WAI/WCAG22/quickref/#readable)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -596,17 +598,17 @@ Meeting this requirement helps people to quickly learn the functionality and nav
 
 **WCAG**
 
--   [Guideline 3.2 - Predictable](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
+-   [Κατευθυντήρια γραμμή 3.2 - Predictable](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
 
 **UAAG**
 
--   [Guideline 3.3 - Predictable](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
+-   [Κατευθυντήρια γραμμή 3.3 - Predictable](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -644,17 +646,17 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 **WCAG**
 
--   [Guideline 3.3 - Input assistance](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
+-   [Κατευθυντήρια γραμμή 3.3 - Input assistance](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
 
 **UAAG**
 
--   [Guideline 3.1 - Mistakes](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
+-   [Κατευθυντήρια γραμμή 3.1 - Mistakes](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Guideline A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Guideline A.4.1: (For the authoring tool user interface) Help authors avoid and correct mistakes](https://www.w3.org/TR/ATAG20/#gl_b41)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή A.4.1: (For the authoring tool user interface) Help authors avoid and correct mistakes](https://www.w3.org/TR/ATAG20/#gl_b41)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -692,17 +694,17 @@ Meeting this requirement helps maximize compatibility with current and future us
 
 **WCAG**
 
--   [Guideline 4.1 - Compatible](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
+-   [Κατευθυντήρια γραμμή 4.1 - Compatible](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
 
 **UAAG**
 
--   [Guideline 2.6 - Preference settings](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
--   [Guideline 4.1 - Assistive technology](https://www.w3.org/TR/UAAG20/#gl-AT-access)
--   [Guideline 5.1 - Follow specifications](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
+-   [Κατευθυντήρια γραμμή 2.6 - Preference settings](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
+-   [Κατευθυντήρια γραμμή 4.1 - Assistive technology](https://www.w3.org/TR/UAAG20/#gl-AT-access)
+-   [Κατευθυντήρια γραμμή 5.1 - Follow specifications](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
 
 **ATAG**
 
--   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
