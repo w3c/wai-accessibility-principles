@@ -73,14 +73,16 @@ footer: >
 
 -   **Περιεχόμενο παγκοσμίου ιστού**{:#webcontent} - αναφέρεται σε κάθε τμήμα εντός ιστοτόπου, συμπεριλαμβανομένων του κειμένου, των εικόνων, των φορμών και των πολυμέσων, όπως επίσης οποιουδήποτε κώδικα σήμανσης,scripts, εφαρμογές και άλλα παρόμοια.
 -   **Πράκτορες χρήστη**{:#useragents} - λογισμικό που οι άνθρωποι χρησιμοποιούν για να έχουν πρόσβαση στο περιεχόμενο του παγκοσμίου ιστού, συμπεριλαμβανομένων desktop graphical browsers, voice browsers, mobile phone browsers, multimedia players, plug-ins, και μερικές [υποστηρικτικές τεχνολογίες](/people-use-web/tools-techniques/#at "definition").
--   **Authoring tools**{:#authoringtools} - software or services that people use to produce web content, including code editors, document conversion tools, content management systems, blogs, database scripts, and other tools.
+-   **Εργαλεία συγγραφής**{:#authoringtools} - λογισμικό ή υπηρεσίες που χρησιμοποιούν οι άνθρωποι για την παραγωγή περιεχομένου Ιστού, συμπεριλαμβανομένων προγραμμάτων επεξεργασίας κώδικα, εργαλείων μετατροπής εγγράφων, συστημάτων διαχείρισης περιεχομένου, ιστολογίων, σεναρίων βάσεων δεδομένων και άλλων εργαλείων.
 
 {% include excol.html type="start" %}
 
-### More about web accessibility standards
+### Περισσότερα σχετικά με τα πρότυπα προσβασιμότητας Iστού
 {:.no_toc}
 
 {% include excol.html type="middle" %}
+
+Αυτά τα στοιχεία αλληλοσυνδέονται και υποστηρίζουν το ένα το άλλο. Για παράδειγμα, το **περιεχόμενο Ιστού** πρέπει να περιλαμβάνει εναλλακτικές λύσεις κειμένου για εικόνες. Αυτές οι πληροφορίες πρέπει να υποβληθούν σε επεξεργασία από **προγράμματα περιήγησης ιστού** και στη συνέχεια να μεταφερθούν σε **βοηθητικές τεχνολογίες**, όπως προγράμματα ανάγνωσης οθόνης. Για να δημιουργήσουν τέτοιες εναλλακτικές λύσεις κειμένου, οι συγγραφείς χρειάζονται **εργαλεία συγγραφής** που τους υποστηρίζουν να το κάνουν. Περισσότερο υπόβαθρο παρέχεται στο
 
 These components inter-relate and support each other. For instance, **web content** needs to include text alternatives for images. This information needs to be processed by **web browsers** and then conveyed to **assistive technologies**, such as screen readers. To create such text alternatives, authors need **authoring tools** that support them to do so. More background is provided in [[Essential Components of Web Accessibility]](/fundamentals/components/).
 
@@ -113,7 +115,7 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to text alternatives (links to technical specification)
+#### Accessibility requirements related to text alternatives (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -164,7 +166,7 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to multimedia (links to technical specification)
+#### Accessibility requirements related to multimedia (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -212,23 +214,23 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="start" %}
 
-#### Απαιτήσεις προσβασιμότητας που σχετίζονται με την προσαρμοστικότητα (σύνδεσμοι σε τεχνικές προδιαγραφές)
+#### Απαιτήσεις προσβασιμότητας που σχετίζονται με την προσαρμοστικότητα (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 1.3 - Adaptable](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
+-   [Κατευθυντήρια γραμμή 1.3 - Προσαρμόσιμο](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
 
 **UAAG**
 
--   [Κατευθυντήρια γραμμή 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
--   [Κατευθυντήρια γραμμή 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
--   [Κατευθυντήρια γραμμή 1.6 - Synthesized speech configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
--   [Κατευθυντήρια γραμμή 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [Κατευθυντήρια γραμμή 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
--   [Κατευθυντήρια γραμμή 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
+-   [Κατευθυντήρια γραμμή 1.4 - Διαμόρφωση κειμένου](https://www.w3.org/TR/UAAG20/#gl-text-config)
+-   [Κατευθυντήρια γραμμή 1.5 - Διαμόρφωση έντασης ήχου](https://www.w3.org/TR/UAAG20/#gl-volume-config)
+-   [Κατευθυντήρια γραμμή 1.6 - Διαμόρφωση συνθετικής ομιλίας](https://www.w3.org/TR/UAAG20/#gl-speech-config)
+-   [Κατευθυντήρια γραμμή 1.7 - Διαμόρφωση φύλλου στυλ χρήστη](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+-   [Κατευθυντήρια γραμμή 1.9 - Εναλλακτικές όψεις](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+-   [Κατευθυντήρια γραμμή 1.10 - Πληροφορίες στοιχείου](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
@@ -239,7 +241,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to adaptability
+#### Ιστορίες σχετικές με την προσαρμοστικότητα
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -270,7 +272,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to distinguishability (links to technical specification)
+#### Απαιτήσεις προσβασιμότητας σχετικές με τη διακριτότητα (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -327,7 +329,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to keyboard accessibility (links to technical specification)
+#### Accessibility requirements related to keyboard accessibility (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -374,7 +376,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to sufficient time (links to technical specification)
+#### Accessibility requirements related to sufficient time (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -421,7 +423,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to seizures (links to technical specification)
+#### Accessibility requirements related to seizures (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -459,7 +461,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to navigation (links to technical specification)
+#### Accessibility requirements related to navigation (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -514,7 +516,7 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 {% include excol.html type="start" id="" %}
 
-#### Accessibility requirements related to input modalities (links to technical specification)
+#### Accessibility requirements related to input modalities (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -538,27 +540,27 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 ## Understandable information and user interface {#understandable}
 
-### Text is readable and understandable {#readable}
+###  Το κείμενο είναι ευανάγνωστο και κατανοητό {#readable}
 
-Content authors need to ensure that text content is readable and understandable to the broadest audience possible, including when it is read aloud by text-to-speech. Such content includes:
+Οι συγγραφείς περιεχομένου πρέπει να διασφαλίζουν ότι το περιεχόμενο κειμένου είναι ευανάγνωστο και κατανοητό στο ευρύτερο δυνατό κοινό, συμπεριλαμβανομένης της ανάγνωσης του δυνατά από λογισμικό κειμένου σε ομιλία. Τέτοιο περιεχόμενο περιλαμβάνει:
 
--   Identifying the primary language of a web page, such as Arabic, Dutch, or Korean
--   Identifying the language of text passages, phrases, or other parts of a web page
--   Providing definitions for any unusual words, phrases, idioms, and abbreviations
--   Using the clearest and simplest language possible, or providing simplified versions
+-   Προσδιορισμός της κύριας γλώσσας μιας ιστοσελίδας, όπως τα Αραβικά, τα Ολλανδικά ή τα Κορεάτικα
+-   Προσδιορισμός της γλώσσας των αποσπασμάτων κειμένου, των φράσεων ή άλλων τμημάτων μιας ιστοσελίδας
+-   Παροχή ορισμών για τις ασυνήθιστες λέξεις, φράσεις, ιδιωματισμούς και συντομογραφίες
+-   Χρήση της σαφέστερης και απλούστερης δυνατής γλώσσας ή παροχή απλοποιημένων εκδόσεων
 
-Meeting this requirement helps software, including assistive technology, to process text content correctly. For instance, this requirement helps software to read the content aloud, to generate page summaries, and to provide definitions for unusual words such as technical jargon. It also helps people who have difficulty understanding more complex sentences, phrases, and vocabulary. In particular, it helps people with different types of cognitive disabilities.
+Η ικανοποίηση αυτής της απαίτησης βοηθά το λογισμικό, συμπεριλαμβανομένης της υποστηρικτικής τεχνολογίας, να επεξεργάζεται σωστά το περιεχόμενο κειμένου. Για παράδειγμα, αυτή η απαίτηση βοηθά το λογισμικό να διαβάζει το περιεχόμενο δυνατά, να παράγει περιλήψεις σελίδων και να παρέχει ορισμούς για ασυνήθιστες λέξεις, όπως η τεχνική ορολογία. Βοηθά επίσης άτομα που δυσκολεύονται να κατανοήσουν πιο σύνθετες προτάσεις, φράσεις και λεξιλόγιο. Συγκεκριμένα, βοηθά ανθρώπους με διαφορετικούς τύπους γνωσιακών αναπηριών.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to readability (links to technical specification)
+#### Απαιτήσεις προσβασιμότητας σχετικές με την αναγνωσιμότητα (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 3.1 - Readable](https://www.w3.org/WAI/WCAG22/quickref/#readable)
+-   [Κατευθυντήρια γραμμή 3.1 - Ευανάγνωστο](https://www.w3.org/WAI/WCAG22/quickref/#readable)
 
 **ATAG**
 
@@ -568,7 +570,7 @@ Meeting this requirement helps software, including assistive technology, to proc
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to readability
+#### Ιστορίες σχετικές με την αναγνωσιμότητα
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -581,30 +583,30 @@ Meeting this requirement helps software, including assistive technology, to proc
 
 {% include excol.html type="end" %}
 
-### Content appears and operates in predictable ways {#predictable}
+### Το περιεχόμενο εμφανίζεται και λειτουργεί με προβλέψιμους τρόπους {#predictable}
 
-Many people rely on predictable user interfaces and are disoriented or distracted by inconsistent appearance or behavior. Examples of making content more predictable include:
+Πολλοί άνθρωποι βασίζονται σε προβλέψιμες διεπαφές χρήστη και αποπροσανατολίζονται ή αποσπώνται από την ασυνεπή εμφάνιση ή συμπεριφορά. Παραδείγματα για να γίνει το περιεχόμενο πιο προβλέψιμο περιλαμβάνουν:
 
--   Navigation mechanisms that are repeated on multiple pages appear in the same place each time
--   User interface components that are repeated on web pages have the same labels each time
--   Significant changes on a web page do not happen without the consent of the user
+-   Οι μηχανισμοί πλοήγησης που επαναλαβάνονται σε πολλαπλές σελίδες εμφανίζονται στο ίδιο σημείο κάθε φορά
+-   Τα στοιχεία διεπαφής χρήστη που επαναλαβάνονται σε ιστοσελίδες έχουν τις ίδιες ετικέτες κάθε φορά
+-   Οι σημαντικές αλλαγές σε μια ιστοσελίδα δεν πραγματοποιούνται χωρίς τη συγκατάθεση του χρήστη
 
-Meeting this requirement helps people to quickly learn the functionality and navigation mechanisms provided on a website, and to operate them according to their specific needs and preferences. For instance, some people assign personalized shortcut keys to functions they frequently use to enhance keyboard navigation. Others memorize the steps to reach certain pages or to complete processes on a website. Both rely on predictable and consistent functionality.
+Η ικανοποίηση αυτής της απαίτησης βοηθά τους ανθρώπους να μάθουν γρήγορα τη λειτουργικότητα και τους μηχανισμούς πλοήγησης που παρέχονται σε έναν ιστότοπο και να τους λειτουργούν σύμφωνα με τις συγκεκριμένες ανάγκες και προτιμήσεις τους. Για παράδειγμα, κάποιοι άνθρωποι αναθέτουν εξατομικευμένα πλήκτρα συντόμευσης σε λειτουργίες που χρησιμοποιούν συχνά για να βελτιώσουν την πλοήγηση με πληκτρολόγιο. Άλλοι απομνημονεύουν τα βήματα για να φτάσουν σε συγκεκριμένες σελίδες ή να ολοκληρώσουν διαδικασίες σε έναν ιστότοπο. Και οι δύο βασίζονται σε προβλέψιμη και συνεπή λειτουργικότητα.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to predictability (links to technical specification)
+#### Απαιτήσεις προσβασιμότητας σχετικές με την προβλεψιμότητα (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 3.2 - Predictable](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
+-   [Κατευθυντήρια γραμμή 3.2 - Προβλέψιμο](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
 
 **UAAG**
 
--   [Κατευθυντήρια γραμμή 3.3 - Predictable](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
+-   [Κατευθυντήρια γραμμή 3.3 - Προβλέψιμο](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
 
 **ATAG**
 
@@ -615,7 +617,7 @@ Meeting this requirement helps people to quickly learn the functionality and nav
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to predictability
+#### Ιστορίες σχετικές με την προβλεψιμότητα
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -629,37 +631,37 @@ Meeting this requirement helps people to quickly learn the functionality and nav
 
 {% include excol.html type="end" %}
 
-### Users are helped to avoid and correct mistakes {#tolerant}
+### Οι χρήστες βοηθούνται στο να αποφεύγουν και να διορθώνουν λάθη {#tolerant}
 
 Forms and other interaction can be confusing or difficult to use for many people, and, as a result, they may be more likely to make mistakes. Examples of helping users to avoid and correct mistakes include:
 
--   Descriptive instructions, error messages, and suggestions for correction
+-   Περιγραφικές οδηγίες, μηνύματα λάθους και προτάσεις για διόρθωση
 -   Context-sensitive help for more complex functionality and interaction
--   Opportunity to review, correct, or reverse submissions if necessary
+-   Δυνατότητα επανεξέτασης, διόρθωσης ή αντιστροφής των υποβολών εάν είναι απαραίτητο
 
 Meeting this requirement helps people who do not see or hear the content, and may not recognize implicit relationships, sequences, and other cues. It also helps people who do not understand the functionality, are disoriented or confused, forget, or make mistakes using forms and interaction for any other reason.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to input assistance (links to technical specification)
+#### Accessibility requirements related to input assistance (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 3.3 - Input assistance](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
+-   [Κατευθυντήρια γραμμή 3.3 - Βοήθεια στην εισαγωγή δεδομένων](https://www.w3.org/WAI/WCAG22/quickref/#input-assistance)
 
 **UAAG**
 
--   [Κατευθυντήρια γραμμή 3.1 - Mistakes](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
+-   [Κατευθυντήρια γραμμή 3.1 - Σφάλματα](https://www.w3.org/TR/UAAG20/#gl-avoid-mistakes)
 
 **ATAG**
 
 -   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Κατευθυντήρια γραμμή A.4.1: (For the authoring tool user interface) Help authors avoid and correct mistakes](https://www.w3.org/TR/ATAG20/#gl_b41)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Μέρος B. Υποστήιξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -676,11 +678,11 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 {% include excol.html type="end" %}
 
-## Robust content and reliable interpretation {#robust}
+## Εύρωστο περιεχόμενο και αξιόπιστη ερμηνεία {#robust}
 
-### Content is compatible with current and future user tools {#compatible}
+### Το περιεχόμενο είναι συμβατό με τα τρέχοντα και μελλοντικά εργαλεία χρήστη {#compatible}
 
-Robust content is compatible with different browsers, assistive technologies, and other user agents. Examples of how this can be achieved include:
+Το εύρωστο περιεόμενο είναι συμβατό με διαφορετικά προγράμματα περιήγησης, υποστηρικτικές τεχνολογίες και άλλους πράκτορες χρήστη. Παραδείγματα για το πώς αυτό μπορεί να επιτευχθεί περιλαμβάνουν:
 
 -   Ensuring markup can be reliably interpreted, for instance by ensuring it is valid
 -   Providing a name, role, and value for non-standard user interface components
@@ -689,7 +691,7 @@ Meeting this requirement helps maximize compatibility with current and future us
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to compatibility (links to technical specification)
+#### Accessibility requirements related to compatibility (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
