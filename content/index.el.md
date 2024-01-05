@@ -235,7 +235,7 @@ including automatic generation of page outlines and summaries to help people get
 -   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Κατευθυντήρια γραμμή A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Part B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -277,14 +277,14 @@ including automatic generation of page outlines and summaries to help people get
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 1.4 - Distinguishable](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
+-   [Κατευθυντήρια γραμμή 1.4 - Διακριτό](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
 
--   [Κατευθυντήρια γραμμή 1.3 - Highlighting](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
--   [Κατευθυντήρια γραμμή 1.4 - Text configuration](https://www.w3.org/TR/UAAG20/#gl-text-config)
--   [Κατευθυντήρια γραμμή 1.5 - Volume configuration](https://www.w3.org/TR/UAAG20/#gl-volume-config)
--   [Κατευθυντήρια γραμμή 1.6 - Synthesized speech configuration](https://www.w3.org/TR/UAAG20/#gl-speech-config)
+-   [Κατευθυντήρια γραμμή 1.3 - Επισήμανση](https://www.w3.org/TR/UAAG20/#gl-interaction-highlight)
+-   [Κατευθυντήρια γραμμή 1.4 - Διαμόρφωση κειμένου](https://www.w3.org/TR/UAAG20/#gl-text-config)
+-   [Κατευθυντήρια γραμμή 1.5 - Διαμόρφωση ήχου](https://www.w3.org/TR/UAAG20/#gl-volume-config)
+-   [Κατευθυντήρια γραμμή 1.6 - Διαμόρφωση συνθετικής ομιλίας](https://www.w3.org/TR/UAAG20/#gl-speech-config)
 -   [Κατευθυντήρια γραμμή 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
 -   [Κατευθυντήρια γραμμή 1.8 - Orientation in viewports](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
 -   [Κατευθυντήρια γραμμή 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
@@ -327,14 +327,14 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to keyboard accessibility (σύνδεσμοι προς τεχνικές προδιαγραφές)
+#### Απαιτήσεις προσβασιμότητας σχετικές με την προσβασιμότητα μέσω πληκτρολογίου (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 2.1 - Keyboard accessible](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
+-   [Κατευθυντήρια γραμμή 2.1 - Προσβάσιμο μέσω πληκτρολογίου](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-accessible)
 
 **UAAG**
 
@@ -351,7 +351,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to keyboard accessibility
+#### Ιστορίες σχετικές με την προσβασιμότητα μέσω πληκτρολογίου
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -361,7 +361,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="end" %}
 
-### Users have enough time to read and use the content {#time}
+### Οι χρήστες έχουν αρκετό χρόνο να διαβάσουν και να χρησιμοποιήσουν το περιεχόμενο {#time}
 
 Μερικοί άνθρωποι χρειάζονται περισσότερο χρόνο από άλλους για να διαβάσουν και να χρησιμοποιήσουν το περιεχόμενο. Για παράδειγμα, μερικοί άνθρωποι χρειάζονται περισσότερο χρόνο για να πληκτρολογήσουν κείμενο, να κατανοήσουν οδηγίες, να χειριστούν στοιχεία ελέγχου ή να ολοκληρώσουν με άλλο τρόπο εργασίες σε έναν ιστότοπο.
 
@@ -374,7 +374,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to sufficient time (σύνδεσμοι προς τεχνικές προδιαγραφές)
+#### Απαιτήσεις προσβασιμότητας σχετικές με τον επαρκή χρόνο (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -396,7 +396,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to sufficient time
+#### Ιστορίες σχετικές με τον επαρκή χρόνο
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -421,14 +421,14 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to seizures (σύνδεσμοι προς τεχνικές προδιαγραφές)
+#### Απαιτήσεις προσβασιμότητας σχετικές με τις επιληπτικές κρίσεις (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 2.3 - Seizures](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
+-   [Κατευθυντήρια γραμμή 2.3 - Επιληπτικές κρίσεις](https://www.w3.org/WAI/WCAG22/quickref/#seizures-and-physical-reactions)
 
 **UAAG**
 
@@ -459,14 +459,14 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to navigation (σύνδεσμοι προς τεχνικές προδιαγραφές)
+#### Απαιτήσεις προσβασιμότητας σχετικές με την πλοήγηση (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 2.4 - Navigable](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
+-   [Κατευθυντήρια γραμμή 2.4 - Δυνατότητα πλοήγησης](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
 
 **UAAG**
 
@@ -486,7 +486,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to navigation
+#### Ιστορίες σχετικές με την πλοήγηση
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -536,7 +536,7 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 {% include excol.html type="end" %}
 
-## Understandable information and user interface {#understandable}
+## Κατανοητό πληροφορία και διεπαφή χρηστη {#understandable}
 
 ###  Το κείμενο είναι ευανάγνωστο και κατανοητό {#readable}
 
@@ -631,17 +631,19 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 ### Οι χρήστες βοηθούνται στο να αποφεύγουν και να διορθώνουν λάθη {#tolerant}
 
+Οι φόρμες και άλλες αλληλεπιδράσεις μπορεί να προκαλούν σύγχυση ή δυσκολία στη χρήση για πολλούς ανθρώπους και, ως αποτέλεσμα, μπορεί να είναι πιο πιθανό να κάνουν λάθη. Παραδείγματα που βοηθούν τους χρήστες να αποφύγουν και να διορθώσουν λάθη περιλαμβάνουν:
+
 Forms and other interaction can be confusing or difficult to use for many people, and, as a result, they may be more likely to make mistakes. Examples of helping users to avoid and correct mistakes include:
 
 -   Περιγραφικές οδηγίες, μηνύματα λάθους και προτάσεις για διόρθωση
 -   Context-sensitive help for more complex functionality and interaction
 -   Δυνατότητα επανεξέτασης, διόρθωσης ή αντιστροφής των υποβολών εάν είναι απαραίτητο
 
-Meeting this requirement helps people who do not see or hear the content, and may not recognize implicit relationships, sequences, and other cues. It also helps people who do not understand the functionality, are disoriented or confused, forget, or make mistakes using forms and interaction for any other reason.
+Η ικανοποίηση αυτής της απαίτησης βοηθά τα άτομα που δεν βλέπουν ή δεν ακούν το περιεχόμενο και ενδέχεται να μην αναγνωρίζουν έμμεσες σχέσεις, ακολουθίες και άλλες ενδείξεις. Βοηθά επίσης άτομα που δεν κατανοούν τη λειτουργικότητα, είναι αποπροσανατολισμένα ή μπερδεμένα, ξεχνούν ή κάνουν λάθη χρησιμοποιώντας τις φόρμες και την αλληλεπίδραση για οποιονδήποτε άλλο λόγο.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to input assistance (σύνδεσμοι προς τεχνικές προδιαγραφές)
+#### Απαιτήσεις προσβασιμότητας σχετικές με τη βοήθεια κατά την εισαγωγή δεδομένων (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -663,7 +665,7 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Ιστορίες σχετικές με Stories related to input assistance
+#### Ιστορίες σχετικές με τη βοήθεια κατά την εισαγωγή δεδομένων
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -685,29 +687,29 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 -   Ensuring markup can be reliably interpreted, for instance by ensuring it is valid
 -   Providing a name, role, and value for non-standard user interface components
 
-Meeting this requirement helps maximize compatibility with current and future user agents, including assistive technologies. In particular, it enables assistive technologies to process the content reliably, and to present or to operate it in different ways. This includes non-standard (scripted) buttons, input fields, and other controls.
+Η ικανοποίηση αυτής της απαίτησης βοηθά στη μεγιστοποίηση της συμβατότητας με τους τρέχοντες και τους μελλοντικούς πράκτορες χρήστη, συμπεριλαμβανομένων των υποστηρικτικών τεχνολογιών. Συγκεκριμένα, επιτρέπει στις υποστηρικτικές τεχνολογίες να επεξεργάζονται το περιεχόμενο αξιόπιστα και να το παρουσιάζουν ή να το χειρίζονται με διαφορετικούς τρόπους. Αυτό περιλαμβάνει μη τυπικά (σεναριακά) κουμπιά, πεδία εισαγωγής δεδομένων και άλλα στοιχεία ελέγχου.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to compatibility (σύνδεσμοι προς τεχνικές προδιαγραφές)
+#### Απαιτήσεις προσβασιμότητας σχετικές με τη συμβατότητα (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 4.1 - Compatible](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
+-   [Κατευθυντήρια γραμμή 4.1 - Συμβατό](https://www.w3.org/WAI/WCAG22/quickref/#compatible)
 
 **UAAG**
 
--   [Κατευθυντήρια γραμμή 2.6 - Preference settings](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
--   [Κατευθυντήρια γραμμή 4.1 - Assistive technology](https://www.w3.org/TR/UAAG20/#gl-AT-access)
+-   [Κατευθυντήρια γραμμή 2.6 - Ρυθμίσεις προτιμήσεων](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
+-   [Κατευθυντήρια γραμμή 4.1 - Υποστηρικτική Τεχνολογία](https://www.w3.org/TR/UAAG20/#gl-AT-access)
 -   [Κατευθυντήρια γραμμή 5.1 - Follow specifications](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή A.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας (https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Μέρος B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
