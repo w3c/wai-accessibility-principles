@@ -8,7 +8,7 @@ lang: el   # Change "en" to the translated language shortcode
 last_updated: 2024-02-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 description: Μια επισκόπηση των θεμελιωδών απαιτήσεων προσβασιμότητας στον παγκόσμιο ιστο για ιστοτόπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία.
 
-teaser_text: Η σελίδα Αρχές προσβασιμότητας εισάγει ορισμένες από τις απαιτήσεις προσβασιμότητας στον παγκόσμιο ιστό για ιστότοπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία. Παρέχει αναφορές στα διεθνή πρότυπα του W3C Web Accessibility Initiative (WAI) και σε ιστορίες χρηστών του παγκοσμίου ιστού.
+teaser_text: Η σελίδα Αρχές προσβασιμότητας εισάγει ορισμένες από τις απαιτήσεις προσβασιμότητας στον παγκόσμιο ιστό για ιστότοπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία. Παρέχει αναφορές στα διεθνή πρότυπα του W3C Web Accessibility Initiative (WAI) και σε ιστορίες χρηστών του Ιστού.
 
 translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 - name: "Χρυσάνθη Μηλιτσοπούλου"   # Replace Jan Doe with translator name
@@ -54,7 +54,7 @@ footer: >
 {::options toc_levels="2,3" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Περιοεχόμενα ιστοσελίδας" class="full" %}
+{% include_cached toc.html type="start" title="Περιεχόμενα ιστοσελίδας" class="full" %}
 {:/}
 
 -   TOC is created automatically.
@@ -67,24 +67,22 @@ footer: >
 
 {% include excol.html type="all" %}
 
-## Πρότυπα προσβασιμότητας στον Ιστό {#standards}
+## Πρότυπα προσβασιμότητας στον Παγκόσμιο Ιστό {#standards}
 
 Η προσβασιμότητα στον παγκόσμιο ιστό βασίζεται σε πολλά συστατικά που συνεργάζονται μεταξύ τους. Μερικά από αυτά περιλαμβάνουν:
 
--   **Περιεχόμενο παγκοσμίου ιστού**{:#webcontent} - αναφέρεται σε κάθε τμήμα εντός ιστοτόπου, συμπεριλαμβανομένων του κειμένου, των εικόνων, των φορμών και των πολυμέσων, όπως επίσης οποιουδήποτε κώδικα σήμανσης,scripts, εφαρμογές και άλλα παρόμοια.
+-   **Περιεχόμενο Ιστού**{:#webcontent} - αναφέρεται σε κάθε τμήμα εντός ιστοτόπου, συμπεριλαμβανομένων του κειμένου, των εικόνων, των φορμών και των πολυμέσων, όπως επίσης οποιουδήποτε κώδικα σήμανσης,scripts, εφαρμογές και άλλα παρόμοια.
 -   **Πράκτορες χρήστη**{:#useragents} - λογισμικό που οι άνθρωποι χρησιμοποιούν για να έχουν πρόσβαση στο περιεχόμενο του παγκοσμίου ιστού, συμπεριλαμβανομένων desktop graphical browsers, voice browsers, mobile phone browsers, multimedia players, plug-ins, και μερικές [υποστηρικτικές τεχνολογίες](/people-use-web/tools-techniques/#at "definition").
 -   **Εργαλεία συγγραφής**{:#authoringtools} - λογισμικό ή υπηρεσίες που χρησιμοποιούν οι άνθρωποι για την παραγωγή περιεχομένου Ιστού, συμπεριλαμβανομένων προγραμμάτων επεξεργασίας κώδικα, εργαλείων μετατροπής εγγράφων, συστημάτων διαχείρισης περιεχομένου, ιστολογίων, σεναρίων βάσεων δεδομένων και άλλων εργαλείων.
 
 {% include excol.html type="start" %}
 
-### Περισσότερα σχετικά με τα πρότυπα προσβασιμότητας Iστού
+### Περισσότερα σχετικά με τα πρότυπα προσβασιμότητας Παγκοσμίου Iστού
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
-Αυτά τα στοιχεία αλληλοσυνδέονται και υποστηρίζουν το ένα το άλλο. Για παράδειγμα, το **περιεχόμενο Ιστού** πρέπει να περιλαμβάνει εναλλακτικές λύσεις κειμένου για εικόνες. Αυτές οι πληροφορίες πρέπει να υποβληθούν σε επεξεργασία από **προγράμματα περιήγησης ιστού** και στη συνέχεια να μεταφερθούν σε **βοηθητικές τεχνολογίες**, όπως προγράμματα ανάγνωσης οθόνης. Για να δημιουργήσουν τέτοιες εναλλακτικές λύσεις κειμένου, οι συγγραφείς χρειάζονται **εργαλεία συγγραφής** που τους υποστηρίζουν να το κάνουν. Περισσότερο υπόβαθρο παρέχεται στο
-
-These components inter-relate and support each other. For instance, **web content** needs to include text alternatives for images. This information needs to be processed by **web browsers** and then conveyed to **assistive technologies**, such as screen readers. To create such text alternatives, authors need **authoring tools** that support them to do so. More background is provided in [[Essential Components of Web Accessibility]](/fundamentals/components/).
+Αυτά τα στοιχεία αλληλοσυνδέονται και υποστηρίζουν το ένα το άλλο. Για παράδειγμα, το **περιεχόμενο Ιστού** πρέπει να περιλαμβάνει εναλλακτικά κείμενα για εικόνες. Αυτή η πληροφορία πρέπει να υποβληθεί για επεξεργασία από **προγράμματα περιήγησης ιστού** και στη συνέχεια να μεταφερθεί σε **υποστηρικτικές τεχνολογίες**, όπως αναγνώστες οθόνης. Για να δημιουργήσουν τέτοια εναλλακτικά κείμενα, οι συγγραφείς χρειάζονται **εργαλεία συγγραφής** που τους υποστηρίζουν να το κάνουν. Περισσότερο υπόβαθρο παρέχεται στο [[Απαραίτητα συστατικά της Προσβασιμότητας Παγκοσμίου Ιστού]](/fundamentals/components/)
 
 Standards play a vital role in defining accessibility requirements for each of these components. Some accessibility requirements are easy to meet, yet understanding the basics of how people with disabilities use the Web helps implement them more effectively and efficiently. Some aspects of accessibility require more technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects](/test-evaluate/involving-users/) will make your work better and easier.
 
@@ -100,22 +98,22 @@ There is also a WAI specification for **[Accessible Rich Internet Applications (
 
 ## Αντιληπτή πληροφορία και διεπαφή χρήστη{#perceivable}
 
-### Text alternatives for non-text content {#alternatives}
+### Εναλλακτικά κείμενο για μη κειμενικό περιεχόμενο {#alternatives}
 
-Text alternatives are equivalents for non-text content. Examples include:
+Τα εναλλακτικά κείμενα είναι ισοδύναμα για το μη κειμενικό περιεχόμενο. Τα παραδείγματα περιλαμβάνουν.
 
--   Short equivalents for images, including icons, buttons, and graphics
--   Description of data represented on charts, diagrams, and illustrations
--   Brief descriptions of non-text content such as audio and video files
--   Labels for form controls, input, and other user interface components
+-   Σύντομα ισοδύναμα για εικόνες, συμπεριλαμβανομένων εικονιδίων, κουμπιών και γραφικών
+-   Περιγραφή δεδομένων που αναπαρίστανται σε γραφήματα, διαγράμματα και απεικονίσεις
+-   Σύντομες περιγραφές μη κειμενικό περιεχομένου, όπως αρχεία ήχου και βίντεο
+-   Ετικέτες για στοιχεία ελέγχου φορμών, εισαγωγή δεδομένων
 
-Text alternatives convey the purpose of an image or function to provide an equivalent user experience. For instance, an appropriate text alternative for a search button would be "*search*" rather than "*magnifying lens*".
+Τα εναλλακτικά κείμενα μεταφέρουν το σκοπό μιας εικόνας ή μιας λειτουργίας ώστε να παρέχεται μια ισοδύναμη εμπειρία χρήστη. Για παράδειγμα, ένα κατάλληλο εναλλακτικό κείμενο για ένα κουμπί αναζήτησης θα ήταν "*αναζήτηση*" αντί για "*μεγεθυντικός φακός*".
 
-Text alternatives can be presented in a variety of ways. For instance, they can be read aloud for people who cannot see the screen and for people with reading difficulties, enlarged to custom text sizes, or displayed on braille devices. Text alternatives serve as labels for controls and functionality to aid keyboard navigation and navigation by voice recognition (speech input). They also act as labels to identify audio, video, and files in other formats, as well as applications that are embedded as part of a website.
+Τα εναλλακτικά κείμενα μπορούν να παρουσιαστούν με διάφορους τρόπους. Για παράδειγμα, μπορούν να διαβαστούν δυνατά για άτομα που δεν μπορούν να δουν την οθόνη και για άτομα με δυσκολίες ανάγνωσης, να μεγέθυνθούν σε προσαρμοσμένα μεγέθη κειμένου ή να εμφανιστούν σε συσκευές μπράιγ. Τα εναλλακτικά κείμενα χρησιμεύουν ως ετικέτες για τα στοιχεία ελέγχου και τη λειτουργικότητα ώστε να βοηθήσουν την πλοήγηση με πληκτρολόγιο και την πλοήγηση με φωνητική αναγνώριση (εισαγωγή ομιλίας). Λειτουργούν επίσης ως ετικέτες για την αναγνώριση ήχου, βίντεο και αρχείων σε άλλες μορφές, καθώς και ως εφαρμογές ενσωματωμένες ως μέρος ενός ιστότοπου.
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to text alternatives (σύνδεσμοι προς τεχνικές προδιαγραφές)
+#### Απαιτήσεις προσβασιμότητας που σχετίζονται με εναλλακτικά κείμενα (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -204,7 +202,7 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 Για να μπορούν οι χρήστες να αλλάζουν την παρουσίαση του περιεχομένου, είναι απαραίτητο:
 
--   Οι επικεφαλίδες, οι λίστες, οι πίνακες, τα πεδία εισαγωγής και οι δομές περιεχομένου να επισημαίνονται σωστά
+-   Οι επικεφαλίδες, οι λίστες, οι πίνακες, τα πεδία εισαγωγής δεδομένων και οι δομές περιεχομένου να επισημαίνονται σωστά
 -   Οι αλληλουχίες πληροφορίας ή οδηγιών είναι ανεξάρτητες από οποιαδήποτε παρουσίαση
 -   Τα προγράμματα περιήγησης και οι υποστηρικτικές τεχνολογίες παρέχουν ρυθμίσεις για την προσαρμογή της παρουσίασης
 
@@ -317,7 +315,7 @@ including automatic generation of page outlines and summaries to help people get
 
 ### Η λειτουργικότητα είναι διαθέσιμη μέσω ενός πληκτρολογίουFunctionality is available from a keyboard {#keyboard}
 
-Πολλοί άνθρωποι δεν χρησιμοποιούν το ποντίκι και βασίζονται στο πληκτρολόγιο για να αλληλεπιδράσουν με τον Παγκόσμιο Ιστό. Αυτό απαιτεί πρόσβαση με πληκτρολόγιο σε όλες τις λειτουργίες, συμπεριλαμβανομένων των στοιχείων ελέγχου φόρμας, της εισαγωγής και άλλων στοιχείων διεπαφής χρήστη.
+Πολλοί άνθρωποι δεν χρησιμοποιούν το ποντίκι και βασίζονται στο πληκτρολόγιο για να αλληλεπιδράσουν με τον Παγκόσμιο Ιστό. Αυτό απαιτεί πρόσβαση με πληκτρολόγιο σε όλες τις λειτουργίες, συμπεριλαμβανομένων των στοιχείων ελέγχου φόρμας, της εισαγωγής δεδομένων και άλλων στοιχείων διεπαφής χρήστη.
 
 Η προσβασιμότητα μέσω πληκτρολογίου περιλαμβάνει:
 
