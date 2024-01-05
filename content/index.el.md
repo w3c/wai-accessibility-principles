@@ -8,7 +8,7 @@ lang: el   # Change "en" to the translated language shortcode
 last_updated: 2024-02-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 description: Μια επισκόπηση των θεμελιωδών απαιτήσεων προσβασιμότητας στον παγκόσμιο ιστο για ιστοτόπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία.
 
-teaser_text: teaser_text: Η σελίδα Αρχές προσβασιμότητας εισάγει ορισμένες από τις απαιτήσεις προσβασιμότητας στον παγκόσμιο ιστό για ιστότοπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία. Παρέχει αναφορές στα διεθνή πρότυπα του W3C Web Accessibility Initiative (WAI) και σε ιστορίες χρηστών του παγκοσμίου ιστού.
+teaser_text: Η σελίδα Αρχές προσβασιμότητας εισάγει ορισμένες από τις απαιτήσεις προσβασιμότητας στον παγκόσμιο ιστό για ιστότοπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία. Παρέχει αναφορές στα διεθνή πρότυπα του W3C Web Accessibility Initiative (WAI) και σε ιστορίες χρηστών του παγκοσμίου ιστού.
 
 translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 - name: "Χρυσάνθη Μηλιτσοπούλου"   # Replace Jan Doe with translator name
