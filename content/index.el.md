@@ -84,7 +84,8 @@ footer: >
 
 Αυτά τα στοιχεία αλληλοσυνδέονται και υποστηρίζουν το ένα το άλλο. Για παράδειγμα, το **περιεχόμενο Ιστού** πρέπει να περιλαμβάνει εναλλακτικά κείμενα για εικόνες. Αυτή η πληροφορία πρέπει να υποβληθεί για επεξεργασία από **προγράμματα περιήγησης ιστού** και στη συνέχεια να μεταφερθεί σε **υποστηρικτικές τεχνολογίες**, όπως αναγνώστες οθόνης. Για να δημιουργήσουν τέτοια εναλλακτικά κείμενα, οι συγγραφείς χρειάζονται **εργαλεία συγγραφής** που τους υποστηρίζουν να το κάνουν. Περισσότερο υπόβαθρο παρέχεται στο [[Απαραίτητα συστατικά της Προσβασιμότητας Παγκοσμίου Ιστού]](/fundamentals/components/)
 
-Standards play a vital role in defining accessibility requirements for each of these components. Some accessibility requirements are easy to meet, yet understanding the basics of how people with disabilities use the Web helps implement them more effectively and efficiently. Some aspects of accessibility require more technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects](/test-evaluate/involving-users/) will make your work better and easier.
+Τα πρότυπα διαδραματίζουν έναν κρίσιμο ρόλο στον καθορισμό των απαιτήσεων προσβασιμότητας για κάθε ένα από αυτά τα συστατικά. Κάποιες απαιτήσεις προσβασιμότητας είναι εύκολο να ικανοποιηθούν, ωστόσο η κατανόηση των βασικών για το πως οι άνθρωποι με αναπηρίες χρησιμοποιούν τον Παγκόσμιο Ιστό βοηθά στο να εφαρμοστούν πιο αποτελεσματικά και αποδοτικά.
+  Some aspects of accessibility require more technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects](/test-evaluate/involving-users/) will make your work better and easier.
 
 Η Πρωτοβουλία για τον Παγκόσμιο Ιστό του W3C (WAI) παρέχει ένα σύνολο οδηγιών που αναγνωρίζονται διεθνώς ως το πρότυπο για την προσβασιμότητα στον Παγκόσμιο Ιστό. Αυτά περιλαμβάνουν:
 
