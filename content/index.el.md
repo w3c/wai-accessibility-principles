@@ -311,7 +311,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="end" %}
 
-## Operable user interface and navigation {#operable}
+## Λειτουργική διεπαφή χρήστη και πλοήγηση {#operable}
 
 ### Η λειτουργικότητα είναι διαθέσιμη μέσω ενός πληκτρολογίουFunctionality is available from a keyboard {#keyboard}
 
@@ -338,10 +338,10 @@ including automatic generation of page outlines and summaries to help people get
 
 **UAAG**
 
--   [Κατευθυντήρια γραμμή 2.1 - Keyboard access](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
--   [Κατευθυντήρια γραμμή 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
--   [Κατευθυντήρια γραμμή 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
--   [Κατευθυντήρια γραμμή 2.11 - Other Input Devices](https://www.w3.org/TR/UAAG20/#gl-other-devices)
+-   [Κατευθυντήρια γραμμή 2.1 - Πρόσβαση μέσω πληκτρολογίου](https://www.w3.org/TR/UAAG20/#gl-keyboard-access)
+-   [Κατευθυντήρια γραμμή 2.2 - Διαδοχική πλοήγηση](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+-   [Κατευθυντήρια γραμμή 2.3 - Απευθείας πλοήγηση και ενεργοποίηση](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+-   [Κατευθυντήρια γραμμή 2.11 - Άλλες συσκευές εισόδου](https://www.w3.org/TR/UAAG20/#gl-other-devices)
 
 **ATAG**
 
@@ -386,13 +386,13 @@ including automatic generation of page outlines and summaries to help people get
 **UAAG**
 
 -   [Κατευθυντήρια γραμμή 2.8 - Αλληλεπίδραση ανεξάρτητη χρόνου](https://www.w3.org/TR/UAAG20/#gl-time-independent)
--   [Κατευθυντήρια γραμμή 2.10 - Time-based media](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
+-   [Κατευθυντήρια γραμμή 2.10 - Πολυμέσα εξαρτώμενα από το χρόνο](https://www.w3.org/TR/UAAG20/#gl-control-inaccessible-content)
 
 **ATAG**
 
 -   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Κατευθυντήρια γραμμή A.3.2: (For the authoring tool user interface) Provide authors with enough time](https://www.w3.org/TR/ATAG20/#gl_a32)
--   [Μέρος B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Μέρος B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -470,11 +470,11 @@ including automatic generation of page outlines and summaries to help people get
 
 **UAAG**
 
--   [Κατευθυντήρια γραμμή 2.2 - Sequential navigation](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
--   [Κατευθυντήρια γραμμή 2.3 - Direct navigation and activation](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
--   [Κατευθυντήρια γραμμή 2.4 - Text search](https://www.w3.org/TR/UAAG20/#gl-search-text)
--   [Κατευθυντήρια γραμμή 2.5 - Structural navigation](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
--   [Κατευθυντήρια γραμμή 2.7 - Graphical controls](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
+-   [Κατευθυντήρια γραμμή 2.2 - Διαδοχική πλοήγηση](https://www.w3.org/TR/UAAG20/#gl-sequential-navigation)
+-   [Κατευθυντήρια γραμμή 2.3 - Απευθείας πλοήγηση και ενεργοποίηση](https://www.w3.org/TR/UAAG20/#gl-direct-navigation-and-activation)
+-   [Κατευθυντήρια γραμμή 2.4 - Αναζήτηση κειμένου](https://www.w3.org/TR/UAAG20/#gl-search-text)
+-   [Κατευθυντήρια γραμμή 2.5 - Δομική πλοήγηση](https://www.w3.org/TR/UAAG20/#gl-nav-structure)
+-   [Κατευθυντήρια γραμμή 2.7 - Γραφικά στοιχεία ελέγχου](https://www.w3.org/TR/UAAG20/#gl-configure-controls)
 
 **ATAG**
 
@@ -500,21 +500,21 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="end" %}
 
-### Users can use different input modalities beyond keyboard {#modalities}
+### Οι χρήστες μπορούν να χρησιμοποιήσουν διαφορετικές μεθόδους εισαγωγής δεδομένων εκτός του πληκτρολογίου {#modalities}
 
-Input modalities beyond keyboard, such as touch activation, voice recognition (speech input), and gestures make content easier to use for many people. Yet not everyone can use each of these input modalities, and to the same degree. Particular design considerations maximize the benefit of these input modalities. This includes:
+Οι τρόποι εισαγωγής δεδομένων εκτός του πληκτρολογίου, όπως η ενεργοποίηση μέσω αφής, η αναγνώριση φωνής (εισαγωγή ομιλίας) και οι χειρονομίες κάνουν το περιεχόμενο πιο εύκολο στη χρήση από πολλούς ανθρώπους. Ωστόσο, δεν μπορούν όλοι να χρησιμοποιήσουν καθεμία από αυτές τις μεθόδους εισαγωγής δεδομένων και στον ίδιο βαθμό. Συγκεκριμένες σχεδιαστικές εκτιμήσεις μεγιστοποιούν το όφελος αυτών των τρόπων εισαγωγής δεδομένων. Αυτό περιλαμβάνει:
 
--   Gestures that require dexterity or fine movement have alternatives that do not require high dexterity
--   Components are designed to avoid accidental activation, for example by providing undo functionality
--   Labels presented to users match corresponding object names in the code, to support activation by voice
--   Functionality that is activated by movement can also be activated through user interface components
--   Buttons, links, and other active components are large enough to make them easier to activate by touch
+-   Οι χειρονομίες που απαιτούν επιδεξιότητα ή λεπτή κινητικότητα έχουν εναλλακτικές που δεν απαιτούν υψηλή επιδεξιότητα
+-   Τα στοιχεία σχεδιάζονται ώστε να αποφεύγεται η κατά λάθος ενέργοποίησή τους, για παράδειγμα παρέχοντας λειτουρία αναίρεσης
+-   Οι ετικέτες που παρουσιάζονται στους χρήστες ταιριάζουν με τα αντίστοιχα ονόματα αντικειμένων στον κώδικα, ώστε να υποστηρίζουν την ενεργοποίηση μέσω φωνής
+-   Η λειτουργικότητα που ενεργοποιείται με κίνηση μπορεί επίσης να επιτευχθεί μέσω των στοιχείων διεπαφής χρήστη
+-   Τα κουμπιά, οι σύνδεσμοι και άλλα ενεργά στοιχεία είναι αρκετά μεγάλα ώστε να είναι ευκολότερο να ενεργοποιηθούν μέσω αφής.
 
-Meeting this requirement makes the content easier to use for many people with a wide range of abilities using a wide range of devices. This includes content used on mobile phones, tablet computers, and self-service terminals such as ticketing machines.
+Η ικανοποίηση αυτής της απαίτησης καθιστά το περιεχόμενο ευκολότερο στη χρήση για πολλούς ανθρώπους με ένα ευρύ φάσμα ικανοτήτων που χρησιμοποιούν ένα ευρύ φάσμα συσκευών. Αυτό περιλαμβάνει περιεχόμενο που χρησιμοποιείται σε κινητά τηλέφωνα, υπολογιστές tablet και τερματικά αυτοεξυπηρέτησης, όπως μηχανήματα έκδοσης εισιτηρίων.
 
 {% include excol.html type="start" id="" %}
 
-#### Accessibility requirements related to input modalities (σύνδεσμοι προς τεχνικές προδιαγραφές)
+#### Απαιτήσεις προσβασιμότητας σχετικές με τρόπους εισαγωγής δεδομένων (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -525,7 +525,7 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
-#### Stories related to input modalities
+#### Ιστορίες σχετικές με τρόπους εισαγωγής δεδομένων
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -562,9 +562,9 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή A.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.4.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Τεκμηρίωση τη διεπαφής χρήστης, συμπεριλαμβανομένων όλων των λειτουργιών προσβασιμότητας](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [Part B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -608,10 +608,10 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Κατευθυντήρια γραμμή A.4.2: (For the authoring tool user interface) Document the user interface, including all accessibility features](https://www.w3.org/TR/ATAG20/#gl_b42)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή A.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.2.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι η παρουσίαση επεξεργασίας-προβολής μπορεί να καθοριστεί μέσω προγραμματισμού](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή A.4.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Τεκμηρίωση τη διεπαφής χρήστης, συμπεριλαμβανομένων όλων των λειτουργιών προσβασιμότητας](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [Part B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -631,12 +631,10 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 ### Οι χρήστες βοηθούνται στο να αποφεύγουν και να διορθώνουν λάθη {#tolerant}
 
-Οι φόρμες και άλλες αλληλεπιδράσεις μπορεί να προκαλούν σύγχυση ή δυσκολία στη χρήση για πολλούς ανθρώπους και, ως αποτέλεσμα, μπορεί να είναι πιο πιθανό να κάνουν λάθη. Παραδείγματα που βοηθούν τους χρήστες να αποφύγουν και να διορθώσουν λάθη περιλαμβάνουν:
-
-Forms and other interaction can be confusing or difficult to use for many people, and, as a result, they may be more likely to make mistakes. Examples of helping users to avoid and correct mistakes include:
+Οι φόρμες και άλλες αλληλεπιδράσεις μπορεί να προκαλούν σύγχυση ή δυσκολία στη χρήση για πολλούς ανθρώπους και, ως αποτέλεσμα, μπορεί να είναι πιο πιθανό αυτοί να κάνουν λάθη. Παραδείγματα που βοηθούν τους χρήστες να αποφύγουν και να διορθώσουν λάθη περιλαμβάνουν:
 
 -   Περιγραφικές οδηγίες, μηνύματα λάθους και προτάσεις για διόρθωση
--   Context-sensitive help for more complex functionality and interaction
+-   Βοήθεια ευαίσθητη ως προς το γενικότερο πλαίσιο για πιο σύνθετη λειτουργικότητα και αλληλεπίδραση
 -   Δυνατότητα επανεξέτασης, διόρθωσης ή αντιστροφής των υποβολών εάν είναι απαραίτητο
 
 Η ικανοποίηση αυτής της απαίτησης βοηθά τα άτομα που δεν βλέπουν ή δεν ακούν το περιεχόμενο και ενδέχεται να μην αναγνωρίζουν έμμεσες σχέσεις, ακολουθίες και άλλες ενδείξεις. Βοηθά επίσης άτομα που δεν κατανοούν τη λειτουργικότητα, είναι αποπροσανατολισμένα ή μπερδεμένα, ξεχνούν ή κάνουν λάθη χρησιμοποιώντας τις φόρμες και την αλληλεπίδραση για οποιονδήποτε άλλο λόγο.
@@ -658,10 +656,10 @@ Forms and other interaction can be confusing or difficult to use for many people
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Κατευθυντήρια γραμμή A.4.1: (For the authoring tool user interface) Help authors avoid and correct mistakes](https://www.w3.org/TR/ATAG20/#gl_b41)
--   [Μέρος B. Υποστήιξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή A.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.2.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι η παρουσίαση επεξεργασίας-προβολής μπορεί να καθοριστεί μέσω προγραμματισμού](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή A.4.1: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Βοήθεια προς τους συγγραφείς να αποφεύγουν και να διορθώνουν τα λάθη](https://www.w3.org/TR/ATAG20/#gl_b41)
+-   [Μέρος B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -684,8 +682,8 @@ Forms and other interaction can be confusing or difficult to use for many people
 
 Το εύρωστο περιεόμενο είναι συμβατό με διαφορετικά προγράμματα περιήγησης, υποστηρικτικές τεχνολογίες και άλλους πράκτορες χρήστη. Παραδείγματα για το πώς αυτό μπορεί να επιτευχθεί περιλαμβάνουν:
 
--   Ensuring markup can be reliably interpreted, for instance by ensuring it is valid
--   Providing a name, role, and value for non-standard user interface components
+-   Διασφάλιση ότι η σήμανση μπορεί να ερμηνευτεί αξιόπιστα, για παράδειγμα διασφαλίζοντας ότι είναι έγκυρη
+-   Παροχή ονόματος, ρόλου και τιμής για τα μη τυπικά στοιχεία διεπαφής χρήστη
 
 Η ικανοποίηση αυτής της απαίτησης βοηθά στη μεγιστοποίηση της συμβατότητας με τους τρέχοντες και τους μελλοντικούς πράκτορες χρήστη, συμπεριλαμβανομένων των υποστηρικτικών τεχνολογιών. Συγκεκριμένα, επιτρέπει στις υποστηρικτικές τεχνολογίες να επεξεργάζονται το περιεχόμενο αξιόπιστα και να το παρουσιάζουν ή να το χειρίζονται με διαφορετικούς τρόπους. Αυτό περιλαμβάνει μη τυπικά (σεναριακά) κουμπιά, πεδία εισαγωγής δεδομένων και άλλα στοιχεία ελέγχου.
 
@@ -704,7 +702,7 @@ Forms and other interaction can be confusing or difficult to use for many people
 
 -   [Κατευθυντήρια γραμμή 2.6 - Ρυθμίσεις προτιμήσεων](https://www.w3.org/TR/UAAG20/#gl-store-prefs)
 -   [Κατευθυντήρια γραμμή 4.1 - Υποστηρικτική Τεχνολογία](https://www.w3.org/TR/UAAG20/#gl-AT-access)
--   [Κατευθυντήρια γραμμή 5.1 - Follow specifications](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
+-   [Κατευθυντήρια γραμμή 5.1 - Ακολούθηση προδιαγραφών](https://www.w3.org/TR/UAAG20/#gl-obs-env-conventions)
 
 **ATAG**
 
