@@ -71,8 +71,8 @@ footer: >
 
 Η προσβασιμότητα στον παγκόσμιο ιστό βασίζεται σε πολλά συστατικά που συνεργάζονται μεταξύ τους. Μερικά από αυτά περιλαμβάνουν:
 
--   **Περιεχόμενο Ιστού**{:#webcontent} - αναφέρεται σε κάθε τμήμα εντός ιστοτόπου, συμπεριλαμβανομένων του κειμένου, των εικόνων, των φορμών και των πολυμέσων, όπως επίσης οποιουδήποτε κώδικα σήμανσης,scripts, εφαρμογές και άλλα παρόμοια.
--   **Πράκτορες χρήστη**{:#useragents} - λογισμικό που οι άνθρωποι χρησιμοποιούν για να έχουν πρόσβαση στο περιεχόμενο του παγκοσμίου ιστού, συμπεριλαμβανομένων desktop graphical browsers, voice browsers, mobile phone browsers, multimedia players, plug-ins, και μερικές [υποστηρικτικές τεχνολογίες](/people-use-web/tools-techniques/#at "definition").
+-   **Περιεχόμενο Ιστού**{:#webcontent} - αναφέρεται σε κάθε τμήμα εντός ιστοτόπου, συμπεριλαμβανομένων του κειμένου, των εικόνων, των φορμών και των πολυμέσων, όπως επίσης οποιουδήποτε κώδικα σήμανσης, scripts, εφαρμογές και άλλα παρόμοια.
+-   **Πράκτορες χρήστη**{:#useragents} - λογισμικό που οι άνθρωποι χρησιμοποιούν για να έχουν πρόσβαση στο περιεχόμενο του παγκοσμίου ιστού, συμπεριλαμβανομένων προγράμματα περιήγησης γραφικών για επιτραπέζιους υπολογιστές, προγράμματα περιήγησης μέσω φωνής, προγράμματα περιήγησης κινητών τηλεφώνων, προγράμματα αναπαραγωγής πολυμέσων, προσθετα και μερικές [υποστηρικτικές τεχνολογίες](/people-use-web/tools-techniques/#at "definition").
 -   **Εργαλεία συγγραφής**{:#authoringtools} - λογισμικό ή υπηρεσίες που χρησιμοποιούν οι άνθρωποι για την παραγωγή περιεχομένου Ιστού, συμπεριλαμβανομένων προγραμμάτων επεξεργασίας κώδικα, εργαλείων μετατροπής εγγράφων, συστημάτων διαχείρισης περιεχομένου, ιστολογίων, σεναρίων βάσεων δεδομένων και άλλων εργαλείων.
 
 {% include excol.html type="start" %}
@@ -86,13 +86,13 @@ footer: >
 
 Standards play a vital role in defining accessibility requirements for each of these components. Some accessibility requirements are easy to meet, yet understanding the basics of how people with disabilities use the Web helps implement them more effectively and efficiently. Some aspects of accessibility require more technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects](/test-evaluate/involving-users/) will make your work better and easier.
 
-The W3C Web Accessibility Initiative (WAI) provides a set of guidelines that are internationally recognized as the standard for web accessibility. These include:
+Η Πρωτοβουλία για τον Παγκόσμιο Ιστό του W3C (WAI) παρέχει ένα σύνολο οδηγιών που αναγνωρίζονται διεθνώς ως το πρότυπο για την προσβασιμότητα στον Παγκόσμιο Ιστό. Αυτά περιλαμβάνουν:
 
--   **[Web Content Accessibility Guidelines (WCAG)](/standards-guidelines/wcag/)**
--   **[User Agent Accessibility Guidelines (UAAG)](/standards-guidelines/uaag/)**
--   **[Authoring Tool Accessibility Guidelines (ATAG)](/standards-guidelines/atag/)**
+-   **[Οδηγίες προσβασιμότητας του περιεχομένου του Παγκοσμίου Ιστού (WCAG)](/standards-guidelines/wcag/)**
+-   **[Οδηγίες προβασιμότητας των πρακτόρων χρήστη (UAAG)](/standards-guidelines/uaag/)**
+-   **[Οδηγίεςπροσβασιμότητας των εργαλείων συγγραφής (ATAG)](/standards-guidelines/atag/)**
 
-There is also a WAI specification for **[Accessible Rich Internet Applications (WAI-ARIA)](/standards-guidelines/aria/)**, which include dynamic content and advanced user interface controls developed with Ajax, JavaScript, and related web technologies.
+Υπάρχει επίσης μία προδιαγραφή του WAI για τις **[Προσβάσιμες εμπλουτισμένες εφαρμογές διαδικτύου(WAI-ARIA)](/standards-guidelines/aria/)**, που περιλαμβάνουν δυναμικό περιεχόμενο και προηγμένα στοιχεία ελέγχου διεπαφής χρήστη ανεπτυγμένα με Ajax, JavaScript και σχετικές τεχνολογίες Παγκοσμίου Ιστού.
 
 {% include excol.html type="end" %}
 
@@ -128,11 +128,11 @@ There is also a WAI specification for **[Accessible Rich Internet Applications (
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Κατευθυντήρια γραμμή A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή A.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή Α.2.1: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
+-   [Κατευθυντήρια γραμμή Α.2.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι η παρουσίαση επεξεργασίας-προβολής μπορεί να καθοριστεί μέσω προγραμματισμού](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή Α.3.7: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι οι προεπισκοπήσεις είναι τουλάχιστον όσο προσβάσιμες όσο στους εντός της αγοράς πράκτορες χρήστη](https://www.w3.org/TR/ATAG20/#gl_a37)
+-   [Μέρος Β. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 
@@ -144,7 +144,7 @@ There is also a WAI specification for **[Accessible Rich Internet Applications (
 {% include excol.html type="middle" %}
 
 -   [Alex, δημοσιογράφος με τραυματισμό επαναλαμβανόμενης καταπόνησης](/people-use-web/user-stories/#reporter)
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
+-   [Martine, βαρήκοη εξ' αποστάσεως φοιτήτρια](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
 -   [Preety, μαθήτρια μέσης εκπαίδευσης με Διαταραχή Ελλειμματικής Προσοχής και Υπερκινητικότητας και Δυσλεξία](/people-use-web/user-stories/#classroomstudent)
 -   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
@@ -179,10 +179,10 @@ There is also a WAI specification for **[Accessible Rich Internet Applications (
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.2.1: (For the authoring tool user interface) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
--   [Κατευθυντήρια γραμμή A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή Α.2.1: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
+-   [Κατευθυντήρια γραμμή Α.3.7: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι οι προεπισκοπήσεις είναι τουλάχιστον όσο προσβάσιμες όσο στους εντός της αγοράς πράκτορες χρήστη](https://www.w3.org/TR/ATAG20/#gl_a37)
+-   [Μέρος Β. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 {% include excol.html type="start" %}
@@ -192,7 +192,7 @@ There is also a WAI specification for **[Accessible Rich Internet Applications (
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
+-   [Martine, βαρήκοη εξ' αποστάσεως φοιτήτρια](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
 -   [Kaseem, έφηβη κωφή και τυφλή](/people-use-web/user-stories/#teenager)
 
@@ -232,10 +232,10 @@ including automatic generation of page outlines and summaries to help people get
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Κατευθυντήρια γραμμή A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
--   [Part B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή Α.2.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι η παρουσίαση επεξεργασίας-προβολής μπορεί να καθοριστεί μέσω προγραμματισμού](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή Α.3.7: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι οι προεπισκοπήσεις είναι τουλάχιστον όσο προσβάσιμες όσο στους εντός της αγοράς πράκτορες χρήστη](https://www.w3.org/TR/ATAG20/#gl_a37)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -292,9 +292,9 @@ including automatic generation of page outlines and summaries to help people get
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.3.7: (For the authoring tool user interface) Ensure that previews are at least as accessible as in-market user agents](https://www.w3.org/TR/ATAG20/#gl_a37)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή Α.3.7: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι οι προεπισκοπήσεις είναι τουλάχιστον όσο προσβάσιμες όσο στους εντός της αγοράς πράκτορες χρήστη](https://www.w3.org/TR/ATAG20/#gl_a37)
+-   [Μέρος Β. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -304,7 +304,7 @@ including automatic generation of page outlines and summaries to help people get
 {% include excol.html type="middle" %}
 
 -   [Lee, αγοραστής μέσω διαδικτύου με αχρωματοψία](/people-use-web/user-stories/#shopper)
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
+-   [Martine, βαρήκοη εξ' αποστάσεως φοιτήτρια](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
 -   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
 -   [Kaseem, έφηβη κωφή και τυφλή](/people-use-web/user-stories/#teenager)
@@ -345,9 +345,9 @@ including automatic generation of page outlines and summaries to help people get
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.3.1: (For the authoring tool user interface) Provide keyboard access to authoring features](https://www.w3.org/TR/ATAG20/#gl_a31)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή Α.3.1: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Provide keyboard access to authoring features](https://www.w3.org/TR/ATAG20/#gl_a31)
+-   [Part Β. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -390,9 +390,9 @@ including automatic generation of page outlines and summaries to help people get
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.3.2: (For the authoring tool user interface) Provide authors with enough time](https://www.w3.org/TR/ATAG20/#gl_a32)
--   [Μέρος B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή A.3.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Provide authors with enough time](https://www.w3.org/TR/ATAG20/#gl_a32)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -436,9 +436,9 @@ including automatic generation of page outlines and summaries to help people get
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.3.3: (For the authoring tool user interface) Help authors avoid flashing that could cause seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή Α.3.3: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Help authors avoid flashing that could cause seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
+-   [Μέρος Β. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 
@@ -478,11 +478,11 @@ including automatic generation of page outlines and summaries to help people get
 
 **ATAG**
 
--   [Αρχή A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.2.2: (For the authoring tool user interface) Ensure that editing-view presentation can be programmatically determined](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Κατευθυντήρια γραμμή A.3.4: (For the authoring tool user interface) Enhance navigation and editing via content structure](https://www.w3.org/TR/ATAG20/#gl_a34)
--   [Κατευθυντήρια γραμμή A.3.5: (For the authoring tool user interface) Provide text search of the content](https://www.w3.org/TR/ATAG20/#gl_a35)
--   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή Α.2.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι η παρουσίαση επεξεργασίας-προβολής μπορεί να καθοριστεί μέσω προγραμματισμού](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή Α.3.4: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Enhance navigation and editing via content structure](https://www.w3.org/TR/ATAG20/#gl_a34)
+-   [Κατευθυντήρια γραμμή Α.3.5: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Provide text search of the content](https://www.w3.org/TR/ATAG20/#gl_a35)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -521,7 +521,7 @@ including automatic generation of page outlines and summaries to help people get
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
+-   [Κατευθυντήρια γραμμή 2.5 - Τρόποι εισαγωγής δεδομένων](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -562,9 +562,9 @@ including automatic generation of page outlines and summaries to help people get
 
 **ATAG**
 
--   [Αρχή A.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.4.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Τεκμηρίωση τη διεπαφής χρήστης, συμπεριλαμβανομένων όλων των λειτουργιών προσβασιμότητας](https://www.w3.org/TR/ATAG20/#gl_b42)
--   [Part B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή Α.4.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Τεκμηρίωση τη διεπαφής χρήστης, συμπεριλαμβανομένων όλων των λειτουργιών προσβασιμότητας](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -573,7 +573,7 @@ including automatic generation of page outlines and summaries to help people get
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
+-   [Martine, βαρήκοη εξ' αποστάσεως φοιτήτρια](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, ανώτερο στέλεχος προσωπικού που είναι τυφλή](/people-use-web/user-stories/#accountant)
 -   [Preety, μαθήτρια μέσης εκπαίδευσης με Διαταραχή Ελλειμματικής Προσοχής και Υπερκινητικότητας και Δυσλεξία](/people-use-web/user-stories/#classroomstudent)
 -   [Yun, συνταξιούχος με περιορισμένη όραση, τρόμο χεριών και ήπιου βαθμού απώλεια βραχυπρόθεσμης μνήμης](/people-use-web/user-stories/#retiree)
@@ -608,10 +608,10 @@ including automatic generation of page outlines and summaries to help people get
 
 **ATAG**
 
--   [Αρχή A.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.2.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι η παρουσίαση επεξεργασίας-προβολής μπορεί να καθοριστεί μέσω προγραμματισμού](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Κατευθυντήρια γραμμή A.4.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Τεκμηρίωση τη διεπαφής χρήστης, συμπεριλαμβανομένων όλων των λειτουργιών προσβασιμότητας](https://www.w3.org/TR/ATAG20/#gl_b42)
--   [Part B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή Α.2.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι η παρουσίαση επεξεργασίας-προβολής μπορεί να καθοριστεί μέσω προγραμματισμού](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή Α.4.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Τεκμηρίωση τη διεπαφής χρήστης, συμπεριλαμβανομένων όλων των λειτουργιών προσβασιμότητας](https://www.w3.org/TR/ATAG20/#gl_b42)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -656,9 +656,9 @@ including automatic generation of page outlines and summaries to help people get
 
 **ATAG**
 
--   [Αρχή A.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Κατευθυντήρια γραμμή A.2.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι η παρουσίαση επεξεργασίας-προβολής μπορεί να καθοριστεί μέσω προγραμματισμού](https://www.w3.org/TR/ATAG20/#gl_a22)
--   [Κατευθυντήρια γραμμή A.4.1: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Βοήθεια προς τους συγγραφείς να αποφεύγουν και να διορθώνουν τα λάθη](https://www.w3.org/TR/ATAG20/#gl_b41)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Κατευθυντήρια γραμμή Α.2.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι η παρουσίαση επεξεργασίας-προβολής μπορεί να καθοριστεί μέσω προγραμματισμού](https://www.w3.org/TR/ATAG20/#gl_a22)
+-   [Κατευθυντήρια γραμμή Α.4.1: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Βοήθεια προς τους συγγραφείς να αποφεύγουν και να διορθώνουν τα λάθη](https://www.w3.org/TR/ATAG20/#gl_b41)
 -   [Μέρος B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
@@ -706,8 +706,8 @@ including automatic generation of page outlines and summaries to help people get
 
 **ATAG**
 
--   [Αρχή A.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας (https://www.w3.org/TR/ATAG20/#principle_a1)
--   [Μέρος B. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας (https://www.w3.org/TR/ATAG20/#principle_a1)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
