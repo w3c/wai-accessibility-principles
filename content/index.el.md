@@ -5,7 +5,7 @@
 title: Αρχές Προσβασιμότητας
 nav_title: "Αρχές Προσβασιμότητας"
 lang: el   # Change "en" to the translated language shortcode
-last_updated: 2024-02-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-01-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 description: Μια επισκόπηση των θεμελιωδών απαιτήσεων προσβασιμότητας στον Παγκόσμιο Ιστό για ιστοτόπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία.
 
 teaser_text: Η σελίδα Αρχές προσβασιμότητας εισάγει ορισμένες από τις απαιτήσεις προσβασιμότητας στον Παγκόσμιο Ιστό για ιστότοπους, εφαρμογές Παγκοσμίου Ιστού, προγράμματα περιήγησης και άλλα εργαλεία. Παρέχει αναφορές στα διεθνή πρότυπα του W3C Web Accessibility Initiative (WAI) και σε ιστορίες χρηστών του Παγκοσμίου Ιστού.
