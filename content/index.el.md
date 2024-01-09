@@ -121,11 +121,11 @@ footer: >
 
 **WCAG**
 
--   [Κατευθυντήρια γραμμή 1.1 - Text Alternatives](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
+-   [Κατευθυντήρια γραμμή 1.1 - Εναλλακτικά κείμενα](https://www.w3.org/WAI/WCAG22/quickref/#text-alternatives)
 
 **UAAG**
 
--   [Κατευθυντήρια γραμμή 1.1 - Alternative content](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
+-   [Κατευθυντήρια γραμμή 1.1 - Εναλλακτικό περιεχόμενο](https://www.w3.org/TR/UAAG20/#gl-access-alternative-content)
 
 **ATAG**
 
@@ -133,13 +133,13 @@ footer: >
 -   [Κατευθυντήρια γραμμή Α.2.1: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
 -   [Κατευθυντήρια γραμμή Α.2.2: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι η παρουσίαση επεξεργασίας-προβολής μπορεί να καθοριστεί μέσω προγραμματισμού](https://www.w3.org/TR/ATAG20/#gl_a22)
 -   [Κατευθυντήρια γραμμή Α.3.7: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι οι προεπισκοπήσεις είναι τουλάχιστον όσο προσβάσιμες όσο στους εντός της αγοράς πράκτορες χρήστη](https://www.w3.org/TR/ATAG20/#gl_a37)
--   [Μέρος Β. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
-#### Stories related to text alternatives
+#### Ιστορίες σχετικές με εναλλακτικά κείμενα
 {:#stories-related-to-text-alternatives.no_toc}
 
 {% include excol.html type="middle" %}
@@ -153,7 +153,7 @@ footer: >
 
 {% include excol.html type="end" %}
 
-### Captions and other alternatives for multimedia {#captions}
+### Λεζάντες και άλλες εναλλακτικές για πολυμέσα {#captions}
 
 Τα άτομα που δεν μπορούν να ακούσουν ήχο ή να δουν βίντεο, χρειάζονται εναλλακτικές λύσεις. Τα παραδείγματα περιλαμβάνουν:
 
@@ -165,7 +165,7 @@ footer: >
 
 {% include excol.html type="start" %}
 
-#### Accessibility requirements related to multimedia (σύνδεσμοι προς τεχνικές προδιαγραφές)
+#### Απαιτήσεις προσβασιμότητας που σχετίζονται με τα πολυμέσα (σύνδεσμοι προς τεχνικές προδιαγραφές)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -183,12 +183,12 @@ footer: >
 -   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Κατευθυντήρια γραμμή Α.2.1: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Make alternative content available to authors](https://www.w3.org/TR/ATAG20/#gl_a21)
 -   [Κατευθυντήρια γραμμή Α.3.7: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι οι προεπισκοπήσεις είναι τουλάχιστον όσο προσβάσιμες όσο στους εντός της αγοράς πράκτορες χρήστη](https://www.w3.org/TR/ATAG20/#gl_a37)
--   [Μέρος Β. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 {% include excol.html type="start" %}
 
-#### Stories related to multimedia {#stories-related-to-multimedia}
+#### Ιστορίες σχετικές με τα πολυμέσα {#stories-related-to-multimedia}
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -208,8 +208,6 @@ footer: >
 -   Τα προγράμματα περιήγησης και οι υποστηρικτικές τεχνολογίες παρέχουν ρυθμίσεις για την προσαρμογή της παρουσίασης
 
 Η ικανοποίηση αυτής της απαίτησης επιτρέπει στο περιεχόμενο να εκφωνείται σωστά, να μεγεθύνεται ή να προσαρμόζεται ώστε να καλύπτει τις ανάγκες και τις προτιμήσεις διαφορετικών ανθρώπων. Για παράδειγμα, μπορεί να παρουσιαστεί χρησιμοποιώντας προσαρμοσμένους χρωματικούς συνδυασμούς, μέγεθος κειμένου ή άλλο στυλ για διευκόλυνση της ανάγνωσης. Αυτή η απαίτηση διευκολύνει επίσης άλλες μορφές προσαρμογής, συμπεριλαμβανομένης της αυτόματης παραγωγής περιγραμμάτων σελίδας και περιλήψεων ώστε να βοηθηθούν οι άνθρωποι να αποκτήσουν μια σφαιρική εικόνα και να εστιάσουν σε συγκεκριμένα τμήματα πιο εύκολα .
-
-including automatic generation of page outlines and summaries to help people get an overview and to focus on particular parts more easily.
 
 {% include excol.html type="start" %}
 
@@ -262,7 +260,7 @@ including automatic generation of page outlines and summaries to help people get
 -   Το χρώμα δεν χρησιμοποιείται ως ο μοναδικός τρόπος μετάδοσης πληροφορίας ή αναγνώρισης περιεχομένου
 -   Οι προεπιλεγμένοι χρωματικοί συνδυασμοί προσκηνίου και φόντου παρέχουν επαρκή αντίθεση
 -   Όταν οι χρήστες τροποποιούν το μέγεθος κειμένου έως και 400% ή αλλάζουν διάστιχο, δεν υπάρχει απώλεια πληροφορίας
--   Text reflows in small windows ("viewports") and when users make the text larger
+-   Το κείμενο επανακυκλοφορεί σε μικρά παράθυρα ("θύρες προβολής") και όταν οι χρήστες κάνουν το κείμενο μεγαλύτερο
 -   Οι εικόνες κειμένου είναι τροποποιήσιμες ως προς το μέγεθος, αντικαθίστανται με πραγματικό κείμενο ή αποφεύγονται όπου είναι δυνατόν
 -   Οι χρήστες μπορούν να  παύση, να σταματήσουν ή να προσαρμόσουν την ένταση του ήχου που αναπαράγεται σε έναν ιστότοπο
 -   Ο ήχος στο παρασκήνιο είναι χαμηλός ή μπορεί να απενεργοποιηθεί, για να αποφευχθούν παρεμβολές ή απόσπαση της προσοχής
@@ -286,20 +284,20 @@ including automatic generation of page outlines and summaries to help people get
 -   [Κατευθυντήρια γραμμή 1.4 - Διαμόρφωση κειμένου](https://www.w3.org/TR/UAAG20/#gl-text-config)
 -   [Κατευθυντήρια γραμμή 1.5 - Διαμόρφωση ήχου](https://www.w3.org/TR/UAAG20/#gl-volume-config)
 -   [Κατευθυντήρια γραμμή 1.6 - Διαμόρφωση συνθετικής ομιλίας](https://www.w3.org/TR/UAAG20/#gl-speech-config)
--   [Κατευθυντήρια γραμμή 1.7 - User style sheet configuration](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
--   [Κατευθυντήρια γραμμή 1.8 - Orientation in viewports](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
--   [Κατευθυντήρια γραμμή 1.9 - Alternative views](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
--   [Κατευθυντήρια γραμμή 1.10 - Element information](https://www.w3.org/TR/UAAG20/#gl-info-link)
+-   [Κατευθυντήρια γραμμή 1.7 - Διαμόρφωση φύλλου στυλ χρήστη](https://www.w3.org/TR/UAAG20/#gl-style-sheets-config)
+-   [Κατευθυντήρια γραμμή 1.8 - Προσανατολισμός στις θύρες προβολής](https://www.w3.org/TR/UAAG20/#gl-viewport-orient)
+-   [Κατευθυντήρια γραμμή 1.9 - Εναλλακτικές προβολές](https://www.w3.org/TR/UAAG20/#gl-alternative-views)
+-   [Κατευθυντήρια γραμμή 1.10 - Πληροφορίες στοιχείου](https://www.w3.org/TR/UAAG20/#gl-info-link)
 
 **ATAG**
 
 -   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Κατευθυντήρια γραμμή Α.3.7: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Διασφάλιση ότι οι προεπισκοπήσεις είναι τουλάχιστον όσο προσβάσιμες όσο στους εντός της αγοράς πράκτορες χρήστη](https://www.w3.org/TR/ATAG20/#gl_a37)
--   [Μέρος Β. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Stories related to distinguishability
+#### Ιστορίες σχετικές με τη διακρικότητα
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -314,7 +312,7 @@ including automatic generation of page outlines and summaries to help people get
 
 ## Λειτουργική διεπαφή χρήστη και πλοήγηση {#operable}
 
-### Η λειτουργικότητα είναι διαθέσιμη μέσω ενός πληκτρολογίουFunctionality is available from a keyboard {#keyboard}
+### Η λειτουργικότητα είναι διαθέσιμη μέσω ενός πληκτρολογίου {#keyboard}
 
 Πολλοί άνθρωποι δεν χρησιμοποιούν το ποντίκι και βασίζονται στο πληκτρολόγιο για να αλληλεπιδράσουν με τον Παγκόσμιο Ιστό. Αυτό απαιτεί πρόσβαση με πληκτρολόγιο σε όλες τις λειτουργίες, συμπεριλαμβανομένων των στοιχείων ελέγχου φόρμας, της εισαγωγής δεδομένων και άλλων στοιχείων διεπαφής χρήστη.
 
@@ -348,7 +346,7 @@ including automatic generation of page outlines and summaries to help people get
 
 -   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Κατευθυντήρια γραμμή Α.3.1: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Provide keyboard access to authoring features](https://www.w3.org/TR/ATAG20/#gl_a31)
--   [Part Β. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
@@ -371,7 +369,7 @@ including automatic generation of page outlines and summaries to help people get
 -   Διακοπή, επέκταση ή προσαρμογή του χρονικού ορίου, 
 -   Παύση, διακοπή ή απόκρυψη κινούμενου Pause, stop, or hide moving, blinking, or scrolling content
 -   Αναβολή ή κατάργηση των διακοπών, εκτός από όπου είναι απαραίτητο
--   Re-authenticate when a session expires without losing data
+-   Επαναπιστοποίηση όταν λήξει μια περίοδος σύνδεσης χωρίς απώλεια δεδομένων
 
 {% include excol.html type="start" %}
 
@@ -433,13 +431,13 @@ including automatic generation of page outlines and summaries to help people get
 
 **UAAG**
 
--   [Κατευθυντήρια γραμμή 2.9 - Flashing](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
+-   [Κατευθυντήρια γραμμή 2.9 - Αναβόσβησμα](https://www.w3.org/TR/UAAG20/#gl-prevent-flash)
 
 **ATAG**
 
 -   [Αρχή Α.1: Οι διεπαφές χρήστη του εργαλείου συγγραφής ακολουθούν τις ισχύουσες οδηγίες προσβασιμότητας](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Κατευθυντήρια γραμμή Α.3.3: (Για τη διεπαφή χρήστη του εργαλείου συγγραφής) Help authors avoid flashing that could cause seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
--   [Μέρος Β. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+-   [Μέρος Β. Υποστήριξη της παραγωγής προσβάσιμου περιεχομένου](https://www.w3.org/TR/ATAG20/#part_b)
 
 {% include excol.html type="end" %}
 
@@ -455,8 +453,6 @@ including automatic generation of page outlines and summaries to help people get
 -   Ο σκοπός ενός συνδέσμου είναι προφανής, ιδανικά ακόμη και όταν ο σύνδεσμος προβάλλεται μόνος του
 
 Η ικανοποίηση αυτής της απαίτησης βοηθά τους ανθρώπους να πλοηγούνται στις ιστοσελίδες με διαφορετικούς τρόπους, ανάλογα με τις ιδιαίτερες ανάγκες και προτιμήσεις τους. Για παράδειγμα, ενώ μερικοί άνθρωποι βασίζονται σε ιεραρχικές δομές πλοήγησης, όπως γραμμές μενού για να βρουν συγκεκριμένες ιστοσελίδες, άλλοι αντ' αυτού βασίζονται σε λειτουργίες αναζήτησης στους ιστότοπους. Μερικοί άνθρωποι μπορεί να βλέπουν το περιεχόμενο ενώ άλλοι μπορεί να το ακούν ή να το βλέπουν και να το ακούν ταυτόχρονα. Μερικοί άνθρωποι μπορεί να χρησιμοποιούν το περιεχόμενο μόνο με ένα ποντίκι ή ένα πληκτρολόγιο, ενώ άλλοι μπορεί να χρησιμοποιούν και τα δύο.
-
- others rely on search functions on websites instead. Some people may be seeing the content while others may be hearing it or seeing and hearing it at the same time. Some people may be using the content with only a mouse or a keyboard, while others may be using both.
 
 {% include excol.html type="start" %}
 
