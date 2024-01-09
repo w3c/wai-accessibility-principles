@@ -33,7 +33,7 @@ changelog: /fundamentals/accessibility-principles/changelog/ # Do not change thi
 footer: >
   <p><strong>Ημερομηνια:</strong> Επικαιροποιήθηκε στις 6 Δεκεμβρίου 2023. CHANGELOG</p>
   <p><strong>Συντάκτες:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Ευχαριστίες</a>.</p>
-  <p>Αναπτύχθηκε από την Ομάδα Εργασίας για την Εκπαίδευση και την Προβολή (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Αναπτύχθηκε παλαιότερα με το <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, με την υποστήριξη του <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
+  <p>Αναπτύχθηκε από την Ομάδα Εργασίας για την Εκπαίδευση και την Προβολή (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Αναπτύχθηκε παλαιότερα με την <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">ομάδα εργασίας WAI-AGE</a>, με την υποστήριξη του <a href="https://www.w3.org/WAI/WAI-AGE/">Έργου WAI-AGE</a>.</p>
 
 ---
 
