@@ -33,7 +33,7 @@ changelog: /fundamentals/accessibility-principles/changelog/ # Do not change thi
 footer: >
   <p><strong>Ημερομηνια:</strong> Επικαιροποιήθηκε στις 6 Δεκεμβρίου 2023. CHANGELOG</p>
   <p><strong>Συντάκτες:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Ευχαριστίες</a>.</p>
-  <p>Αναπτύχθηκε από την Ομάδα Εργασίας για την Εκπαίδευση και την Προβολή (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
+  <p>Αναπτύχθηκε από την Ομάδα Εργασίας για την Εκπαίδευση και την Προβολή (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Αναπτύχθηκε παλαιότερα με το <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, με την υποστήριξη του <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 
 ---
 
@@ -42,7 +42,7 @@ footer: >
 {% include box.html type="start" h="2" title="Περίληψη" class="full" %}
 {:/}
 
-Αυτή η σελίδα εισάγει ορισμένες από τις απαιτήσεις προσβασιμότητας στον παγκόσμιο ιστό για ιστότοπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία. Παρέχει αναφορές στα διεθνή πρότυπα του W3C Web Accessibility Initiative (WAI) και σε [ιστορίες χρηστών του αγκοσμίου ιστού](/people-use-web/user-stories/).
+Αυτή η σελίδα εισάγει ορισμένες από τις απαιτήσεις προσβασιμότητας στον παγκόσμιο ιστό για ιστότοπους, εφαρμογές παγκοσμίου ιστού, προγράμματα περιήγησης και άλλα εργαλεία. Παρέχει αναφορές στα διεθνή πρότυπα της Πρωτοβουλίας για τον Παγκόσμιο Ιστό του W3C (WAI) και σε [ιστορίες χρηστών του αγκοσμίου ιστού](/people-use-web/user-stories/).
 
 **Σημείωση:** Αυτή δεν αποτελεί μια πλήρης λίστα όλων των απαιτήσεων προσβασιμότητας.
 
