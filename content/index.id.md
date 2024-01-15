@@ -674,11 +674,11 @@ Memenuhi persyaratan ini membantu orang-orang yang tidak melihat atau mendengar 
 
 {% include excol.html type="end" %}
 
-## Konten yang kukuh dan interpretasi yang dapat diandalkan {#robust}
+## Konten yang tangguh dan interpretasi yang dapat diandalkan {#robust}
 
 ### Konten kompatibel dengan sarana yang ada sekarang dan akan ada di masa depan {#compatible}
 
-Konten yang kukuh adalah konten yang kompatibel dengan berbagai browser, teknologi pendukung, dan agen pengguna lainnya. Contoh bagaimana hal ini dapat diraih meliputi:
+Konten yang tangguh adalah konten yang kompatibel dengan berbagai browser, teknologi pendukung, dan agen pengguna lainnya. Contoh bagaimana hal ini dapat diraih meliputi:
 
 -   Memastikan markah dapat diinterpretasikan dengan andal, contohnya dengan memastikan validitasnya
 -   Menyediakan nama (*name*), peran (*role*), dan nilai (*value*) untuk komponen antarmuka yang nonstandar
