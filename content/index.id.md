@@ -84,9 +84,9 @@ Aksesibilitas web bergantung pada kerja sama dari beberapa komponen. Beberapa di
 
 {% include excol.html type="middle" %}
 
-Komponen-komponen berikut saling berkaitan dan mendukung satu sama lain. Contohnya, **konten web** perlu menyertakan alternatif teks untuk gambar. Informasi ini perlu bisa diproses oleh **browser web** dan disalurkan ke **teknologi pendukung**, seperti pembaca layar. Penulis memerlukan **sarana penulisan** yang mampu mendukung mereka untuk membuat alternatif teks. Latar belakang selengkapnya dapat dilihat di [[Komponen Esensial dari Aksesibilitas Web]](/fundamentals/components/).
+Komponen-komponen berikut saling berkaitan dan mendukung satu sama lain. Contohnya, **konten web** perlu menyertakan alternatif teks untuk gambar. Informasi ini perlu bisa diproses oleh **browser web** dan disalurkan ke **teknologi pendukung**, seperti pembaca layar. Penulis memerlukan **sarana penulisan** yang mampu mendukung mereka untuk membuat alternatif teks. Latar belakang selengkapnya bisa dilihat di [[Komponen Esensial dari Aksesibilitas Web]](/fundamentals/components/).
 
-Standar memainkan peranan penting dalam mendefinisikan persyaratan aksesibilitas untuk setiap komponen. Beberapa persyaratan aksesibilitas dapat dipenuhi dengan mudah, namun memahami dasar tentang bagaimana para penyandang disabilitas menggunakan Web akan membantu penerapannya lebih efektif dan efisien. Beberapa aspek aksesibilitas membutuhkan kemampuan teknis atau pengetahuan yang lebih tinggi mengenai bagaimana seseorang menggunakan Web. Dalam kasus mana pun, [melibatkan pengguna sejak awal dan selama proyek berjalan](/test-evaluate/involving-users/) akan membuat pekerjaan Anda lebih baik dan mudah.
+Standar memainkan peranan penting dalam mendefinisikan persyaratan aksesibilitas untuk setiap komponen. Beberapa persyaratan aksesibilitas bisa dipenuhi dengan mudah, namun memahami dasar tentang bagaimana para penyandang disabilitas menggunakan Web akan membantu penerapannya lebih efektif dan efisien. Beberapa aspek aksesibilitas membutuhkan kemampuan teknis atau pengetahuan yang lebih tinggi mengenai bagaimana seseorang menggunakan Web. Dalam kasus mana pun, [melibatkan pengguna sejak awal dan selama proyek berjalan](/test-evaluate/involving-users/) akan membuat pekerjaan Anda lebih baik dan mudah.
 
 Inisiatif Aksesibilitas Web (WAI) W3C menyediakan satu set pedoman yang telah diakui secara internasional sebagai standar untuk aksesibilitas web. Termasuk:
 
@@ -98,7 +98,7 @@ Terdapat pula spesifikasi WAI untuk **[Aplikasi Internet yang Kaya dan Aksesibel
 
 {% include excol.html type="end" %}
 
-## Informasi dan antarmuka yang dapat diterima indra {#perceivable}
+## Informasi dan antarmuka yang bisa ditangkap {#perceivable}
 
 ### Alternatif teks untuk konten nonteks {#alternatives}
 
@@ -111,7 +111,7 @@ Alternatif teks sepadan dengan konten nonteksnya. Contohnya termasuk:
 
 Alternatif teks menyampaikan tujuan dari gambar atau berfungsi memberikan pengalaman pengguna yang sepadan. Misalnya, alternatif teks yang sesuai untuk tombol penelusuran adalah "*penelusuran*" dan bukan "*lensa pembesar*".
 
-Alternatif teks dapat disajikan dengan berbagai cara. Misalnya, dibacakan atau ditampilkan di perangkat braille untuk orang yang tidak dapat melihat layar, dan diperbesar ke ukuran teks tertentu untuk yang kesulitan membaca. Alternatif teks berfungsi sebagai label pada fungsi dan kontrol untuk membantu navigasi kibor dan navigasi dengan pengenalan suara (input via ucapan). Mereka juga berperan sebagai label untuk mengidentifikasi audio, video, berkas dalam format lain, serta aplikasi yang disematkan sebagai bagian dari sebuah situs web.
+Alternatif teks bisa disajikan dengan berbagai cara. Misalnya, dibacakan atau ditampilkan di perangkat braille untuk orang yang tidak dapat melihat layar, dan diperbesar ke ukuran teks tertentu untuk yang kesulitan membaca. Alternatif teks berfungsi sebagai label pada fungsi dan kontrol untuk membantu navigasi kibor dan navigasi dengan pengenalan suara (input via ucapan). Mereka juga berperan sebagai label untuk mengidentifikasi audio, video, berkas dalam format lain, serta aplikasi yang disematkan sebagai bagian dari sebuah situs web.
 
 {% include excol.html type="start" %}
 
@@ -200,7 +200,7 @@ Teks transkripsi yang ditulis dengan baik dan memiliki urutan informasi yang tep
 
 {% include excol.html type="end" %}
 
-### Konten dapat disajikan dengan berbagai cara {#adaptable}
+### Konten bisa disajikan dengan berbagai cara {#adaptable}
 
 Agar pengguna bisa mengubah cara penyajian konten, penting untuk:
 
@@ -208,18 +208,18 @@ Agar pengguna bisa mengubah cara penyajian konten, penting untuk:
 -   Urutan informasi atau instruksi terpisah dari cara penyajiannya
 -   Browser dan teknologi pendukung menyediakan pengaturan untuk mengubah cara penyajiannya
 
-Memenuhi persyaratan ini memungkinkan konten untuk bisa diucapkan dengan benar, diperbesar, atau disesuaikan untuk memenuhi kebutuhan dan preferensi orang yang berbeda-beda. Sebagai contoh, konten tersebut dapat disediakan menggunakan kombinasi warna, ukuran teks, atau gaya tampilan tertentu untuk memudahkan saat membaca. Persyaratan ini juga memfasilitasi bentuk adaptasi lainnya, termasuk pembuatan garis besar dan ringkasan halaman untuk membantu seseorang mendapatkan gambaran umum dan kemudian dengan lebih mudah fokus ke bagian tertentu.
+Memenuhi persyaratan ini memungkinkan konten untuk bisa diucapkan dengan benar, diperbesar, atau disesuaikan untuk memenuhi kebutuhan dan preferensi orang yang berbeda-beda. Sebagai contoh, konten tersebut bisa disediakan menggunakan kombinasi warna, ukuran teks, atau gaya tampilan tertentu untuk memudahkan saat membaca. Persyaratan ini juga memfasilitasi bentuk adaptasi lainnya, termasuk pembuatan garis besar dan ringkasan halaman untuk membantu seseorang mendapatkan gambaran umum dan kemudian dengan lebih mudah fokus ke bagian tertentu.
 
 {% include excol.html type="start" %}
 
-#### Persyaratan aksesibilitas terkait cara penyediaan yang dapat disesuaikan (tautan ke spesifikasi teknis)
+#### Persyaratan aksesibilitas terkait cara penyediaan yang bisa disesuaikan (tautan ke spesifikasi teknis)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pedoman 1.3 - Dapat Disesuaikan](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
+-   [Pedoman 1.3 - Bisa Disesuaikan](https://www.w3.org/WAI/WCAG22/quickref/#adaptable)
 
 **UAAG**
 
@@ -239,7 +239,7 @@ Memenuhi persyaratan ini memungkinkan konten untuk bisa diucapkan dengan benar, 
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Kisah terkait cara penyediaan yang dapat disesuaikan
+#### Kisah terkait cara penyediaan yang bisa disesuaikan
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -256,28 +256,28 @@ Memenuhi persyaratan ini memungkinkan konten untuk bisa diucapkan dengan benar, 
 
 ### Konten yang lebih mudah dilihat dan didengar {#distinguishable}
 
-Konten yang dapat dibedakan lebih mudah untuk dilihat dan didengar. Konten tersebut meliputi:
+Konten yang bisa dibedakan akan lebih mudah untuk dilihat dan didengar. Konten tersebut meliputi:
 
 -   Warna tidak digunakan sebagai satu-satunya cara untuk menyediakan informasi atau mengenali sebuah konten
 -   Kombinasi warna latar depan dan belakangnya memiliki kontras yang cukup
 -   Ketika pengguna memperbesar teks hingga 400% atau mengubah jarak antar teks, tidak ada informasi yang hilang
 -   Teks menyesuaikan dengan jendela ("porta pandang") yang kecil termasuk ketika pengguna membuat teks menjadi lebih besar
--   Ukuran gambar berupa teks dapat diubah, diganti dengan teks padanannya, atau dihindari jika memungkinkan
+-   Ukuran gambar berupa teks bisa diubah, diganti dengan teks padanannya, atau dihindari jika memungkinkan
 -   Pengguna bisa menjedakan, menghentikan, atau menyesuaikan volume audio yang diputar pada situs web
 -   Suara latar bervolume rendah atau bisa dimatikan, untuk menghindari gangguan atau menjadi distraksi
 
-Memenuhi persyaratan ini membantu memisahkan latar depan dan belakangnya, sehingga informasi yang penting jadi lebih dapat dibedakan. Ini termasuk mempertimbangkan orang yang tidak dan yang menggunakan teknologi pendukung yang mungkin terganggu oleh konten audio mau pun visual yang berada di latar. Sebagai contoh, banyak penyandang buta warna yang tidak menggunakan sarana pendukung khusus dan hanya bergantung pada desain dengan kontras warna yang cukup antara teks dan warna latarnya. Contoh lainnya, audio yang secara otomatis dimainkan dapat mengganggu mereka yang menggunakan teknologi teks-ke-suara atau [alat bantu pendengaran (ALDs)](/teach-advocate/accessible-presentations/#ald "definition").
+Memenuhi persyaratan ini membantu memisahkan latar depan dan belakangnya, sehingga informasi yang penting jadi lebih bisa dibedakan. Ini termasuk mempertimbangkan orang yang tidak dan yang menggunakan teknologi pendukung yang mungkin terganggu oleh konten audio mau pun visual yang berada di latar. Sebagai contoh, banyak penyandang buta warna yang tidak menggunakan sarana pendukung khusus dan hanya bergantung pada desain dengan kontras warna yang cukup antara teks dan warna latarnya. Contoh lainnya, audio yang secara otomatis dimainkan dapat mengganggu mereka yang menggunakan teknologi teks-ke-suara atau [alat bantu pendengaran (ALDs)](/teach-advocate/accessible-presentations/#ald "definition").
 
 {% include excol.html type="start" %}
 
-#### Persyaratan aksesibilitas terkait konten yang dapat dibedakan (tautan ke spesifikasi teknis)
+#### Persyaratan aksesibilitas terkait konten yang bisa dibedakan (tautan ke spesifikasi teknis)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pedoman 1.4 - Dapat Dibedakan](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
+-   [Pedoman 1.4 - Bisa Dibedakan](https://www.w3.org/WAI/WCAG22/quickref/#distinguishable)
 
 **UAAG**
 
@@ -298,7 +298,7 @@ Memenuhi persyaratan ini membantu memisahkan latar depan dan belakangnya, sehing
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Kisah terkait konten yang dapat dibedakan
+#### Kisah terkait konten yang bisa dibedakan
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -311,7 +311,7 @@ Memenuhi persyaratan ini membantu memisahkan latar depan dan belakangnya, sehing
 
 {% include excol.html type="end" %}
 
-## Antarmuka dan navigasi yang dapat diopersikan {#operable}
+## Antarmuka dan navigasi yang bisa diopersikan {#operable}
 
 ### Fungsi tersedia melalui kibor {#keyboard}
 
@@ -319,7 +319,7 @@ Banyak orang yang tidak menggunakan tetikus dan bergantung pada kibor untuk beri
 
 Aksesibilitas kibor termasuk:
 
--   Semua fungsi yang tersedia pada tetikus dapat diakses melalui kibor
+-   Semua fungsi yang tersedia pada tetikus bisa diakses melalui kibor
 -   Fokus kibor tidak terperangkap di bagian mana pun dari konten
 -   Browser web, sarana penulisan, dan sarana lainnya menyediakan dukungan kibor
 
@@ -450,7 +450,7 @@ Konten yang terorganisasi dengan baik membantu pengguna mengorientasikan dirinya
 -   Terdapat lebih dari satu cara untuk mencari halaman yang relevan pada situs web
 -   Pengguna diberikan informasi mengenai lokasi mereka saat ini relatif terhadap halaman-halaman yang terkait
 -   Terdapat cara untuk melewati sepenggal konten yang berulang di banyak halaman
--   Fokus kibor dapat dilihat, dan urutan fokus mengikuti pola yang bermakna
+-   Fokus kibor bisa dilihat, dan urutan fokus mengikuti pola yang bermakna
 -   Tujuan adanya sebuah tautan jelas, idealnya bahkan ketika tautan itu dilihat secara mandiri
 
 Memenuhi persyaratan ini membantu orang untuk menavigasi halaman web dengan berbagai cara, tergantung dari kebutuhan dan preferensi mereka. Sebagai contoh, ada yang bergantung pada struktur navigasi hierarkis seperti bilah menu untuk mencari halaman web yang spesifik, ada pula yang bergantung pada fungsi penelusuran pada situs web. Beberapa orang ada melihat konten sedangkan yang lain mendengarkan atau bahkan melihat dan mendengarkan secara bersamaan. Beberapa mungkin meenggunakan konten hanya dengan tetikus atau kibor, sedangkan yang lain mungkin menggunakan keduanya.
@@ -464,7 +464,7 @@ Memenuhi persyaratan ini membantu orang untuk menavigasi halaman web dengan berb
 
 **WCAG**
 
--   [Pedoman 2.4 - Dapat Dinavigasikan](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
+-   [Pedoman 2.4 - Bisa Dinavigasikan](https://www.w3.org/WAI/WCAG22/quickref/#navigable)
 
 **UAAG**
 
@@ -505,7 +505,7 @@ Tersedianya modalitas input selain kibor, seperti aktivasi sentuh, pengenalan su
 -   Gestur yang membutuhkan ketangkasan atau gerakan yang cekatan memiliki alternatif mode yang tidak membutuhkan ketangkasan tinggi
 -   Komponen didesain untuk menghindari aktivasi yang tidak disengaja, sebagai contoh dengan menyediakan fungsi pembatalan
 -   Label yang disediakan kepada pengguna sesuai dengan nama objek pada kodenya, untuk mendukung aktivasi dengan suara
--   Fungsi yang diaktifkan oleh gerakan juga dapat diaktifkan melalui komponen antarmuka
+-   Fungsi yang diaktifkan oleh gerakan juga bisa diaktifkan melalui komponen antarmuka
 -   Tombol, tautan, dan komponen aktif lainnya cukup besar agar lebih mudah diaktifkan dengan sentuhan
 
 Memenuhi persyaratan ini membuat konten lebih mudah digunakan oleh banyak orang dengan kemampuan yang beragam melalui berbagai perangkat. Hal ini termasuk konten yang digunakan di ponsel, tablet, dan terminal mandiri seperti mesin tiket.
@@ -534,11 +534,11 @@ Memenuhi persyaratan ini membuat konten lebih mudah digunakan oleh banyak orang 
 
 {% include excol.html type="end" %}
 
-## Antarmuka dan informasi yang dapat dimengerti {#understandable}
+## Antarmuka dan informasi yang bisa dimengerti {#understandable}
 
-### Teks dapat dibaca dan dimengerti {#readable}
+### Teks bisa dibaca dan dimengerti {#readable}
 
-Penulis konten perlu memastikan konten teks dapat dibaca dan dimengerti oleh sebanyak mungkin penerima, termasuk ketika dibacakan oleh teknologi teks-ke-suara. Konten tersebut meliputi:
+Penulis konten perlu memastikan konten teks bisa dibaca dan dimengerti oleh sebanyak mungkin penerima, termasuk ketika dibacakan oleh teknologi teks-ke-suara. Konten tersebut meliputi:
 
 -   Mengidentifikasi bahasa utama sebuah halaman web, seperti Bahasa Arab, Bahasa Belanda, atau Bahasa Korea
 -   Mengidentifikasi bahasa dari penggalan teks, frasa, atau bagian lainnya dalam sebuah halaman web
@@ -556,7 +556,7 @@ Memenuhi persyaratan ini membantu perangkat lunak, termasuk teknologi pendukung,
 
 **WCAG**
 
--   [Pedoman 3.1 - Dapat Dibaca](https://www.w3.org/WAI/WCAG22/quickref/#readable)
+-   [Pedoman 3.1 - Bisa Dibaca](https://www.w3.org/WAI/WCAG22/quickref/#readable)
 
 **ATAG**
 
@@ -579,30 +579,30 @@ Memenuhi persyaratan ini membantu perangkat lunak, termasuk teknologi pendukung,
 
 {% include excol.html type="end" %}
 
-### Konten muncul dan beroperasi dengan cara yang dapat diprediksi {#predictable}
+### Konten muncul dan beroperasi dengan cara yang bisa diprediksi {#predictable}
 
-Banyak orang bergantung pada antarmuka yang dapat diprediksi dan akan mengalami disorientasi atau terdistraksi oleh tampilan atau perilaku yang tidak konsisten. Contoh dalam membuat konten yang lebih dapat diprediksi meliputi:
+Banyak orang bergantung pada antarmuka yang bisa diprediksi dan akan mengalami disorientasi atau terdistraksi oleh tampilan atau perilaku yang tidak konsisten. Contoh dalam membuat konten yang lebih bisa diprediksi meliputi:
 
 -   Mekanisme navigasi yang berulang pada banyak halaman selalu muncul di tempat yang sama
 -   Komponen antarmuka yang berulang pada halaman situs selalu memiliki label yang sama
 -   Perubahan signifikan pada halaman situs tidak terjadi tanpa persetujuan pengguna
 
-Memenuhi persyaratan ini membantu orang untuk bisa dengan cepat mempelajari fungsionalitas dan mekanisme navigasi yang tersedia pada situs web, dan mengoperasikannya sesuai dengan kebutuhan dan preferensi spesifik mereka. Sebagai contoh, beberapa orang membuat pintasan ke fungsi yang sering mereka gunakan untuk memudahkan penggunaan navigasi kibor. Yang lain mengingat langkah-langkan untuk mencapai sebuah halaman atau menyelesaikan sebuah proses pada situs web. Keduanya bergantung pada fungsionalitas yang konsisten dan dapat diprediksi.
+Memenuhi persyaratan ini membantu orang untuk bisa dengan cepat mempelajari fungsionalitas dan mekanisme navigasi yang tersedia pada situs web, dan mengoperasikannya sesuai dengan kebutuhan dan preferensi spesifik mereka. Sebagai contoh, beberapa orang membuat pintasan ke fungsi yang sering mereka gunakan untuk memudahkan penggunaan navigasi kibor. Yang lain mengingat langkah-langkan untuk mencapai sebuah halaman atau menyelesaikan sebuah proses pada situs web. Keduanya bergantung pada fungsionalitas yang konsisten dan bisa diprediksi.
 
 {% include excol.html type="start" %}
 
-#### Persyaratan aksesibilitas terkait dapat diprediksi (tautan ke spesifikasi teknis)
+#### Persyaratan aksesibilitas terkait bisa diprediksi (tautan ke spesifikasi teknis)
 {:.no_toc}
 
 {% include excol.html type="middle" %}
 
 **WCAG**
 
--   [Pedoman 3.2 - Dapat Diprediksi](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
+-   [Pedoman 3.2 - Bisa Diprediksi](https://www.w3.org/WAI/WCAG22/quickref/#predictable)
 
 **UAAG**
 
--   [Pedoman 3.3 - Dapat Diprediksi](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
+-   [Pedoman 3.3 - Bisa Diprediksi](https://www.w3.org/TR/UAAG20/#gl-predictable-operation)
 
 **ATAG**
 
@@ -613,7 +613,7 @@ Memenuhi persyaratan ini membantu orang untuk bisa dengan cepat mempelajari fung
 
 {% include excol.html type="end" %}{% include excol.html type="start" %}
 
-#### Kisah terkait dapat diprediksi
+#### Kisah terkait bisa diprediksi
 {:.no_toc}
 
 {% include excol.html type="middle" %}
@@ -674,13 +674,13 @@ Memenuhi persyaratan ini membantu orang-orang yang tidak melihat atau mendengar 
 
 {% include excol.html type="end" %}
 
-## Konten yang tangguh dan interpretasi yang dapat diandalkan {#robust}
+## Konten yang tangguh dan interpretasi yang bisa diandalkan {#robust}
 
 ### Konten kompatibel dengan sarana yang ada sekarang dan akan ada di masa depan {#compatible}
 
-Konten yang tangguh adalah konten yang kompatibel dengan berbagai browser, teknologi pendukung, dan agen pengguna lainnya. Contoh bagaimana hal ini dapat diraih meliputi:
+Konten yang tangguh adalah konten yang kompatibel dengan berbagai browser, teknologi pendukung, dan agen pengguna lainnya. Contoh bagaimana hal ini bisa diraih meliputi:
 
--   Memastikan markah dapat diinterpretasikan dengan andal, contohnya dengan memastikan validitasnya
+-   Memastikan markah bisa diinterpretasikan dengan andal, contohnya dengan memastikan validitasnya
 -   Menyediakan nama (*name*), peran (*role*), dan nilai (*value*) untuk komponen antarmuka yang nonstandar
 
 Memenuhi persyaratan ini membantu memaksimalkan kompatibilitas dengan agen pengguna, termasuk teknologi pendukung, yang ada sekarang dan akan ada di masa depan. Secara spesifik, hal ini memungkinkan teknologi pendukung untuk memproses konten dengan andal, dan untuk menyediakan atau mengoperasikannya dengan berbagai cara. Termasuk juga untuk tombol nonstandar (melalui skrip), bidang input, dan kontrol lainnya.
