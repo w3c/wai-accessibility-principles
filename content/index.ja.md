@@ -136,12 +136,12 @@ W3Cウェブアクセシビリティイニシアティブ（WAI）は、ウェ�
 
 {% include excol.html type="middle" %}
 
--   [アレックス、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
--   [マーティン、聴覚障害を持つオンライン学生](/people-use-web/user-stories/#onlinestudent)
--   [イリヤ、視覚障害を持つ上級職員](/people-use-web/user-stories/#accountant)
--   [プリーティ、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
--   [ユン、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
--   [カセーム、聴覚障害と視覚障害を持つ10代の若者](/people-use-web/user-stories/#teenager)
+-   [Alex、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
+-   [Martine、聴覚障害を持つオンライン学生](/people-use-web/user-stories/#onlinestudent)
+-   [Ilya、視覚障害を持つ上級職員](/people-use-web/user-stories/#accountant)
+-   [Preety、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
+-   [Yun、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
+-   [Kaseem、聴覚障害と視覚障害を持つ10代の若者](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -185,9 +185,9 @@ W3Cウェブアクセシビリティイニシアティブ（WAI）は、ウェ�
 
 {% include excol.html type="middle" %}
 
--   [マーティン、聴覚障害を持つオンライン学生](/people-use-web/user-stories/#onlinestudent)
--   [イリヤ、視覚障害を持つ上級職員](/people-use-web/user-stories/#accountant)
--   [カセーム、聴覚障害と視覚障害を持つ10代の若者](/people-use-web/user-stories/#teenager)
+-   [Martine、聴覚障害を持つオンライン学生](/people-use-web/user-stories/#onlinestudent)
+-   [Ilya、視覚障害を持つ上級職員](/people-use-web/user-stories/#accountant)
+-   [Kaseem、聴覚障害と視覚障害を持つ10代の若者](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -235,13 +235,13 @@ W3Cウェブアクセシビリティイニシアティブ（WAI）は、ウェ�
 
 {% include excol.html type="middle" %}
 
--   [リー、色覚異常を持つオンラインショッパー](/people-use-web/user-stories/#shopper)
--   [アレックス、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
--   [イリヤ、視覚障害を持つ上級職員](/people-use-web/user-stories/#accountant)
--   [プリーティ、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
--   [ユン、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
--   [ルイス、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
--   [カセーム、聴覚障害と視覚障害を持つ10代の若者](/people-use-web/user-stories/#teenager)
+-   [Lee、色覚異常を持つオンラインショッパー](/people-use-web/user-stories/#shopper)
+-   [Alex、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
+-   [Ilya、視覚障害を持つ上級職員](/people-use-web/user-stories/#accountant)
+-   [Preety、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
+-   [Yun、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
+-   [Luis、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
+-   [Kaseem、聴覚障害と視覚障害を持つ10代の若者](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -294,11 +294,11 @@ W3Cウェブアクセシビリティイニシアティブ（WAI）は、ウェ�
 
 {% include excol.html type="middle" %}
 
--   [リー、色覚異常を持つオンラインショッパー](/people-use-web/user-stories/#shopper)
--   [マーティン、聴覚障害を持つオンライン学生](/people-use-web/user-stories/#onlinestudent)
--   [イリヤ、視覚障害を持つ上級職員](/people-use-web/user-stories/#accountant)
--   [ユン、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
--   [カセーム、聴覚障害と視覚障害を持つ10代の若者](/people-use-web/user-stories/#teenager)
+-   [Lee、色覚異常を持つオンラインショッパー](/people-use-web/user-stories/#shopper)
+-   [Martine、聴覚障害を持つオンライン学生](/people-use-web/user-stories/#onlinestudent)
+-   [Ilya、視覚障害を持つ上級職員](/people-use-web/user-stories/#accountant)
+-   [Yun、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
+-   [Kaseem、聴覚障害と視覚障害を持つ10代の若者](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
@@ -474,11 +474,11 @@ W3Cウェブアクセシビリティイニシアティブ（WAI）は、ウェ�
 
 {% include excol.html type="middle" %}
 
--   [アレックス、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
--   [イリヤ、盲目のシニアスタッフ](/people-use-web/user-stories/#accountant)
--   [プリーティ、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
--   [ユン、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
--   [ルイス、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
+-   [Alex、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
+-   [Ilya、盲目のシニアスタッフ](/people-use-web/user-stories/#accountant)
+-   [Preety、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
+-   [Yun、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
+-   [Luis、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
 -   [カシーム、聴覚および視覚に障害のあるティーンエイジャー](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
@@ -512,9 +512,9 @@ W3Cウェブアクセシビリティイニシアティブ（WAI）は、ウェ�
 
 {% include excol.html type="middle" %}
 
--   [アレックス、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
--   [ユン、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
--   [ルイス、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
+-   [Alex、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
+-   [Yun、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
+-   [Luis、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -553,11 +553,11 @@ W3Cウェブアクセシビリティイニシアティブ（WAI）は、ウェ�
 
 {% include excol.html type="middle" %}
 
--   [マーティン、聴覚障害のあるオンライン学生](/people-use-web/user-stories/#onlinestudent)
--   [イリヤ、盲目のシニアスタッフ](/people-use-web/user-stories/#accountant)
--   [プリーティ、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
--   [ユン、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
--   [ルイス、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
+-   [Martine、聴覚障害のあるオンライン学生](/people-use-web/user-stories/#onlinestudent)
+-   [Ilya、盲目のシニアスタッフ](/people-use-web/user-stories/#accountant)
+-   [Preety、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
+-   [Yun、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
+-   [Luis、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -597,11 +597,11 @@ W3Cウェブアクセシビリティイニシアティブ（WAI）は、ウェ�
 
 {% include excol.html type="middle" %}
 
--   [アレックス、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
--   [イリヤ、盲目のシニアスタッフ](/people-use-web/user-stories/#accountant)
--   [プリーティ、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
--   [ユン、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
--   [ルイス、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
+-   [Alex、、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
+-   [Ilya、盲目のシニアスタッフ](/people-use-web/user-stories/#accountant)
+-   [Preety、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
+-   [Yun、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
+-   [Luis、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
 -   [カシーム、聴覚および視覚障害のあるティーンエイジャー](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
@@ -642,11 +642,11 @@ W3Cウェブアクセシビリティイニシアティブ（WAI）は、ウェ�
 
 {% include excol.html type="middle" %}
 
--   [リー、色覚異常のあるオンラインショッパー](/people-use-web/user-stories/#shopper)
--   [アレックス、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
--   [プリーティ、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
--   [ユン、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
--   [ルイス、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
+-   [Lee、色覚異常のあるオンラインショッパー](/people-use-web/user-stories/#shopper)
+-   [Alex、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
+-   [Preety、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
+-   [Yun、低視力、手の震え、および軽度の短期記憶障害を持つ退職者](/people-use-web/user-stories/#retiree)
+-   [Luis、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -687,12 +687,12 @@ W3Cウェブアクセシビリティイニシアティブ（WAI）は、ウェ�
 
 {% include excol.html type="middle" %}
 
--   [リー、色覚異常のあるオンラインショッパー](/people-use-web/user-stories/#shopper)
--   [アレックス、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
--   [イリヤ、盲目のシニアスタッフ](/people-use-web/user-stories/#accountant)
--   [プリーティ、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
--   [ルイス、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
--   [カシーム、聴覚および視覚障害のあるティーンエイジャー](/people-use-web/user-stories/#teenager)
+-   [Lee、色覚異常のあるオンラインショッパー](/people-use-web/user-stories/#shopper)
+-   [Alex、繰り返しストレス障害を持つ記者](/people-use-web/user-stories/#reporter)
+-   [Ilya、盲目のシニアスタッフ](/people-use-web/user-stories/#accountant)
+-   [Preety、注意欠陥・多動性障害およびディスレクシアを持つ中学生](/people-use-web/user-stories/#classroomstudent)
+-   [Luis、ダウン症のスーパーマーケットアシスタント](/people-use-web/user-stories/#supermarketassistant)
+-   [Kaseem、聴覚および視覚障害のあるティーンエイジャー](/people-use-web/user-stories/#teenager)
 
 {% include excol.html type="end" %}
 
