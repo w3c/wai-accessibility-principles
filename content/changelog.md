@@ -3,7 +3,7 @@ title: "Changelog for Accessibility Principles"
 title_html: 'Changelog for <a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a>'
 nav_title: "Changelog"
 lang: en
-last_updated: 2019-07-13
+last_updated: 2024-07-16
 permalink: /fundamentals/accessibility-principles/changelog/
 ref: /fundamentals/accessibility-principles/changelog/
 parent: /fundamentals/accessibility-principles/
@@ -12,6 +12,10 @@ github:
   repository: w3c/wai-accessibility-principles/
   path: 'content/changelog.md'
 ---
+
+## July 2024
+
+* Updated links to [User stories](/people-use-web/user-stories/).
 
 ## May 2019
 
