@@ -5,7 +5,7 @@
 title: Accessibility Principles
 nav_title: "Accessibility Principles"
 lang: en   # Change "en" to the translated language shortcode
-last_updated: 2023-12-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-07-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 description: An overview of the fundamental web accessibility requirements for websites, web applications, browsers, and other tools.
 teaser_text: The Accessibility Principles page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to stories of web users.
 
@@ -33,7 +33,7 @@ changelog: /fundamentals/accessibility-principles/changelog/ # Do not change thi
 # Translate the other words, including "Date:" and "Editors:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date:</strong> Updated 6 December 2023. CHANGELOG</p>
+  <p><strong>Date:</strong> Updated 16 July 2024. CHANGELOG</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 
@@ -145,12 +145,12 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+- [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
+- [[Lakshmi, senior accountant who is blind]](/people-use-web/user-stories/story-three/)
+- [[Dhruv, older adult student who is deaf]](/people-use-web/user-stories/story-six/)
+- [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
+- [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -194,9 +194,9 @@ Well-written text transcripts containing the correct sequence of any auditory or
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+- [[Lakshmi, senior accountant who is blind]](/people-use-web/user-stories/story-three/)
+- [[Dhruv, older adult student who is deaf]](/people-use-web/user-stories/story-six/)
+- [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
 
 {% include excol.html type="end" %}
 
@@ -244,13 +244,13 @@ Meeting this requirement allows content to be correctly read aloud, enlarged, or
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness](/people-use-web/user-stories/#shopper)
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+- [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
+- [[Ian, data entry clerk with autism]](/people-use-web/user-stories/story-two/)
+- [[Lexie, online shopper who cannot distinguish between certain colors (color blindness)]](/people-use-web/user-stories/story-four/)
+- [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
+- [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
+- [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -303,11 +303,12 @@ Meeting this requirement helps separate foreground from background, to make impo
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness](/people-use-web/user-stories/#shopper)
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+- [[Ian, data entry clerk with autism]](/people-use-web/user-stories/story-two/)
+- [[Lakshmi, senior accountant who is blind]](/people-use-web/user-stories/story-three/)
+- [[Lexie, online shopper who cannot distinguish between certain colors (color blindness)]](/people-use-web/user-stories/story-four/)
+- [[Dhruv, older adult student who is deaf]](/people-use-web/user-stories/story-six/)
+- [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -356,8 +357,8 @@ Meeting this requirement helps keyboard users, including people using alternativ
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
+- [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
+- [[Lakshmi, senior accountant who is blind]](/people-use-web/user-stories/story-three/)
 
 {% include excol.html type="end" %}
 
@@ -401,11 +402,11 @@ Examples of providing enough time include providing mechanisms to:
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+- [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
+- [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
+- [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
+- [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -439,6 +440,16 @@ Examples of avoiding causing seizures and physical reactions:
 -   [Principle A.1: Authoring tool user interfaces follow applicable accessibility guidelines](https://www.w3.org/TR/ATAG20/#principle_a1)
 -   [Guideline A.3.3: (For the authoring tool user interface) Help authors avoid flashing that could cause seizures](https://www.w3.org/TR/ATAG20/#gl_a33)
 -   [Part B. Support the production of accessible content](https://www.w3.org/TR/ATAG20/#part_b)
+
+{% include excol.html type="end" %}{% include excol.html type="start" %}
+
+#### Stories related to seizures
+{:.no_toc}
+
+{% include excol.html type="middle" %}
+
+- [[Ian, data entry clerk with autism]](/people-use-web/user-stories/story-two/)
+
 
 {% include excol.html type="end" %}
 
@@ -489,12 +500,13 @@ Meeting this requirement helps people to navigate through web pages in different
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+- [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
+- [[Ian, data entry clerk with autism]](/people-use-web/user-stories/story-two/)
+- [[Lakshmi, senior accountant who is blind]](/people-use-web/user-stories/story-three/)
+- [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
+- [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
+- [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -522,17 +534,6 @@ Meeting this requirement makes the content easier to use for many people with a 
 -   [Guideline 2.5 - Input Modalities](https://www.w3.org/WAI/WCAG22/quickref/#input-modalities)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
-
-#### Stories related to input modalities
-{:.no_toc}
-
-{% include excol.html type="middle" %}
-
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
-
-{% include excol.html type="end" %}
 
 ## Understandable information and user interface {#understandable}
 
@@ -571,11 +572,12 @@ Meeting this requirement helps software, including assistive technology, to proc
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
+- [[Ian, data entry clerk with autism]](/people-use-web/user-stories/story-two/)
+- [[Lakshmi, senior accountant who is blind]](/people-use-web/user-stories/story-three/)
+- [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
+- [[Dhruv, older adult student who is deaf]](/people-use-web/user-stories/story-six/)
+- [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -618,12 +620,13 @@ Meeting this requirement helps people to quickly learn the functionality and nav
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+- [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
+- [[Ian, data entry clerk with autism]](/people-use-web/user-stories/story-two/)
+- [[Lakshmi, senior accountant who is blind]](/people-use-web/user-stories/story-three/)
+- [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
+- [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
+- [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -666,11 +669,10 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness](/people-use-web/user-stories/#shopper)
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
+- [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
+- [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
+- [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -714,12 +716,13 @@ Meeting this requirement helps maximize compatibility with current and future us
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness](/people-use-web/user-stories/#shopper)
--   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
--   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
--   [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
+- [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
+- [[Lakshmi, senior accountant who is blind]](/people-use-web/user-stories/story-three/)
+- [[Lexie, online shopper who cannot distinguish between certain colors (color blindness)]](/people-use-web/user-stories/story-four/)
+- [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
+- [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
+- [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
