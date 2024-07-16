@@ -246,11 +246,11 @@ Meeting this requirement allows content to be correctly read aloud, enlarged, or
 
 - [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
 - [[Ian, data entry clerk with autism]](/people-use-web/user-stories/story-two/)
-- [[Lexie, online shopper who cannot distinguish between certain colors (color blindness/)]](/people-use-web/user-stories/story-four/)
+- [[Lexie, online shopper who cannot distinguish between certain colors (color blindness)]](/people-use-web/user-stories/story-four/)
 - [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
 - [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
 - [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
-- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -305,10 +305,10 @@ Meeting this requirement helps separate foreground from background, to make impo
 
 - [[Ian, data entry clerk with autism]](/people-use-web/user-stories/story-two/)
 - [[Lakshmi, senior accountant who is blind]](/people-use-web/user-stories/story-three/)
-- [[Lexie, online shopper who cannot distinguish between certain colors (color blindness/)]](/people-use-web/user-stories/story-four/)
+- [[Lexie, online shopper who cannot distinguish between certain colors (color blindness)]](/people-use-web/user-stories/story-four/)
 - [[Dhruv, older adult student who is deaf]](/people-use-web/user-stories/story-six/)
 - [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
-- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -506,7 +506,7 @@ Meeting this requirement helps people to navigate through web pages in different
 - [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
 - [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
 - [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
-- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -672,7 +672,7 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 - [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
 - [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
 - [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
-- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine)
+- [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="end" %}
 
@@ -718,7 +718,7 @@ Meeting this requirement helps maximize compatibility with current and future us
 
 - [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
 - [[Lakshmi, senior accountant who is blind]](/people-use-web/user-stories/story-three/)
-- [[Lexie, online shopper who cannot distinguish between certain colors (color blindness/)]](/people-use-web/user-stories/story-four/)
+- [[Lexie, online shopper who cannot distinguish between certain colors (color blindness)]](/people-use-web/user-stories/story-four/)
 - [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
 - [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
 - [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
