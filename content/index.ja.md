@@ -24,12 +24,10 @@ changelog: /fundamentals/accessibility-principles/changelog/ # Do not change thi
 
 teaser_text: アクセシビリティ原則のページでは、ウェブサイト、ウェブアプリケーション、ブラウザ、その他のツールに関するウェブアクセシビリティ要件の一部を紹介しています。また、W3Cウェブ・アクセシビリティ・イニシアティブ（WAI）の国際標準や、ウェブユーザーの体験談を紹介しています。
 footer: >
-<p><strong>日付：</strong>2023年12月6日更新。CHANGELOG</p>
-<p><strong>編集者：</strong><a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>。<a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">謝辞</a>。</p>
-<p>教育および広報ワーキンググループ（<a href="http://www.w3.org/WAI/EO/">EOWG</a>）によって開発されました。以前は<a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE タスクフォース</a>との共同開発で、<a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE プロジェクト</a>の支援を受けていました。</p>
-
+  <p><strong>日付：</strong>2023年12月6日更新。CHANGELOG</p>
+  <p><strong>編集者：</strong><a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>。<a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">謝辞</a>。</p>
+  <p>教育および広報ワーキンググループ（<a href="http://www.w3.org/WAI/EO/">EOWG</a>）によって開発されました。以前は<a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE タスクフォース</a>との共同開発で、<a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE プロジェクト</a>の支援を受けていました。</p>
 ---
-
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
