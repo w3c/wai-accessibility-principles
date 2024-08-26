@@ -1,5 +1,4 @@
-# Accessibility Principles
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ed5848d6-dbfe-48b6-9da8-7477d171a87a/deploy-status)](https://app.netlify.com/sites/wai-accessibility-principles/deploys)
-
-Preview: https://wai-accessibility-principles.netlify.com
+> [!IMPORTANT]
+> This repository will be archived soon.
+>
+> [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
