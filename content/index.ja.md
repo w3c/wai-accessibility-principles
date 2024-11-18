@@ -4,27 +4,33 @@
 
 title: アクセシビリティの原則
 nav_title: "アクセシビリティの原則"
-lang: ja   # Change "en" to the translated language shortcode
+lang: ja
 last_updated: 2023-12-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+description: ウェブサイト、ウェブアプリケーション、ブラウザ、その他のツールに関する基本的なウェブアクセシビリティ要件の概要。
+teaser_text: アクセシビリティ原則のページでは、ウェブサイト、ウェブアプリケーション、ブラウザ、その他のツールに関するウェブアクセシビリティ要件の一部を紹介しています。また、W3Cウェブ・アクセシビリティ・イニシアティブ（WAI）の国際標準や、ウェブユーザーの体験談を紹介しています。
+
+translation:
+  last_updated: 2023-12-06
+  status: outdated
+
 translators: 
 - name: "Takumi Ishihara"   # Replace @@ with translator name
   link: "https://twitter.com/takuan517"
 contributors:
 - name: "Jay Kishigami"
 
-ref: /fundamentals/accessibility-principles/   # Do not change this
-layout: default
 github:
-  repository: w3c/wai-accessibility-principles
-  path: content/index.ja.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-permalink: /fundamentals/accessibility-principles/ja   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
-description: ウェブサイト、ウェブアプリケーション、ブラウザ、その他のツールに関する基本的なウェブアクセシビリティ要件の概要。
-image: /content-images/wai-accessibility-principles/social.png
-changelog: /fundamentals/accessibility-principles/changelog/ # Do not change this
+  label: wai-accessibility-principles
 
-teaser_text: アクセシビリティ原則のページでは、ウェブサイト、ウェブアプリケーション、ブラウザ、その他のツールに関するウェブアクセシビリティ要件の一部を紹介しています。また、W3Cウェブ・アクセシビリティ・イニシアティブ（WAI）の国際標準や、ウェブユーザーの体験談を紹介しています。
+permalink: /fundamentals/accessibility-principles/ja   # Add the language shortcode to the end; for example /fundamentals/accessibility-principles/fr
+ref: /fundamentals/accessibility-principles/   # Do not change this
+
+image: /content-images/wai-accessibility-principles/social.png
+
+# In the footer below:
+# Translate the words, including "Editors:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>日付：</strong>2023年12月6日更新。CHANGELOG</p>
   <p><strong>編集者：</strong><a href="https://www.w3.org/People/shadi/">Shadi Abou Zahra</a>。<a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">謝辞</a>。</p>
   <p>教育および広報ワーキンググループ（<a href="http://www.w3.org/WAI/EO/">EOWG</a>）によって開発されました。以前は<a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE タスクフォース</a>との共同開発で、<a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE プロジェクト</a>の支援を受けていました。</p>
 ---
